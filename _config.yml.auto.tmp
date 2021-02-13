@@ -1,0 +1,398 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Era Of Chaos
+subtitle: Might & Magic on Mobile
+email:
+description: "Era of Chaos Wiki portal: Units, Heroes, Artifacts, Events and more about Era Of Chaos mobile game"
+keywords:           EraOfChaos Units Heroes Artifacts Events HeroesMightAndMagicMobile
+language:           "ru" 
+url:                "https://eraofchaos.github.io/ru/"
+logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
+google_ad_client:   "ca-pub-3093097053913638"
+# theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: default
+search: true
+search_provider: google
+google:
+  search_engine_id     :  "7ff39373b784e9f4b"
+  instant_search       : true  
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+  - heroes
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+#  - jemoji
+
+
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+
+# Analytics
+analytics:
+  provider               :  "google-gtag"           # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :  "G-4RPP6FDRZ4"
+
+author:
+  name   : "MisterX"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Camel is Horse designed by committee"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://eraofchaos.github.io/ru/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/mmheoc/"
+    - label: "EoC Experts Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/JTWunMd2VF"
+    - label: "Official Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/kCTFAj"
+    - label: "Reddit"
+      icon: "fab fa-reddit"
+      url: "https://www.reddit.com/r/era_of_chaos/"
+
+
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/mmheoc/"
+    - label: "EoC Experts Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/JTWunMd2VF"
+    - label: "Offial Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/kCTFAj"
+    - label: "Reddit"
+      icon: "fab fa-reddit"
+      url: "https://www.reddit.com/r/era_of_chaos/"
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # heroes
+  - scope:
+      path: "heroes"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # artifacts
+  - scope:
+      path: "artifacts"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # Hotspot
+  - scope:
+      path: "Hotspot"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # combination info
+  - scope:
+      path: "combination"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # Schedule
+  - scope:
+      path: "Schedule"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # Backup
+  - scope:
+      path: "Backup"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # Equipment
+  - scope:
+      path: "equipment"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # RU
+  - scope:
+      path: "ru"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs_ru"
+  # FR roes
+  - scope:
+      path: "fr"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs_fr"
+  # DE heroes
+  - scope:
+      path: "de"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs_de"
+  # IT heroes
+  - scope:
+      path: "it"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs_it"
+  # ES heroes
+  - scope:
+      path: "es"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs_es"
+  # Alchemy Workshop
+  - scope:
+      path: "Alchemy Workshop"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: false
+      classes: wide
+      sidebar:
+        nav: "docs"
+  # Battle Formation
+  - scope:
+      path: "Battle Formation"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: false
+      classes: wide
+      sidebar:
+        nav: "docs"
+  # Healing Sea
+  - scope:
+      path: "Healing Sea"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: true
+      sidebar:
+        nav: "docs"
+  # Weekly Sign Rewards
+  - scope:
+      path: "Weekly Sign Rewards"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: true
+      sidebar:
+        nav: "docs"
+  # sphinx
+  - scope:
+      path: "sphinx"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: false
+      classes: wide
+      sidebar:
+        nav: "docs"
+  # sphinx
+  - scope:
+      path: "Alchemy Workshop"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      toc: false
+      classes: wide
+      sidebar:
+        nav: "docs"
+  # units
+  - scope:
+      path: "units"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # units
+  - scope:
+      path: "Shops"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # units
+  - scope:
+      path: "Items"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # Holy Emblem
+  - scope:
+      path: "Emblem"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      sidebar:
+        nav: "docs"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
