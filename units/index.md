@@ -1,6 +1,6 @@
 ---
 title: "Era of Chaos - List of Отряды"
-permalink: /ru/units/
+permalink: /units/
 excerpt: "List of ALL Отряды in Era of Chaos"
 last_modified_at: 2020-12-26
 lang: ru
