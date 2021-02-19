@@ -1,42 +1,48 @@
 ---
 title: "Пегас"
-permalink: /ru/units/Pegasus/
-excerpt: "Отряды null"
+permalink: /units/Pegasus/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Пегас"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest.
 
- **Класс:** Стрелковый
+ **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
 
- **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Лес
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 
+ **Short description:** Shields and causes bleed.
+
+ **Position :** Укрывает отряды щитом и вызывает Пегаса.
+
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
- **Info:** Укрывает отряды щитом и вызывает Пегаса.
+## Basic stats
+ **Base HP: 1144.0**
 
-## Базовые параметры
- **Base HP:** 1144.0
+ **Base ATK: 195.1**
 
- **Base ATK:** 195.1
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 97.55 | 5.0 | 858.0 |
+  | Green | 97.55 | 5.0 | 858.0 |
   | Синий | 195.1 | 10.0 | 1716.0 |
   | Blue +1 | 292.65 | 15.0 | 2574.0 |
   | Синий +2 | 409.71 | 21.0 | 3603.6 |
@@ -60,42 +66,96 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 35.118 | 0.68 | 4.4 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 39.02 | 0.71 | 5.0 | 228.8 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Терновый шакрам](/equipment/Терновый шакрам/) | **АТК** | **DEF** | 
+  | [Вечнозеленый венец](/equipment/Вечнозеленый венец/) | **ОЗ** | **DEF** | 
+  | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **DEF** | 
+  | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Forest Guardian
+ **Описание:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 1 : Острота бритвы
- **Описание:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
+### Regular Skill 1 : Острота бритвы
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Защита жизни
- **Описание:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
+### Regular Skill 2 : Защита жизни
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
-### Обычное умение 3 : Конница Серебряных крыльев
- **Описание:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
+### Regular Skill 3 : Конница Серебряных крыльев
+ **Описание:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Calm Proliferation
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Отметка ненависти
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+### Faction Special Skill II : Отметка ненависти
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1.5+7.5)"
+    let str8 = "(LEVEL*0.9+2.4)"
+    let str5 = "LEVEL*3+12"
+    let str6 = "LEVEL*3+12"
+    let str3 = "LEVEL*0.6+2.4"
+    let str4 = "LEVEL*0.5+9.5"
+    let str1 = "(LEVEL*6+44)*(TLEVEL+9)"
+    let str2 = "(LEVEL*80+520)*(TLEVEL+9)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Бастион (Дозор отрядов Бастиона)
-* Стрелок (Дозор стрелковых отрядов)
+* **Бастион**  (Дозор отрядов Бастиона)
+* **Стрелок**  (Дозор стрелковых отрядов)
 
-### Бонус героя
-* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/ru/heroes/Gem/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -118,12 +178,12 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ серебряных пегасов на уровнях 14-2 и 14-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Pegasus and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Ranged units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лесная хроносфера
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Vitality Protection&gt;</span><span style="color: #645252;font-size:18px">Works on all friendly units in the back-row. Skill effect increases to 200% of the previous skill's effect</span>
 
 ### 2nd Skill (or 1st): Благословение леса
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет &lt;Защиту жизни&gt;</span>
@@ -183,7 +243,7 @@ toc: true
 
  **posclass:** 4
 
- **talk1:** Я тоскую по небесам. Всегда.
+ **talk1:** I yearn for the skies. I always do.
 
  **talk2:** Сгинь! Прочь с глаз моих, грязный глупец!
 

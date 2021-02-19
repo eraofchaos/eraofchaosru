@@ -1,42 +1,48 @@
 ---
-title: "Костяной дракон"
-permalink: /ru/units/Bone Dragon/
-excerpt: "Отряды В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
+title: "Bone Dragon"
+permalink: /units/Bone Dragon/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Костяной дракон"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Bone Dragon"
 toc: true
 ---
 ## General information
  **Описание:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Necropolis](/units/Fraction Necropolis)
 
- **Race:** null
+ **Race:** Дракон
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Страх: резко ослабляет защиту врага, снижает боевой дух.
 
+ **Short description:** Держит врага на расстоянии и наносит дополнительный урон.
+
+ **Position :** Уменьшает защиту всех врагов на поле боя. Обладает способностью прорывать линию обороны врага.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Уменьшает защиту всех врагов на поле боя. Обладает способностью прорывать линию обороны врага.
+## Basic stats
+ **Base HP: 5770.0**
 
-## Базовые параметры
- **Base HP:** 5770.0
+ **Base ATK: 758.0**
 
- **Base ATK:** 758.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 379.0 | 4.5 | 4327.5 |
+  | Green | 379.0 | 4.5 | 4327.5 |
   | Синий | 758.0 | 9.0 | 8655.0 |
   | Blue +1 | 1137.0 | 13.5 | 12982.5 |
   | Синий +2 | 1591.8 | 18.9 | 18175.5 |
@@ -59,43 +65,95 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 136.44 | 0.61 | 4.16 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 151.6 | 0.64 | 4.75 | 1154.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Костяной шип](/equipment/Костяной шип/) | **АТК** | **DEF** | 
+  | [Драконий череп](/equipment/Драконий череп/) | **ОЗ** | **DEF** | 
+  | [Пронзающие когти](/equipment/Пронзающие когти/) | **АТК** | **DEF** | 
+  | [Soul Gem](/equipment/Soul Gem/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+* [Низкий боевой дух](/combination/Низкий боевой дух/) 
+* [Немота](/combination/Немота/) 
+
 
 ## Skills
-### Совершенное умение: Страх
- **Описание:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Fear
+ **Описание:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Стремительный перекат
- **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+### Regular Skill 1 : Стремительный перекат
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Пробивание
- **Описание:** 
+### Regular Skill 2 : Пробивание
+ **Описание:** <span style="color: #645252;font-size:20px">The Bone Dragon's defense penetration increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"low morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units, the bonus doubles.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
+### Regular Skill 3 : Ageing
+ **Описание:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+### Faction Special Skill I : Мрачная защита
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Гармония заклинаний
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Faction Special Skill II : Гармония заклинаний
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*0.5+9.5"
+    let str6 = "(LEVEL*1+10)"
+    let str3 = "(LEVEL*6+34)*0.01*ATK"
+    let str4 = "(LEVEL*0.4+3.6)*(TLEVEL+9)"
+    let str1 = "LEVEL*(-1)+31"
+    let str2 = "LEVEL*0.5+14.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Некрополь (Дозор отрядов Некрополя)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Некрополь**  (Дозор отрядов Некрополя)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Vidomina/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/ru/heroes/Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/ru/heroes/Human Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -112,18 +170,18 @@ toc: true
  **Awaking Description:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Bone Dragon with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at King level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Ghost Dragon souls in the Underground: 18-2 and 18-4 levels.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте костяных драконов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление цели урону снижается дополнительно на 20%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
 
 ### 2nd Skill (or 1st): null
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление вражеских отрядов урону в большой области снижается на 10%</span>
@@ -131,13 +189,13 @@ toc: true
 ### 3rd Skill (or 4th): Истощающий удар
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ снижается на 30%</span>
 
-### 4th Skill (or 3rd): Темный запрет
+### 4th Skill (or 3rd): Dark Prohibition
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
 
-### 5th Skill (or 6th): null
+### 5th Skill (or 6th): Ghostly Embrace
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Ageing Curse
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: вражеские отряды в определенной области вокруг костяного дракона получают урон, повышенный до 200% от урона предыдущего умения</span>
 
 ## Technical info

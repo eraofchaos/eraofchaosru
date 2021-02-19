@@ -1,38 +1,44 @@
 ---
 title: "Спартанец"
-permalink: /ru/units/Spartan Warriors/
-excerpt: "Отряды null"
+permalink: /units/Spartan Warriors/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Спартанец"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Neutral Army](/units/Fraction Neutral Army)
 
- **Race:** null
+ **Race:** Assassin Guild
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
 
- **Info:** Удар щитом вызывает оглушение, смерть одного - вдохновляет соратников.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 2825.0
+ **Short description:** Оглушение щитом, месть
 
- **Base ATK:** 216.0
+ **Position :** Удар щитом вызывает оглушение, смерть одного - вдохновляет соратников.
+
+## Basic stats
+ **Base HP: 2825.0**
+
+ **Base ATK: 216.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 108.0 | 12.5 | 2118.75 |
+  | Green | 108.0 | 12.5 | 2118.75 |
   | Синий | 216.0 | 25.0 | 4237.5 |
   | Blue +1 | 324.0 | 37.5 | 6356.25 |
   | Синий +2 | 453.6 | 52.5 | 8898.75 |
@@ -55,40 +61,96 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 38.88 | 0.36 | 8.0 | 508.5 |
   | **6x** <i class="fas fa-star"/> | 43.2 | 0.38 | 8.75 | 565.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Ум](/ru/Emblem/Witness/) (Добро)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Spartan Helmet](/equipment/Spartan Helmet/) | **АТК** | **DEF** | 
+  | [Steel Shield](/equipment/Steel Shield/) | **ОЗ** | **DEF** | 
+  | [Piercing Spear](/equipment/Piercing Spear/) | **АТК** | **DEF** | 
+  | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: null
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: null
  **Описание:** 
 
-### Обычное умение 1 : Удар щитом
- **Описание:** <span style="color: #645252;font-size:20px">Спартанцы яростно бьют щитами противников в большой области, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушая&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. На следующие 10 сек. собственный урон повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а скорость атаки - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Восстановление - 20 сек. </span><span style="color: black">
+### Regular Skill 1 : Удар щитом
+ **Описание:** <span style="color: #645252;font-size:20px">Спартанцы яростно бьют щитами противников в большой области, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушая&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. На следующие 10 сек. собственный урон повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а скорость атаки - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Восстановление - 20 сек. </span><span style="color: black">
 
-### Обычное умение 2 : Братья по крови
- **Описание:** <span style="color: #645252;font-size:20px">С каждой потерей 5% ОЗ спартанцы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Когда здоровье впервые опускается до 50%, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается скорость атаки и на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - урон отряда. Эффект длится до конца боя.</span><span style="color: black">
+### Regular Skill 2 : Братья по крови
+ **Описание:** <span style="color: #645252;font-size:20px">С каждой потерей 5% ОЗ спартанцы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Когда здоровье впервые опускается до 50%, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается скорость атаки и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - урон отряда. Эффект длится до конца боя.</span><span style="color: black">
 
-### Обычное умение 3 : Фермопилы
- **Описание:** <span style="color: #645252;font-size:20px">С каждым павшим спартанцем УРН и ЗЩТ всех союзных отрядов повышаются на 5% до конца боя. Каждые 20 сек. спартанцы выкрикивают боевой клич, повышающий на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки союзников на 10 сек.</span><span style="color: black">
+### Regular Skill 3 : Фермопилы
+ **Описание:** <span style="color: #645252;font-size:20px">С каждым павшим спартанцем УРН и ЗЩТ всех союзных отрядов повышаются на 5% до конца боя. Каждые 20 сек. спартанцы выкрикивают боевой клич, повышающий на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки союзников на 10 сек.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Столкновение сил
- **Описание:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill I : Столкновение сил
+ **Описание:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Набор сил
-## Значимость
-### Связь дозора
+### Faction Special Skill II : Набор сил
+ **Описание:** <span style="color: #645252;font-size:20px">Стойкость нейтральных отрядов растет. За каждые 10% потраченных ОЗ они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите.</span><span style="color: black">
 
-* Нейтральный
-* Атакующий отряд (Дозор атакующих отрядов)
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+15"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*1+15"
+    let str6 = "LEVEL*1+15"
+    let str3 = "LEVEL*0.2+1"
+    let str4 = "LEVEL*0.5+2.5"
+    let str1 = "LEVEL*1+5"
+    let str2 = "LEVEL*1+5"
+    let str9 = "(LEVEL*0.2+2)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-### Бонус героя
-* [Кассандра](/ru/heroes/Kassandra/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* **Нейтральный**  (Neutral Roster)
+* **Offensive**  (Дозор атакующих отрядов)
 
-## Talent
+### Hero Bonus
+* [Кассандра](/heroes/Kassandra/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+
+## Талант
 
 * Атака
 * ОЗ
@@ -105,9 +167,9 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -119,18 +181,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Infiltration Strategy
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Fatigue Attack
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
@@ -174,5 +236,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** null
+ **talk3:** You'll never catch me!
 

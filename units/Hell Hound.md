@@ -1,40 +1,48 @@
 ---
-title: "Гончая ада"
-permalink: /ru/units/Hell Hound/
-excerpt: "Отряды Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
+title: "Hell Hound"
+permalink: /units/Hell Hound/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Гончая ада"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Hell Hound"
 toc: true
 ---
 ## General information
  **Описание:** Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след.
 
- **Класс:** Штурм
+ **Описание:** [Штурм](/units/Unit Class Штурм)
 
- **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Зверь
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit description:** Буйство: каждый удар на некоторое время становится критическим.
 
- **Info:** Обладает способностью наносить критический урон. При вызове кровотечения наносит высокий урон за короткое время.
+ **Short description:** Сильный критический удар. Причиняет кровотечение
 
-## Базовые параметры
- **Base HP:** 827.0
+ **Position :** Обладает способностью наносить критический урон. При вызове кровотечения наносит высокий урон за короткое время.
 
- **Base ATK:** 77.8
+ **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+
+## Basic stats
+ **Base HP: 827.0**
+
+ **Base ATK: 77.8**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 38.9 | 6.5 | 620.25 |
+  | Green | 38.9 | 6.5 | 620.25 |
   | Синий | 77.8 | 13.0 | 1240.5 |
   | Blue +1 | 116.7 | 19.5 | 1860.75 |
   | Синий +2 | 163.38 | 27.3 | 2605.05 |
@@ -58,42 +66,93 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.004 | 0.6 | 5.12 | 148.86 |
   | **6x** <i class="fas fa-star"/> | 15.56 | 0.63 | 5.75 | 165.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ошпаривающие зубы](/equipment/Ошпаривающие зубы/) | **АТК** | **DEF** | 
+  | [Адская броня](/equipment/Адская броня/) | **ОЗ** | **DEF** | 
+  | [Scalding Claws](/equipment/Scalding Claws/) | **АТК** | **DEF** | 
+  | [Mane of Flame](/equipment/Mane of Flame/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: Огонь
- **Описание:** <span style="color: #645252;font-size:20px">Гончие ада гарантированно наносят критический удар в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Огонь
+ **Описание:** <span style="color: #645252;font-size:20px">Hell Hound is guaranteed to land a Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Обычное умение 1 : Атака тремя головами
- **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.08+46.17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по 3 вражеским целям и вызывается </span><span style="color: black"><span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
+### Regular Skill 1 : Атака тремя головами
+ **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по 3 вражеским целям и вызывается </span><span style="color: black"><span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отрядов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Regular Skill 2 : Bloodlust
+ **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отрядов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">Гончие ада получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Показатель КРИТ. УРН у гончих ада повышается на 3% за каждый использованный отряд фракции Инферно.</span><span style="color: black">
+### Regular Skill 3 : Inferno
+ **Описание:** <span style="color: #645252;font-size:20px">Гончие ада получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Показатель КРИТ. УРН у гончих ада повышается на 3% за каждый использованный отряд фракции Инферно.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+### Faction Special Skill I : Broiling Strike
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Резонанс антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Faction Special Skill II : Резонанс антимагии
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*10+50)"
+    let str6 = "(LEVEL*0.5+7.5)"
+    let str3 = "LEVEL*3+12"
+    let str4 = "(LEVEL*3+12)"
+    let str1 = "LEVEL*0.5+9.5"
+    let str2 = "LEVEL*1.08+46.17"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* null (Дозор отрядов Инферно)
-* Штурмовой отряд (Дозор штурмовых отрядов)
+* **Inferno**  (Inferno Roster)
+* **Charging**  (Дозор штурмовых отрядов)
 
-### Бонус героя
-* [Мюллих](/ru/heroes/Mullich/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Xeron/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -110,9 +169,9 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -124,18 +183,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Infiltration Strategy
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Fatigue Attack
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

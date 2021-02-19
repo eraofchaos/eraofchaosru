@@ -1,40 +1,48 @@
 ---
-title: "Unknown_TEAM_604"
-permalink: /ru/units/Arch Mage/
-excerpt: "Отряды null"
+title: "Arch Mage"
+permalink: /units/Arch Mage/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_604"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Arch Mage"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Башня](/units/Fraction Башня)
 
  **Race:** Человек
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit description:** Пробивание заклинания: урон отдельным отрядам становится все больше
 
- **Info:** Накладывает эффекты контроля на вражеские отряды в заднем ряду, усиливает заклинания героев и уменьшает скорость восстановления маны вражеских героев.
+ **Short description:** Magic unit with soaking shield
 
-## Базовые параметры
- **Base HP:** 1324.0
+ **Position :** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
 
- **Base ATK:** 54.6
+ **Recommend:** Deals extra damage to any slowed enemies.
+
+## Basic stats
+ **Base HP: 1324.0**
+
+ **Base ATK: 54.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 58.0 | 4.25 | 496.5 |
+  | Green | 58.0 | 4.25 | 496.5 |
   | Синий | 116.0 | 8.5 | 993.0 |
   | Blue +1 | 174.0 | 12.75 | 1489.5 |
   | Синий +2 | 243.6 | 17.85 | 2085.3 |
@@ -58,42 +66,91 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.88 | 0.48 | 4.04 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 23.2 | 0.5 | 4.63 | 132.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Длинный посох мистической силы](/equipment/Длинный посох мистической силы/) | **АТК** | **DEF** | 
+  | [Кристаллическая корона волшебства](/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **DEF** | 
+  | [Волшебная сфера маны](/equipment/Волшебная сфера маны/) | **АТК** | **DEF** | 
+  | [Мантия мага](/equipment/Мантия мага/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+* [Разряд](/combination/Разряд/) 
+
 
 ## Skills
-### Совершенное умение: Пробивание заклинания
- **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Пробивание заклинания
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
+### Regular Skill 1 : Hurricane
+ **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
 
-### Обычное умение 2 : Потеря энергии
- **Описание:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">
+### Regular Skill 2 : Потеря энергии
+ **Описание:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">
 
-### Обычное умение 3 : Магическое поле
- **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, маги повышают урон у всех союзных отрядов на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов заклинателей эффект удваивается.</span><span style="color: black">
+### Regular Skill 3 : Магическое поле
+ **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, маги повышают урон у всех союзных отрядов на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов заклинателей эффект удваивается.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Трезвый ум
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+### Faction Special Skill I : Трезвый ум
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Энергетический динамит
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Энергетический динамит
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*2+10)"
+    let str6 = "(LEVEL*1.5+4)"
+    let str3 = "LEVEL*0.05+0.25"
+    let str4 = "(LEVEL*0.5+2.5)"
+    let str1 = "LEVEL*1+4"
+    let str2 = "LEVEL*0.5+4.5"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Башни (Дозор отрядов Башни)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Tower**  (Дозор отрядов Башни)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Astral/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -133,10 +190,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: в начале боя создается еще одно &lt;Магическое поле&gt; для всех союзных отрядов Башни (эффект не удваивается, а суммируется с предыдущим)</span>
 
 ### 5th Skill (or 6th): Груз смерти
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
 
 ### 6th Skill (or 5th): Подавление энергии
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
 
 ## Technical info
  **runart:** 1
@@ -181,9 +238,9 @@ toc: true
 
  **posclass:** 5
 
- **talk1:** null
+ **talk1:** That was just the warmup! When does the battle begin?
 
- **talk2:** null
+ **talk2:** Come to me, my brothers!
 
  **talk3:** Щитом и мечом я положу конец твоему безумию!
 

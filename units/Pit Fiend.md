@@ -1,42 +1,48 @@
 ---
 title: "Порождение зла"
-permalink: /ru/units/Pit Fiend/
-excerpt: "Отряды null"
+permalink: /units/Pit Fiend/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Порождение зла"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Одержимый
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit description:** Огненный источник: постоянно излечивает союзные отряды на своем пути.
 
+ **Short description:** Призывает демона-целителя.
+
+ **Position :** Обладает аурой, усиливающей исцеление. Основной отряд в Инферно.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Обладает аурой, усиливающей исцеление. Основной отряд в Инферно.
+## Basic stats
+ **Base HP: 1850.0**
 
-## Базовые параметры
- **Base HP:** 1850.0
+ **Base ATK: 174.9**
 
- **Base ATK:** 174.9
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 87.45 | 4.75 | 1387.5 |
+  | Green | 87.45 | 4.75 | 1387.5 |
   | Синий | 174.9 | 9.5 | 2775.0 |
   | Blue +1 | 262.35 | 14.25 | 4162.5 |
   | Синий +2 | 367.29 | 19.95 | 5827.5 |
@@ -60,40 +66,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 31.482 | 0.6 | 4.28 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 34.98 | 0.63 | 4.88 | 370.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Hellish Whip](/equipment/Hellish Whip/) | **АТК** | **DEF** | 
+  | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **ОЗ** | **DEF** | 
+  | [Charmed Horn](/equipment/Charmed Horn/) | **АТК** | **DEF** | 
+  | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Огненный источник
- **Описание:** <span style="color: #645252;font-size:20px">Порождения зла применяют 1 Огненный источник у них на пути, восстанавливая ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+3.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у союзных отрядов в широком радиусе перед собой каждые 2 сек. в течение 8 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Огненный источник
+ **Описание:** <span style="color: #645252;font-size:20px">Pit Fiend units cast 1 Fire Spring in their path, restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP of friendly units in a large area in front of them every 2s for 8s.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** 
+### Regular Skill 1 : Lord's Summon
+ **Описание:** <span style="color: #645252;font-size:20px">When a Pit Fiend unit is on the battlefield, it summons 4 Demons to fight. Demons have </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, 700 DEF and 500 Crit Hit, lasting throughout the entire battle.</span><span style="color: black">
 
-### Обычное умение 2 : Жар
- **Описание:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
+### Regular Skill 2 : Жар
+ **Описание:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+13)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
+### Regular Skill 3 : Lord's Will
+ **Описание:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+### Faction Special Skill I : Broiling Strike
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Резонанс антимагии
-## Значимость
-### Связь дозора
+### Faction Special Skill II : Резонанс антимагии
+ **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-* null (Дозор отрядов Инферно)
-* Атакующий отряд (Дозор атакующих отрядов)
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+7.5)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*2+13)"
+    let str6 = "(LEVEL*10+50)"
+    let str3 = "(LEVEL*100+700)*(TLEVEL+9)"
+    let str4 = "(LEVEL*5+25)"
+    let str1 = "LEVEL*0.3+3.7"
+    let str2 = "(LEVEL*4.5+30.5)*(TLEVEL+9)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-### Бонус героя
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Xeron/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* **Inferno**  (Inferno Roster)
+* **Offensive**  (Дозор атакующих отрядов)
 
-## Talent
+### Hero Bonus
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+
+## Талант
 
 * Атака
 * ОЗ
@@ -130,7 +190,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: призывает демона, увеличивая сопротивление отряда урону на 40%, а уклонение - на 800</span>
 
 ### 4th Skill (or 3rd): Дар любви
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: при поражении вражеского отряда порождение зла вызывает 4 демонов</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Lord's Summon&gt;</span><span style="color: #645252;font-size:18px">When a hostile unit is downed, Pit Fiend will summon 4 Demons</span>
 
 ### 5th Skill (or 6th): Восхищенный верующий
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воля лорда&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда и всех союзных отрядов Инферно повышается на 6% каждые 10 сек. После каждого поражения вражеского отряда эффект срабатывает 1 раз. Складывается до 5 раз</span>

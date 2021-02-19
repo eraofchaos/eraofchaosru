@@ -1,41 +1,47 @@
 ---
 title: "Mantis"
-permalink: /ru/units/Mantis/
-excerpt: "Отряды null"
+permalink: /units/Mantis/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Mantis"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
- **Описание:** null
+ **Описание:** Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Rampart](/units/Fraction Rampart)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** Unknown: 4 (3).
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** UR
+ **Rank:** [Командующий](/units/Unit Rank Командующий)
 
- **Info:** null
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 6336.0
+ **Short description:** Быстрый порез, усиление по области
 
- **Base ATK:** 1140.4
+ **Position :** 
+
+## Basic stats
+ **Base HP: 6336.0**
+
+ **Base ATK: 1140.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 570.2 | 5.5 | 4752.0 |
+  | Green | 570.2 | 5.5 | 4752.0 |
   | Синий | 1140.4 | 11.0 | 9504.0 |
   | Blue +1 | 1710.6 | 16.5 | 14256.0 |
   | Синий +2 | 2394.84 | 23.1 | 19958.4 |
@@ -58,45 +64,111 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 205.272 | 0.92 | 4.64 | 1140.48 |
   | **6x** <i class="fas fa-star"/> | 228.08 | 0.96 | 5.25 | 1267.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **АТК** | **DEF** | 
+  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **ОЗ** | **DEF** | 
+  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **DEF** | 
+  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">Every three normal attacks will deal an additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*15+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack damage and </span><span style="color: black"> <span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Max life damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px"> "Bleed"</span><span style="color: black">[ color=645252,fontsize=20]Increase damage dealt by units by 50% and reduce their defense by 120 points and 4% Corps Immunity and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Decelerate </span><span style="color: black"><span style="color: #645252;font-size:20px">Effect, 8 sec, non-dispelable. Stacks up to 10 layers and deals an additional 45% attack damage to enemy regiments within the target area</span><span style="color: black">.
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Sonic Speed Cutting
+ **Описание:** <span style="color: #645252;font-size:20px">После каждых 3 атак дополнительно наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> получают на 50% больше урона и теряют 120 ед. защиты и 4% сопротивления урону, также на них действует </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедление</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 8 сек., суммируется до 10 раз и не рассеивается. Вражеским отрядам в определенном радиусе вокруг цели наносится дополнительный урон в 40% от АТК.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Corps damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, armor break value increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. =48b946,fontsize=20]{($level+$ulevel)*15+75}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Add 4 seconds to the cooldown of the enemy hero's move spells. Praying Mantis has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+14}%</span><span style="color: black"><span style="color: #645252;font-size:25px">probability of being immune to damage caused by Ground Corps</span><span style="color: black">
+### Regular Skill 1 : First Strike
+ **Описание:** <span style="color: #645252;font-size:20px">Урон отряда повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Предварительная зарядка совершенных заклинаний вражеских героев продлевается на 4 сек. Богомол с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> игнорирует урон нелетающих отрядов.</span><span style="color: black">
 
-### Обычное умение 2 :  Hegemony
- **Описание:** <span style="color: #645252;font-size:20px">Praying Mantis Immunity</span><span style="color: black"><span style="color: #48b946;font-size:20px">Petrify</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Disease</span><span style="color: black"> <span style="color: #645252;font-size:20px">Effect. For each Barrier Corps present, Mantis increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Speed and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage. When attacking, it disperses the negative status of itself and one of its own Barrier Corps within a certain range and provides </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px">%</span><span style="color: black"><span style="color: #645252;font-size:20px">of the maximum life value of the </span><span style="color: black"><span style="color: #48b946;font-size:20px">Corps. 48b946,fontsize=20] Shield of Hegemony </span><span style="color: black"><span style="color: #645252;font-size:20px"> (cannot be dispelled), up to 3 layers, cooldown 8 seconds. The mantis provides itself with </span><span style="color: black"><span style="color: #48b946;font-size:25px">"Shield of Dominance"</span><span style="color: black"> at the start of the game.
+### Regular Skill 2 : Ярость
+ **Описание:** <span style="color: #645252;font-size:20px">У богомола иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">окаменению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый отряд Бастиона в бою повышает скорость атаки богомола на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а его урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При крит. ударе с самого бойца и 1 союзного отряда Бастиона в определенном радиусе вокруг бойца снимаются негативные эффекты. Также дается равный по прочности </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ (нельзя деактивировать). Эффект суммируется до 3 раз, перезарядка 8 сек. В начале боя богомол создает для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px"> "slowdown" </span><span style="color: black"><span style="color: #645252;font-size:20px">status targets, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Chances are <span style="color: #48b946;font-size:20px">Stalking</span><span style="color: black"> effect lasts for 3 seconds and cools down for 6 seconds on 2 enemy corps within its small area. When a Barrier Corps gains </span><span style="color: black"><span style="color: #48b946;font-size:20px"> "Shield"</span><span style="color: black"><span style="color: #645252;font-size:20px">, it will increase Mantis Corps damage by 0.5%, </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack speed and</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value for 10 seconds, this effect can be stacked up to 50 layers </span><span style="color: black">
+### Regular Skill 3 : Bind
+ **Описание:** <span style="color: #645252;font-size:20px">При атаке </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленной</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 вражеских отряда в небольшом радиусе вокруг нее на 3 сек. накладываются <span style="color: #48b946;font-size:20px">&lt;путы&gt;</span><span style="color: black">. Перезарядка 6 сек. Когда отряды Бастиона получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, богомол дополнительно получает +0,5% к урону отряда, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. Эффект длится 10 сек. и суммируется до 50 раз.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Calm Proliferation
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Отметка ненависти
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+### Faction Special Skill II : Отметка ненависти
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-### Обычное умение 6 :  Forest of Spirituality
- **Описание:** <span style="color: #645252;font-size:20px">Increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage and </span><span style="color: black">[ when 3 Barricade Corps are deployed. color=48b946,fontsize=20]{($level+$ulevel)*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value. At the 6th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> "Forest of Spiritual Source"</span><span style="color: black"><span style="color: #645252;font-size:20px">Domain</span><span style="color: black"><span style="color: #645252;font-size:20px">, field The effect grows with skill level, lasts 15 seconds, and is triggered every 35 seconds thereafter</span><span style="color: black">.
+### Regular Skill 6 : Лес эльфов
+ **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Бастиона дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. В первые 6 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Леса эльфов&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее срабатывает с интервалом 30 сек.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.2+2"
+    let str8 = "LEVEL*0.2+3"
+    let str5 = "LEVEL*2+14"
+    let str6 = "LEVEL*0.4+4"
+    let str3 = "LEVEL*1+15"
+    let str4 = "LEVEL*15+75"
+    let str1 = "LEVEL*15+95"
+    let str2 = "LEVEL*1.5+9.5"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*0.9+2.4)"
+    let str10 = "LEVEL*0.3+1.5"
+    let str11 = "LEVEL*2+10"
+    let str9 = "LEVEL*3+17"
+    let str14 = "LEVEL*1+15"
+    let str15 = "LEVEL*20+300"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Бастион (Дозор отрядов Бастиона)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Бастион**  (Дозор отрядов Бастиона)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/ru/heroes/Gem/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -117,9 +189,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Unicorn and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 

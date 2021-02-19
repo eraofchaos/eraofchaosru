@@ -1,42 +1,48 @@
 ---
-title: "Вампир"
-permalink: /ru/units/Vampire/
-excerpt: "Отряды Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
+title: "Vampire"
+permalink: /units/Vampire/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Вампир"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Vampire"
 toc: true
 ---
 ## General information
  **Описание:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
 
- **Класс:** Штурм
+ **Описание:** [Штурм](/units/Unit Class Штурм)
 
- **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Necropolis](/units/Fraction Necropolis)
 
- **Race:** null
+ **Race:** Злой дух
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Unit description:** Высасывание жизни: отнимает здоровье у вражеского отряда, восстанавливая свое.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
+
+ **Short description:** Высасывание жизни. Эффективен против целей с низким здоровьем.
+
+ **Position :** Наносит значительный урон врагам с меньшим запасом здоровья.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Наносит значительный урон врагам с меньшим запасом здоровья.
+## Basic stats
+ **Base HP: 910.0**
 
-## Базовые параметры
- **Base HP:** 910.0
+ **Base ATK: 74.4**
 
- **Base ATK:** 74.4
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 37.2 | 6.25 | 682.5 |
+  | Green | 37.2 | 6.25 | 682.5 |
   | Синий | 74.4 | 12.5 | 1365.0 |
   | Blue +1 | 111.6 | 18.75 | 2047.5 |
   | Синий +2 | 156.24 | 26.25 | 2866.5 |
@@ -60,43 +66,95 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 13.392 | 0.6 | 5.0 | 163.8 |
   | **6x** <i class="fas fa-star"/> | 14.88 | 0.63 | 5.63 | 182.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Кровожадный пояс](/equipment/Кровожадный пояс/) | **АТК** | **DEF** | 
+  | [Легкая броня кровожадности](/equipment/Легкая броня кровожадности/) | **ОЗ** | **DEF** | 
+  | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **DEF** | 
+  | [Shadow Cloak](/equipment/Shadow Cloak/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Высасывание жизни
- **Описание:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*20+380)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*15+185)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Высасывание жизни
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1.5+6.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Regular Skill 1 : Bloodthirst
+ **Описание:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-### Обычное умение 2 : Разрастание
- **Описание:** 
+### Regular Skill 2 : Разрастание
+ **Описание:** <span style="color: #645252;font-size:20px">When a Vampire casts &lt;Life Drain&gt;, life drain increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, lasting for the entire battle, up to 3 stacks.</span><span style="color: black">
 
-### Обычное умение 3 : Кровавая охота
- **Описание:** 
+### Regular Skill 3 : Кровавая охота
+ **Описание:** <span style="color: #645252;font-size:20px">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+### Faction Special Skill I : Мрачная защита
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Гармония заклинаний
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Faction Special Skill II : Гармония заклинаний
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+10)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*5+35"
+    let str6 = "LEVEL*1+15"
+    let str3 = "LEVEL*1.5+6.5"
+    let str4 = "LEVEL*1.5+13.5"
+    let str1 = "(LEVEL*20+380)*0.01*ATK"
+    let str2 = "(LEVEL*15+185)*0.01*ATK"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Некрополь (Дозор отрядов Некрополя)
-* Штурмовой отряд (Дозор штурмовых отрядов)
+* **Некрополь**  (Дозор отрядов Некрополя)
+* **Charging**  (Дозор штурмовых отрядов)
 
-### Бонус героя
-* [Мюллих](/ru/heroes/Mullich/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/ru/heroes/Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/ru/heroes/Human Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -108,9 +166,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Лорд вампиров
+ **Awaking Name:** Vampire Lord
 
- **Awaking Description:** В мрачных уголках земли вот уже многие тысячи лет лежат грешники, проклятые за смерть тех, кого любили Им уже не искупить своих грехов, и остается лишь ждать Судного дня.
+ **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте вампиров и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз пройти уровень «Мастер» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
@@ -119,7 +177,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ лордов вампиров на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Vampire with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Charging units and win </span><span style="color: #1ca216;font-size:18px">12</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 

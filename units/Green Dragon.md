@@ -1,42 +1,50 @@
 ---
 title: "Зеленый дракон"
-permalink: /ru/units/Green Dragon/
-excerpt: "Отряды Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
+permalink: /units/Green Dragon/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Зеленый дракон"
 toc: true
 ---
 ## General information
  **Описание:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Rampart](/units/Fraction Rampart)
 
- **Race:** null
+ **Race:** Дракон
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Подкрепление с Небес: наносит огромный урон 3 вражеским отрядам на задней линии.
 
+ **Short description:** Water damage. Water resistance
+
+ **Position :** Атакует войска в заднем ряду, нанося большой урон от магии Воды по области.
+
+ **Unit extra description:** Green Dragons attack with added damage over time.
+
  **Recommend:** Магия Воды может нанести дополнительный урон за счет эффекта «Кровотечение».
 
- **Info:** Атакует войска в заднем ряду, нанося большой урон от магии Воды по области.
+## Basic stats
+ **Base HP: 4525.0**
 
-## Базовые параметры
- **Base HP:** 4525.0
+ **Base ATK: 1018.2**
 
- **Base ATK:** 1018.2
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 509.1 | 4.5 | 3393.75 |
+  | Green | 509.1 | 4.5 | 3393.75 |
   | Синий | 1018.2 | 9.0 | 6787.5 |
   | Blue +1 | 1527.3 | 13.5 | 10181.25 |
   | Синий +2 | 2138.22 | 18.9 | 14253.75 |
@@ -59,43 +67,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 183.276 | 0.48 | 4.16 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 203.64 | 0.5 | 4.75 | 905.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ядовитый рог](/equipment/Ядовитый рог/) | **АТК** | **DEF** | 
+  | [Доспех черного дракона](/equipment/Доспех черного дракона/) | **ОЗ** | **DEF** | 
+  | [Когти распада](/equipment/Когти распада/) | **АТК** | **DEF** | 
+  | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: Волна яда
- **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+7.7)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Волна яда
+ **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 1 : Ядовитое дыхание
- **Описание:** 
+### Regular Skill 1 : Ядовитое дыхание
+ **Описание:** <span style="color: #645252;font-size:20px">When fighting against a 9-man unit, a normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 targets.</span><span style="color: black">
 
-### Обычное умение 2 : Чешуя Зеленого дракона
- **Описание:** 
+### Regular Skill 2 : Чешуя Зеленого дракона
+ **Описание:** <span style="color: #645252;font-size:20px">The Green Dragon is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and all friendly units' damage reduction to water spells is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Green Dragon gets &lt;Shield&gt;, it will increase attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, this effect will last for 15s. For each flying unit deployed, Green Dragon will increase unit's damage by 3%.</span><span style="color: black">
 
-### Обычное умение 3 : Подкрепление с небес
- **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 3 : Подкрепление с небес
+ **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Calm Proliferation
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Отметка ненависти
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+### Faction Special Skill II : Отметка ненависти
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.9+2.4)"
+    let str5 = "(LEVEL*2+28)*0.01*ATK"
+    let str6 = "(LEVEL*1.5+7.5)"
+    let str3 = "LEVEL*3+12"
+    let str4 = "LEVEL*1+15"
+    let str1 = "(LEVEL*0.3+7.7)*0.01*ATK"
+    let str2 = "LEVEL*1+39"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Бастион (Дозор отрядов Бастиона)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Бастион**  (Дозор отрядов Бастиона)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Dragon Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/ru/heroes/Gem/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -116,9 +175,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых драконов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Green Dragon to win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
@@ -183,9 +242,9 @@ toc: true
 
  **posclass:** 5
 
- **talk1:** null
+ **talk1:** Do you really think you can bargain with a dragon?
 
- **talk2:** null
+ **talk2:** Look into my eyes. Can you feel my power? Unwise mortal, you should feel more fear.
 
  **talk3:** Смерть, бедствия и разрушения. Вот ради чего я существую.
 

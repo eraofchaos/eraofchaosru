@@ -1,40 +1,50 @@
 ---
-title: "Рух"
-permalink: /ru/units/Roc/
-excerpt: "Отряды null"
+title: "Roc"
+permalink: /units/Roc/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Рух"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Roc"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Fraction Цитадель)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
+
+ **Short description:** Огромный урон по воздушным врагам. Всегда критический удар.
+
+ **Position :** Наносит высокий магический урон большому количеству вражеских отрядов.
+
+ **Unit extra description:** Griffins can attack multiple units.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Наносит высокий магический урон большому количеству вражеских отрядов.
+## Basic stats
+ **Base HP: 4978.0**
 
-## Базовые параметры
- **Base HP:** 4978.0
+ **Base ATK: 792.0**
 
- **Base ATK:** 792.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 396.0 | 3.0 | 3733.5 |
+  | Green | 396.0 | 3.0 | 3733.5 |
   | Синий | 792.0 | 6.0 | 7467.0 |
   | Blue +1 | 1188.0 | 9.0 | 11200.5 |
   | Синий +2 | 1663.2 | 12.6 | 15680.7 |
@@ -58,43 +68,93 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 142.56 | 0.54 | 3.44 | 896.04 |
   | **6x** <i class="fas fa-star"/> | 158.4 | 0.56 | 4.0 | 995.6 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Клюв грома](/equipment/Клюв грома/) | **АТК** | **DEF** | 
+  | [Крылья разряда молнии](/equipment/Крылья разряда молнии/) | **ОЗ** | **DEF** | 
+  | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **DEF** | 
+  | [Lightning's armor](/equipment/Lightning's armor/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Гром
- **Описание:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*$atk*0.01}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Гром
+ **Описание:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Удар шаровой молнии
- **Описание:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
+### Regular Skill 1 : Удар шаровой молнии
+ **Описание:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
+### Regular Skill 2 : Rampage
+ **Описание:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** 
+### Regular Skill 3 : Hurricane Barrier
+ **Описание:** <span style="color: #645252;font-size:20px">When Roc is on the battlefield, all hostile units' Accuracy decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Фанатик сражений
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+### Faction Special Skill I : Фанатик сражений
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Рост живучести
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Faction Special Skill II : Рост живучести
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.3+1)"
+    let str5 = "(LEVEL*0.3+0.5)"
+    let str6 = "(LEVEL*300+1200)"
+    let str3 = "LEVEL*40+160"
+    let str4 = "LEVEL*5+95"
+    let str1 = "(LEVEL*2+38)*ATK*0.01"
+    let str2 = "LEVEL*1+39"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Цитадель (Дозор отрядов Цитадели)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Цитадель**  (Дозор отрядов Цитадели)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Шива](/ru/heroes/Shiva/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Crag Hack/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kilgor/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Шива](/heroes/Shiva/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -133,7 +193,7 @@ toc: true
 ### 4th Skill (or 3rd): Природная быстрота
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при &lt;Буйстве&gt; удваивается)</span>
 
-### 5th Skill (or 6th): Взрыв
+### 5th Skill (or 6th): Implosion
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
 
 ### 6th Skill (or 5th): Электрошок
@@ -184,7 +244,7 @@ toc: true
 
  **talk1:** Чик-чирик!
 
- **talk2:** Я заполню небеса громами и молниями!
+ **talk2:** I will fill the skies above us with thunder and lightning!
 
- **talk3:** null
+ **talk3:** Perish as the lightning strikes!
 

@@ -1,40 +1,50 @@
 ---
 title: "Жар-птица"
-permalink: /ru/units/Firebird/
-excerpt: "Отряды Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
+permalink: /units/Firebird/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Жар-птица"
 toc: true
 ---
 ## General information
  **Описание:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Огненное дыхание: наносит урон всем вражеским отрядам на своем пути.
 
- **Info:** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
+ **Short description:** Стрелковый УРН огнем. Возрождается при смерти.
 
-## Базовые параметры
- **Base HP:** 4525.0
+ **Position :** Обладает способностью оживлять, наносит огромный урон огнем всем врагам на своем пути.
 
- **Base ATK:** 848.5
+ **Unit extra description:** Жар-птицы особенно сильны, когда атакуют группой. Они могут возрождаться.
+
+ **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
+
+## Basic stats
+ **Base HP: 4525.0**
+
+ **Base ATK: 848.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 424.25 | 3.75 | 3393.75 |
+  | Green | 424.25 | 3.75 | 3393.75 |
   | Синий | 848.5 | 7.5 | 6787.5 |
   | Blue +1 | 1272.75 | 11.25 | 10181.25 |
   | Синий +2 | 1781.85 | 15.75 | 14253.75 |
@@ -57,42 +67,91 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 152.73 | 0.48 | 3.8 | 814.5 |
   | **6x** <i class="fas fa-star"/> | 169.7 | 0.5 | 4.38 | 905.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Клюв неистового пламени](/equipment/Клюв неистового пламени/) | **АТК** | **DEF** | 
+  | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **ОЗ** | **DEF** | 
+  | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **АТК** | **DEF** | 
+  | [Радужные оперенные крылья](/equipment/Радужные оперенные крылья/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+
+## Combination Info
+
+* [Горение](/combination/Горение/) 
+
 
 ## Skills
-### Совершенное умение: Огненное дыхание
- **Описание:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Огненное дыхание
+ **Описание:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
+### Regular Skill 1 : Огненный язык
+ **Описание:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Обычное умение 2 : Воскрешение
- **Описание:** 
+### Regular Skill 2 : Воскрешение
+ **Описание:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
 
-### Обычное умение 3 : Огненное усиление
- **Описание:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
+### Regular Skill 3 : Огненное усиление
+ **Описание:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*3+15)"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "(LEVEL*3+27)"
+    let str4 = "LEVEL*5+25"
+    let str1 = "(LEVEL*2+38)*0.01*ATK"
+    let str2 = "LEVEL*1+39"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Гармония (Дозор отрядов Гармонии)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [null](/ru/heroes/Luna/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Luna](/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -106,7 +165,7 @@ toc: true
 
  **Awaking Name:** Феникс
 
- **Awaking Description:** null
+ **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте жар-птиц и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов-магов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн зомби в Склепе. (Набег не учитывается при выполнении этого задания).</span>
@@ -128,7 +187,7 @@ toc: true
 ### 3rd Skill (or 4th): Взрывной крест
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
 
-### 4th Skill (or 3rd): null
+### 4th Skill (or 3rd): Lava Breath
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
 
 ### 5th Skill (or 6th): Бескрайняя ярость

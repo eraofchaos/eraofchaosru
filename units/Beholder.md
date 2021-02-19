@@ -1,42 +1,48 @@
 ---
 title: "Бехолдер"
-permalink: /ru/units/Beholder/
-excerpt: "Отряды Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
+permalink: /units/Beholder/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Бехолдер"
 toc: true
 ---
 ## General information
  **Описание:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Dungeon](/units/Fraction Dungeon)
 
- **Race:** null
+ **Race:** Злой дух
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Управление разумом: обездвиживает врага и заставляет его постепенно терять здоровье
 
+ **Short description:** Сильный взрыв в начале. Управление разумом.
+
+ **Position :** Прекрасный вариант для начала боя. В начале боя ослабляет врага, приближая победу.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Прекрасный вариант для начала боя. В начале боя ослабляет врага, приближая победу.
+## Basic stats
+ **Base HP: 744.0**
 
-## Базовые параметры
- **Base HP:** 744.0
+ **Base ATK: 115.8**
 
- **Base ATK:** 115.8
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 57.9 | 3.75 | 558.0 |
+  | Green | 57.9 | 3.75 | 558.0 |
   | Синий | 115.8 | 7.5 | 1116.0 |
   | Blue +1 | 173.7 | 11.25 | 1674.0 |
   | Синий +2 | 243.18 | 15.75 | 2343.6 |
@@ -59,40 +65,86 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 20.844 | 0.49 | 3.8 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 23.16 | 0.51 | 4.38 | 148.8 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Глаз богохульства](/equipment/Глаз богохульства/) | **АТК** | **DEF** | 
+  | [Ученик смерти](/equipment/Ученик смерти/) | **ОЗ** | **DEF** | 
+  | [Злой бивень](/equipment/Злой бивень/) | **АТК** | **DEF** | 
+  | [Щупальца из Бездны](/equipment/Щупальца из Бездны/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Mind Control
+ **Описание:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
+### Regular Skill 1 : Spell Penetration
+ **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
 
-### Обычное умение 2 : Бессилие
- **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
+### Regular Skill 2 : Бессилие
+ **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** 
+### Regular Skill 3 : Gather Energy
+ **Описание:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
 
-### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+### Faction Special Skill : Темный конфликт
+ **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+5)"
+    let str3 = "LEVEL*1.5+8.5"
+    let str4 = "LEVEL*2+8"
+    let str1 = "LEVEL*0.2+0.8"
+    let str2 = "LEVEL*1+4"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Подземелье (Дозор отрядов Подземелья)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Подземелье**  (Дозор отрядов Подземелья)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/ru/heroes/Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Dragon Mutare/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -109,7 +161,7 @@ toc: true
  **Awaking Description:** Взгляд этого злого создание неизвестного происхождения излучает непередаваемый страх. Око смерти видит хрупкость врагов и поглощает невидимую силу.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте бехолдеров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Beholder with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
@@ -131,7 +183,7 @@ toc: true
 ### 4th Skill (or 3rd): Чародейский грабеж
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 10 при гибели каждого вражеского отряда.</span>
 
-### 5th Skill (or 6th): null
+### 5th Skill (or 6th): Spell Breaker's Shield
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Сопротивление отряда урону повышается на 10%. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
 
 ### 6th Skill (or 5th): Резонанс экзорцизма

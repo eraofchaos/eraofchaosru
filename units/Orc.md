@@ -1,42 +1,48 @@
 ---
 title: "Орк"
-permalink: /ru/units/Orc/
-excerpt: "Отряды Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
+permalink: /units/Orc/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Орк"
 toc: true
 ---
 ## General information
  **Описание:** Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны.
 
- **Класс:** Стрелковый
+ **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
 
- **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Fraction Цитадель)
 
  **Race:** Орк
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Unit description:** Казнь: наносит дополнительный урон врагам, у которых запас здоровья меньше 30%.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
+
+ **Short description:** Причиняет кровотечение. Эффективен против отрядов с низким здоровьем.
+
+ **Position :** При атаке вызывает кровотечение. Наносит высокий урон. Чем ниже здоровье, тем выше показатель атаки.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** При атаке вызывает кровотечение. Наносит высокий урон. Чем ниже здоровье, тем выше показатель атаки.
+## Basic stats
+ **Base HP: 662.0**
 
-## Базовые параметры
- **Base HP:** 662.0
+ **Base ATK: 82.7**
 
- **Base ATK:** 82.7
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 41.35 | 5.0 | 496.5 |
+  | Green | 41.35 | 5.0 | 496.5 |
   | Синий | 82.7 | 10.0 | 993.0 |
   | Blue +1 | 124.05 | 15.0 | 1489.5 |
   | Синий +2 | 173.67 | 21.0 | 2085.3 |
@@ -60,43 +66,98 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 14.886 | 0.73 | 4.4 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 16.54 | 0.76 | 5.0 | 132.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Метательный топор](/equipment/Метательный топор/) | **АТК** | **DEF** | 
+  | [Пояс ограничения](/equipment/Пояс ограничения/) | **ОЗ** | **DEF** | 
+  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **АТК** | **DEF** | 
+  | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Казнь эксперта
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
 
-### Обычное умение 1 : Срезание
- **Описание:** 
+### Regular Skill 1 : Срезание
+ **Описание:** <span style="color: #645252;font-size:20px">Orc's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">,unit's damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
+### Regular Skill 2 : Rampage
+ **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
+### Regular Skill 3 : Жажда крови
+ **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Фанатик сражений
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+### Faction Special Skill I : Фанатик сражений
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Рост живучести
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Faction Special Skill II : Рост живучести
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.3+0.5)"
+    let str8 = "(LEVEL*300+1200)"
+    let str5 = "LEVEL*40+160"
+    let str6 = "LEVEL*3+12"
+    let str3 = "LEVEL*60+240"
+    let str4 = "LEVEL*0.5+2.5"
+    let str1 = "LEVEL*5+45"
+    let str2 = "LEVEL*1+15"
+    let str9 = "(LEVEL*0.3+1)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Цитадель (Дозор отрядов Цитадели)
-* Стрелок (Дозор стрелковых отрядов)
+* **Цитадель**  (Дозор отрядов Цитадели)
+* **Стрелок**  (Дозор стрелковых отрядов)
 
-### Бонус героя
-* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Crag Hack/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kilgor/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -106,40 +167,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Orc Commander
 
- **Awaking Description:** null
+ **Awaking Description:** Орки - настоящие мастера по отрубанию вражеских голов. В их глазах светится жажда крови. На поле боя они не убивают всех без разбора, а действуют хладнокровно и собранно.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #876741;font-size:18px">Deploy Orc with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ главарей орков на уровнях 14-2 и 14-4 в Подземелье. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Бронебойный удар
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь эксперта&gt;</span><span style="color: #645252;font-size:18px">: в бою против врага с менее 50% ОЗ вы получаете +300 к пробиванию.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+### 2nd Skill (or 1st): Быстрая казнь
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь эксперта&gt;</span><span style="color: #645252;font-size:18px">: в бою против врага с менее 50% ОЗ вы получаете +300 к крит. удару.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+### 3rd Skill (or 4th): Быстрый порез
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Срезание&gt;</span><span style="color: #645252;font-size:18px">: повышает скорость атаки на 15%, против оглушенных врагов эффект удваивается.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+### 4th Skill (or 3rd): Fatal Cutting
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Срезание&gt;</span><span style="color: #645252;font-size:18px">: повышает урон отряда на 15%, против оглушенных врагов эффект удваивается.</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Кровавый натиск
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: после каждого критического удара дает +2% к критическому урону. Суммируется до 20 раз.</span>
 
-### 6th Skill (or 5th): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Кровожадный удар
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: после каждого критического удара случайный враг с шансом 50% получает 40% урона.</span>
 
 ## Technical info
  **runart:** 0
@@ -188,5 +249,5 @@ toc: true
 
  **talk2:** Орки ничего не боятся!
 
- **talk3:** null
+ **talk3:** Ah, a fresh meal! Pity they don't come unwrapped, I do find armour sticks in the teeth.
 

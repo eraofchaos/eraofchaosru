@@ -1,40 +1,48 @@
 ---
-title: "Unknown_TEAM_605"
-permalink: /ru/units/Genie/
-excerpt: "Отряды null"
+title: "Genie"
+permalink: /units/Genie/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_605"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Genie"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Башня](/units/Fraction Башня)
 
  **Race:** Человек
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Дареная энергия: превращает атаку в лечение
 
- **Info:** Могущественный целитель, усиливает отряды. Заклинания героев приводят к срабатыванию усиления.
+ **Short description:** powerful buffs and heals
 
-## Базовые параметры
- **Base HP:** 662.0
+ **Position :** A powerful healer that also provides buff. The heroes' spells trigger its buff.
 
- **Base ATK:** 102.6
+ **Recommend:** Warrior, Mage and Priest work well together.  
+
+## Basic stats
+ **Base HP: 662.0**
+
+ **Base ATK: 102.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 90.8 | 7.5 | 1261.5 |
+  | Green | 90.8 | 7.5 | 1261.5 |
   | Синий | 181.6 | 15.0 | 2523.0 |
   | Blue +1 | 272.4 | 22.5 | 3784.5 |
   | Синий +2 | 381.36 | 31.5 | 5298.3 |
@@ -57,42 +65,97 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 32.688 | 0.36 | 5.6 | 302.76 |
   | **6x** <i class="fas fa-star"/> | 36.32 | 0.38 | 6.25 | 336.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Мистическая золотая лампа](/equipment/Мистическая золотая лампа/) | **АТК** | **DEF** | 
+  | [Странное кристаллическое украшение](/equipment/Странное кристаллическое украшение/) | **ОЗ** | **DEF** | 
+  | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **DEF** | 
+  | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Дар заклинания
- **Описание:** <span style="color: #645252;font-size:20px">Когда атака джиннов переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере 80% от АТК джиннов. Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Дар заклинания
+ **Описание:** <span style="color: #645252;font-size:20px">Когда атака джиннов переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере 80% от АТК джиннов. Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Когда джинны на поле боя, они благословляют 3 случайных союзных отряда, что дает им один из следующих эффектов: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда или </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
+### Regular Skill 1 : Three Wishes
+ **Описание:** <span style="color: #645252;font-size:20px">Когда джинны на поле боя, они благословляют 3 случайных союзных отряда, что дает им один из следующих эффектов: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда или </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** <span style="color: #645252;font-size:20px">Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
+### Regular Skill 2 : Magic Wick
+ **Описание:** <span style="color: #645252;font-size:20px">Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">При усилении джиннов заклинанием поддержки союзного героя они восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у отряда с самым низким процентом ОЗ. </span><span style="color: black">
+### Regular Skill 3 : Magic Awakening
+ **Описание:** <span style="color: #645252;font-size:20px">При усилении джиннов заклинанием поддержки союзного героя они восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у отряда с самым низким процентом ОЗ. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Трезвый ум
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+### Faction Special Skill I : Трезвый ум
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Энергетический динамит
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Энергетический динамит
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.5+2.5"
+    let str8 = "LEVEL*1+4"
+    let str5 = "LEVEL*2+8"
+    let str6 = "LEVEL*1+4"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "LEVEL*0.5+4.5"
+    let str1 = "LEVEL*0.5+4.5"
+    let str2 = "LEVEL*0.5+4.5"
+    let str10 = "(LEVEL*1.5+4)"
+    let str9 = "(LEVEL*2+10)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Башни (Дозор отрядов Башни)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Tower**  (Дозор отрядов Башни)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Astral/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -113,9 +176,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ владык джиннов на уровнях 15-2 и 15-4 в Подземелье.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Master Genie souls in the Underground: 15-2 and 15-4 levels.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте джиннов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы победить в 3 боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
@@ -123,10 +186,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дареная энергия&gt;</span><span style="color: #645252;font-size:18px">: при обычной атаке восстанавливает ОЗ в размере 25% от АТК. Сопротивление отряда урону повышается на 20%, а скорость АТК - на 10% от собственной.</span>
 
 ### 2nd Skill (or 1st): Энергетическая защита
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
 
 ### 3rd Skill (or 4th): Как пожелаете
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>
 
 ### 4th Skill (or 3rd): Многие благословения
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Три желания&gt;</span><span style="color: #645252;font-size:18px">: благословляет 6 случайных союзных отрядов и дает 2 случайных бонуса (к скорости атаки, урону или сопротивлению урону).</span>
@@ -182,7 +245,7 @@ toc: true
 
  **talk1:** Священный свет не угаснет, пока я храню его!
 
- **talk2:** null
+ **talk2:** Silence! Or I shall silence you forever.
 
- **talk3:** null
+ **talk3:** I am bathed in the holy light!
 

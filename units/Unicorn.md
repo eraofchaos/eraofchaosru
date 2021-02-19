@@ -1,40 +1,48 @@
 ---
 title: "Единорог"
-permalink: /ru/units/Unicorn/
-excerpt: "Отряды Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
+permalink: /units/Unicorn/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Единорог"
 toc: true
 ---
 ## General information
- **Описание:** Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами.
+ **Описание:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
- **Класс:** Штурм
+ **Описание:** [Штурм](/units/Unit Class Штурм)
 
- **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Rampart](/units/Fraction Rampart)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
+
+ **Short description:** Blinds. Its shield and evasion skills increase over time.
+
+ **Position :** Снижает шанс попадания врага, обладает высоким показателем уклонения.
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
- **Info:** Снижает шанс попадания врага, обладает высоким показателем уклонения.
+## Basic stats
+ **Base HP: 1850.0**
 
-## Базовые параметры
- **Base HP:** 1850.0
+ **Base ATK: 151.4**
 
- **Base ATK:** 151.4
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 75.7 | 6.5 | 1387.5 |
+  | Green | 75.7 | 6.5 | 1387.5 |
   | Синий | 151.4 | 13.0 | 2775.0 |
   | Blue +1 | 227.1 | 19.5 | 4162.5 |
   | Синий +2 | 317.94 | 27.3 | 5827.5 |
@@ -58,42 +66,90 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 27.252 | 0.6 | 5.12 | 333.0 |
   | **6x** <i class="fas fa-star"/> | 30.28 | 0.63 | 5.75 | 370.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Зловещий знак](/ru/Emblem/Ominous Sign/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Crystal Longhorn](/equipment/Crystal Longhorn/) | **АТК** | **DEF** | 
+  | [Камни мечтателя](/equipment/Камни мечтателя/) | **ОЗ** | **DEF** | 
+  | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **DEF** | 
+  | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Зловещий знак](/Emblem/Ominous Sign/) (Злой)
+
+## Combination Info
+
+* [Blind](/combination/Blind/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
-### Совершенное умение: null
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: null
  **Описание:** 
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
+### Regular Skill 1 : Flickering Figures
+ **Описание:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
-### Обычное умение 2 : Ангельский свет
- **Описание:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 2 : Ангельский свет
+ **Описание:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 3 : Смелый лидер
- **Описание:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
+### Regular Skill 3 : Смелый лидер
+ **Описание:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Calm Proliferation
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Отметка ненависти
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+### Faction Special Skill II : Отметка ненависти
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*0.9+2.4)"
+    let str3 = "LEVEL*20+80"
+    let str4 = "(LEVEL*1.5+7.5)"
+    let str1 = "(LEVEL*1.5+6)"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Бастион (Дозор отрядов Бастиона)
-* Штурмовой отряд (Дозор штурмовых отрядов)
+* **Бастион**  (Дозор отрядов Бастиона)
+* **Charging**  (Дозор штурмовых отрядов)
 
-### Бонус героя
-* [Мюллих](/ru/heroes/Mullich/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/ru/heroes/Gem/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -105,7 +161,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** War Unicorn
 
  **Awaking Description:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
 
@@ -114,9 +170,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Unicorn and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 

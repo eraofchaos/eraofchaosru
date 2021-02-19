@@ -1,38 +1,44 @@
 ---
-title: "Unknown_TEAM_508"
-permalink: /ru/units/Nightmare/
-excerpt: "Отряды Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
+title: "Nightmare"
+permalink: /units/Nightmare/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_508"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Nightmare"
 toc: true
 ---
 ## General information
  **Описание:** Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Inferno](/units/Fraction Inferno)
 
  **Race:** Одержимый
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Info:** Поддержка защиты. Делает отряды Инферно сильнее.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 2691.0
+ **Short description:** Поддержка. Сильный начальный урон.
 
- **Base ATK:** 84.1
+ **Position :** Поддержка защиты. Делает отряды Инферно сильнее.
+
+## Basic stats
+ **Base HP: 2691.0**
+
+ **Base ATK: 84.1**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 42.05 | 12.5 | 2018.25 |
+  | Green | 42.05 | 12.5 | 2018.25 |
   | Синий | 84.1 | 25.0 | 4036.5 |
   | Blue +1 | 126.15 | 37.5 | 6054.75 |
   | Синий +2 | 176.61 | 52.5 | 8476.65 |
@@ -55,40 +61,92 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 15.138 | 0.6 | 8.0 | 484.38 |
   | **6x** <i class="fas fa-star"/> | 16.82 | 0.63 | 8.75 | 538.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Nightmare Pupil](/equipment/Nightmare Pupil/) | **АТК** | **DEF** | 
+  | [Огонь в бездне](/equipment/Огонь в бездне/) | **ОЗ** | **DEF** | 
+  | [Подкова пепла](/equipment/Подкова пепла/) | **АТК** | **DEF** | 
+  | [Конский волос пламени](/equipment/Конский волос пламени/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Постоянный кошмар
- **Описание:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*2+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+16}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Постоянный кошмар
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### Обычное умение 1 : Ловец снов
- **Описание:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
+### Regular Skill 1 : Ловец снов
+ **Описание:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
 
-### Обычное умение 2 : null
+### Regular Skill 2 : null
  **Описание:** 
 
-### Обычное умение 3 : null
+### Regular Skill 3 : null
  **Описание:** 
 
-### Эксклюзивное умение фракции I : Broiling Strike
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
+### Faction Special Skill I : Broiling Strike
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Резонанс антимагии
-## Значимость
-### Связь дозора
+### Faction Special Skill II : Резонанс антимагии
+ **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
-* null (Дозор отрядов Инферно)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*10+50)"
+    let str6 = "(LEVEL*0.5+7.5)"
+    let str3 = "LEVEL*1+16"
+    let str4 = "LEVEL*1+5"
+    let str1 = "LEVEL*1+9"
+    let str2 = "LEVEL*2+0"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Xeron/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* **Inferno**  (Inferno Roster)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-## Talent
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+
+## Талант
 
 * Атака
 * ОЗ
@@ -102,7 +160,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Description:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
 
 ### Awaking Tasks
  1. 
@@ -111,7 +169,7 @@ toc: true
 
  3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
@@ -124,7 +182,7 @@ toc: true
 ### 3rd Skill (or 4th): 
  **Описание:** 
 
-### 4th Skill (or 3rd): null
+### 4th Skill (or 3rd): 
  **Описание:** 
 
 ### 5th Skill (or 6th): 

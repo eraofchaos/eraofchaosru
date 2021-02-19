@@ -1,42 +1,48 @@
 ---
-title: "Лич"
-permalink: /ru/units/Lich/
-excerpt: "Отряды Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
+title: "Lich"
+permalink: /units/Lich/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Лич"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Lich"
 toc: true
 ---
 ## General information
  **Описание:** Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Нежить
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Жертвоприношение: призывает банду скелетов.
 
+ **Short description:** Призывает скелетов. Усиленная магия кости.
+
+ **Position :** Вызывает и усиливает скелетов. Основа любой стратегии, основанной на призыве нежити.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Вызывает и усиливает скелетов. Основа любой стратегии, основанной на призыве нежити.
+## Basic stats
+ **Base HP: 1581.0**
 
-## Базовые параметры
- **Base HP:** 1581.0
+ **Base ATK: 228.7**
 
- **Base ATK:** 228.7
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 114.35 | 4.0 | 1185.75 |
+  | Green | 114.35 | 4.0 | 1185.75 |
   | Синий | 228.7 | 8.0 | 2371.5 |
   | Blue +1 | 343.05 | 12.0 | 3557.25 |
   | Синий +2 | 480.27 | 16.8 | 4980.15 |
@@ -59,43 +65,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 41.166 | 0.48 | 3.92 | 284.58 |
   | **6x** <i class="fas fa-star"/> | 45.74 | 0.5 | 4.5 | 316.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Загробный посох](/equipment/Загробный посох/) | **АТК** | **DEF** | 
+  | [Корона мертвечины](/equipment/Корона мертвечины/) | **ОЗ** | **DEF** | 
+  | [Пояс души](/equipment/Пояс души/) | **АТК** | **DEF** | 
+  | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Забытая фамилия](/Emblem/Forgotten Autonym/) (Злой)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: Жертвоприношение
- **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+10.5)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*30+220)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Жертвоприношение
+ **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 1 : Ядовитое облако
- **Описание:** <span style="color: #645252;font-size:20px">Обычная атака личей с вероятностью </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит урон 3 целям. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 1 : Ядовитое облако
+ **Описание:** <span style="color: #645252;font-size:20px">Lich's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### Обычное умение 2 : Темное усиление
- **Описание:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
+### Regular Skill 2 : Темное усиление
+ **Описание:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
 
-### Обычное умение 3 : Жертвоприношение скелета
- **Описание:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+13}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
+### Regular Skill 3 : Жертвоприношение скелета
+ **Описание:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+### Faction Special Skill I : Мрачная защита
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Гармония заклинаний
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Faction Special Skill II : Гармония заклинаний
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*2+13"
+    let str6 = "(LEVEL*1+10)"
+    let str3 = "LEVEL*10+90"
+    let str4 = "LEVEL*4+16"
+    let str1 = "(LEVEL*1.5+10.5)*(TLEVEL+9)"
+    let str2 = "(LEVEL*30+220)*(TLEVEL+9)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Некрополь (Дозор отрядов Некрополя)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Некрополь**  (Дозор отрядов Некрополя)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [null](/ru/heroes/Vidomina/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/ru/heroes/Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/ru/heroes/Human Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -112,11 +169,11 @@ toc: true
  **Awaking Description:** Чтобы увидеть истинный смысл смерти и открыть тайну вечной жизни, исследователи жизни готовы жертвовать жизнями смертных. После этой великой церемонии бессмертные чародеи возвращаются из мертвых.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Lich with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. null
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте Видомину и личей, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 

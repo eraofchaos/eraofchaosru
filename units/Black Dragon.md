@@ -1,40 +1,48 @@
 ---
-title: "Красный дракон"
-permalink: /ru/units/Black Dragon/
-excerpt: "Отряды null"
+title: "Black Dragon"
+permalink: /units/Black Dragon/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Красный дракон"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Black Dragon"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Dungeon](/units/Fraction Dungeon)
 
- **Race:** null
+ **Race:** Дракон
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+
+ **Short description:** Сбалансированный с магической атакой и защитой.
+
+ **Position :** Находится на вершине пирамиды. Обладает неуязвимостью к заклинаниям.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Находится на вершине пирамиды. Обладает неуязвимостью к заклинаниям.
+## Basic stats
+ **Base HP: 8712.0**
 
-## Базовые параметры
- **Base HP:** 8712.0
+ **Base ATK: 430.0**
 
- **Base ATK:** 430.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 215.0 | 14.5 | 6534.0 |
+  | Green | 215.0 | 14.5 | 6534.0 |
   | Синий | 430.0 | 29.0 | 13068.0 |
   | Blue +1 | 645.0 | 43.5 | 19602.0 |
   | Синий +2 | 903.0 | 60.9 | 27442.8 |
@@ -57,40 +65,93 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 77.4 | 0.44 | 8.96 | 1568.16 |
   | **6x** <i class="fas fa-star"/> | 86.0 | 0.46 | 9.75 | 1742.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Когти магического дракона](/equipment/Когти магического дракона/) | **АТК** | **DEF** | 
+  | [Опустошающий огонь](/equipment/Опустошающий огонь/) | **ОЗ** | **DEF** | 
+  | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **DEF** | 
+  | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+* [Горение](/combination/Горение/) 
+
 
 ## Skills
-### Совершенное умение: Дыхание дракона
- **Описание:** <span style="color: #645252;font-size:20px">Черные драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским отрядам в очень широком радиусе каждые 15 сек. Они также наносят ближайшим отрядам дополнительный урон, равный </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ, и вызывают их <span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Дыхание дракона
+ **Описание:** <span style="color: #645252;font-size:20px">Черные драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским отрядам в очень широком радиусе каждые 15 сек. Они также наносят ближайшим отрядам дополнительный урон, равный </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ, и вызывают их <span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Чешуя черного дракона
- **Описание:** <span style="color: #645252;font-size:20px">У черных драконов иммунитет к <span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и <span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px">. При получении критического удара восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. Перезарядка - 6 сек. </span><span style="color: black">
+### Regular Skill 1 : Чешуя черного дракона
+ **Описание:** <span style="color: #645252;font-size:20px">У черных драконов иммунитет к <span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и <span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px">. При получении критического удара восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. Перезарядка - 6 сек. </span><span style="color: black">
 
-### Обычное умение 2 : Иммунитет к магии
- **Описание:** <span style="color: #645252;font-size:20px">Иммунитет к урону от заклинаний всех героев. Повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урон на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> при каждом применении &lt;Дыхания дракона&gt; в течение всего боя. Эффект суммируется до 4 раз.</span><span style="color: black">
+### Regular Skill 2 : Иммунитет к магии
+ **Описание:** <span style="color: #645252;font-size:20px">Иммунитет к урону от заклинаний всех героев. Повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урон на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> при каждом применении &lt;Дыхания дракона&gt; в течение всего боя. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Обычное умение 3 : Адаптация к высоким температурам
- **Описание:** <span style="color: #645252;font-size:20px">Черные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. В бою против <span style="color: #48b946;font-size:20px">горящих</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядов эффект сопротивления урону удваивается. В бою черных драконов против отряда фракции Башни они получают +50% к урону.</span><span style="color: black">
+### Regular Skill 3 : Адаптация к высоким температурам
+ **Описание:** <span style="color: #645252;font-size:20px">Черные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. В бою против <span style="color: #48b946;font-size:20px">горящих</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядов эффект сопротивления урону удваивается. Против отрядов Башни черные драконы получают +50% к урону отряда и +50% сопротивления урону.</span><span style="color: black">
 
-### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+### Faction Special Skill : Темный конфликт
+ **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+5"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*0.25+1.25"
+    let str6 = "LEVEL*1+9"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "LEVEL*0.5+2.5"
+    let str1 = "((LEVEL*5+65))*0.01*ATK"
+    let str2 = "LEVEL*0.2+1.8"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Подземелье (Дозор отрядов Подземелья)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Подземелье**  (Дозор отрядов Подземелья)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/ru/heroes/Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Dragon Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -118,16 +179,16 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Магнитные чешуйки
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
 
 ### 2nd Skill (or 1st): Расплавленная броня дракона
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Иммунитет к магии&gt;</span><span style="color: #645252;font-size:18px">: при каждом применении &lt;Дыхания дракона&gt; черный дракон получает двойное усиление (суммируется до 4 раз). Этот эффект не может быть рассеян.</span>
 
 ### 3rd Skill (or 4th): Распределенное питание
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Restores additional 2% HP when hit by a Crit Hit. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
 
 ### 4th Skill (or 3rd): Вулканический блок
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Black Dragon's healing amount increased by 10%. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
 
 ### 5th Skill (or 6th): null
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дыхание дракона&gt;</span><span style="color: #645252;font-size:18px">: урон от &lt;Дыхания дракона&gt; повышен до 200% от урона предыдущего умения. Если вражеский герой применяет заклинание, черный дракон 1 раз использует &lt;Дыхание дракона&gt; (невозможно запустить умения разрушителя магии, потому что это не умение разрушителя магии). Восстановление: 15 сек.</span>

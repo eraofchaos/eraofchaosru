@@ -1,40 +1,48 @@
 ---
-title: "Unknown_TEAM_602"
-permalink: /ru/units/Stone Gargoyle/
-excerpt: "Отряды Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
+title: "Stone Gargoyle"
+permalink: /units/Stone Gargoyle/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_602"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Stone Gargoyle"
 toc: true
 ---
 ## General information
- **Описание:** Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов.
+ **Описание:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Башня](/units/Fraction Башня)
 
  **Race:** Человек
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Stone Form: Increases ATK and ATK speed
+
+ **Short description:** Высокая АТК, сопротивление магии, проникновение.
+
+ **Position :** Can turn to stone form to improve all its attributes. Able to break your enemy's line of defense effectively.
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
- **Info:** Может принимать каменное обличье для усиления всех характеристик. Обладает способностью прорывать линию обороны врага.
+## Basic stats
+ **Base HP: 300.0**
 
-## Базовые параметры
- **Base HP:** 300.0
+ **Base ATK: 48.0**
 
- **Base ATK:** 48.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 50.5 | 5.25 | 570.75 |
+  | Green | 50.5 | 5.25 | 570.75 |
   | Синий | 101.0 | 10.5 | 1141.5 |
   | Blue +1 | 151.5 | 15.75 | 1712.25 |
   | Синий +2 | 212.1 | 22.05 | 2397.15 |
@@ -58,42 +66,96 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.18 | 0.54 | 4.52 | 136.98 |
   | **6x** <i class="fas fa-star"/> | 20.2 | 0.56 | 5.13 | 152.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Stone Horn](/equipment/Stone Horn/) | **АТК** | **DEF** | 
+  | [Каменные крылья](/equipment/Каменные крылья/) | **ОЗ** | **DEF** | 
+  | [Острые каменные когти](/equipment/Острые каменные когти/) | **АТК** | **DEF** | 
+  | [Зачарованный хвост](/equipment/Зачарованный хвост/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Каменное обличье
- **Описание:** <span style="color: #645252;font-size:20px">Каменные горгульи приобретают &lt;Каменное обличье&gt; на 10 сек. каждые 20 сек. На это время они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Каменное обличье
+ **Описание:** <span style="color: #645252;font-size:20px">The Stone Gargoyle will be in &lt;Stone Form&gt; for 10s every 20s. During this time, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its ATK speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 1 : Высокое подавление
- **Описание:** <span style="color: #645252;font-size:20px">В бою с отрядом, не умеющим летать, каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+### Regular Skill 1 : Высокое подавление
+ **Описание:** <span style="color: #645252;font-size:20px">В бою с отрядом, не умеющим летать, каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-### Обычное умение 2 : Острый коготь
- **Описание:** <span style="color: #645252;font-size:20px">Каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к пробиванию защиты. Для оборонительных отрядов эффект удваивается.</span><span style="color: black">
+### Regular Skill 2 : Острый коготь
+ **Описание:** <span style="color: #645252;font-size:20px">Каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к пробиванию защиты. Для оборонительных отрядов эффект удваивается.</span><span style="color: black">
 
-### Обычное умение 3 : Каменное подкрепление
- **Описание:** <span style="color: #645252;font-size:20px">Когда каменные горгульи находятся в &lt;Каменном обличье&gt;, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Regular Skill 3 : Каменное подкрепление
+ **Описание:** <span style="color: #645252;font-size:20px">Когда каменные горгульи находятся в &lt;Каменном обличье&gt;, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Трезвый ум
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+### Faction Special Skill I : Трезвый ум
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Энергетический динамит
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Энергетический динамит
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*2+28"
+    let str8 = "(LEVEL*2+10)"
+    let str5 = "(LEVEL*0.2+0.8)*(TLEVEL+9)"
+    let str6 = "LEVEL*2+28"
+    let str3 = "LEVEL*6+24"
+    let str4 = "LEVEL*1+5"
+    let str1 = "LEVEL*5+25"
+    let str2 = "LEVEL*1+14"
+    let str9 = "(LEVEL*1.5+4)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Башни (Дозор отрядов Башни)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Tower**  (Дозор отрядов Башни)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Astral/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -110,9 +172,9 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -124,18 +186,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Infiltration Strategy
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Fatigue Attack
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

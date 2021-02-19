@@ -1,38 +1,44 @@
 ---
-title: "Unknown_TEAM_902"
-permalink: /ru/units/Storm Elemental/
-excerpt: "Отряды null"
+title: "Storm Elemental"
+permalink: /units/Storm Elemental/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_902"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Storm Elemental"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
 
- **Класс:** Стрелковый
+ **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
 
- **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Хозяин зверей
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Info:** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
-## Базовые параметры
- **Base HP:** 662.0
+ **Short description:** Marks for high single-target damage.
 
- **Base ATK:** 99.2
+ **Position :** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
+
+## Basic stats
+ **Base HP: 662.0**
+
+ **Base ATK: 99.2**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 49.6 | 3.0 | 496.5 |
+  | Green | 49.6 | 3.0 | 496.5 |
   | Синий | 99.2 | 6.0 | 993.0 |
   | Blue +1 | 148.8 | 9.0 | 1489.5 |
   | Синий +2 | 208.32 | 12.6 | 2085.3 |
@@ -56,42 +62,95 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 17.856 | 0.67 | 3.44 | 119.16 |
   | **6x** <i class="fas fa-star"/> | 19.84 | 0.7 | 4.0 | 132.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Мерцающий шар молнии](/equipment/Мерцающий шар молнии/) | **АТК** | **DEF** | 
+  | [Thunder Core](/equipment/Thunder Core/) | **ОЗ** | **DEF** | 
+  | [Magic Claw](/equipment/Magic Claw/) | **АТК** | **DEF** | 
+  | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+* [Разряд](/combination/Разряд/) 
+
 
 ## Skills
-### Совершенное умение: Отметка разряда
- **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, элементали Шторма применяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> ко всем вражеским отрядам на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Отметка разряда
+ **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, элементали Шторма применяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> ко всем вражеским отрядам на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 1 : Скачущая молния
- **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
+### Regular Skill 1 : Скачущая молния
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** 
+### Regular Skill 2 : Elemental Force
+ **Описание:** <span style="color: #645252;font-size:20px">When Storm Elemental is on the battlefield, it increases air magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces air magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Storm Elemental is on the battlefield, increases friendly hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 3 : Пробивание разрядом
- **Описание:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+### Regular Skill 3 : Пробивание разрядом
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*3+15)"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*0.7+9.3"
+    let str6 = "LEVEL*1+9"
+    let str3 = "LEVEL*1.8+5.7"
+    let str4 = "LEVEL*1.2+3.8"
+    let str1 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*1+5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Гармония (Дозор отрядов Гармонии)
-* Стрелок (Дозор стрелковых отрядов)
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Стрелок**  (Дозор стрелковых отрядов)
 
-### Бонус героя
-* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Ciele/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -103,7 +162,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Ураган молний
+ **Awaking Name:** Lightning Storm
 
  **Awaking Description:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
 
@@ -130,7 +189,7 @@ toc: true
 ### 4th Skill (or 3rd): Разрывная молния
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: урон умения удваивается</span>
 
-### 5th Skill (or 6th): null
+### 5th Skill (or 6th): Conflux Aura
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, два случайных отряда на задней линии получают +25% к скорости атаки на 10 сек.</span>
 
 ### 6th Skill (or 5th): Взрыв Гармонии

@@ -1,42 +1,48 @@
 ---
 title: "Медуза"
-permalink: /ru/units/Medusa/
-excerpt: "Отряды null"
+permalink: /units/Medusa/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Медуза"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
- **Класс:** Стрелковый
+ **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
 
- **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Dungeon](/units/Fraction Dungeon)
 
- **Race:** null
+ **Race:** Злой дух
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Каменный взгляд: превращает врага в камень и снижает сопротивление урону отряда
 
+ **Short description:** Превращает в камень. Большой УВС
+
+ **Position :** Эффект окаменения. Высокий урон увеличивается с ростом вероятности критического удара.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Эффект окаменения. Высокий урон увеличивается с ростом вероятности критического удара.
+## Basic stats
+ **Base HP: 1144.0**
 
-## Базовые параметры
- **Base HP:** 1144.0
+ **Base ATK: 202.0**
 
- **Base ATK:** 202.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 101.0 | 4.5 | 858.0 |
+  | Green | 101.0 | 4.5 | 858.0 |
   | Синий | 202.0 | 9.0 | 1716.0 |
   | Blue +1 | 303.0 | 13.5 | 2574.0 |
   | Синий +2 | 424.2 | 18.9 | 3603.6 |
@@ -59,41 +65,91 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.36 | 0.73 | 4.16 | 205.92 |
   | **6x** <i class="fas fa-star"/> | 40.4 | 0.76 | 4.75 | 228.8 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Большой лук резни](/equipment/Большой лук резни/) | **АТК** | **DEF** | 
+  | [Волосы из извивающихся змей](/equipment/Волосы из извивающихся змей/) | **ОЗ** | **DEF** | 
+  | [Queen's Crown](/equipment/Queen's Crown/) | **АТК** | **DEF** | 
+  | [Abyss Armor](/equipment/Abyss Armor/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+
+## Combination Info
+
+* [Окаменение](/combination/Окаменение/) 
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: Каменный взгляд
- **Описание:** 
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Stone Gaze
+ **Описание:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Обычное умение 1 : Стрела со змеиным ядом
- **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 1 : Стрела со змеиным ядом
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 2 : Кожа разрушителя магии
- **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
+### Regular Skill 2 : Кожа разрушителя магии
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Обычное умение 3 : Обратный удар
- **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*30+120}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
+### Regular Skill 3 : Обратный удар
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
 
-### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+### Faction Special Skill : Темный конфликт
+ **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "LEVEL*30+120"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "LEVEL*2+8"
+    let str4 = "LEVEL*2+8"
+    let str1 = "LEVEL*0.5+4.5"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Подземелье (Дозор отрядов Подземелья)
-* Стрелок (Дозор стрелковых отрядов)
+* **Подземелье**  (Дозор отрядов Подземелья)
+* **Стрелок**  (Дозор стрелковых отрядов)
 
-### Бонус героя
-* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/ru/heroes/Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сефинрот](/ru/heroes/Sephinroth/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Dragon Mutare/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сефинрот](/heroes/Sephinroth/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -103,40 +159,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Medusa Queen
 
- **Awaking Description:** null
+ **Awaking Description:** В мрачной темнице стоит немало статуй. На фоне белоснежной чешуи они как живые.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #876741;font-size:18px">Используйте медуз и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Мастер» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ королевских медуз на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Deploy Medusa and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Волосы-змеи
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каменный взгляд&gt;</span><span style="color: #645252;font-size:18px">: превращает в камень врагов в определенном радиусе от себя на время, равное половине длительности «Каменного взгляда».</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+### 2nd Skill (or 1st): Массовое окаменение
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каменный взгляд&gt;</span><span style="color: #645252;font-size:18px">: превращает в камень случайный вражеский отряд ближнего боя на время, равное половине длительности «Каменного взгляда».</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+### 3rd Skill (or 4th): Истощающий яд
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стрела со змеиным ядом&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. выпускает ядовитую стрелу, снижающую выбранному отряду скорость атаки на 20% и урон на 25%. Эффект длится 10 сек.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+### 4th Skill (or 3rd): Сильнодействующий яд
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стрела со змеиным ядом&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. выпускает ядовитую стрелу, снижающую у выбранного отряда эффективность лечения на 30% и сопротивление урону на 25%. Эффект длится 10 сек.</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Бессмертная любовь
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кожа разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда здоровье отрядов медуз падает до 50%, дает щит, способный выдержать 6 атак, и восстанавливает себе 30% от макс. ОЗ. Срабатывает один раз за бой.</span>
 
-### 6th Skill (or 5th): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Смертельный бой
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кожа разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда здоровье отрядов медуз падает до 50%, дает +50% к урону отряда, +50% к скорости атаки и +60% к крит. урону на 5 сек. Срабатывает один раз за бой.</span>
 
 ## Technical info
  **runart:** 0

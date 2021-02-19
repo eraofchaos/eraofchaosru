@@ -1,40 +1,48 @@
 ---
 title: "Железный голем"
-permalink: /ru/units/Iron Golem/
-excerpt: "Отряды Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
+permalink: /units/Iron Golem/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Железный голем"
 toc: true
 ---
 ## General information
  **Описание:** Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Башня](/units/Fraction Башня)
 
  **Race:** Человек
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
+
+ **Short description:** Высокое сопротивление магии.
+
+ **Position :** Обладает невосприимчивостью к заклинаниям героев. Заклинания героев приводят к срабатыванию восстановления здоровья.
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
- **Info:** Обладает невосприимчивостью к заклинаниям героев. Заклинания героев приводят к срабатыванию восстановления здоровья.
+## Basic stats
+ **Base HP: 1850.0**
 
-## Базовые параметры
- **Base HP:** 1850.0
+ **Base ATK: 151.4**
 
- **Base ATK:** 151.4
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 67.5 | 12.5 | 1917.0 |
+  | Green | 67.5 | 12.5 | 1917.0 |
   | Синий | 135.0 | 25.0 | 3834.0 |
   | Blue +1 | 202.5 | 37.5 | 5751.0 |
   | Синий +2 | 283.5 | 52.5 | 8051.4 |
@@ -58,42 +66,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.3 | 0.35 | 8.0 | 460.08 |
   | **6x** <i class="fas fa-star"/> | 27.0 | 0.36 | 8.75 | 511.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Iron Gauntlets](/equipment/Iron Gauntlets/) | **АТК** | **DEF** | 
+  | [Шипастые наплечники](/equipment/Шипастые наплечники/) | **ОЗ** | **DEF** | 
+  | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **DEF** | 
+  | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Резонанс металла
- **Описание:** <span style="color: #645252;font-size:20px">Железные големы поднимают покров, повышая сопротивление урону союзных отрядов на 30% на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+9.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Резонанс металла
+ **Описание:** <span style="color: #645252;font-size:20px">Железные големы поднимают покров, повышая сопротивление урону союзных отрядов на 30% на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 1 : Сила
- **Описание:** <span style="color: #645252;font-size:20px">Железные големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
+### Regular Skill 1 : Сила
+ **Описание:** <span style="color: #645252;font-size:20px">Железные големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
-### Обычное умение 2 : Железное тело
- **Описание:** <span style="color: #645252;font-size:20px">У железных големов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда железные големы получают урон от заклинаний героя, они получают +100% к сопротивлению магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.8+7.2}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+### Regular Skill 2 : Железное тело
+ **Описание:** <span style="color: #645252;font-size:20px">У железных големов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда железные големы получают урон от заклинаний героя, они получают +100% к сопротивлению магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 3 : Магическое пробуждение
- **Описание:** <span style="color: #645252;font-size:20px">При усилении железных големов заклинанием поддержки союзного героя восстанавливаются </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.3+1.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ. В то же самое время отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. </span><span style="color: black">
+### Regular Skill 3 : Магическое пробуждение
+ **Описание:** <span style="color: #645252;font-size:20px">При усилении железных големов заклинанием поддержки союзного героя восстанавливаются </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ. В то же самое время отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Трезвый ум
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+### Faction Special Skill I : Трезвый ум
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Энергетический динамит
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Энергетический динамит
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*2+10)"
+    let str8 = "(LEVEL*1.5+4)"
+    let str5 = "LEVEL*0.3+1.2"
+    let str6 = "LEVEL*0.6+2.4"
+    let str3 = "LEVEL*1+4"
+    let str4 = "LEVEL*0.8+7.2"
+    let str1 = "LEVEL*0.8+9.2"
+    let str2 = "LEVEL*2+8"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Башни (Дозор отрядов Башни)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Tower**  (Дозор отрядов Башни)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Astral/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -103,16 +163,16 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** Золотой голем
+ **Awaking Name:** Gold Golem
 
  **Awaking Description:** Таинственный волшебный сплав делает золотых големов неразрушимыми, и они, похоже, способны противостоять любым атакам. Они преданно охраняют Башню, и этот барьер не преодолеть ни одному врагу.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте железных големов и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Башни, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Iron Golem with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. null
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых големов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
@@ -121,10 +181,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Защита сородичей
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction</span>
 
 ### 2nd Skill (or 1st): Защита воинов
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units</span>
 
 ### 3rd Skill (or 4th): Тело против магии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Железное тело&gt;</span><span style="color: #645252;font-size:18px">: когда железные големы получают урон от заклинаний героя, они получают +30% к ЗЩТ на 10 сек.</span>
@@ -133,7 +193,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Железное тело&gt;</span><span style="color: #645252;font-size:18px">: железные големы получают +20% к ЗЩТ.</span>
 
 ### 5th Skill (or 6th): Мощное пробуждение
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: восстановление, вызванное Магическим пробуждением, повышается на 30%, а суммируемое сопротивление урону - на 30%.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%</span>
 
 ### 6th Skill (or 5th): Пробуждение сородичей
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: ваши отряды Башни получают +5% к ЗЩТ. Эффект может суммироваться до 3 раз.</span>
@@ -179,5 +239,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** null
+ **talk3:** You'll never catch me!
 

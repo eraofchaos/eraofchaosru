@@ -1,41 +1,47 @@
 ---
-title: "Ice Demon"
-permalink: /ru/units/Ice Demon/
-excerpt: "Отряды  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb."
+title: "Ледяной демон"
+permalink: /units/Ice Demon/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
 unitID: 908
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Ice Demon"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Ледяной демон"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
+**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
- **Описание:**  In the water plane, the Ice Demon is a special kind of being. She's like eternal ice, blinding the eyes and robbing the breath, making her look like a corpse buried in some glacial tomb.
+ **Описание:** Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед.
 
- **Класс:** Стрелковый
+ **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
 
- **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Хозяин зверей
 
- **Members:** x4
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** UR
+ **Rank:** [Командующий](/units/Unit Rank Командующий)
 
- **Info:** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 5996.3
+ **Short description:** Контроль стрелков, усиление союзников
 
- **Base ATK:** 565.7
+ **Position :** Контроль стрелков, усиление союзников
+
+## Basic stats
+ **Base HP: 5996.3**
+
+ **Base ATK: 565.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 282.85 | 12.75 | 4497.225 |
+  | Green | 282.85 | 12.75 | 4497.225 |
   | Синий | 565.7 | 25.5 | 8994.45 |
   | Blue +1 | 848.55 | 38.25 | 13491.675 |
   | Синий +2 | 1187.97 | 53.55 | 18888.345 |
@@ -58,45 +64,117 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.54 | 8.12 | 1079.334 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.56 | 8.88 | 1199.26 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ancient Ice](/equipment/Ancient Ice/) | **АТК** | **DEF** | 
+  | [Ледяное прикосновение](/equipment/Ледяное прикосновение/) | **ОЗ** | **DEF** | 
+  | [Frigid Helm](/equipment/Frigid Helm/) | **АТК** | **DEF** | 
+  | [Throne of Ice](/equipment/Throne of Ice/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/Emblem/Arrogance/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение:  Glacial Spur
- **Описание:** <span style="color: #645252;font-size:20px">Ice Demon releases Glacier's Thorn every 11 seconds, dealing 3 </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Damage, Glacier's Thorn Blast deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">additional attack damage to 3 enemy regiments in a larger area with </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+5} 48b946,fontsize=20]"Frostbite" </span><span style="color: black"><span style="color: #645252;font-size:20px"> effect, lasting 11 seconds. </span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Ледяной укол
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 11 сек. ледяной демон активирует «Ледяной укол» и 3 раза наносит вражеским отрядам урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК, а при крит. ударе 3 вражеских отряда в довольно большой области дополнительно получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">обморожение</span><span style="color: black"><span style="color: #645252;font-size:20px">. Длительность 6 сек.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Corps damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">; </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px"> For each elemental regiment on the field, the Ice Demon increases </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4}%</span><span style="color: black"> <span style="color: #645252;font-size:20px">Attack speed and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">Blast value; </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">For every 1 long-range (Archer/Magic) Corps on the field, Ice Magic improves </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps Damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">Armor Break; </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Ice Demon Normal Attack has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+22.5}%</span><span style="color: black">[ color=645252,fontsize=20]Probability to target unit </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+1.8}</span><span style="color: black"><span style="color: #645252;font-size:20px">Seconds</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> effect; </span><span style="color: black"><br/><span style="color: #ffff,f"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px"> ice demon normal attack has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+23.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Probability of </span><span style="color: black"><span style="color: #48b946;font-size:20px">"Ice'' to target unit</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+23.5} </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">The effect is non-dispelable, lasts 4 seconds, and has a cooldown time of 8 seconds. </span><span style="color: black">
+### Regular Skill 1 : Frost Triumph
+ **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд Гармонии повышает скорость атаки ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и крит. удар - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд дальнего боя (стрелки/заклинатели) повышает отрядный урон ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> накладывает на цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозку</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 4 сек. и не рассеивается. Перезарядка 8 сек.</span><span style="color: black">
 
-### Обычное умение 2 :  Absolute Zero
- **Описание:** <span style="color: #645252;font-size:20px">When the Ice Demon is present, the enemy's defense corps with more than 50% blood will be subject to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> max life damage, 30% increase in effect on </span><span style="color: black"><span style="color: #48b946;font-size:20px"> "Frostbite" </span><span style="color: black"><span style="color: #645252;font-size:20px"> status units; </span><span style="color: black"><br/><span style="color: #ffff,f"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Ice Devils vs. Time Freeze</span><span style="color: black"><span style="color: #645252;font-size:20px">Additional attack by the Ice Demon on status units</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">damage; </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Attack speed is reduced when all enemy units have less than 50% blood </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+### Regular Skill 2 : Абсолютный нуль
+ **Описание:** <span style="color: #645252;font-size:20px">В присутствии ледяного демона вражеские отряды защиты со здоровьем выше 50% каждые 3 сек. получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, а цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;обморожением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> - на 30% больше урона.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Целям, пораженным </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозкой&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановкой времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ледяной демон дополнительно наносит урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у всех врагов здоровье ниже 50%, скорость атаки снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 3 : Ice Domination
- **Описание:** <span style="color: #645252;font-size:20px">Ice Demons are immune to the </span><span style="color: black"><span style="color: #48b946;font-size:20px">`Frozen' </span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">"Time Freeze"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect; </span><span style="color: black"><br/><span style="color: #ffff,f"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px"> ice demon remote every 13 seconds for your opponent The Corps provides </span><span style="color: black"><span style="color: #48b946;font-size:20px"> "Crystal Armor" </span><span style="color: black"><span style="color: #645252;font-size:20px">, increasing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}%</span><span style="color: black">[ COLOR=645252,FONTSIZE=20]Corps is woundless, cannot be dispelled, cannot be stacked, lasts 6 seconds, disappears after taking 10 damage, doubles the number of times the ice demon itself. </span><span style="color: black">
+### Regular Skill 3 : Правитель стужи
+ **Описание:** <span style="color: #645252;font-size:20px">У Ледяного демона и отрядов в довольно большой области (кроме отрядов Крепости) появляется иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозке&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый 13 сек. ледяной демон дает союзным отрядам дальнего боя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кристальную броню&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, повышающую урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект не рассеивается, не суммируется, длится 6 сек. и исчезает после 5 входящих атак с уроном. У ледяного демона попыток применения вдвое больше.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Обычное умение 6 :  Arctic Field
- **Описание:** <span style="color: #645252;font-size:20px">Ice Demon increases its own </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Corps damage when fighting 3 elemental camp corps. and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">Attack Speed; </span><span style="color: black"></span><span style="color: black"><span style="color: #ffff,f"> </span><span style="color: black"></span><span style="color: black">[ color=645252,fontsize=20]At the 8th second of the opening, expand </span><span style="color: black"><span style="color: #F0F000;font-size:20px"> the "Extreme Cold Field" </span><span style="color: black"><span style="color: #645252;font-size:20px">Field </span><span style="color: black">[ color=645252,fontsize=20], the field effect grows with skill level and lasts 15 seconds, then triggers every 35 seconds. </span><span style="color: black">
+### Regular Skill 6 : Студеный край
+ **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Гармонии дает ледяному демону +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В первые 8 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Студеного края&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее запускается с интервалом 30 сек.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*5+25"
+    let str8 = "LEVEL*1.5+22.5"
+    let str5 = "LEVEL*5+25"
+    let str18 = "LEVEL*2+5"
+    let str6 = "LEVEL*0.4+4"
+    let str3 = "LEVEL*0.5+12.5"
+    let str4 = "LEVEL*0.4+4"
+    let str1 = "LEVEL*5+45"
+    let str2 = "LEVEL*3+5"
+    let str12 = "LEVEL*3+10"
+    let str13 = "LEVEL*1+10"
+    let str10 = "LEVEL*0.5+23.5"
+    let str11 = "LEVEL*0.2+4"
+    let str16 = "(LEVEL*1+5)"
+    let str17 = "LEVEL*2+4"
+    let str9 = "LEVEL*0.2+1.8"
+    let str14 = "LEVEL*5+25"
+    let str15 = "(LEVEL*3+15)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str18); document.getElementById('str18').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
+     res = eval(str17); document.getElementById('str17').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Гармония (Дозор отрядов Гармонии)
-* Стрелок (Дозор стрелковых отрядов)
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Стрелок**  (Дозор стрелковых отрядов)
 
-### Бонус героя
-* [Джелу](/ru/heroes/Gelu/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Ciele/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -113,9 +191,9 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -127,18 +205,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Infiltration Strategy
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Fatigue Attack
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

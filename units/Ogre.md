@@ -1,42 +1,48 @@
 ---
-title: "Огр"
-permalink: /ru/units/Ogre/
-excerpt: "Отряды null"
+title: "Ogre"
+permalink: /units/Ogre/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Огр"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Ogre"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Fraction Цитадель)
 
- **Race:** null
+ **Race:** Barbarian
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
  **Unit description:** Бассейн крови: усиливает высасывание жизни ближайших отрядов.
 
+ **Short description:** Имеет щит и исцеляющую ауру.
+
+ **Position :** Создает мощный щит, улучшая показатели всех отрядов ближнего боя.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Создает мощный щит, улучшая показатели всех отрядов ближнего боя.
+## Basic stats
+ **Base HP: 2523.0**
 
-## Базовые параметры
- **Base HP:** 2523.0
+ **Base ATK: 107.6**
 
- **Base ATK:** 107.6
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 53.8 | 15.0 | 1892.25 |
+  | Green | 53.8 | 15.0 | 1892.25 |
   | Синий | 107.6 | 30.0 | 3784.5 |
   | Blue +1 | 161.4 | 45.0 | 5676.75 |
   | Синий +2 | 225.96 | 63.0 | 7947.45 |
@@ -60,43 +66,97 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.368 | 0.41 | 9.2 | 454.14 |
   | **6x** <i class="fas fa-star"/> | 21.52 | 0.43 | 10.0 | 504.6 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Посох с головой барана](/equipment/Посох с головой барана/) | **АТК** | **DEF** | 
+  | [Пояс ритуала](/equipment/Пояс ритуала/) | **ОЗ** | **DEF** | 
+  | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **DEF** | 
+  | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Blood Pool
+ **Описание:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Кожа колдуна
- **Описание:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.7)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*160+640}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}% к урону отряда.</span><span style="color: black">
+### Regular Skill 1 : Кожа колдуна
+ **Описание:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>% к урону отряда.</span><span style="color: black">
 
-### Обычное умение 2 : Буйство
- **Описание:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
+### Regular Skill 2 : Rampage
+ **Описание:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 3 : Исцеление от яда
- **Описание:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
+### Regular Skill 3 : Исцеление от яда
+ **Описание:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Фанатик сражений
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+### Faction Special Skill I : Фанатик сражений
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Рост живучести
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Faction Special Skill II : Рост живучести
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.3+0.5)"
+    let str8 = "(LEVEL*300+1200)"
+    let str5 = "LEVEL*1+9"
+    let str6 = "(LEVEL*3+12)"
+    let str3 = "LEVEL*160+640"
+    let str4 = "LEVEL*0.5+2.5"
+    let str1 = "LEVEL*3+27"
+    let str2 = "(LEVEL*0.3+0.7)*(TLEVEL+9)"
+    let str9 = "(LEVEL*0.3+1)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Цитадель (Дозор отрядов Цитадели)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Цитадель**  (Дозор отрядов Цитадели)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Crag Hack/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kilgor/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -119,7 +179,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ огров-магов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте Крэг Хака и огров, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Hack and Ogre and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
@@ -132,14 +192,14 @@ toc: true
 ### 3rd Skill (or 4th): Дикое сердце
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; эффект удваивается</span>
 
-### 4th Skill (or 3rd): null
- **Описание:** 
+### 4th Skill (or 3rd): Heartening War Song
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
 
 ### 5th Skill (or 6th): Древний поток
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): Защита патриарха
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
 
 ## Technical info
  **runart:** 1
@@ -178,7 +238,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** null
+ **talk1:** We ogres never quarrel. You shut your mouth! No, you shut yours!
 
  **talk2:** Враг уже готов бежать... Думаете, бегство вас спасет?
 

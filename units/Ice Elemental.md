@@ -1,38 +1,44 @@
 ---
 title: "Элементаль Льда"
-permalink: /ru/units/Ice Elemental/
-excerpt: "Отряды Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
+permalink: /units/Ice Elemental/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Элементаль Льда"
 toc: true
 ---
 ## General information
- **Описание:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
+ **Описание:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Хозяин зверей
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Info:** Специализирующийся на контроле маг, покрывает все вокруг себя льдом, возводит ледяную стену.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
 
-## Базовые параметры
- **Base HP:** 744.0
+ **Short description:** Ледяная аура. Стена льда.
 
- **Base ATK:** 111.0
+ **Position :** Специализирующийся на контроле маг, покрывает все вокруг себя льдом, возводит ледяную стену.
+
+## Basic stats
+ **Base HP: 744.0**
+
+ **Base ATK: 111.0**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 55.5 | 2.5 | 558.0 |
+  | Green | 55.5 | 2.5 | 558.0 |
   | Синий | 111.0 | 5.0 | 1116.0 |
   | Blue +1 | 166.5 | 7.5 | 1674.0 |
   | Синий +2 | 233.1 | 10.5 | 2343.6 |
@@ -56,42 +62,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.98 | 0.5 | 3.2 | 133.92 |
   | **6x** <i class="fas fa-star"/> | 22.2 | 0.53 | 3.75 | 148.8 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Глубинный ледяной кристалл](/equipment/Глубинный ледяной кристалл/) | **АТК** | **DEF** | 
+  | [Tidal Headdress](/equipment/Tidal Headdress/) | **ОЗ** | **DEF** | 
+  | [Метка океана](/equipment/Метка океана/) | **АТК** | **DEF** | 
+  | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+* [Замедление](/combination/Замедление/) 
+* [Заморозка](/combination/Заморозка/) 
+
 
 ## Skills
-### Совершенное умение: Стена льда
- **Описание:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.4+4.6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Стена льда
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 1 : Холодная хватка
- **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
+### Regular Skill 1 : Холодная хватка
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Обычное умение 2 : Сила элементалей
+### Regular Skill 2 : Сила элементалей
+ **Описание:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+### Regular Skill 3 : null
  **Описание:** 
 
-### Обычное умение 3 : null
- **Описание:** 
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*0.01+0.19"
+    let str6 = "(LEVEL*3+15)"
+    let str3 = "LEVEL*1.8+5.7"
+    let str4 = "LEVEL*1.2+3.8"
+    let str1 = "LEVEL*0.4+4.6"
+    let str2 = "LEVEL*0.5+2.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-## Значимость
-### Связь дозора
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Caster**  (Дозор отрядов заклинателей)
 
-* Гармония (Дозор отрядов Гармонии)
-* Заклинатель (Дозор отрядов заклинателей)
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Ciele/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -124,7 +182,7 @@ toc: true
 ### 2nd Skill (or 1st): Ледяные оковы
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление урону на 20%. При попадании в цель замораживает ее и вызывает немоту. Эффект длится 3 сек.</span>
 
-### 3rd Skill (or 4th): null
+### 3rd Skill (or 4th): Elemental Defense
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, отряды в том же ряду получают +100 к стойкости и +50% ОЗ. Эффект длится 7 сек.</span>
 
 ### 4th Skill (or 3rd): Вторжение Гармонии

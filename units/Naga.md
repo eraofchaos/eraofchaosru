@@ -1,42 +1,48 @@
 ---
-title: "Нага"
-permalink: /ru/units/Naga/
-excerpt: "Отряды null"
+title: "Naga"
+permalink: /units/Naga/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Нага"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Naga"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Башня](/units/Fraction Башня)
 
  **Race:** Человек
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Танец лезвия: наносит урон в области, снижает защиту от него
 
+ **Short description:** Terrifies. Huge damage output
+
+ **Position :** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
+
  **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
 
- **Info:** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
+## Basic stats
+ **Base HP: 811.0**
 
-## Базовые параметры
- **Base HP:** 811.0
+ **Base ATK: 79.4**
 
- **Base ATK:** 79.4
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 112.5 | 5.0 | 1351.5 |
+  | Green | 112.5 | 5.0 | 1351.5 |
   | Синий | 225.0 | 10.0 | 2703.0 |
   | Blue +1 | 337.5 | 15.0 | 4054.5 |
   | Синий +2 | 472.5 | 21.0 | 5676.3 |
@@ -59,42 +65,96 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 40.5 | 0.55 | 4.4 | 324.36 |
   | **6x** <i class="fas fa-star"/> | 45.0 | 0.58 | 5.0 | 360.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Everflowing Blade](/equipment/Everflowing Blade/) | **АТК** | **DEF** | 
+  | [Наплечники морехода](/equipment/Наплечники морехода/) | **ОЗ** | **DEF** | 
+  | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **DEF** | 
+  | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Танец клинков
- **Описание:** <span style="color: #645252;font-size:20px">Нага наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным врагам в широком радиусе и снижают их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Танец клинков
+ **Описание:** <span style="color: #645252;font-size:20px">Нага наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным врагам в широком радиусе и снижают их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">При атаке нага гарантируется попадание. Нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. По мере снижения ОЗ цель получает более высокий урон в размере до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*8+32}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 1 : Cruelty
+ **Описание:** <span style="color: #645252;font-size:20px">Наги всегда попадают. Наги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. По мере снижения ОЗ цель получает более высокий урон в размере до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК. Против отрядов Подземелья наги получают +50% к урону отряда и +50% к сопротивлению урону.</span><span style="color: black">
 
-### Обычное умение 2 : Королева клинков
- **Описание:** <span style="color: #645252;font-size:20px">Когда нага на поле боя, все союзные атакующие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. В то же самое время нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
+### Regular Skill 2 : Королева клинков
+ **Описание:** <span style="color: #645252;font-size:20px">Когда нага на поле боя, все союзные атакующие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. В то же самое время нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Обычное умение 3 : Магическое пробуждение
- **Описание:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют &lt;Танец клинков&gt; к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*5+95)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
+### Regular Skill 3 : Магическое пробуждение
+ **Описание:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют &lt;Танец клинков&gt; к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Трезвый ум
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+10)}%</span><span style="color: black">
+### Faction Special Skill I : Трезвый ум
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Энергетический динамит
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill II : Энергетический динамит
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*5+95)*0.01*ATK"
+    let str8 = "(LEVEL*2+10)"
+    let str5 = "LEVEL*10+90"
+    let str6 = "LEVEL*3+5"
+    let str3 = "LEVEL*0.5+2.5"
+    let str4 = "LEVEL*8+32"
+    let str1 = "(LEVEL*5+95)*0.01*ATK"
+    let str2 = "LEVEL*0.5+2.5"
+    let str9 = "(LEVEL*1.5+4)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Башни (Дозор отрядов Башни)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Tower**  (Дозор отрядов Башни)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Astral/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -115,9 +175,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Naga and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
@@ -137,7 +197,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
 
 ## Technical info
  **runart:** 1
@@ -176,9 +236,9 @@ toc: true
 
  **posclass:** 1
 
- **talk1:** null
+ **talk1:** Ever-forward, my comrades!
 
- **talk2:** null
+ **talk2:** No one can stand in the way of our marching feet.
 
  **talk3:** Я сражаюсь под знаменами справедливости, честности, милосердия и смирения!
 

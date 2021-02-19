@@ -1,40 +1,48 @@
 ---
 title: "Минотавр"
-permalink: /ru/units/Minotaur/
-excerpt: "Отряды null"
+permalink: /units/Minotaur/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Минотавр"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Dungeon](/units/Fraction Dungeon)
 
- **Race:** null
+ **Race:** Войска Подземелья
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+
+ **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
+
+ **Short description:** Support and Tank hybrid.
+
+ **Position :** Танк поддержки. Идеальное сочетание атаки и защиты. Кровотечение повышает УВС союзных отрядов.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Танк поддержки. Идеальное сочетание атаки и защиты. Кровотечение повышает УВС союзных отрядов.
+## Basic stats
+ **Base HP: 2725.0**
 
-## Базовые параметры
- **Base HP:** 2725.0
+ **Base ATK: 108.0**
 
- **Base ATK:** 108.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 54.0 | 13.75 | 2043.75 |
+  | Green | 54.0 | 13.75 | 2043.75 |
   | Синий | 108.0 | 27.5 | 4087.5 |
   | Blue +1 | 162.0 | 41.25 | 6131.25 |
   | Синий +2 | 226.8 | 57.75 | 8583.75 |
@@ -58,40 +66,91 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 19.44 | 0.4 | 8.6 | 490.5 |
   | **6x** <i class="fas fa-star"/> | 21.6 | 0.41 | 9.38 | 545.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Gorgon Battle Axe](/equipment/Gorgon Battle Axe/) | **АТК** | **DEF** | 
+  | [Наплечники горгоны](/equipment/Наплечники горгоны/) | **ОЗ** | **DEF** | 
+  | [Gorgon Bands](/equipment/Gorgon Bands/) | **АТК** | **DEF** | 
+  | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+* [Кровотечение](/combination/Кровотечение/) 
+
 
 ## Skills
-### Совершенное умение: Вихрь
- **Описание:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*4+76))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Вихрь
+ **Описание:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Высшая свирепость
- **Описание:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*80+320}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
+### Regular Skill 1 : Высшая свирепость
+ **Описание:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
 
-### Обычное умение 2 : Телосложение разрушителя магии
- **Описание:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
+### Regular Skill 2 : Телосложение разрушителя магии
+ **Описание:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
-### Обычное умение 3 : Тактическое решение
- **Описание:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*40+160}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Regular Skill 3 : Тактическое решение
+ **Описание:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+### Faction Special Skill : Темный конфликт
+ **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*2+8"
+    let str6 = "LEVEL*40+160"
+    let str3 = "LEVEL*80+320"
+    let str4 = "LEVEL*1+4"
+    let str1 = "((LEVEL*4+76))*0.01*ATK"
+    let str2 = "LEVEL*1+4"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Подземелье (Дозор отрядов Подземелья)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Подземелье**  (Дозор отрядов Подземелья)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/ru/heroes/Mutare/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Dragon Mutare/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -103,7 +162,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Minotaur King
 
  **Awaking Description:** Символом их власти являются огромные боевые топоры, и они преданно обороняют свой темный лабиринт. Жестокий король минотавров окружен скелетами, и всегда готов убить незваного гостя.
 
@@ -114,11 +173,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королей минотавров на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте минотавра и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы победить в 1 бою Дуэли заступников.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Minotaur and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Dungeon Units and win 1 Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
+### 1st Skill (or 2nd): Hyperactive Slash
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, сопротивление цели урону снижается на 10%. Эффект длится 6 сек. Суммируется до 3 раз.</span>
 
 ### 2nd Skill (or 1st): Стимулированный удар
@@ -130,8 +189,8 @@ toc: true
 ### 4th Skill (or 3rd): Сопротивление магии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и повышает свое сопротивление урону на 10%. Эффект суммируется до 3 раз за бой</span>
 
-### 5th Skill (or 6th): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20%. Если кровоточит сам минотавр, его АТК повышается на 20% на 6 сек.</span>
+### 5th Skill (or 6th): Ferocious Will
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Advanced Ferocity&gt;</span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its attack speed will be increased by 20% for 6s</span>
 
 ### 6th Skill (or 5th): Кровавая беспощадность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20% от урона отряда. Если кровоточит сам минотавр, его сопротивление урону повышается на 20% на 6 сек.</span>

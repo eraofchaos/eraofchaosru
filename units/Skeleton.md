@@ -1,42 +1,48 @@
 ---
-title: "Скелет"
-permalink: /ru/units/Skeleton/
-excerpt: "Отряды Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
+title: "Skeleton"
+permalink: /units/Skeleton/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Скелет"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Skeleton"
 toc: true
 ---
 ## General information
  **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Necropolis](/units/Fraction Necropolis)
 
  **Race:** Нежить
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
  **Unit description:** Костяной щит: усиливает сопротивление урону, когда запас здоровья ниже 50%.
 
+ **Short description:** Damage reflection. Immune from bleeding effects
+
+ **Position :** Обладает невосприимчивостью к кровотечению, отражает урон, обладает высоким сопротивлением к атакам дальнего боя.
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Обладает невосприимчивостью к кровотечению, отражает урон, обладает высоким сопротивлением к атакам дальнего боя.
+## Basic stats
+ **Base HP: 1158.0**
 
-## Базовые параметры
- **Base HP:** 1158.0
+ **Base ATK: 57.9**
 
- **Base ATK:** 57.9
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 28.95 | 8.75 | 868.5 |
+  | Green | 28.95 | 8.75 | 868.5 |
   | Синий | 57.9 | 17.5 | 1737.0 |
   | Blue +1 | 86.85 | 26.25 | 2605.5 |
   | Синий +2 | 121.59 | 36.75 | 3647.7 |
@@ -61,44 +67,94 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 10.422 | 0.43 | 6.2 | 208.44 |
   | **6x** <i class="fas fa-star"/> | 11.58 | 0.45 | 6.88 | 231.6 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Алчность](/ru/Emblem/Greed/) (Хаос)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Сабля нечестивца](/equipment/Сабля нечестивца/) | **АТК** | **DEF** | 
+  | [Ржавый шлем](/equipment/Ржавый шлем/) | **ОЗ** | **DEF** | 
+  | [Щит нечестивца](/equipment/Щит нечестивца/) | **АТК** | **DEF** | 
+  | [Ржавые наплечники](/equipment/Ржавые наплечники/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Алчность](/Emblem/Greed/) (Хаос)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Костяной щит
- **Описание:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*2+28)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Костяной щит
+ **Описание:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Костяной шип
- **Описание:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+9)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
+### Regular Skill 1 : Костяной шип
+ **Описание:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
 
-### Обычное умение 2 : Стать камнем
- **Описание:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
+### Regular Skill 2 : Стать камнем
+ **Описание:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
 
-### Обычное умение 3 : Каркас
- **Описание:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-{($level+$ulevel)*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
+### Regular Skill 3 : Каркас
+ **Описание:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+### Faction Special Skill I : Мрачная защита
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Гармония заклинаний
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
+### Faction Special Skill II : Гармония заклинаний
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*3+12"
+    let str6 = "(LEVEL*1+10)"
+    let str3 = "LEVEL*2+8"
+    let str4 = "LEVEL*1+2"
+    let str1 = "(LEVEL*2+28)"
+    let str2 = "(LEVEL*1+9)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Некрополь (Дозор отрядов Некрополя)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Некрополь**  (Дозор отрядов Некрополя)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Vidomina/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/ru/heroes/Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/ru/heroes/Human Sandro/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -110,9 +166,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Skeleton Warrior
 
- **Awaking Description:** null
+ **Awaking Description:** В давние времена жил мудрый и великий король, которого погубил страх смерти. Теперь он пришел во главе армии мертвых, чтобы вернуть себе свое королевство.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте скелетов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>
@@ -132,10 +188,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;<span style="color: #645252;font-size:18px">: ЗЩТ увеличивается на 30%. Эффект удваивается, если отряд врага, который вас атакует, обладает низким боевым духом</span>
 
 ### 3rd Skill (or 4th): Темное питание
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases DEF by 30% for every hostile unit's death throughout the entire battle, up to 3 stacks</span>
 
 ### 4th Skill (or 3rd): Мания нежити
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases Magic resistance and DEF by 30%</span>
 
 ### 5th Skill (or 6th): Вооружены до зубов
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Костяной щит&gt;</span><span style="color: #645252;font-size:18px">: эффект длится в течение всего боя</span>

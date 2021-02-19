@@ -1,42 +1,48 @@
 ---
 title: "Берсерк"
-permalink: /ru/units/Berserker/
-excerpt: "Отряды Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
+permalink: /units/Berserker/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Берсерк"
 toc: true
 ---
 ## General information
  **Описание:** Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [Цитадель](/ru/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Fraction Цитадель)
 
  **Race:** Орк
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
+ **Short description:** Strong vs single unit. Buff on death
+
+ **Position :** Powerful DPS, good in all positions
+
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** null
+## Basic stats
+ **Base HP: 5317.0**
 
-## Базовые параметры
- **Base HP:** 5317.0
+ **Base ATK: 678.8**
 
- **Base ATK:** 678.8
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 339.4 | 10.5 | 3987.75 |
+  | Green | 339.4 | 10.5 | 3987.75 |
   | Синий | 678.8 | 21.0 | 7975.5 |
   | Blue +1 | 1018.2 | 31.5 | 11963.25 |
   | Синий +2 | 1425.48 | 44.1 | 16748.55 |
@@ -59,43 +65,102 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 122.184 | 0.55 | 7.04 | 957.06 |
   | **6x** <i class="fas fa-star"/> | 135.76 | 0.58 | 7.75 | 1063.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Секира из обсидиана](/equipment/Секира из обсидиана/) | **АТК** | **DEF** | 
+  | [Necklace of Bone](/equipment/Necklace of Bone/) | **ОЗ** | **DEF** | 
+  | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **АТК** | **DEF** | 
+  | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+
+## Combination Info
+
+* [Deterrence](/combination/Deterrence/) 
+
 
 ## Skills
-### Совершенное умение: null
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: null
  **Описание:** 
 
-### Обычное умение 1 : Боевая ярость
- **Описание:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
+### Regular Skill 1 : Боевая ярость
+ **Описание:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** 
+### Regular Skill 2 : Rampage
+ **Описание:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
 
-### Обычное умение 3 : Бессмертный бог войны
- **Описание:** 
+### Regular Skill 3 : Бессмертный бог войны
+ **Описание:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Фанатик сражений
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
+### Faction Special Skill I : Фанатик сражений
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Рост живучести
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Faction Special Skill II : Рост живучести
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str8 = "(LEVEL*0.1+0)"
+    let str5 = "(LEVEL*0.2+0.8)"
+    let str6 = "(LEVEL*3+15)"
+    let str3 = "(LEVEL*2+10)"
+    let str4 = "(LEVEL*1+5)"
+    let str1 = "(LEVEL*16+60)"
+    let str2 = "(LEVEL*0.8+3)"
+    let str10 = "(LEVEL*300+1200)"
+    let str11 = "(LEVEL*0.3+1)"
+    let str9 = "(LEVEL*0.3+0.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Цитадель (Дозор отрядов Цитадели)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Цитадель**  (Дозор отрядов Цитадели)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Crag Hack/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Kilgor/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -105,11 +170,11 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Ревун смерти
 
- **Awaking Description:** null
+ **Awaking Description:** Однажды люди обнаружили, что статуи Марса начали издавать жуткий звук - столь жуткий, как будто бы кто-то пытался отринуть саму смерть.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте берсерков и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Цитадели, чтобы добиться уровня «Чемпион» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
@@ -123,10 +188,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Смертоносный топор
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: урон &lt;Несравненного танца&gt;, связанный с максимумом ОЗ, удваивается. При успешном снятии наносится 200% дополнительного урона</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 50% extra damage</span>
 
 ### 2nd Skill (or 1st): Боевой топор жажды крови
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: берсерк получает +20% к высасыванию жизни. При успешном снятии наносится 200% дополнительного урона</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 50% extra damage</span>
 
 ### 3rd Skill (or 4th): Бескрайняя ярость
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличена на 15 сек. Ярость повышается на 50%. КРИТ. УРН в дальнейшем повышается на 30%. Эффекты не могут быть рассеяны.</span>
@@ -135,7 +200,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: боевая ярость на 10 сек. дает всем союзным отрядам Цитадели +5% к урону и +10 к скорости АТК</span>
 
 ### 5th Skill (or 6th): Благословение бога войны
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: в начале боя призывает маленькую статую Марса, которая дает вашим войскам Цитадели +8% к урону и восстанавливает 1,5% от макс. ОЗ за 2 секунды. При уничтожении отрядов берсерка колосс исчезает. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: в начале боя призывает маленькую статую Марса, которая дает вашим войскам Цитадели +8% к урону, а также восстанавливает 50% от эффекта исцеления статуи Марса. При уничтожении отрядов берсерка статуя исчезает. Маленькая статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 сек.</span>
 
 ### 6th Skill (or 5th): Огромная статуя
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессмертный бог войны&gt;</span><span style="color: #645252;font-size:18px">: усиление от статуи Марса повышается на 50%. Статуя Марса на поле боя отбрасывает врагов каждые 15 секунд. Эффект длится 6 секунд</span>

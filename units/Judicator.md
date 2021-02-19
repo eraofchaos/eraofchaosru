@@ -1,41 +1,44 @@
 ---
 title: "Вершитель"
-permalink: /ru/units/Judicator/
-excerpt: "Отряды null"
+permalink: /units/Judicator/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Вершитель"
 toc: true
 ---
-**Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
-{: .notice--danger}
-
 ## General information
- **Описание:** null
+ **Описание:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [Замок](/ru/units/Fraction Замок)
+ **Faction:** [Замок](/units/Fraction Замок)
 
  **Race:** Человек
 
- **Members:** Unknown: 4 (2).
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** UR
+ **Rank:** [Командующий](/units/Unit Rank Командующий)
 
- **Info:** Аура группы восстанавливает ОЗ. Аура защищает от урона. Святая земля усиливает ваши союзные отряды.
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 6109.4
+ **Short description:** Круг помощи, расширенный диапазон.
 
- **Base ATK:** 565.7
+ **Position :** Аура группы восстанавливает ОЗ. Аура защищает от урона. Святая земля усиливает ваши союзные отряды.
+
+## Basic stats
+ **Base HP: 6109.4**
+
+ **Base ATK: 565.7**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 282.85 | 15.0 | 4582.05 |
+  | Green | 282.85 | 15.0 | 4582.05 |
   | Синий | 565.7 | 30.0 | 9164.1 |
   | Blue +1 | 848.55 | 45.0 | 13746.15 |
   | Синий +2 | 1187.97 | 63.0 | 19244.61 |
@@ -58,45 +61,98 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 101.826 | 0.48 | 9.2 | 1099.692 |
   | **6x** <i class="fas fa-star"/> | 113.14 | 0.5 | 10.0 | 1221.88 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
-* [Алчность](/ru/Emblem/Greed/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Посох теократии](/equipment/Посох теократии/) | **АТК** | **DEF** | 
+  | [Капюшон небесного блаженства](/equipment/Капюшон небесного блаженства/) | **ОЗ** | **DEF** | 
+  | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **DEF** | 
+  | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+* [Высокий боевой дух](/combination/Высокий боевой дух/) 
+* [Оглушение](/combination/Оглушение/) 
+
 
 ## Skills
-### Совершенное умение: null
- **Описание:** <span style="color: #645252;font-size:20px">Вершители призывают 2 луча правосудия каждые 25 сек. Когда лучи появляются, они <span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"> вражеские отряды в радиусе действия на 1 сек., наносят урон в размере <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+0.2)}%</span><span style="color: black"> от максимума ОЗ и снижают исцеление у врагов на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"> на 8 сек.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Ray of Judgment
+ **Описание:** <span style="color: #645252;font-size:20px">Вершители призывают 2 луча правосудия каждые 25 сек. Когда лучи появляются, они <span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"> вражеские отряды в радиусе действия на 1 сек., наносят урон в размере <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> от максимума ОЗ и снижают исцеление у врагов на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"> на 8 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Благословение
- **Описание:** <span style="color: #645252;font-size:20px">Во время боя вершители наделяют <span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"> всех союзных отрядов на 10 сек.</span><span style="color: black"> <br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Вершители наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути каждые <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*-0.1+25)}</span><span style="color: black"> сек. Эффект длится 10 сек.</span><span style="color: black">
+### Regular Skill 1 : Благословение
+ **Описание:** <span style="color: #645252;font-size:20px">Во время боя вершители наделяют <span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"> всех союзных отрядов на 10 сек.</span><span style="color: black"> <br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Вершители наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути каждые <span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"> сек. Эффект длится 10 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Благословение света
- **Описание:** <span style="color: #645252;font-size:20px">Когда у первого союзного отряда остается менее 25% ОЗ, вершители используют <span style="color: #48b946;font-size:20px">&lt;Убежище света&gt;</span><span style="color: black"> для защиты своих спутников на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.2+3.2)}</span><span style="color: black"> сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В бою против отрядов Инферно вершители получают +30% к урону отряда и +50% к сопротивлению отряда урону. </span><span style="color: black">
+### Regular Skill 2 : Благословение света
+ **Описание:** <span style="color: #645252;font-size:20px">Когда у первого союзного отряда остается менее 25% ОЗ, вершители используют <span style="color: #48b946;font-size:20px">&lt;Убежище света&gt;</span><span style="color: black"> для защиты своих спутников на <span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"> сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В бою против отрядов Инферно вершители получают +30% к урону отряда и +50% к сопротивлению отряда урону. </span><span style="color: black">
 
-### Обычное умение 3 : null
+### Regular Skill 3 : null
  **Описание:** 
 
-### Эксклюзивное умение фракции I : Siege Combat
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Siege Combat
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+### Faction Special Skill II : Defense Resonance
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
-### Обычное умение 6 : Ореол теократии
- **Описание:** <span style="color: #645252;font-size:20px">Когда используются 3 отряда фракции Замка, вершители получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда вершители находятся в состоянии <span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black">, они открывают <span style="color: #F0F000;font-size:20px">&lt;Область теократии&gt;</span><span style="color: black">, которая расширяется по мере повышения уровня умения отряда. Область существует 15 сек. Перезарядка - 30 сек.</span><span style="color: black">
+### Regular Skill 6 : Ореол теократии
+ **Описание:** <span style="color: #645252;font-size:20px">Когда используются 3 отряда фракции Замка, вершители получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда вершители находятся в состоянии <span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black">, они открывают <span style="color: #F0F000;font-size:20px">&lt;Область теократии&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения отряда. Область существует 15 сек. Перезарядка - 30 сек.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*2+5)"
+    let str8 = "(LEVEL*22+70)"
+    let str5 = "(LEVEL*1.5+2.5)"
+    let str6 = "(LEVEL*0.5+2.5)"
+    let str3 = "(LEVEL*-0.1+25)"
+    let str4 = "(LEVEL*0.2+3.2)"
+    let str1 = "(LEVEL*0.1+0.2)"
+    let str2 = "(LEVEL*1.5+7.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Замок (Дозор отрядов Замка)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Замок**  (Дозор отрядов Замка)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/ru/heroes/Roland/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -119,17 +175,17 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высших паладинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Казнь без страха
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. Охрана святилища увеличивает защиту высших паладинов на 15% за каждого смотрителя святилища на поле боя. Святилище восстанавливает 10% ОЗ в течение первых 3 призывов</span>
 
-### 2nd Skill (or 1st): Слава святилища
+### 2nd Skill (or 1st): Sanctuary's Glory
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. При первых 3 призывах урон и сопротивление урону для ваших отрядов будут увеличены на 10% на 30 сек. Высший паладин призывает смотрителя святилища, выйдя на поле боя</span>
 
-### 3rd Skill (or 4th): null
+### 3rd Skill (or 4th): Loyalty and Belief
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: паладины получают 22% к сопротивлению отряда урону. Высокий боевой дух не влияет на эффект</span>
 
 ### 4th Skill (or 3rd): Неукротимая вера
@@ -138,7 +194,7 @@ toc: true
 ### 5th Skill (or 6th): Упорство
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. КРИТ. УРН повышается на 50%, а стойкость - на 150. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Agile Riposte
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. Стойкость всех отрядов в зоне действия повышается на 150, а урон - на 15%. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
 ## Technical info

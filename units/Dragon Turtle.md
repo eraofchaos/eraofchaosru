@@ -1,40 +1,46 @@
 ---
 title: "Панцирный дракон"
-permalink: /ru/units/Dragon Turtle/
-excerpt: "Отряды У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
+permalink: /units/Dragon Turtle/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Панцирный дракон"
 toc: true
 ---
 ## General information
- **Описание:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
+ **Описание:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Cove](/units/Fraction Cove)
 
  **Race:** Подводное царство
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Short description:** Танк. Восстанавливает ОЗ.
+
+ **Position :** Могущественный защитник. После смерти восстанавливает ОЗ.
 
  **Recommend:** Сильный танк, прикрывает от урона союзные отряды.
 
- **Info:** Могущественный защитник. После смерти восстанавливает ОЗ.
+## Basic stats
+ **Base HP: 12000.0**
 
-## Базовые параметры
- **Base HP:** 12000.0
+ **Base ATK: 362.0**
 
- **Base ATK:** 362.0
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 181.0 | 17.0 | 7350.0 |
+  | Green | 181.0 | 17.0 | 7350.0 |
   | Синий | 362.0 | 34.0 | 14700.0 |
   | Blue +1 | 543.0 | 51.0 | 22050.0 |
   | Синий +2 | 760.2 | 71.4 | 30870.0 |
@@ -57,42 +63,90 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 65.16 | 0.36 | 10.16 | 1764.0 |
   | **6x** <i class="fas fa-star"/> | 72.4 | 0.38 | 11.0 | 1960.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Алчность](/ru/Emblem/Greed/) (Хаос)
-* [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) (Нейтральный)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Острые зубы Панцирного дракона](/equipment/Острые зубы Панцирного дракона/) | **АТК** | **DEF** | 
+  | [Панцирь шипастой черепахи](/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **DEF** | 
+  | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **DEF** | 
+  | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Алчность](/Emblem/Greed/) (Хаос)
+* [Ядро мировой сети](/Emblem/Core of the Global Network/) (Нейтральный)
+
+## Combination Info
+
+* [Оглушение](/combination/Оглушение/) 
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
-### Совершенное умение: Стремительный перекат
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Стремительный перекат
  **Описание:** 
 
-### Обычное умение 1 : Ядовитое дыхание, ур. 2
+### Regular Skill 1 : Ядовитое дыхание, ур. 2
  **Описание:** 
 
-### Обычное умение 2 : Оплот прилива
- **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+11)}+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
+### Regular Skill 2 : Оплот прилива
+ **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 3 : Подкрепление
- **Описание:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
+### Regular Skill 3 : Подкрепление
+ **Описание:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Спокойное тело
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+### Faction Special Skill I : Спокойное тело
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+### Faction Special Skill II : Pirate Conflict
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+5)"
+    let str3 = "(LEVEL*0.5+9.5)"
+    let str4 = "(LEVEL*1+5)"
+    let str1 = "(LEVEL*1+11)"
+    let str2 = "(LEVEL*0.5+9.5)"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Убежища (Дозор отрядов Убежища)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Cove**  (Дозор отрядов Убежища)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Cassanbel/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -111,11 +165,11 @@ toc: true
 ### Awaking Tasks
  1. 
 
- 2. null
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
  3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
@@ -131,7 +185,7 @@ toc: true
 ### 4th Skill (or 3rd): 
  **Описание:** 
 
-### 5th Skill (or 6th): null
+### 5th Skill (or 6th): 
  **Описание:** 
 
 ### 6th Skill (or 5th): 

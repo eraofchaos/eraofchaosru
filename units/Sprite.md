@@ -1,38 +1,44 @@
 ---
-title: "Unknown_TEAM_901"
-permalink: /ru/units/Sprite/
-excerpt: "Отряды null"
+title: "Sprite"
+permalink: /units/Sprite/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_901"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Sprite"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
 
- **Класс:** Штурм
+ **Описание:** [Штурм](/units/Unit Class Штурм)
 
- **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося дополнительный урон стрелковым отрядам и заклинателям.
+ **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
  **Race:** Хозяин зверей
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
 
- **Info:** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
 
-## Базовые параметры
- **Base HP:** 993.0
+ **Short description:** Накладывает немоту. Улучшает заклинание в начале боя.
 
- **Base ATK:** 69.5
+ **Position :** После гибели взрывается, вызывает немоту у цели, увеличивает начальную ману героя.
+
+## Basic stats
+ **Base HP: 993.0**
+
+ **Base ATK: 69.5**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 34.75 | 3.75 | 744.75 |
+  | Green | 34.75 | 3.75 | 744.75 |
   | Синий | 69.5 | 7.5 | 1489.5 |
   | Blue +1 | 104.25 | 11.25 | 2234.25 |
   | Синий +2 | 145.95 | 15.75 | 3127.95 |
@@ -57,42 +63,91 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 12.51 | 0.58 | 3.8 | 178.74 |
   | **6x** <i class="fas fa-star"/> | 13.9 | 0.6 | 4.38 | 198.6 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Ароматный венок](/equipment/Ароматный венок/) | **АТК** | **DEF** | 
+  | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **ОЗ** | **DEF** | 
+  | [Фосфоресцирующие крылья бабочки](/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **DEF** | 
+  | [Изумрудное обручье](/equipment/Изумрудное обручье/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+
+## Combination Info
+
+* [Немота](/combination/Немота/) 
+
 
 ## Skills
-### Совершенное умение: Энергетическое разбивание
- **Описание:** <span style="color: #645252;font-size:20px">Когда феи погибают, они наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.25+2.75}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ цели. Максимальный урон при этом равен 1000% от ее АТК.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Энергетическое разбивание
+ **Описание:** <span style="color: #645252;font-size:20px">Когда феи погибают, они наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ цели. Максимальный урон при этом равен 1000% от ее АТК.</span><span style="color: black">
 
-### Обычное умение 1 : Благословение фей
- **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, феи повышают сопротивление магии всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект также удваивается для фей.</span><span style="color: black">
+### Regular Skill 1 : Благословение фей
+ **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, феи повышают сопротивление магии всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект также удваивается для фей.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** 
+### Regular Skill 2 : Inspiration
+ **Описание:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 3 : Преданность
- **Описание:** 
+### Regular Skill 3 : Преданность
+ **Описание:** <span style="color: #645252;font-size:20px">When a Sprite is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*3+15)"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "LEVEL*1.5+0.2"
+    let str4 = "LEVEL*0.15+1.85"
+    let str1 = "LEVEL*0.25+2.75"
+    let str2 = "(LEVEL*0.5+2.5)"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Гармония (Дозор отрядов Гармонии)
-* Штурмовой отряд (Дозор штурмовых отрядов)
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Charging**  (Дозор штурмовых отрядов)
 
-### Бонус героя
-* [Мюллих](/ru/heroes/Mullich/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Ciele/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -109,9 +164,9 @@ toc: true
  **Awaking Description:** null
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -123,18 +178,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Infiltration Strategy
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
 
-### 6th Skill (or 5th): null
+### 6th Skill (or 5th): Fatigue Attack
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

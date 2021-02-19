@@ -1,38 +1,46 @@
 ---
-title: "Unknown_TEAM_208"
-permalink: /ru/units/Druid/
-excerpt: "Отряды null"
+title: "Druid"
+permalink: /units/Druid/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Unknown_TEAM_208"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Druid"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Rampart](/units/Fraction Rampart)
 
  **Race:** Лес
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Info:** null
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
 
-## Базовые параметры
- **Base HP:** 844.0
+ **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
- **Base ATK:** 102.6
+ **Short description:** Снимает щит. Повышает критический удар.
+
+ **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+
+## Basic stats
+ **Base HP: 844.0**
+
+ **Base ATK: 102.6**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 51.3 | 3.75 | 633.0 |
+  | Green | 51.3 | 3.75 | 633.0 |
   | Синий | 102.6 | 7.5 | 1266.0 |
   | Blue +1 | 153.9 | 11.25 | 1899.0 |
   | Синий +2 | 215.46 | 15.75 | 2658.6 |
@@ -55,42 +63,95 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.468 | 0.5 | 3.8 | 151.92 |
   | **6x** <i class="fas fa-star"/> | 20.52 | 0.53 | 4.38 | 168.8 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/ru/Emblem/Anger/) (Хаос)
-* [Алчность](/ru/Emblem/Greed/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Crown of Tranquility](/equipment/Crown of Tranquility/) | **АТК** | **DEF** | 
+  | [Древний посох](/equipment/Древний посох/) | **ОЗ** | **DEF** | 
+  | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **DEF** | 
+  | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/Emblem/Anger/) (Хаос)
+* [Алчность](/Emblem/Greed/) (Хаос)
+
+## Combination Info
+
+* [Shield](/combination/Shield/) 
+
 
 ## Skills
-### Совершенное умение: Зов леса
- **Описание:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Зов леса
+ **Описание:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
 
-### Обычное умение 1 : null
- **Описание:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{($level+$ulevel)*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
+### Regular Skill 1 : Outgrowing
+ **Описание:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** 
+### Regular Skill 2 : Blessing of Life
+ **Описание:** <span style="color: #645252;font-size:20px">The Druid unit randomly generates </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 4 friendly units in the front row every 30s that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Обычное умение 3 : Сердце природы
- **Описание:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+90}</span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
+### Regular Skill 3 : Сердце природы
+ **Описание:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Calm Proliferation
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Отметка ненависти
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
+### Faction Special Skill II : Отметка ненависти
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1.5+7.5)"
+    let str8 = "(LEVEL*0.9+2.4)"
+    let str5 = "LEVEL*1+9"
+    let str6 = "LEVEL*10+90"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "(LEVEL*0.5+9.5)"
+    let str1 = "LEVEL*1+9"
+    let str2 = "LEVEL*3+17"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Бастион (Дозор отрядов Бастиона)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Бастион**  (Дозор отрядов Бастиона)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/ru/heroes/Gem/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -107,11 +168,11 @@ toc: true
  **Awaking Description:** Солнце согревает землю и пробуждает все вокруг. Тает снег, поют птицы, из земли пробиваются первые ростки.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Druid with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Caster units and defeat </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count toward the mission.)</span>
 
- 2. null
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Resources in Guild Adventure.</span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Archdruid souls in the Underground: Levels 16-2 and 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы победить в одном бою Дуэли заступников. (Набег не учитывается при выполнении этого задания).</span>
 

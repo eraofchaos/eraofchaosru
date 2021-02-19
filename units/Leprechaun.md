@@ -1,42 +1,46 @@
 ---
 title: "Лепрекон"
-permalink: /ru/units/Leprechaun/
-excerpt: "Отряды Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
+permalink: /units/Leprechaun/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Лепрекон"
 toc: true
 ---
 ## General information
  **Описание:** Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Conflux](/units/Fraction Conflux)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
 
- **Unit description:** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Short description:** Блок уклонения, усиление контрудара
+
+ **Position :** Экспертный блок, коллективная защита и Щит Гармонии
 
  **Recommend:** 
 
- **Info:** Экспертный блок, коллективная защита и Щит Гармонии
+## Basic stats
+ **Base HP: 3162.0**
 
-## Базовые параметры
- **Base HP:** 3162.0
+ **Base ATK: 134.5**
 
- **Base ATK:** 134.5
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 67.25 | 15.0 | 2371.5 |
+  | Green | 67.25 | 15.0 | 2371.5 |
   | Синий | 134.5 | 30.0 | 4743.0 |
   | Blue +1 | 201.75 | 45.0 | 7114.5 |
   | Синий +2 | 282.45 | 63.0 | 9960.3 |
@@ -59,42 +63,112 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 24.21 | 0.4 | 9.2 | 569.16 |
   | **6x** <i class="fas fa-star"/> | 26.9 | 0.41 | 10.0 | 632.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Похоть](/ru/Emblem/Lust/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Luckyblessings](/equipment/Luckyblessings/) | **АТК** | **DEF** | 
+  | [Источниксилы](/equipment/Источниксилы/) | **ОЗ** | **DEF** | 
+  | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **DEF** | 
+  | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Похоть](/Emblem/Lust/) (Хаос)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Прямой удар
- **Описание:** 
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Прямой удар
+ **Описание:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
 
-### Обычное умение 1 : Фортуна
- **Описание:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
+### Regular Skill 1 : Fortune
+ **Описание:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
 
-### Обычное умение 2 : Сила элементалей
- **Описание:** <span style="color: #645252;font-size:20px">Лепреконы получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите, +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда лепреконы вступают в бой, все союзные отряды получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию и +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При одиночном ударе лепреконы получают иммунитет к любому урону выше 20% от их максимума ОЗ. </span><span style="color: black">
+### Regular Skill 2 : Сила элементалей
+ **Описание:** <span style="color: #645252;font-size:20px">Лепреконы получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда лепреконы вступают в бой, все союзные отряды получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При одиночном ударе лепреконы получают иммунитет к любому урону выше 20% от их максимума ОЗ. </span><span style="color: black">
 
-### Обычное умение 3 : Тактический блок
- **Описание:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
+### Regular Skill 3 : Тактический блок
+ **Описание:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Faction Special Skill I : Elemental Affinity
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+### Faction Special Skill II : Конфликт с элементалями
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.2+2"
+    let str8 = "LEVEL*1.5+7.5"
+    let str5 = "LEVEL*5+25"
+    let str6 = "LEVEL*5+25"
+    let str3 = "LEVEL*3+5"
+    let str4 = "LEVEL*0.1+0.5"
+    let str1 = "LEVEL*13+5"
+    let str2 = "LEVEL*2+20"
+    let str12 = "LEVEL*3+27"
+    let str13 = "LEVEL*10+50"
+    let str10 = "LEVEL*25+25"
+    let str11 = "LEVEL*6+6"
+    let str16 = "(LEVEL*3+15)"
+    let str17 = "(LEVEL*1+5)"
+    let str9 = "LEVEL*1.5+7.5"
+    let str14 = "LEVEL*18+30"
+    let str15 = "LEVEL*0.3+0.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
+     res = eval(str17); document.getElementById('str17').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Гармония (Дозор отрядов Гармонии)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Гармония**  (Дозор отрядов Гармонии)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Ciele/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -106,9 +180,9 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Sacred Tree Guardian Spirit
 
- **Awaking Description:** null
+ **Awaking Description:** В краю элементалей есть волшебное и древнее Мировое древо. К нему устремлены взоры искателей приключений, хотя путь к нему непрост. А все потому, что Древо охраняют свирепые стражи, убивающие любого. Немало странников отправлялось к Мировому древу, но вот назад никто пока не возвращался.
 
 ### Awaking Tasks
  1. 
@@ -117,15 +191,15 @@ toc: true
 
  3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Удар кулаком
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у горящих целей также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
-### 2nd Skill (or 1st): null
- **Описание:** 
+### 2nd Skill (or 1st): Direct Blow
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 3rd Skill (or 4th): Счастливое число
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Фортуна&gt;</span><span style="color: #645252;font-size:18px">: число возможных экземпляров умений лепреконов увеличивается до 5-12.</span>

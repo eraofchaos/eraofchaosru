@@ -1,40 +1,46 @@
 ---
 title: "Элементаль Моря"
-permalink: /ru/units/Sea Elemental/
-excerpt: "Отряды null"
+permalink: /units/Sea Elemental/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Элементаль Моря"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
- **Класс:** Заклинатель
+ **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
 
- **Класс Описание:** null
+ **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Cove](/units/Fraction Cove)
 
  **Race:** Подводное царство
 
- **Members:** x9
+ **Members:** [x9](/units/Unit Member x9)
 
- **Rank:** R
+ **Rank:** [R](/units/Unit Rank R)
+
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+
+ **Short description:** Управление замедлением.
+
+ **Position :** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
 
  **Recommend:** Эффективное сдерживание толпы, мощное восстановление.
 
- **Info:** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
+## Basic stats
+ **Base HP: 1446.0**
 
-## Базовые параметры
- **Base HP:** 1446.0
+ **Base ATK: 201.8**
 
- **Base ATK:** 201.8
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 100.9 | 3.25 | 1084.5 |
+  | Green | 100.9 | 3.25 | 1084.5 |
   | Синий | 201.8 | 6.5 | 2169.0 |
   | Blue +1 | 302.7 | 9.75 | 3253.5 |
   | Синий +2 | 423.78 | 13.65 | 4554.9 |
@@ -59,42 +65,93 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 36.324 | 0.48 | 3.56 | 260.28 |
   | **6x** <i class="fas fa-star"/> | 40.36 | 0.5 | 4.13 | 289.2 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
-* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
-* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Вечная слеза](/equipment/Вечная слеза/) | **АТК** | **DEF** | 
+  | [Ядро элементаля Воды](/equipment/Ядро элементаля Воды/) | **ОЗ** | **DEF** | 
+  | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **DEF** | 
+  | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Jealousy](/Emblem/Jealousy/) (Хаос)
+
+## Combination Info
+
+* [Замедление](/combination/Замедление/) 
+
 
 ## Skills
-### Совершенное умение: Спираль времени
- **Описание:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((($level+$ulevel)*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Спираль времени
+ **Описание:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
 
-### Обычное умение 1 : Дар полного прилива
- **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+### Regular Skill 1 : Дар полного прилива
+ **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px">{(($level+$ulevel)*1+14)}%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
+### Regular Skill 2 : Tidal Rite
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 3 : null
- **Описание:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+### Regular Skill 3 : Abyss Cage
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Спокойное тело
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+### Faction Special Skill I : Спокойное тело
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+### Faction Special Skill II : Pirate Conflict
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "(LEVEL*0.1+3)"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "(LEVEL*1+15)"
+    let str4 = "(LEVEL*1+14)"
+    let str1 = "(LEVEL*0.5+0.5)"
+    let str2 = "((LEVEL*10+60))"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Убежища (Дозор отрядов Убежища)
-* Заклинатель (Дозор отрядов заклинателей)
+* **Cove**  (Дозор отрядов Убежища)
+* **Caster**  (Дозор отрядов заклинателей)
 
-### Бонус героя
-* [Дракон](/ru/heroes/Dracon/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Cassanbel/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -115,9 +172,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. null
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Naga and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
@@ -137,7 +194,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Описание:** 
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
 
 ## Technical info
  **runart:** 0

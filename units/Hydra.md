@@ -1,42 +1,46 @@
 ---
-title: "Гидра"
-permalink: /ru/units/Hydra/
-excerpt: "Отряды null"
+title: "Hydra"
+permalink: /units/Hydra/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2020-12-26
-lang: ru
-ref: "Гидра"
+last_modified_at: 2021-02-19
+locale: ru
+ref: "Hydra"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of.
 
- **Класс:** Наступление
+ **Описание:** [Наступление](/units/Unit Class Наступление)
 
- **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Fraction:** [Крепость](/ru/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Fraction Крепость)
 
- **Race:** null
+ **Race:** Единорог
 
- **Members:** x1
+ **Members:** [x1](/units/Unit Member x1)
 
- **Rank:** SSR
+ **Rank:** [SSR](/units/Unit Rank SSR)
 
- **Unit description:** 
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Short description:** Высокая атака. Устойчивый. Сильный контроль.
+
+ **Position :** Отряд с высочайшим УВС. Уничтожает врагов непрерывными атаками.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
- **Info:** Отряд с высочайшим УВС. Уничтожает врагов непрерывными атаками.
+## Basic stats
+ **Base HP: 5770.0**
 
-## Базовые параметры
- **Base HP:** 5770.0
+ **Base ATK: 769.3**
 
- **Base ATK:** 769.3
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 384.65 | 6.5 | 4327.5 |
+  | Green | 384.65 | 6.5 | 4327.5 |
   | Синий | 769.3 | 13.0 | 8655.0 |
   | Blue +1 | 1153.95 | 19.5 | 12982.5 |
   | Синий +2 | 1615.53 | 27.3 | 18175.5 |
@@ -59,42 +63,92 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 138.474 | 0.58 | 5.12 | 1038.6 |
   | **6x** <i class="fas fa-star"/> | 153.86 | 0.6 | 5.75 | 1154.0 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
-* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Хвост чумного дракона](/equipment/Хвост чумного дракона/) | **АТК** | **DEF** | 
+  | [Сережки правителя](/equipment/Сережки правителя/) | **ОЗ** | **DEF** | 
+  | [Коготь чумного дракона](/equipment/Коготь чумного дракона/) | **АТК** | **DEF** | 
+  | [Острые спинные шипы](/equipment/Острые спинные шипы/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+
+## Combination Info
+
+  none
 
 ## Skills
-### Совершенное умение: Туман Хаоса
- **Описание:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: Chaos Mist
+ **Описание:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
 
-### Обычное умение 1 : null
- **Описание:** 
+### Regular Skill 1 : Headbutt Combo
+ **Описание:** <span style="color: #645252;font-size:20px">Hydra has a chance to follow up with 1/2/3/4 headbutts when attacking, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage each time. The chances of an additional headbutt is 60%/40%/30%/10% respectively.</span><span style="color: black">
 
-### Обычное умение 2 : null
- **Описание:** 
+### Regular Skill 2 : Plague Dominance
+ **Описание:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### Обычное умение 3 : Неотступный укус
- **Описание:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px">{($level+$ulevel)*2+200}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
+### Regular Skill 3 : Неотступный укус
+ **Описание:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Чумной удар
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
+### Faction Special Skill I : Чумной удар
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Rise of Vitality
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
+### Faction Special Skill II : Rise of Vitality
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.3+1)"
+    let str5 = "(LEVEL*1+7)"
+    let str6 = "(LEVEL*300+2000)"
+    let str3 = "(LEVEL*0.1+3.9)"
+    let str4 = "LEVEL*2+200"
+    let str1 = "(LEVEL*0.5+2.5)"
+    let str2 = "(LEVEL*1+59)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Крепость (Дозор отрядов Крепости)
-* Атакующий отряд (Дозор атакующих отрядов)
+* **Крепость**  (Дозор отрядов Крепости)
+* **Offensive**  (Дозор атакующих отрядов)
 
-### Бонус героя
-* [null](/ru/heroes/Kendal/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Tazar/) *   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -104,40 +158,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Гидра хаоса
 
- **Awaking Description:** null
+ **Awaking Description:** Sleeping in the depths of the marshes, the primordial Hydras are the area's most ancient creatures. Their giant bodies are covered in moss, helping them blend with their dark surroundings and often causing those who mistakenly enter their domain to overlook their presence. Yet danger quietly looms, and now, one can only pray that they do not wake up.
 
 ### Awaking Tasks
- 1. null
+ 1. <span style="color: #876741;font-size:18px">Используйте гидр и хотя бы </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ресурсов в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Chaos Hydra souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Используйте гидр и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Death Mist
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Туман Хаоса&gt;</span><span style="color: #645252;font-size:18px">: враги под действием Тумана хаоса дополнительно получают урон в 1,5% от макс. ОЗ в секунду. Также напускает дополнительный Туман хаоса на врагов в большом радиусе вокруг себя и восстанавливает себе по 1,5% макс. ОЗ в секунду.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** 
+### 2nd Skill (or 1st): Мгла хаоса
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Туман хаоса&gt;</span><span style="color: #645252;font-size:18px">: под действием тумана враги дополнительно теряют 25% урона отряда. Также снижает скорость атаки врагов в большом радиусе вокруг себя на 20% и повышает свой крит. урон на 20%.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** 
+### 3rd Skill (or 4th): Бронебойный удар головой
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Многократный удар головой&gt;</span><span style="color: #645252;font-size:18px"> дает +200 к пробиванию. Шанс последующего удара головой повышается на 50%.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** 
+### 4th Skill (or 3rd): Тяжелый удар головой
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Многократный удар головой&gt;</span><span style="color: #645252;font-size:18px"> дает +200 к пробиванию. Урон от удара головой повышается на 50%.</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Frenzied Bite
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Неотступный укус&gt;</span><span style="color: #645252;font-size:18px">: когда гидры применяют «Неотступный укус», они получают, а целевой отряд теряет 15% сопротивления урону. С шансом 50% эффект удваивается. Длится 5 сек.</span>
 
-### 6th Skill (or 5th): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Разрывающий укус
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Неотступный укус&gt;</span><span style="color: #645252;font-size:18px">: когда гидры применяют «Неотступный укус», они получают, а цель теряет 15% ЗЩТ. С шансом 50% эффект удваивается. Длится 5 сек.</span>
 
 ## Technical info
  **runart:** 1

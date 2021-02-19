@@ -1,42 +1,48 @@
 ---
 title: "Регнанский змей"
-permalink: /ru/units/Regnan Serpent/
-excerpt: "Отряды null"
+permalink: /units/Regnan Serpent/
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2020-12-26
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Регнанский змей"
 toc: true
 ---
 ## General information
- **Описание:** null
+ **Описание:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 
- **Класс:** Защита
+ **Описание:** [Защита](/units/Unit Class Защита)
 
- **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Fraction:** [null](/ru/units/Fraction null)
+ **Faction:** [Cove](/units/Fraction Cove)
 
  **Race:** Подводное царство
 
- **Members:** x4
+ **Members:** [x4](/units/Unit Member x4)
 
- **Rank:** SR
+ **Rank:** [SR](/units/Unit Rank SR)
 
- **Unit description:** Топот глубин: наносит урон в области, отбрасывает врага и предотвращает критические удары
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+
+ **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
+
+ **Short description:** Strong tank. Deep sea guard
+
+ **Position :** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
 
  **Recommend:** Сильный танк, сдерживает врага.
 
- **Info:** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
+## Basic stats
+ **Base HP: 3027.0**
 
-## Базовые параметры
- **Base HP:** 3027.0
+ **Base ATK: 100.9**
 
- **Base ATK:** 100.9
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 50.45 | 15.0 | 2270.25 |
+  | Green | 50.45 | 15.0 | 2270.25 |
   | Синий | 100.9 | 30.0 | 4540.5 |
   | Blue +1 | 151.35 | 45.0 | 6810.75 |
   | Синий +2 | 211.89 | 63.0 | 9535.05 |
@@ -59,42 +65,106 @@ toc: true
   | **5x** <i class="fas fa-star"/> | 18.162 | 0.42 | 9.2 | 544.86 |
   | **6x** <i class="fas fa-star"/> | 20.18 | 0.44 | 10.0 | 605.4 |
 
-## Рекомендуемые эмблемы святости
+## Снаряжение
 
-* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
-* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Trident](/equipment/Trident/) | **АТК** | **DEF** | 
+  | [Рожок из ракушки](/equipment/Рожок из ракушки/) | **ОЗ** | **DEF** | 
+  | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **DEF** | 
+  | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **DEF** | 
+
+## Recommended Holy Emblems
+
+* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
+* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+
+## Combination Info
+
+* [Deterrence](/combination/Deterrence/) 
+* [Оглушение](/combination/Оглушение/) 
+
 
 ## Skills
-### Совершенное умение: null
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Ultimate Skill: null
  **Описание:** 
 
-### Обычное умение 1 : Доспех русалки
- **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*15+35)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
+### Regular Skill 1 : Доспех русалки
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
 
-### Обычное умение 2 : Путеводный прилив
- **Описание:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*5+5)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.2+2)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
+### Regular Skill 2 : Путеводный прилив
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
 
-### Обычное умение 3 : Боевой рог
- **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.7+9.3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(($level+$ulevel)*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
+### Regular Skill 3 : Боевой рог
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Спокойное тело
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
+### Faction Special Skill I : Спокойное тело
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+{(($level+$ulevel)*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
+### Faction Special Skill II : Pirate Conflict
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-## Значимость
-### Связь дозора
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+7.5)"
+    let str8 = "(LEVEL*0.2+2)"
+    let str5 = "(LEVEL*5+5)"
+    let str6 = "(LEVEL*0.2+2)"
+    let str3 = "(LEVEL*1+5)"
+    let str4 = "(LEVEL*5+5)"
+    let str1 = "(LEVEL*15+35)"
+    let str2 = "(LEVEL*0.5+7.5)"
+    let str12 = "(LEVEL*1+5)"
+    let str13 = "(LEVEL*1+5)"
+    let str10 = "(LEVEL*0.7+9.3)"
+    let str11 = "(LEVEL*0.5+2.5)"
+    let str9 = "(LEVEL*0.3+0.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevance
+### Roster Connection
 
-* Отряд Убежища (Дозор отрядов Убежища)
-* Оборонительный отряд (Дозор оборонительных отрядов)
+* **Cove**  (Дозор отрядов Убежища)
+* **Defensive**  (Дозор оборонительных отрядов)
 
-### Бонус героя
-* [Мефала](/ru/heroes/Mephala/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [null](/ru/heroes/Cassanbel/) *   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+### Hero Bonus
+* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
-## Talent
+## Талант
 
 * Атака
 * ОЗ
@@ -113,9 +183,9 @@ toc: true
 ### Awaking Tasks
  1. 
 
- 2. null
+ 2. 
 
- 3. null
+ 3. 
 
  4. 
 
@@ -127,13 +197,13 @@ toc: true
 ### 2nd Skill (or 1st): 
  **Описание:** 
 
-### 3rd Skill (or 4th): null
+### 3rd Skill (or 4th): 
  **Описание:** 
 
 ### 4th Skill (or 3rd): 
  **Описание:** 
 
-### 5th Skill (or 6th): null
+### 5th Skill (or 6th): 
  **Описание:** 
 
 ### 6th Skill (or 5th): 
@@ -176,7 +246,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** Стальными копытами я любого втопчу в грязь!
+ **talk1:** My iron-clad hooves will leave you quivering in the mud!
 
  **talk2:** Земля будет залита кровью...
 
