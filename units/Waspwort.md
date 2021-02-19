@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Крепость](/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** DPS & control
 

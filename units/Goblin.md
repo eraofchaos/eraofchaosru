@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Цитадель](/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 

@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Башня](/units/Fraction Башня)
+ **Faction:** [Башня](/units/Faction Tower/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Командующий)
+ **Rank:** [Командующий](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Совершенная защита.
 

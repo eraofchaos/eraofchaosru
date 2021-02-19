@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Conflux](/units/Fraction Conflux)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Short description:** Накладывает немоту. Улучшает заклинание в начале боя.
 

@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Крепость](/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Short description:** Ослабляет и контролирует задний ряд.
 

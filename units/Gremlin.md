@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Башня](/units/Fraction Башня)
+ **Faction:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Магический железный шар железный шар: значительно усиливает атаку и скорость атаки.
 

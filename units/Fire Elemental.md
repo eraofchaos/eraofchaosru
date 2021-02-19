@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Conflux](/units/Fraction Conflux)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Short description:** Обжигает. Взрыв по всему полю.
 

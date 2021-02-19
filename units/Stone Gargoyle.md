@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Башня](/units/Fraction Башня)
+ **Faction:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 

@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Dragon overlord with strong roar
 

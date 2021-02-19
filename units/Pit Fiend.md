@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Огненный источник: постоянно излечивает союзные отряды на своем пути.
 

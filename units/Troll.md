@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Цитадель](/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Командующий)
+ **Rank:** [Командующий](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Single-target assault. Burst damage.
 

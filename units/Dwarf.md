@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Гномий вой: увеличивает максимум здоровья отряда в начале боя.
 

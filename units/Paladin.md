@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Замок](/units/Fraction Замок)
+ **Faction:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Unit description:** Подкрепления отважного: призовите на бой охрану святилища
 

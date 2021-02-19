@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Злой дух
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 

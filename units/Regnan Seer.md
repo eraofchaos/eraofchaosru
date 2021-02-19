@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Командующий)
+ **Rank:** [Командующий](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Лидер Убежища. Сильный контроль.
 

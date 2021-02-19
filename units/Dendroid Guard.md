@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Бес
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Связывание: Снижает скорость атаки врага, вызывает замедление.
 

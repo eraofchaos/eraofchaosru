@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Conflux](/units/Fraction Conflux)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Short description:** Ледяная аура. Стена льда.
 

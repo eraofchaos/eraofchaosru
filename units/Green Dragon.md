@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Unit description:** Подкрепление с Небес: наносит огромный урон 3 вражеским отрядам на задней линии.
 

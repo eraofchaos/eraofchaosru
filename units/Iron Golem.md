@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Башня](/units/Fraction Башня)
+ **Faction:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 

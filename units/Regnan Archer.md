@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** Пират
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Crits and penetrates.
 

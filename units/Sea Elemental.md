@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Short description:** Управление замедлением.
 

@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
 
- **Описание:** [Заклинатель](/units/Unit Class Заклинатель)
+ **Описание:** [Заклинатель](/units/Unit Class Caster/)
 
  **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Злой дух
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Огненный шар: наносит огромный урон врагам, поджигая их.
 

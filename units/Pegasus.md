@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 

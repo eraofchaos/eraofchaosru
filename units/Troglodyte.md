@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Лес копий: наносит урон в области и вызывает оглушение
 

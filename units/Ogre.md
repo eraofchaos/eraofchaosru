@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Цитадель](/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
  **Unit description:** Бассейн крови: усиливает высасывание жизни ближайших отрядов.
 

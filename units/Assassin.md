@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Neutral Army](/units/Fraction Neutral Army)
+ **Faction:** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Смертельный урон, подавление регенерации
 

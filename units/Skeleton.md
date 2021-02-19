@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Костяной щит: усиливает сопротивление урону, когда запас здоровья ниже 50%.
 

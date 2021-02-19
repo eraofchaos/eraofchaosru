@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Командующий)
+ **Rank:** [Командующий](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Казнь. Непобедимость в собственном царстве.
 

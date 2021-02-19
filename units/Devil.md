@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Unit description:** Жестокий жнец: наносит большой урон вашим врагам, вызывая оглушение.
 

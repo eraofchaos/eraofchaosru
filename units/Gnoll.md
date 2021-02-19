@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Крепость](/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Short description:** Рукопашный УВС. Оглушает.
 

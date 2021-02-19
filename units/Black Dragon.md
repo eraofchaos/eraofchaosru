@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
- **Описание:** [Защита](/units/Unit Class Защита)
+ **Описание:** [Защита](/units/Unit Class Defense/)
 
  **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 

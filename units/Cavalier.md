@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений.
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Замок](/units/Fraction Замок)
+ **Faction:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Бой на копьях: наносит большой урон, при первой атаке оглушает.
 

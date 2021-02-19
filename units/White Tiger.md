@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя.
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Крепость](/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Командующий)
+ **Rank:** [Командующий](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
 ## Basic stats
  **Base HP: 6138.8**

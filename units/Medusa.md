@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
- **Описание:** [Стрелковый](/units/Unit Class Стрелковый)
+ **Описание:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Unit description:** Каменный взгляд: превращает врага в камень и снижает сопротивление урону отряда
 

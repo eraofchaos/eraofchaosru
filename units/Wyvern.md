@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Крепость](/units/Fraction Крепость)
+ **Faction:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Сильный рукопашник. Ядовитый.
 

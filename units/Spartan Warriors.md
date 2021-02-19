@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Описание:** [Наступление](/units/Unit Class Наступление)
+ **Описание:** [Наступление](/units/Unit Class Offense/)
 
  **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Neutral Army](/units/Fraction Neutral Army)
+ **Faction:** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
  **Short description:** Оглушение щитом, месть
 

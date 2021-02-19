@@ -8,11 +8,11 @@ ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Faction: [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Замок](/units/Fraction Замок){: .btn .btn--success} [Inferno](/units/Fraction Inferno){: .btn .btn--warning} [Dungeon](/units/Fraction Dungeon){: .btn .btn--danger} [Крепость](/units/Fraction Крепость){: .btn .btn--info} [Rampart](/units/Fraction Rampart){: .btn .btn--primary} [Цитадель](/units/Fraction Цитадель){: .btn .btn--success} [Cove](/units/Fraction Cove){: .btn .btn--warning} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--danger} [Necropolis](/units/Fraction Necropolis){: .btn .btn--info} [Башня](/units/Fraction Башня){: .btn .btn--primary} 
+  by Faction: [Conflux](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Крепость](/units/Faction Fortress){: .btn .btn--danger} [Rampart](/units/Faction Rampart){: .btn .btn--info} [Замок](/units/Faction Castle){: .btn .btn--primary} [Башня](/units/Faction Tower){: .btn .btn--success} [Цитадель](/units/Faction Stronghold){: .btn .btn--warning} [Cove](/units/Faction Cove){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army){: .btn .btn--info} [Necropolis](/units/Faction Necropolis){: .btn .btn--primary} 
 
-  by Class: [Защита](/units/Unit Class Защита){: .btn .btn--primary} [Наступление](/units/Unit Class Наступление){: .btn .btn--success} [Штурм](/units/Unit Class Штурм){: .btn .btn--warning} [Стрелковый](/units/Unit Class Стрелковый){: .btn .btn--danger} [Заклинатель](/units/Unit Class Заклинатель){: .btn .btn--info} 
+  by Class: [Стрелковый](/units/Unit Class Ranged){: .btn .btn--primary} [Штурм](/units/Unit Class Charging){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster){: .btn .btn--warning} [Наступление](/units/Unit Class Offense){: .btn .btn--danger} [Защита](/units/Unit Class Defense){: .btn .btn--info} 
 
-  by Rank: [Командующий](/units/Unit Rank Командующий){: .btn .btn--primary} [R](/units/Unit Rank R){: .btn .btn--success} [SSR](/units/Unit Rank SSR){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
+  by Rank: [R](/units/Unit Rank R){: .btn .btn--primary} [SSR](/units/Unit Rank SSR){: .btn .btn--success} [Командующий](/units/Unit Rank Commander){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
 
   by Members: [x9](/units/Unit Member x9){: .btn .btn--primary} [x1](/units/Unit Member x1){: .btn .btn--success} [x4](/units/Unit Member x4){: .btn .btn--warning} 
 

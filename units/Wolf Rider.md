@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов.
 
- **Описание:** [Штурм](/units/Unit Class Штурм)
+ **Описание:** [Штурм](/units/Unit Class Charging/)
 
  **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Цитадель](/units/Fraction Цитадель)
+ **Faction:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 

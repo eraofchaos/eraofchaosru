@@ -8,7 +8,7 @@ ref: "Unit Rank SR"
 toc: false
 classes: wide
 ---
- [Командующий](/units/Unit Rank Командующий){: .btn .btn--primary} [R](/units/Unit Rank R){: .btn .btn--success} [SSR](/units/Unit Rank SSR){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
+ [R](/units/Unit Rank R){: .btn .btn--primary} [SSR](/units/Unit Rank SSR){: .btn .btn--success} [Командующий](/units/Unit Rank Commander){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
