@@ -1,9 +1,9 @@
 ---
 title: "Эмблема святости - Тайна Неувядающего"
-permalink: /ru/Emblem/Everlasting Secret/
-excerpt: "Эмблема святости - Порядок - Тайна Неувядающего"
-last_modified_at: 2020-12-23
-lang: ru
+permalink: /Emblem/Everlasting Secret/
+excerpt: "Эра хаоса Эмблема святости - Порядок - Тайна Неувядающего"
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Everlasting Secret.md"
 toc: false
 classes: wide
@@ -11,14 +11,14 @@ classes: wide
 
  **Name:** Тайна Неувядающего
 
- **Type:** [Порядок](/ru/Emblem/Type Order/)
+ **Type:** [Порядок](/Emblem/Type Order/)
 
-  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/){: .btn .btn--era5} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; Уровень всех умений участвующих в бою отрядов увеличивается на 2</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
-  | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уровень всех умений участвующих в бою отрядов увеличивается на 1</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
+  | [Тайна Неувядающего](/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уровень всех умений участвующих в бою отрядов увеличивается на 2</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
+  | [Тайна Неувядающего](/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Уровень всех умений участвующих в бою отрядов увеличивается на 1</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
 
   |         Description            | 
   |:-------------------------------|

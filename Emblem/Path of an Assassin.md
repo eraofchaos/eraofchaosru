@@ -1,9 +1,9 @@
 ---
 title: "Эмблема святости - Путь ассасина"
-permalink: /ru/Emblem/Path of an Assassin/
-excerpt: "Эмблема святости - Нейтральный - Путь ассасина"
-last_modified_at: 2020-12-23
-lang: ru
+permalink: /Emblem/Path of an Assassin/
+excerpt: "Эра хаоса Эмблема святости - Нейтральный - Путь ассасина"
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Path of an Assassin.md"
 toc: false
 classes: wide
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Путь ассасина
 
- **Type:** [Нейтральный](/ru/Emblem/Type Neutral/)
+ **Type:** [Нейтральный](/Emblem/Type Neutral/)
 
-  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Путь ассасина](/ru/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; +90 к пробиванию, +200 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
-  | [Путь ассасина](/ru/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; +120 к пробиванию, +300 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 
-  | [Путь ассасина](/ru/Emblem/Path of an Assassin/){: .btn .btn--era5} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; +240 к пробиванию, +600 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ОЗ +20%</span> | 
-  | [Путь ассасина](/ru/Emblem/Path of an Assassin/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | null | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
+  | [Путь ассасина](/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +6, HP +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; +90 к пробиванию, +200 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
+  | [Путь ассасина](/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; +120 к пробиванию, +300 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 
+  | [Путь ассасина](/Emblem/Path of an Assassin/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +20, HP +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; +240 к пробиванию, +600 к критическому удару на 30 сек. в начале боя</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +55, HP +20%</span> | 
+  | [Путь ассасина](/Emblem/Path of an Assassin/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases penetration by 60. Grants an additional 100 Crit Hit at the start of battle for 30s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
 
   |         Description            | 
   |:-------------------------------|

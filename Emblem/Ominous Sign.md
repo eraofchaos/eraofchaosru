@@ -1,9 +1,9 @@
 ---
 title: "Эмблема святости - Зловещий знак"
-permalink: /ru/Emblem/Ominous Sign/
-excerpt: "Эмблема святости - Злой - Зловещий знак"
-last_modified_at: 2020-12-23
-lang: ru
+permalink: /Emblem/Ominous Sign/
+excerpt: "Эра хаоса Эмблема святости - Злой - Зловещий знак"
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Ominous Sign.md"
 toc: false
 classes: wide
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Зловещий знак
 
- **Type:** [Злой](/ru/Emblem/Type Evil/)
+ **Type:** [Злой](/Emblem/Type Evil/)
 
-  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Зловещий знак](/ru/Emblem/Ominous Sign/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 15% восстанавливает 2% максимального здоровья. Восстановление - 4 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
-  | [Зловещий знак](/ru/Emblem/Ominous Sign/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 15% восстанавливает 4% максимального здоровья. Восстановление - 4 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0,7%, эмблема святости ЗЩТ +16</span> | 
-  | [Зловещий знак](/ru/Emblem/Ominous Sign/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 30% восстанавливает 4% максимального здоровья. Восстановление - 4 сек.</span> | null | 
-  | [Зловещий знак](/ru/Emblem/Ominous Sign/){: .btn .btn--era5} | null | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 40% восстанавливает 6% максимального здоровья. Восстановление - 4 сек. </span> | null | 
+  | [Зловещий знак](/Emblem/Ominous Sign/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 15% восстанавливает 2% максимального здоровья. Восстановление - 4 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
+  | [Зловещий знак](/Emblem/Ominous Sign/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 15% восстанавливает 4% максимального здоровья. Восстановление - 4 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0,7%, эмблема святости ЗЩТ +16</span> | 
+  | [Зловещий знак](/Emblem/Ominous Sign/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 30% восстанавливает 4% максимального здоровья. Восстановление - 4 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +1.5%, Holy Emblem DEF +30</span> | 
+  | [Зловещий знак](/Emblem/Ominous Sign/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд пытается уклониться, он с шансом 40% восстанавливает 6% максимального здоровья. Восстановление - 4 сек. </span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +2%, Holy Emblem DEF +55</span> | 
 
   |         Description            | 
   |:-------------------------------|

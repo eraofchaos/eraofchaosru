@@ -1,9 +1,9 @@
 ---
 title: "Эмблема святости"
-permalink: /ru/Emblem/
-excerpt: "Эмблема святости.Эмблема святости значительно усиливает отряд. Возможны разные виды и комбинации эмблем святости. Эмблема святости дает великолепные дополнительные параметры."
-last_modified_at: 2020-12-23
-lang: ru
+permalink: /Emblem/
+excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эмблема святости значительно усиливает отряд. Возможны разные виды и комбинации эмблем святости. Эмблема святости дает великолепные дополнительные параметры."
+last_modified_at: 2021-02-19
+locale: ru
 ref: "index.md"
 toc: false
 classes: wide
@@ -13,41 +13,41 @@ classes: wide
 
 ## Эмблема святости (by type):
 
-  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
 
 ## Эмблема святости (by name):
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Зловещий знак](/ru/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
-  | 2 | [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
-  | 3 | [Похоть](/ru/Emblem/Lust/) | Хаос | Подходит оборонительным отрядам | 
-  | 4 | [Darkness Enlightenment](/ru/Emblem/Darkness Enlightenment/) | Злой | null | 
-  | 5 | [Жетон Аксо](/ru/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 
-  | 6 | [Гордыня](/ru/Emblem/Arrogance/) | Хаос | Больше всего подходит отрядам с УВС | 
-  | 7 | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
-  | 8 | [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
-  | 9 | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/) | Нейтральный | Подходит для любых отрядов | 
-  | 10 | [Алчность](/ru/Emblem/Greed/) | Хаос | Подходит оборонительным отрядам | 
-  | 11 | [Благословение](/ru/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
-  | 12 | [Зеленый пророк](/ru/Emblem/Green Prophet/) | Добро | Подходит для любых отрядов | 
-  | 13 | [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
-  | 14 | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
-  | 15 | [Стена познания](/ru/Emblem/Wall of Knowledge/) | Добро | Подходит для любых отрядов | 
-  | 16 | [Суд отцов](/ru/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
-  | 17 | [Древний огонь](/ru/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
-  | 18 | [Путь ассасина](/ru/Emblem/Path of an Assassin/) | Нейтральный | Больше всего подходит отрядам с УВС | 
-  | 19 | [Dragon King's Breath](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
-  | 20 | [Снаряжение времени](/ru/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
-  | 21 | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) | Нейтральный | null | 
-  | 22 | [Ревность](/ru/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
-  | 23 | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
-  | 24 | [Ангел-хранитель](/ru/Emblem/Guardian Angel/) | Добро | Больше всего подходит отрядам с УВС | 
-  | 25 | [Королевская беда](/ru/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
-  | 26 | [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) | Нейтральный | Подходит для любых отрядов | 
-  | 27 | [Гнев](/ru/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 
-  | 28 | [Крылья грифона](/ru/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 
-  | 29 | [Ум](/ru/Emblem/Witness/) | Добро | Больше всего подходит отрядам с УВС | 
+  | 1 | [Зловещий знак](/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
+  | 2 | [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
+  | 3 | [Похоть](/Emblem/Lust/) | Хаос | Подходит оборонительным отрядам | 
+  | 4 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Злой | Recommended to inlay for 4/9/16-man units | 
+  | 5 | [Жетон Аксо](/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 
+  | 6 | [Гордыня](/Emblem/Arrogance/) | Хаос | Recommended to inlay for units with DPS | 
+  | 7 | [Святилище Космоса](/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
+  | 8 | [Забытая фамилия](/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
+  | 9 | [Вина Тарнума](/Emblem/Tarnum's Culpability/) | Нейтральный | Подходит для любых отрядов | 
+  | 10 | [Алчность](/Emblem/Greed/) | Хаос | Подходит оборонительным отрядам | 
+  | 11 | [Благословение](/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
+  | 12 | [Зеленый пророк](/Emblem/Green Prophet/) | Добро | Подходит для любых отрядов | 
+  | 13 | [Разбитое пророчество](/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
+  | 14 | [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) | Порядок | Recommended to inlay for units with DPS | 
+  | 15 | [Стена познания](/Emblem/Wall of Knowledge/) | Добро | Подходит для любых отрядов | 
+  | 16 | [Суд отцов](/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
+  | 17 | [Древний огонь](/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
+  | 18 | [Путь ассасина](/Emblem/Path of an Assassin/) | Нейтральный | Recommended to inlay for units with DPS | 
+  | 19 | [Dragon King's Breath](/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
+  | 20 | [Снаряжение времени](/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
+  | 21 | [Ключ меча и магии](/Emblem/Stone Key to the Gates/) | Нейтральный | Recommended to inlay for units that make enemies bleed | 
+  | 22 | [Jealousy](/Emblem/Jealousy/) | Хаос | Recommended to inlay for units with DPS | 
+  | 23 | [Тайна Неувядающего](/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
+  | 24 | [Ангел-хранитель](/Emblem/Guardian Angel/) | Добро | Recommended to inlay for units with DPS | 
+  | 25 | [Королевская беда](/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
+  | 26 | [Ядро мировой сети](/Emblem/Core of the Global Network/) | Нейтральный | Подходит для любых отрядов | 
+  | 27 | [Гнев](/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 
+  | 28 | [Крылья грифона](/Emblem/Griffin Wings/) | Порядок | Recommended to inlay for units with DPS | 
+  | 29 | [Ум](/Emblem/Witness/) | Добро | Recommended to inlay for units with DPS | 
 
 ## Rules
 
