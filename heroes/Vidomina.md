@@ -1,18 +1,18 @@
 ---
-title: "Видомина"
-permalink: /ru/heroes/Vidomina/
-excerpt: "Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла."
+title: "Vidomina"
+permalink: /heroes/Vidomina/
+excerpt: "Эра хаоса Vidomina. Vidomina. Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла."
 heroID: 60502
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Vidomina"
 toc: true
 ---
  **Description:** Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла.
 ## Details
- **Profession:** 
+ **Profession:** Necromancer
 
- **Race:** 
+ **Race:** Necropolis
 
  **Rate:** R
 
@@ -34,11 +34,11 @@ toc: true
 ### 1 Spell: Стрела Воздуха
  **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
-### 2 Spell: null
- **Description:** 
+### 2 Spell: Necromancy
+ **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
 ### 3 Spell: Поднять мертвецов
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в определенной области (кроме отрядов Некрополя) и восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Армия нежити
  **Description:** Призывает скелетов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в выбранной области в количестве, равном числу вражеских отрядов в этой области Скелеты остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
@@ -79,7 +79,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Мудрость
+   - Wisdom
    - Магия Земли
-   - null
+   - Scouting
    - Мистицизм

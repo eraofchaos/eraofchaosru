@@ -1,10 +1,10 @@
 ---
 title: "Kendal"
-permalink: /ru/heroes/Kendal/
-excerpt: "Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника."
+permalink: /heroes/Kendal/
+excerpt: "Эра хаоса Kendal. Kendal. Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника."
 heroID: 60104
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Kendal"
 toc: true
 ---
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** 
+ **Specialty:** Master of Tactics
 
  **Mana base:** 16
 
@@ -32,15 +32,15 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Description:** 
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
 ### 2 Spell: Радость
  **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Разрушительный луч
- **Description:** Снижает сопротивление урону и уклонение выбранных противников на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)>% и {-($buffaddattr22+$buffaddattr23*($sklevel-1))/20}<-(($buffaddattr22+$buffaddattr23*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% соответственно; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
+ **Description:** Reduces the damage reduction and dodge of targeted enemy units with in a large range by {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)>% and {-($buffaddattr22+$buffaddattr23*($sklevel-1))/20}<-(($buffaddattr22+$buffaddattr23*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% respectively for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
-### 4 Spell: Тактика набегов
+### 4 Spell: Rush Tactic
  **Description:** Увеличивает скорость АТК на 30% и сопротивление магии на 50% всем союзным отрядам в радиусе действия на <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> сек. Бонус удваивается для отрядов из 9 существ
 
 
@@ -54,7 +54,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Resistance
    - Наступление
    - Доспехи
    - Ученый

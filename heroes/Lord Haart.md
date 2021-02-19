@@ -1,18 +1,18 @@
 ---
-title: "Лорд Хаарт"
-permalink: /ru/heroes/Lord Haart/
-excerpt: "Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
+title: "Lord Haart"
+permalink: /heroes/Lord Haart/
+excerpt: "Эра хаоса Lord Haart. Lord Haart. Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
 heroID: 60401
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Lord Haart"
 toc: true
 ---
  **Description:** Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни.
 ## Details
- **Profession:** 
+ **Profession:** Death Knight
 
- **Race:** 
+ **Race:** Necropolis
 
  **Rate:** SR-
 
@@ -70,7 +70,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Resistance
    - Наступление
    - Волшебство
    - Ученый

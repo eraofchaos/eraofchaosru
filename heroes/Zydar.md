@@ -1,10 +1,10 @@
 ---
 title: "Zydar"
-permalink: /ru/heroes/Zydar/
-excerpt: "Зидар посвятил большую часть жизни улучшению своих заклинаний. Он стал великим заклинателем задолго до того, как стал полководцем. И на него можно положиться куда лучше, чем на любого из его сородичей-демонов."
+permalink: /heroes/Zydar/
+excerpt: "Эра хаоса Zydar. Zydar. Зидар посвятил большую часть жизни улучшению своих заклинаний. Он стал великим заклинателем задолго до того, как стал полководцем. И на него можно положиться куда лучше, чем на любого из его сородичей-демонов."
 heroID: 60901
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Zydar"
 toc: true
 ---
@@ -12,7 +12,7 @@ toc: true
 ## Details
  **Profession:** Еретик
 
- **Race:** 
+ **Race:** Inferno
 
  **Rate:** R
 
@@ -38,10 +38,10 @@ toc: true
  **Description:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Элементаль Огня
- **Description:** 
+ **Description:** Summon 9 Fire Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13>.
 
 ### 4 Spell: Огненные врата
- **Description:** Создает огненные врата в выбранной области и призывает 3 отряда бесов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. Бесы остаются 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
+ **Description:** Raise 1 Gate of Fire in the target area and summon 3 Imp units of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Imps will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Мудрость
+   - Wisdom
    - Магия Огня
    - Мистицизм
-   - null
+   - Resistance

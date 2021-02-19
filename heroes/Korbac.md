@@ -1,16 +1,16 @@
 ---
 title: "Корбак"
-permalink: /ru/heroes/Korbac/
-excerpt: "Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии."
+permalink: /heroes/Korbac/
+excerpt: "Эра хаоса Корбак. Корбак. Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Korbac"
 toc: true
 ---
- **Description:** Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии.
+ **Description:** Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia.
 ## Details
- **Profession:** Хозяин зверей
+ **Profession:** Beast Master
 
  **Race:** Крепость
 
@@ -32,10 +32,10 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Description:** 
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
 ### 2 Spell: Щит Льда
- **Description:** 
+ **Description:** Grants water spell damage immunity to targeted friendly units within a large range for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are <span style="color: #e07c44;font-size:20px">slowed</span><span style="color: black"> for 3s.
 
 ### 3 Spell: Радость
  **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
@@ -47,7 +47,7 @@ toc: true
 ## HERO Biography
 
 ## HERO Skins
-### Skin 1: **null**
+### Skin 1: **Классический**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Вы не докажете смысл вашего существования, пока не победите в войне.</span>
 
@@ -57,4 +57,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Поиск пути
+   - Pathfinding

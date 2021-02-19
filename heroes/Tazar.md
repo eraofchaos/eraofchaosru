@@ -1,22 +1,22 @@
 ---
-title: "Тазар"
-permalink: /ru/heroes/Tazar/
-excerpt: "Во время шестимесячной пограничной войны с Крулодом Тазар руководил небольшими силами аванпоста Таталии и сдерживал крулодскую армию в пять раз больше своего войска целых восемь дней, пока не пришло подкрепление."
+title: "Tazar"
+permalink: /heroes/Tazar/
+excerpt: "Эра хаоса Tazar. Tazar. Во время шестимесячной пограничной войны с Крулодом Тазар руководил небольшими силами аванпоста Таталии и сдерживал крулодскую армию в пять раз больше своего войска целых восемь дней, пока не пришло подкрепление."
 heroID: 61501
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Tazar"
 toc: true
 ---
  **Description:** Во время шестимесячной пограничной войны с Крулодом Тазар руководил небольшими силами аванпоста Таталии и сдерживал крулодскую армию в пять раз больше своего войска целых восемь дней, пока не пришло подкрепление.
 ## Details
- **Profession:** Хозяин зверей
+ **Profession:** Beast Master
 
  **Race:** Крепость
 
  **Rate:** SR
 
- **Specialty:** 
+ **Specialty:** Bloody Rage
 
  **Mana base:** 20
 
@@ -32,12 +32,12 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Description:** 
+ **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
 ### 2 Spell: Зыбучие пески
  **Description:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
 
-### 3 Spell: null
+### 3 Spell: Petrification
  **Description:** Превращает цели <span style="color: #e07c44;font-size:20px">в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек., а также наносит им <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей.
 
 ### 4 Spell: Смертельная схватка
@@ -49,10 +49,10 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** 
+ **Description:** <span style="color: #ffffff;font-size:20px">Если поддашься своим инстинктам, станешь добычей зверей.</span>
 
 
-### Skin 2: **null**
+### Skin 2: **Высший суд**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Только тот храбрец, кто сможет выстоять против смертоносного взгляда Горгоны и одолеть ее, полагаясь на крепость одной лишь своей плоти, вправе называть себя Владыкой трясины! </span>
 
@@ -66,5 +66,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - null
+   - Resistance
    - Ученый

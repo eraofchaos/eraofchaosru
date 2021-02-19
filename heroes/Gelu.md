@@ -1,18 +1,18 @@
 ---
 title: "Джелу"
-permalink: /ru/heroes/Gelu/
-excerpt: ""
+permalink: /heroes/Gelu/
+excerpt: "Эра хаоса Джелу. Джелу. Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Gelu"
 toc: true
 ---
- **Description:** 
+ **Description:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
 ## Details
- **Profession:** 
+ **Profession:** Ranger
 
- **Race:** 
+ **Race:** Rampart
 
  **Rate:** SR+
 
@@ -37,7 +37,7 @@ toc: true
  **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Каменная кожа
- **Description:** 
+ **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 ### 3 Spell: Меткость
  **Description:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
@@ -54,7 +54,7 @@ toc: true
    - Знания о Джелу 5
 
 ## HERO Skins
-### Skin 1: **Классический**
+### Skin 1: **Classic**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Прошлое Джелу окутано мраком тайны. Наверняка известно только то, что он полуэльф, и возможно, родственник Вори по эльфийской линии.</span>
 
@@ -64,7 +64,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 2: **Команда разведчиков**
+### Skin 2: **Scout Team**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Снайперы под началом Джелу вселяют страх в сердца врагов. Без счета вражеских офицеров сразили стрелы невидимых стрелков. </span>
 
@@ -94,9 +94,19 @@ toc: true
    - Новейший боевой образ
    - Уникальный аватар
 
+### Skin 5: **Торжества в честь весеннего праздника**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Наступление весны знаменует о счастливом начале года. Смена времен года отмечается праздничным фейерверком.</span>
+
+ **Skin features:** 
+
+   - Воин на церемонии
+   - Новейший боевой образ
+   - Уникальный аватар
+
 
 ## Initial Mastery
-   - Мудрость
+   - Wisdom
    - Мистицизм
    - Стрельба
-   - null
+   - Resistance

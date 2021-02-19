@@ -1,22 +1,22 @@
 ---
-title: "Йог"
-permalink: /ru/heroes/Yog/
-excerpt: ""
+title: "Yog"
+permalink: /heroes/Yog/
+excerpt: "Эра хаоса Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Yog"
 toc: true
 ---
- **Description:** 
+ **Description:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
 ## Details
- **Profession:** Варвар
+ **Profession:** Barbarian
 
  **Race:** Цитадель
 
  **Rate:** SR
 
- **Specialty:** 
+ **Specialty:** Raging Cyclops
 
  **Specialty Desc:** Под предводительством Йога циклопы получают улучшение до разъяренных циклопов. Их боевые и атакующие навыки значительно улучшаются.
 
@@ -50,7 +50,7 @@ toc: true
    - Герцог Борагус назначил Йога командующим циклопами. Но сначала их нужно обуздать...
    - Килгор считал себя подходящим для этого поста, потому он бросил вызов Йогу...
    - Йог отправил Дивный доспех и Сандалии святого пророку Алундре в Таталию.
-   - 
+   - Yog sent the Celestial Necklace of Bliss and the Lion's Shield of Courage to Fiur and Teroven, the hermits hiding in Erathia.
    - Йог отправил Шлем небесного просветления и Меч правосудия паре ученых из Бракады - Рогге и Ораку.
 
 ## HERO Skins
@@ -74,4 +74,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Поиск пути
+   - Pathfinding

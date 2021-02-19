@@ -1,10 +1,10 @@
 ---
-title: "Роланд"
-permalink: /ru/heroes/Roland/
-excerpt: "Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
+title: "Roland"
+permalink: /heroes/Roland/
+excerpt: "Эра хаоса Roland. Roland. Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
 heroID: 60103
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Roland"
 toc: true
 ---
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** SR+
 
- **Specialty:** 
+ **Specialty:** Heightened Morale
 
  **Mana base:** 16
 
@@ -52,7 +52,7 @@ toc: true
  **Description:** <span style="color: #ffffff;font-size:20px">Во славу Энрота, почувствуй праведный гнев Айронфиста! </span>
 
 
-### Skin 2: **null**
+### Skin 2: **Разоренный принц**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Преданный и плененный братом, принц Роланд пришел в Эрафию за помощью. </span>
 
@@ -62,7 +62,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 3: **null**
+### Skin 3: **Royal Wedding**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир Энроту и счастье нашему народу.</span>
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 4: **Ночь урожая**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Когда начнется праздник, я предлагаю провести его с семьей за доброй едой и беседой.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">When the festival comes, we should stay with our family to enjoy food and each other's company.</span>
 
  **Skin features:** 
 
@@ -84,7 +84,7 @@ toc: true
 
 
 ## Initial Mastery
-   - null
+   - Resistance
    - Наступление
    - Доспехи
    - Ученый

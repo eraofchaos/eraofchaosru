@@ -1,18 +1,18 @@
 ---
-title: "Мутара"
-permalink: /ru/heroes/Mutare/
-excerpt: "Мутара, недавно ставшая лордом Нигона, с рождения обладала способностью командовать драконами. Эта особенность делает ее практически непобедимой в бою."
+title: "Mutare"
+permalink: /heroes/Mutare/
+excerpt: "Эра хаоса Mutare. Mutare. Мутара, недавно ставшая лордом Нигона, с рождения обладала способностью командовать драконами. Эта особенность делает ее практически непобедимой в бою."
 heroID: 61301
-last_modified_at: 2020-12-23
-lang: ru
+last_modified_at: 2021-02-19
+locale: ru
 ref: "Mutare"
 toc: true
 ---
  **Description:** Мутара, недавно ставшая лордом Нигона, с рождения обладала способностью командовать драконами. Эта особенность делает ее практически непобедимой в бою.
 ## Details
- **Profession:** 
+ **Profession:** Overlord
 
- **Race:** 
+ **Race:** Dungeon
 
  **Rate:** R
 
@@ -40,8 +40,8 @@ toc: true
 ### 3 Spell: Отчаяние
  **Description:** Снижает ОЗ выбранных союзных отрядов на 30% (не может убить отряд). Повышает их урон на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
-### 4 Spell: null
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона противникам в области действия каждые 0,8 сек. Также <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> цели на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. Эффект длится {$olast11/1000} сек.
+### 4 Spell: Landslide
+ **Description:** Deal <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage to enemy units in the AoE every 0.8s. These units are also <span style="color: #e07c44;font-size:20px">stunned</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s. The effect lasts for {$olast11/1000}s.
 
 
 ## HERO Biography
@@ -57,4 +57,4 @@ toc: true
    - Наступление
    - Волшебство
    - Ученый
-   - Поиск пути
+   - Pathfinding
