@@ -1,7 +1,7 @@
 ---
 title: "Эмблема святости - Вина Тарнума"
 permalink: /Emblem/Tarnum's Culpability/
-excerpt: "Эра хаоса Эмблема святости - Нейтральный - Вина Тарнума"
+excerpt: "Эра хаоса Вина Тарнума. Вина Тарнума. Эра хаоса Эмблема святости Вина Тарнума. Эра хаоса Нейтральный Вина Тарнума"
 last_modified_at: 2021-02-19
 locale: ru
 ref: "Tarnum's Culpability.md"

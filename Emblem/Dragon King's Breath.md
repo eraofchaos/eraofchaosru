@@ -1,7 +1,7 @@
 ---
 title: "Эмблема святости - Dragon King's Breath"
 permalink: /Emblem/Dragon King's Breath/
-excerpt: "Эра хаоса Эмблема святости - Злой - Dragon King's Breath"
+excerpt: "Эра хаоса Dragon King's Breath. Dragon King's Breath. Эра хаоса Эмблема святости Dragon King's Breath. Эра хаоса Злой Dragon King's Breath"
 last_modified_at: 2021-02-19
 locale: ru
 ref: "Dragon King's Breath.md"

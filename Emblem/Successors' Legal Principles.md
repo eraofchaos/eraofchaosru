@@ -1,7 +1,7 @@
 ---
 title: "Эмблема святости - Successors' Legal Principles"
 permalink: /Emblem/Successors' Legal Principles/
-excerpt: "Эра хаоса Эмблема святости - Нейтральный - Successors' Legal Principles"
+excerpt: "Эра хаоса Successors' Legal Principles. Successors' Legal Principles. Эра хаоса Эмблема святости Successors' Legal Principles. Эра хаоса Нейтральный Successors' Legal Principles"
 last_modified_at: 2021-02-19
 locale: ru
 ref: "Successors' Legal Principles.md"

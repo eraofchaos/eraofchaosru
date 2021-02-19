@@ -1,7 +1,7 @@
 ---
 title: "Эмблема святости - Jealousy"
 permalink: /Emblem/Jealousy/
-excerpt: "Эра хаоса Эмблема святости - Хаос - Jealousy"
+excerpt: "Эра хаоса Jealousy. Jealousy. Эра хаоса Эмблема святости Jealousy. Эра хаоса Хаос Jealousy"
 last_modified_at: 2021-02-19
 locale: ru
 ref: "Jealousy.md"

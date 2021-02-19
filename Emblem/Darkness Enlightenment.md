@@ -1,7 +1,7 @@
 ---
 title: "Эмблема святости - Darkness Enlightenment"
 permalink: /Emblem/Darkness Enlightenment/
-excerpt: "Эра хаоса Эмблема святости - Злой - Darkness Enlightenment"
+excerpt: "Эра хаоса Darkness Enlightenment. Darkness Enlightenment. Эра хаоса Эмблема святости Darkness Enlightenment. Эра хаоса Злой Darkness Enlightenment"
 last_modified_at: 2021-02-19
 locale: ru
 ref: "Darkness Enlightenment.md"
