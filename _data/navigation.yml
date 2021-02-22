@@ -14,17 +14,17 @@ docs:
   - title: "Navigation"
     children:
     - title: "Герои"
-      url: /ru/heroes/
+      url: /heroes/
     - title: "Отряды"
-      url: /ru/units/
+      url: /units/
     - title: "Items"
       url: /Items/
     - title: "Artifacts"
       url: /artifacts/
     - title: "Эмблема святости"
-      url: /ru/Emblem/
+      url: /Emblem/
     - title: "Мастерская алхимика"
-      url: /ru/Alchemy Workshop/
+      url: /Alchemy Workshop/
     - title: "Боевое построение"
       url: /ru/Battle Formation/
     - title: "Backup"
@@ -42,22 +42,22 @@ docs:
     - title: "Sphinx answers"
       url: /sphinx/
     - title: "Ответы на Сфинкса"
-      url: /ru/sphinx/
+      url: /sphinx/
 
   - title: "Language"
     children:
       - title: "English"
-        url: /
+        url: https://eraofchaos.github.io/
       - title: "Русский"
-        url: /ru/
+        url: https://eraofchaos.github.io/ru/
       - title: "Deutsch"
-        url: /de/
+        url: https://eraofchaos.github.io/de/
       - title: "Français"
-        url: /fr/
+        url: https://eraofchaos.github.io/fr/
       - title: "Italiano"
-        url: /it/
+        url: https://eraofchaos.github.io/it/
       - title: "Español"
-        url: /es/
+        url: https://eraofchaos.github.io/es/
 
 
 
