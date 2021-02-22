@@ -2,7 +2,7 @@
 title: "Эмблема святости - Разбитое пророчество"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Эра хаоса Разбитое пророчество. Разбитое пророчество. Эра хаоса Эмблема святости Разбитое пророчество. Эра хаоса Злой Разбитое пророчество"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Broken Prophecy.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Разбитое пророчество](/Emblem/Broken Prophecy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When deployed units cause a Crit Hit during a normal attack, it has a 2% chance to stun the target for 1s</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +7%, эмблема святости ЗЩТ +16</span> | 
   | [Разбитое пророчество](/Emblem/Broken Prophecy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона обычной атакой, с шансом 2% цель оглушается на 2 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +15%, эмблема святости ЗЩТ +30</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

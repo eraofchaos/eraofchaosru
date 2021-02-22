@@ -2,7 +2,7 @@
 title: "Эмблема святости - Darkness Enlightenment"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Эра хаоса Darkness Enlightenment. Darkness Enlightenment. Эра хаоса Эмблема святости Darkness Enlightenment. Эра хаоса Злой Darkness Enlightenment"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Darkness Enlightenment.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, АТК +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; It has a 40% chance to lower unit's damage reduction of the targeted unit by 1% every time the deployed unit attacks. The effect lasts for 3s, up to 15 stacks (High-quality Holy Emblem's set effect will cover what the inferior-quality Holy Emblem offers)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, АТК +15%</span> | 
   | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, АТК +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; It has a 50% chance to lower unit's damage reduction of the targeted unit by 1% every time the deployed unit attacks. The effect lasts for 3s, up to 25 stacks (High-quality Holy Emblem's set effect will cover what the inferior-quality Holy Emblem offers)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, АТК +20%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

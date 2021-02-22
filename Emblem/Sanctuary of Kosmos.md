@@ -2,7 +2,7 @@
 title: "Эмблема святости - Святилище Космоса"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Эра хаоса Святилище Космоса. Святилище Космоса. Эра хаоса Эмблема святости Святилище Космоса. Эра хаоса Порядок Святилище Космоса"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Sanctuary of Kosmos.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Святилище Космоса](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ОЗ +5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; под оглушением и немотой ЗЩТ отряда увеличивается на +12% на 15 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; HP +15%, Holy Emblem DEF +30</span> | 
   | [Святилище Космоса](/Emblem/Sanctuary of Kosmos/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ОЗ +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;stunned&gt; or &lt;silenced&gt;, their DEF increases by 8% for 15s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ОЗ +7%, эмблема святости ЗЩТ +16</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

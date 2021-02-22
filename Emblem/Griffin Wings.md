@@ -2,7 +2,7 @@
 title: "Эмблема святости - Крылья грифона"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Эра хаоса Крылья грифона. Крылья грифона. Эра хаоса Эмблема святости Крылья грифона. Эра хаоса Порядок Крылья грифона"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Griffin Wings.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Крылья грифона](/Emblem/Griffin Wings/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +20, DEF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' damage by 30% when they are fighting against a target with less than 50% HP.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ЗЩТ +2%</span> | 
   | [Крылья грифона](/Emblem/Griffin Wings/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 5%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

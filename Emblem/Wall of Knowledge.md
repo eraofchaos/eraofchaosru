@@ -2,7 +2,7 @@
 title: "Эмблема святости - Стена познания"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Эра хаоса Стена познания. Стена познания. Эра хаоса Эмблема святости Стена познания. Эра хаоса Добро Стена познания"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Wall of Knowledge.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Стена познания](/Emblem/Wall of Knowledge/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Отряд наносит на 3% больше урона за каждый ваш участвующий в построении отряд того же класса</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
   | [Стена познания](/Emblem/Wall of Knowledge/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +2, DEF +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Отряд наносит на 2% больше урона за каждый ваш участвующий в построении отряд того же класса</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +6, DEF +0.2%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

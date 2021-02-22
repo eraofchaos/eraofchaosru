@@ -2,7 +2,7 @@
 title: "Эмблема святости - Злой"
 permalink: /Emblem/Type Evil/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Злой. Эра хаоса Злой"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "typeЗлой.md"
 toc: false

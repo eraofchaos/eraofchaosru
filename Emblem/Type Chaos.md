@@ -2,7 +2,7 @@
 title: "Эмблема святости - Хаос"
 permalink: /Emblem/Type Chaos/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Хаос. Эра хаоса Хаос"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "typeХаос.md"
 toc: false

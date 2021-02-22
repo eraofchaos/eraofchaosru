@@ -2,7 +2,7 @@
 title: "Эмблема святости - Похоть"
 permalink: /Emblem/Lust/
 excerpt: "Эра хаоса Похоть. Похоть. Эра хаоса Эмблема святости Похоть. Эра хаоса Хаос Похоть"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Lust.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Похоть](/Emblem/Lust/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' healing received by 3%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
   | [Похоть](/Emblem/Lust/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' healing received by 6%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

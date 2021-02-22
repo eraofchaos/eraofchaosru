@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ключ меча и магии"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Эра хаоса Ключ меча и магии. Ключ меча и магии. Эра хаоса Эмблема святости Ключ меча и магии. Эра хаоса Нейтральный Ключ меча и магии"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Stone Key to the Gates.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Ключ меча и магии](/Emblem/Stone Key to the Gates/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Урон отряда увеличивается на 1,5%. При атаке целей с кровотечением урон отряда увеличивается еще на 4,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 
   | [Ключ меча и магии](/Emblem/Stone Key to the Gates/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, ЗЩТ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; unit's damage increases by 5%. When fighting against bleeding targets, unit's damage increases by additional 15%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ЗЩТ +2%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

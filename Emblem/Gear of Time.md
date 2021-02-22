@@ -2,7 +2,7 @@
 title: "Эмблема святости - Снаряжение времени"
 permalink: /Emblem/Gear of Time/
 excerpt: "Эра хаоса Снаряжение времени. Снаряжение времени. Эра хаоса Эмблема святости Снаряжение времени. Эра хаоса Добро Снаряжение времени"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Gear of Time.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Снаряжение времени](/Emblem/Gear of Time/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +4.5, Holy Emblem DEF +4.5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; ЗЩТ отрядов увеличивается на 2% за каждые 10% потраченных ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
   | [Снаряжение времени](/Emblem/Gear of Time/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; ЗЩТ отрядов увеличивается на 1% за каждые 10% потраченных ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +4, Holy Emblem DEF +4</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

@@ -2,7 +2,7 @@
 title: "Эмблема святости - Суд отцов"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Эра хаоса Суд отцов. Суд отцов. Эра хаоса Эмблема святости Суд отцов. Эра хаоса Нейтральный Суд отцов"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "The Judgment of Fathers.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Суд отцов](/Emblem/The Judgment of Fathers/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке оглушенных целей урон отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 
   | [Суд отцов](/Emblem/The Judgment of Fathers/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +6, HP +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Урон отряда увеличивается на 1,5%. При атаке оглушенных целей урон отряда увеличивается на 4,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

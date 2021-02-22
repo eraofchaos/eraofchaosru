@@ -2,7 +2,7 @@
 title: "Эмблема святости - Древний огонь"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Эра хаоса Древний огонь. Древний огонь. Эра хаоса Эмблема святости Древний огонь. Эра хаоса Порядок Древний огонь"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ancient Fire.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Древний огонь](/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, ОЗ +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке наземных целей урон отряда увеличивается на 12%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ОЗ +20%</span> | 
   | [Древний огонь](/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +13, HP +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When fighting against ground units, unit's damage increases by 8%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |

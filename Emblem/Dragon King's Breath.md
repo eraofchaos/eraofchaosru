@@ -2,7 +2,7 @@
 title: "Эмблема святости - Dragon King's Breath"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Эра хаоса Dragon King's Breath. Dragon King's Breath. Эра хаоса Эмблема святости Dragon King's Breath. Эра хаоса Злой Dragon King's Breath"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Dragon King's Breath.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | [Dragon King's Breath](/Emblem/Dragon King's Breath/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд находится под воздействием эффектов заморозки, оглушения или окаменения, восстанавливается 6% его здоровья. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
   | [Dragon King's Breath](/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;frozen, stunned, or petrified&gt;, their HP is restored by 10%. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +37.5, Holy Emblem DEF +37.5</span> | 
 
-  |         Description            | 
+  |         Описание            | 
   |:-------------------------------|
   | Синяя эмблема святости будет гарантированно иметь 2 базовых и 1-2 продвинутые характеристики, которые определяются случайным образом. |
   | Оранжевая эмблема святости будет гарантированно иметь 2 базовых и 3-4 продвинутые характеристики, которые определяются случайным образом. |
