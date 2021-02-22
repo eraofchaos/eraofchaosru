@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Era Of Chaos
-subtitle: Might & Magic on Mobile
+title: "Эра Хаоса"
+subtitle: Герои Магии и Меча: Era Of Chaos
 email:
-description: "Era of Chaos Wiki portal: Units, Heroes, Artifacts, Events and more about Era Of Chaos mobile game"
-keywords:           EraOfChaos Units Heroes Artifacts Events HeroesMightAndMagicMobile
+description: "Герои Магии и Меча: Era Of Chaos полная информация о мобильной игре"
+keywords:           EraOfChaos Эра Хаоса Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "ru" 
 url:                "https://eraofchaos.github.io/ru/"
-logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
+logo: "https://eraofchaos.github.io/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
 
@@ -82,7 +82,7 @@ analytics:
 
 author:
   name   : "MisterX"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://eraofchaos.github.io/assets/images/bio-photo.jpg"
   bio    : "Camel is Horse designed by committee"
   links:
     - label: "Website"
@@ -198,56 +198,6 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
-  # RU
-  - scope:
-      path: "ru"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_ru"
-  # FR roes
-  - scope:
-      path: "fr"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_fr"
-  # DE heroes
-  - scope:
-      path: "de"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_de"
-  # IT heroes
-  - scope:
-      path: "it"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_it"
-  # ES heroes
-  - scope:
-      path: "es"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_es"
   # Alchemy Workshop
   - scope:
       path: "Alchemy Workshop"
