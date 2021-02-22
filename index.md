@@ -1,28 +1,28 @@
 ---
-title: "Era Of Chaos Wiki: Units, Heroes, Items, Artifacts, Quests and more"
+title: "Герои Магии и Меча: Era Of Chaos полная информация о мобильной игре"
 excerpt: "Era of Chaos, Era of Chaos Wiki. Complete information about the Era Of Chaos: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-02-12
+last_modified_at: 2021-02-16
 toc: false
-locale: de
+locale: ru
 classes: wide
 sidebar:
   nav: "docs"
 ---
 
 {% capture notice-update20210216 %}
-**Client-Update** (Version **142 (3100)**):
+**Обновление клиента** (Версия **142 (3100)**):
 
-* Einige Tipps für das aktuelle Ereignis wurden korrigiert
-* 1 Zeichenfolge zu Lokalisierungsdateien hinzugefügt (Hauptauswirkung auf die Update-Größe)
-* Neue Kampfberechnung (Version 10124): Keine Änderungen auf der Clientseite, möglicherweise Korrekturen auf der Serverseite.
+* Исправлены некоторые подсказки для текущего события
+* 1 строка символов добавлена ​​в файлы локализации (основное влияние на размер обновления)
+* Новый боевой расчет (версия 10124): без изменений на стороне клиента, возможно исправление на стороне сервера.
 
-**Wiki-Update**
+**Обновление Wiki**
 
-[Fraktionsaltar für 2021] (https://eraofchaos.github.io/FactionAltar/) - Beende den Fraktionsaltar mit Drop-Einheiten / Seelen und Drop-Chance. Klicken Sie auf "Faction Altar Drop Details", um mehr zu sehen.
+[Алтарь фракции на 2021 год](https://eraofchaos.github.io/FactionAltar/) - Завершите фракционный алтарь с помощью единиц / душ и шанса выпадения. Нажмите «Детали выпадения из алтаря фракции», чтобы увидеть больше.
 
-Vielen Dank für Ihre Aktivität. Wir haben ** 3,6.000 Unique User **, ungefähr ** 30.000 Besucher pro Woche ** aus ** 86 Ländern **.
-Aufgrund technischer Einschränkungen bei Github (wir haben ungefähr 4000 Seiten im Wiki) sollten wir das Wiki für jede Sprache aufteilen. Danach werden die Sprachen DE / FR / RU / IT / ES auf den aktuellen Spielstatus aktualisiert.
+Спасибо за вашу активность. У нас ** 3,6 000 уникальных пользователей **, около ** 30 000 посетителей в неделю ** из ** 86 стран **.
+Из-за технических ограничений Github (у нас около 4000 страниц вики), мы должны разделить вики для каждого языка. Затем языки DE / FR / RU / IT / ES будут обновлены до текущего состояния игры.
 {% endcapture %}
 
 <div class="notice--danger">
@@ -30,9 +30,9 @@ Aufgrund technischer Einschränkungen bei Github (wir haben ungefähr 4000 Seite
   {{ notice-update20210216 | markdownify }}
 </div>
 
-Dieses Informationsportal enthält Informationen zum Handyspiel "Era Of Chaos".
+На этом информационном портале размещена информация о мобильной игре «Era Of Chaos».
 
-Sie finden hier:
+Вы можете найти здесь:
 ### <i class="fas fa-gavel"/> [Items](/de/Items/)
 ### <i class="fas fa-chess-king"/>  [Heroes](/de/heroes/) 
 ### <i class="fab fa-optin-monster"/>  [Units](/de/units/)
@@ -56,13 +56,13 @@ Sie finden hier:
 
 <br/>
 <br/>
-** IHR Feedback ist willkommen! **
-[Bitte kontaktieren Sie mich über Discord](https://discordapp.com/users/351705203038224385/)
+**ВАШИ отзывы приветствуются!**
+[Пожалуйста, свяжитесь со мной через Discord](https://discordapp.com/users/351705203038224385/)
 
 
 
 
-Update-Verlauf:
+История обновлений:
 
 * [Era of Chaos Wiki History](/Era_Of_Chaos_Wiki_History.html)  
 * [Era of Chaos Client Update History](/Era_Of_Chaos_Client_Update_History.html)
