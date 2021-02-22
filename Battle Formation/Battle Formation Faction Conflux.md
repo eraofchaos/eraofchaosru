@@ -2,7 +2,7 @@
 title: "Боевое построение Conflux"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Боевое построение Conflux"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "BattleFormationFactionConflux"
 toc: false

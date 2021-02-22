@@ -2,7 +2,7 @@
 title: "Боевое построение Замок"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Боевое построение Замок"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "BattleFormationFactionCastle"
 toc: false

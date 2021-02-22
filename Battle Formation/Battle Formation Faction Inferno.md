@@ -2,7 +2,7 @@
 title: "Боевое построение Inferno"
 permalink: /Battle Formation/Battle Formation Faction Inferno
 excerpt: "Боевое построение Inferno"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "BattleFormationFactionInferno"
 toc: false
