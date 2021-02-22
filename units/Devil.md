@@ -3,7 +3,7 @@ title: "Дьявол"
 permalink: /units/Devil/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Дьявол"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5431.0**
 
  **Base ATK: 792.0**
@@ -74,13 +74,13 @@ toc: true
   | [Рукавицы лавы](/equipment/Рукавицы лавы/) | **АТК** | **DEF** | 
   | [Pauldrons of Molten Lava](/equipment/Pauldrons of Molten Lava/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 * [Немота](/combination/Немота/) 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Жнец мучений
+### Совершенное умение: Жнец мучений
  **Описание:** <span style="color: #645252;font-size:20px">Как только начинается бой, выполняется атака на самый дальний отряд в переднем ряду или, если подходящей цели нет, случайный отряд в заднем ряду с нанесением </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и вызов огненной бездны, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона каждые 0,5 сек. в течение 6 сек. Вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. в первый раз. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">Возможно использование в любой позиции. В случае гибели отряда происходит сброс умения.</span><span style="color: black">
 
-### Regular Skill 1 : Жестокая пытка
+### Обычное умение 1 : Жестокая пытка
  **Описание:** <span style="color: #645252;font-size:20px">Deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 radom hostile units. Critical Hit dealt to </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 500.</span><span style="color: black">
 
-### Regular Skill 2 : Withering
+### Обычное умение 2 : Withering
  **Описание:** <span style="color: #645252;font-size:20px">Когда этот отряд находится на поле боя, он наносит урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ всем вражеским отрядам каждые 2 сек.</span><span style="color: black">
 
-### Regular Skill 3 : Душегубство
+### Обычное умение 3 : Душегубство
  **Описание:** <span style="color: #645252;font-size:20px">Unit ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against the Castle unit, unit's damage is increased by 50%.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Spell Resistance Resonance
+### Эксклюзивное умение фракции II : Spell Resistance Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Arch Devil
 
- **Awaking Description:** И увидел я, как из земли появилось живое существо, и рога его были подобны козлиным, и у каждого рога было свое имя. И было оно покрыто пламенем, и поднималось пламя с земли в самое небо. Кем или чем бы ни являлся Эофол, у него есть и способности, и власть, и великая сила. Он покоряет мир огнем, дымом и серой.
+ **Awaking Описание:** И увидел я, как из земли появилось живое существо, и рога его были подобны козлиным, и у каждого рога было свое имя. И было оно покрыто пламенем, и поднималось пламя с земли в самое небо. Кем или чем бы ни являлся Эофол, у него есть и способности, и власть, и великая сила. Он покоряет мир огнем, дымом и серой.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте дьяволов и хотя бы 3 отряда Инферно, чтобы убить </span><span style="color: #1ca216;font-size:18px">1,500</span><span style="color: #3c2a1e;font-size:18px"> гномов за раз в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>

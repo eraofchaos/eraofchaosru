@@ -3,7 +3,7 @@ title: "Вершитель"
 permalink: /units/Judicator/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Вершитель"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Аура группы восстанавливает ОЗ. Аура защищает от урона. Святая земля усиливает ваши союзные отряды.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 6109.4**
 
  **Base ATK: 565.7**
@@ -70,12 +70,12 @@ toc: true
   | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **DEF** | 
   | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 * [Оглушение](/combination/Оглушение/) 
@@ -89,25 +89,25 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ray of Judgment
+### Совершенное умение: Ray of Judgment
  **Описание:** <span style="color: #645252;font-size:20px">Вершители призывают 2 луча правосудия каждые 25 сек. Когда лучи появляются, они <span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"> вражеские отряды в радиусе действия на 1 сек., наносят урон в размере <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> от максимума ОЗ и снижают исцеление у врагов на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"> на 8 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Благословение
+### Обычное умение 1 : Благословение
  **Описание:** <span style="color: #645252;font-size:20px">Во время боя вершители наделяют <span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"> всех союзных отрядов на 10 сек.</span><span style="color: black"> <br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Вершители наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути каждые <span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"> сек. Эффект длится 10 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Благословение света
+### Обычное умение 2 : Благословение света
  **Описание:** <span style="color: #645252;font-size:20px">Когда у первого союзного отряда остается менее 25% ОЗ, вершители используют <span style="color: #48b946;font-size:20px">&lt;Убежище света&gt;</span><span style="color: black"> для защиты своих спутников на <span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"> сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В бою против отрядов Инферно вершители получают +30% к урону отряда и +50% к сопротивлению отряда урону. </span><span style="color: black">
 
-### Regular Skill 3 : null
+### Обычное умение 3 : null
  **Описание:** 
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
-### Regular Skill 6 : Ореол теократии
+### Обычное умение 6 : Ореол теократии
  **Описание:** <span style="color: #645252;font-size:20px">Когда используются 3 отряда фракции Замка, вершители получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда вершители находятся в состоянии <span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black">, они открывают <span style="color: #F0F000;font-size:20px">&lt;Область теократии&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения отряда. Область существует 15 сек. Перезарядка - 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** Облаченные в прочные доспехи и вооруженные мечами, высшие паладины и их последователи всегда бросаются в гущу боя, разгоняя тьму своими клинками.
+ **Awaking Описание:** Облаченные в прочные доспехи и вооруженные мечами, высшие паладины и их последователи всегда бросаются в гущу боя, разгоняя тьму своими клинками.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз.</span>

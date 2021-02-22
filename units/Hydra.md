@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Hydra"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Единорог
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5770.0**
 
  **Base ATK: 769.3**
@@ -72,13 +72,13 @@ toc: true
   | [Коготь чумного дракона](/equipment/Коготь чумного дракона/) | **АТК** | **DEF** | 
   | [Острые спинные шипы](/equipment/Острые спинные шипы/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -90,22 +90,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Chaos Mist
+### Совершенное умение: Chaos Mist
  **Описание:** <span style="color: #645252;font-size:20px">Гидры создают Туман Хаоса на своем пути, накладывая на все цели в широком радиусе случайное ослабление: замедление, кровотечение, горение, ослепление, разряд, чуму или болезнь - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и нанося урон в размере 50% от их АТК.</span><span style="color: black"> 
 
-### Regular Skill 1 : Headbutt Combo
+### Обычное умение 1 : Headbutt Combo
  **Описание:** <span style="color: #645252;font-size:20px">Hydra has a chance to follow up with 1/2/3/4 headbutts when attacking, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage each time. The chances of an additional headbutt is 60%/40%/30%/10% respectively.</span><span style="color: black">
 
-### Regular Skill 2 : Plague Dominance
+### Обычное умение 2 : Plague Dominance
  **Описание:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### Regular Skill 3 : Неотступный укус
+### Обычное умение 3 : Неотступный укус
  **Описание:** <span style="color: #645252;font-size:20px">Если от предыдущей атаки гидр уклонились, они атакуют еще раз, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Когда гидры начинают кусать, они гарантированно наносят критический удар в течение 3 сек. </span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -138,13 +138,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -162,7 +162,7 @@ toc: true
 
  **Awaking Name:** Гидра хаоса
 
- **Awaking Description:** Sleeping in the depths of the marshes, the primordial Hydras are the area's most ancient creatures. Their giant bodies are covered in moss, helping them blend with their dark surroundings and often causing those who mistakenly enter their domain to overlook their presence. Yet danger quietly looms, and now, one can only pray that they do not wake up.
+ **Awaking Описание:** Sleeping in the depths of the marshes, the primordial Hydras are the area's most ancient creatures. Their giant bodies are covered in moss, helping them blend with their dark surroundings and often causing those who mistakenly enter their domain to overlook their presence. Yet danger quietly looms, and now, one can only pray that they do not wake up.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Используйте гидр и хотя бы </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>

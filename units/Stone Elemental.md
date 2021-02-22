@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться."
 unitID: 905
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Stone Elemental"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Оглушает всех врагов в зоне действия, разделение в случае гибели, высокая стойкость.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2825.0**
 
  **Base ATK: 121.0**
@@ -70,13 +70,13 @@ toc: true
   | [Twilight Stone](/equipment/Twilight Stone/) | **АТК** | **DEF** | 
   | [Корона из камня](/equipment/Корона из камня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -88,22 +88,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Разбитые камни
+### Совершенное умение: Разбитые камни
  **Описание:** <span style="color: #645252;font-size:20px">One Stone Elemental will split into 2 smaller Stone Elementals after it dies. The smaller Stone Elemental has </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exists throughout the entire battle.</span><span style="color: black">
 
-### Regular Skill 1 : Rock Solid
+### Обычное умение 1 : Rock Solid
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Камня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если элементаль Камня получает урон от стрелковых отрядов.</span><span style="color: black"> </span><span style="color: black">
 
-### Regular Skill 2 : Elemental Force
+### Обычное умение 2 : Elemental Force
  **Описание:** <span style="color: #645252;font-size:20px">Когда элементали Камня находятся на поле боя, сопротивление магии заклинаний Земли повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Камня на поле боя, исходная мана вражеского героя снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Эхо земли
+### Обычное умение 3 : Эхо земли
  **Описание:** <span style="color: #645252;font-size:20px">В случае гибели элементаля Камня и младших элементалей Камня, они наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в широком радиусе и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Erdamon](/heroes/Erdamon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

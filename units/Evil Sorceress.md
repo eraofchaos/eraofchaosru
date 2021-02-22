@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Злая ведьма"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Описание:** Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -32,7 +32,7 @@ toc: true
 
  **Position :** 
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5770.0**
 
  **Base ATK: 633.6**
@@ -73,13 +73,13 @@ toc: true
   | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **АТК** | **DEF** | 
   | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -92,22 +92,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Разрыв душ
+### Совершенное умение: Разрыв душ
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 18 сек. 2 отрядам в определенном радиусе вокруг цели наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, с шансом 30% накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикация&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Одному вражескому отряду заклинателей наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ злой ведьмы, накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикация&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикации&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> действует 2 сек. При обычной атаке игнорируется 300 защиты врага.</span><span style="color: black">
 
-### Regular Skill 1 : Magic Mirror
+### Обычное умение 1 : Magic Mirror
  **Описание:** <span style="color: #645252;font-size:20px">У злой ведьмы иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;немоте&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, своим присутствием в бою она повышает базовую ману союзных героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. В начале боя боец накладывает на себя и 1 некрупный союзный отряд эффект &lt;Волшебное зеркало&gt;, который действует до конца боя. В бою с отрядами дальнего боя сопротивление урону злых ведьм повышено на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Посох антимагии
+### Обычное умение 2 : Посох антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон злой ведьмы повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда вражеский герой применяет заклинание, злая ведьма наносит врагам в определенном радиусе вокруг цели урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АКТ +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Всем вражеским отрядам наносится урон в 1,5% от макс. ОЗ, бойцы под действием </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравления&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дополнительно </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушаются&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 4 сек., а </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горящие&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> бойцы получают дополнительный урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Отрядам Башни злая ведьма наносит на 50% больше урона отряда.</span><span style="color: black">
 
-### Regular Skill 3 : Телепортация
+### Обычное умение 3 : Телепортация
  **Описание:** <span style="color: #645252;font-size:20px">Скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Штурмовые отряды Подземелья с шансом 5% при обычной атаке оглушают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравленные&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 2 сек. Через 4 сек. после начала боя Злая ведьма ускоряет атаку союзных штурмовиков на 15%, эффект длится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Злая ведьма перемещается между миром теней и реальностью. Когда она в мире теней, у нее иммунитет к урону, но ее нельзя лечить. Длительность 2 сек. Перезарядка 5 сек.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
-### Regular Skill 6 : Алые катакомбы
+### Обычное умение 6 : Алые катакомбы
  **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Подземелья дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. При активации «Разрыва душ» появляется область действия </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Алых катакомб&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Область существует 15 сек. Перезарядка 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -154,13 +154,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -179,7 +179,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** Гнев Скорпикоры сокрушает горы, ее вид вселяет ужас, а рев - подчиняет волю.
+ **Awaking Описание:** Гнев Скорпикоры сокрушает горы, ее вид вселяет ужас, а рев - подчиняет волю.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте мантикору и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

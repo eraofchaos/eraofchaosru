@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /units/Monk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Монах"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Warrior, Mage and Priest work well together.  
 
-## Basic stats
+## Базовые параметры
  **Base HP: 662.0**
 
  **Base ATK: 102.6**
@@ -76,12 +76,12 @@ toc: true
   | [Rune of Ritual](/equipment/Rune of Ritual/) | **АТК** | **DEF** | 
   | [Базовая легкая броня](/equipment/Базовая легкая броня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Молитва
+### Совершенное умение: Молитва
  **Описание:** <span style="color: #645252;font-size:20px">Монахи восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ у союзного отряда с самым низким процентом ОЗ каждые 17 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Благословения отважного
+### Обычное умение 1 : Благословения отважного
  **Описание:** <span style="color: #645252;font-size:20px">После начала боя монахи наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 2 : Meditation
+### Обычное умение 2 : Meditation
  **Описание:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
 
-### Regular Skill 3 : Recovery
+### Обычное умение 3 : Recovery
  **Описание:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Жрец
 
- **Awaking Description:** Жрецы заявили, что они избраны архангелами. Не теми, что бьются на полях сражений, а истинными провидцами. И в подтверждение своих слов продемонстрировали великую божественную силу.
+ **Awaking Описание:** Жрецы заявили, что они избраны архангелами. Не теми, что бьются на полях сражений, а истинными провидцами. И в подтверждение своих слов продемонстрировали великую божественную силу.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Monk with at least </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

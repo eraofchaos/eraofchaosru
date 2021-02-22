@@ -3,7 +3,7 @@ title: "Циклоп"
 permalink: /units/Cyclops/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Циклоп"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5091.0**
 
  **Base ATK: 678.8**
@@ -75,13 +75,13 @@ toc: true
   | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **АТК** | **DEF** | 
   | [Leather Trousers](/equipment/Leather Trousers/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 * [Оглушение](/combination/Оглушение/) 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Огненный камень
+### Совершенное умение: Огненный камень
  **Описание:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
 
-### Regular Skill 1 : Осадный удар
+### Обычное умение 1 : Осадный удар
  **Описание:** <span style="color: #645252;font-size:20px">Циклопы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК. При менее 35% ОЗ циклопы могут получить двойной эффект, причем эффект сохраняется после восстановления здоровья. В бою циклопов против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Regular Skill 2 : Землетрясение
+### Обычное умение 2 : Землетрясение
  **Описание:** <span style="color: #645252;font-size:20px">Когда циклопы подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек. </span><span style="color: black">
 
-### Regular Skill 3 : Гигант
+### Обычное умение 3 : Гигант
  **Описание:** <span style="color: #645252;font-size:20px">Циклопы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. В бою против отряда из 9 бойцов они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от получаемого урона.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -149,13 +149,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Yog](/heroes/Yog/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -174,7 +174,7 @@ toc: true
 
  **Awaking Name:** Cyclops King
 
- **Awaking Description:** Под яростным градом камней крепостные стены рухнули, и чудища ворвались в город. Но на этом они не остановятся, их цель - битва ради битвы.
+ **Awaking Описание:** Под яростным градом камней крепостные стены рухнули, и чудища ворвались в город. Но на этом они не остановятся, их цель - битва ради битвы.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Используйте циклопов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> стрелковых отрядов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>

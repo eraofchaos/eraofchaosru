@@ -3,7 +3,7 @@ title: "Наездник на волке"
 permalink: /units/Wolf Rider/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов."
 unitID: 402
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Наездник на волке"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 860.0**
 
  **Base ATK: 72.8**
@@ -76,13 +76,13 @@ toc: true
   | [Bracer of the Wolf](/equipment/Bracer of the Wolf/) | **АТК** | **DEF** | 
   | [Наплечники языка волка](/equipment/Наплечники языка волка/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ручной зверь
+### Совершенное умение: Ручной зверь
  **Описание:** <span style="color: #645252;font-size:20px">После своей смерти наездник на волке вызывает 1 варга. У варгов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 1 : Двойной удар
+### Обычное умение 1 : Двойной удар
  **Описание:** <span style="color: #645252;font-size:20px">The Wolf Rider has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack twice under normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
-### Regular Skill 2 : Буйство
+### Обычное умение 2 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при менее 35% ОЗ и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Bloodlust
+### Обычное умение 3 : Bloodlust
  **Описание:** <span style="color: #645252;font-size:20px">Wolf Rider's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -147,13 +147,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -172,7 +172,7 @@ toc: true
 
  **Awaking Name:** Разбойник на волке
 
- **Awaking Description:** В самой крови этого существа растворена ярость, его острые ножи пронзают сердца врагов, а его кровавые бури сметают все на поле боя.
+ **Awaking Описание:** В самой крови этого существа растворена ярость, его острые ножи пронзают сердца врагов, а его кровавые бури сметают все на поле боя.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте наездников на волках, и хотя бы 3 отряда Цитадели, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов за раз в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>

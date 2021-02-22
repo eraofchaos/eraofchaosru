@@ -3,7 +3,7 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Хозяин зверей
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 761.0**
 
  **Base ATK: 84.4**
@@ -74,13 +74,13 @@ toc: true
   | [Цепь оборотня](/equipment/Цепь оборотня/) | **АТК** | **DEF** | 
   | [Рукавицы оборотня](/equipment/Рукавицы оборотня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -92,22 +92,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Удар цепью
+### Совершенное умение: Удар цепью
  **Описание:** <span style="color: #645252;font-size:20px">The Gnoll unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
-### Regular Skill 1 : Primitive Wildness
+### Обычное умение 1 : Primitive Wildness
  **Описание:** <span style="color: #645252;font-size:20px">Гноллы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Regular Skill 2 : Усугубление чумы
+### Обычное умение 2 : Усугубление чумы
  **Описание:** <span style="color: #645252;font-size:20px">Гноллы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда, который дополнительно повышается на 5% за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Regular Skill 3 : Казнь
+### Обычное умение 3 : Казнь
  **Описание:** <span style="color: #645252;font-size:20px">When fighting against a target with HP lower than 30%, the Gnoll's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

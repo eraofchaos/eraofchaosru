@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Pikeman"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 645.0**
 
  **Base ATK: 84.4**
@@ -76,13 +76,13 @@ toc: true
   | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **АТК** | **DEF** | 
   | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Spear Array
+### Совершенное умение: Spear Array
  **Описание:** <span style="color: #645252;font-size:20px">Копейщики наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Железные доспехи
+### Обычное умение 1 : Железные доспехи
  **Описание:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### Regular Skill 2 : Драконоубийца
+### Обычное умение 2 : Драконоубийца
  **Описание:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Regular Skill 3 : Воодушевление
+### Обычное умение 3 : Воодушевление
  **Описание:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Алебардщик
 
- **Awaking Description:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
+ **Awaking Описание:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

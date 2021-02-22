@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Bone Dragon"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Дракон
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5770.0**
 
  **Base ATK: 758.0**
@@ -74,13 +74,13 @@ toc: true
   | [Пронзающие когти](/equipment/Пронзающие когти/) | **АТК** | **DEF** | 
   | [Soul Gem](/equipment/Soul Gem/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Низкий боевой дух](/combination/Низкий боевой дух/) 
 * [Немота](/combination/Немота/) 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Fear
+### Совершенное умение: Fear
  **Описание:** <span style="color: #645252;font-size:20px">Костяные драконы накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на вражеские отряды в широком радиусе каждые </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. и отнимают 20% от их сопротивления урону на 10 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Стремительный перекат
+### Обычное умение 1 : Стремительный перекат
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у костяных драконов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Пробивание
+### Обычное умение 2 : Пробивание
  **Описание:** <span style="color: #645252;font-size:20px">The Bone Dragon's defense penetration increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"low morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units, the bonus doubles.</span><span style="color: black">
 
-### Regular Skill 3 : Ageing
+### Обычное умение 3 : Ageing
  **Описание:** <span style="color: #645252;font-size:20px">При появлении костяных драконов на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их сопротивления урону. </span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Призрачный дракон
 
- **Awaking Description:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
+ **Awaking Описание:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Bone Dragon with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at King level or higher. (Sweep does not count towards the mission.)</span>

@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /units/Marksman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Лучник"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 438.4**
 
  **Base ATK: 85.3**
@@ -76,13 +76,13 @@ toc: true
   | [Пронзающие стрелы](/equipment/Пронзающие стрелы/) | **АТК** | **DEF** | 
   | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ум](/Emblem/Witness/) (Добро)
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 * [Замедление](/combination/Замедление/) 
@@ -96,22 +96,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Разрывная стрела
+### Совершенное умение: Разрывная стрела
  **Описание:** <span style="color: #645252;font-size:20px">Marksman units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target.</span><span style="color: black">
 
-### Regular Skill 1 : Inspiring
+### Обычное умение 1 : Inspiring
  **Описание:** <span style="color: #645252;font-size:20px">Лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Двойной удар
+### Обычное умение 2 : Двойной удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у лучников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### Regular Skill 3 : Драконоубийца
+### Обычное умение 3 : Драконоубийца
  **Описание:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Опытный лучник
 
- **Awaking Description:** Under the tutelage of the master archer Valeska, the Marksmen's skills improved by leaps and bounds, making them a vital support for the Castle faction in the battlefield.
+ **Awaking Описание:** Under the tutelage of the master archer Valeska, the Marksmen's skills improved by leaps and bounds, making them a vital support for the Castle faction in the battlefield.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Deploy Marksman with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

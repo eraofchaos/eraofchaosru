@@ -3,7 +3,7 @@ title: "Гном"
 permalink: /units/Dwarf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Гном"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Высокий максимальный уровень здоровья позволяет отрядам лучше сопротивляться атакам.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1324.0**
 
  **Base ATK: 54.6**
@@ -75,13 +75,13 @@ toc: true
   | [Рукавицы печного огня](/equipment/Рукавицы печного огня/) | **АТК** | **DEF** | 
   | [Наплечники печного огня](/equipment/Наплечники печного огня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Гномий вой
+### Совершенное умение: Гномий вой
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя гномы повышают ОЗ у всех ваших отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Эффект длится в течение всего боя. </span><span style="color: black">
 
-### Regular Skill 1 : Smite
+### Обычное умение 1 : Smite
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гномов есть шанс нанести целям </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Крик ярости
+### Обычное умение 2 : Крик ярости
  **Описание:** <span style="color: #645252;font-size:20px">«Гномий вой» дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. </span><span style="color: black">
 
-### Regular Skill 3 : Сопротивление магии
+### Обычное умение 3 : Сопротивление магии
  **Описание:** <span style="color: #645252;font-size:20px">Dwarves offer protection cover, increasing magic resistance by 30% for all friendly units in it for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -148,13 +148,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -172,7 +172,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

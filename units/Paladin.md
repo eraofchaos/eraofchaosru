@@ -3,7 +3,7 @@ title: "Паладин"
 permalink: /units/Paladin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Паладин"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2589.0**
 
  **Base ATK: 128.0**
@@ -74,13 +74,13 @@ toc: true
   | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **АТК** | **DEF** | 
   | [Forged Bracers](/equipment/Forged Bracers/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Лидерство
+### Обычное умение 1 : Лидерство
  **Описание:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
 
-### Regular Skill 2 : Побуждение
+### Обычное умение 2 : Побуждение
  **Описание:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Low Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Regular Skill 3 : Innocent Domain
+### Обычное умение 3 : Innocent Domain
  **Описание:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -137,13 +137,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -161,7 +161,7 @@ toc: true
 
  **Awaking Name:** Высший паладин
 
- **Awaking Description:** Облаченные в прочные доспехи и вооруженные мечами, высшие паладины и их последователи всегда бросаются в гущу боя, разгоняя тьму своими клинками.
+ **Awaking Описание:** Облаченные в прочные доспехи и вооруженные мечами, высшие паладины и их последователи всегда бросаются в гущу боя, разгоняя тьму своими клинками.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз.</span>

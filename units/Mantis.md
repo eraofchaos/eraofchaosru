@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Mantis"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Описание:** Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -32,7 +32,7 @@ toc: true
 
  **Position :** 
 
-## Basic stats
+## Базовые параметры
  **Base HP: 6336.0**
 
  **Base ATK: 1140.4**
@@ -73,13 +73,13 @@ toc: true
   | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **DEF** | 
   | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -91,25 +91,25 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Sonic Speed Cutting
+### Совершенное умение: Sonic Speed Cutting
  **Описание:** <span style="color: #645252;font-size:20px">После каждых 3 атак дополнительно наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> получают на 50% больше урона и теряют 120 ед. защиты и 4% сопротивления урону, также на них действует </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедление</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 8 сек., суммируется до 10 раз и не рассеивается. Вражеским отрядам в определенном радиусе вокруг цели наносится дополнительный урон в 40% от АТК.</span><span style="color: black">
 
-### Regular Skill 1 : First Strike
+### Обычное умение 1 : First Strike
  **Описание:** <span style="color: #645252;font-size:20px">Урон отряда повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Предварительная зарядка совершенных заклинаний вражеских героев продлевается на 4 сек. Богомол с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> игнорирует урон нелетающих отрядов.</span><span style="color: black">
 
-### Regular Skill 2 : Ярость
+### Обычное умение 2 : Ярость
  **Описание:** <span style="color: #645252;font-size:20px">У богомола иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">окаменению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый отряд Бастиона в бою повышает скорость атаки богомола на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а его урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При крит. ударе с самого бойца и 1 союзного отряда Бастиона в определенном радиусе вокруг бойца снимаются негативные эффекты. Также дается равный по прочности </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ (нельзя деактивировать). Эффект суммируется до 3 раз, перезарядка 8 сек. В начале боя богомол создает для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;.</span><span style="color: black">
 
-### Regular Skill 3 : Bind
+### Обычное умение 3 : Bind
  **Описание:** <span style="color: #645252;font-size:20px">При атаке </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленной</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 вражеских отряда в небольшом радиусе вокруг нее на 3 сек. накладываются <span style="color: #48b946;font-size:20px">&lt;путы&gt;</span><span style="color: black">. Перезарядка 6 сек. Когда отряды Бастиона получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, богомол дополнительно получает +0,5% к урону отряда, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. Эффект длится 10 сек. и суммируется до 50 раз.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
-### Regular Skill 6 : Лес эльфов
+### Обычное умение 6 : Лес эльфов
  **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Бастиона дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. В первые 6 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Леса эльфов&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее срабатывает с интервалом 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -158,13 +158,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -182,7 +182,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
+ **Awaking Описание:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте единорогов, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за один раз. (Набег не учитывается при выполнении этого задания).</span>

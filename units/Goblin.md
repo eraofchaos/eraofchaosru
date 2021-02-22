@@ -3,7 +3,7 @@ title: "Гоблин"
 permalink: /units/Goblin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Гоблин"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 761.0**
 
  **Base ATK: 82.7**
@@ -76,13 +76,13 @@ toc: true
   | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **АТК** | **DEF** | 
   | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Боевой шторм
+### Совершенное умение: Боевой шторм
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гоблинов есть шанс нанести урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК трем вражеским отрядам.</span><span style="color: black">
 
-### Regular Skill 1 : Rampage
+### Обычное умение 1 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Regular Skill 2 : Execution
+### Обычное умение 2 : Execution
  **Описание:** <span style="color: #645252;font-size:20px">В бою против отряда с менее 30% ОЗ гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
-### Regular Skill 3 : Жажда крови
+### Обычное умение 3 : Жажда крови
  **Описание:** <span style="color: #645252;font-size:20px">Goblin's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit done.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Hobgoblin
 
- **Awaking Description:** Хобгоблины не страшатся битвы, ведь жестокость и жажда убийств у них в крови, и чем сильнее льется кровь врагов, тем яростнее они становятся.
+ **Awaking Описание:** Хобгоблины не страшатся битвы, ведь жестокость и жажда убийств у них в крови, и чем сильнее льется кровь врагов, тем яростнее они становятся.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Goblin and at least </span><span style="color: #1ca216;font-size:18px">3 Stronghold Units to kill </span><span style="color: #3c2a1e;font-size:18px">1,000</span><span style="color: #1ca216;font-size:18px"> Dwarfs</span> <span style="color: #3c2a1e;font-size:18px">in the Dwarven Treasury a single time.</span>

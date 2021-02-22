@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /units/Red Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Красный дракон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Рев дракона дает неуязвимость к эффектам контроля. Истинная кровь дракона взаимодействует с кровью его сородичей
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5431.0**
 
  **Base ATK: 769.3**
@@ -70,13 +70,13 @@ toc: true
   | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **DEF** | 
   | [Vehement Dragon Tail](/equipment/Vehement Dragon Tail/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -89,19 +89,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ревущее пламя
+### Совершенное умение: Ревущее пламя
  **Описание:** <span style="color: #645252;font-size:20px">Red Dragon roars every 15s, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK to all enemy Ranged/Caster units, while dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to all enemy Melee units while adding a Hatred mark, which stacks up to 4 times. Damage dealt by &lt;Roaring Blaze&gt; increases by 20% for every Hatred mark an enemy unit has. Increases Red Dragon's Unit DMG by 50% and Unit DMG reduction by 50% when fighting against Tower units.</span><span style="color: black">
 
-### Regular Skill 1 : Пламенное дыхание
+### Обычное умение 1 : Пламенное дыхание
  **Описание:** <span style="color: #645252;font-size:20px">Red Dragon unit's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> extra damage to 2 units around the target within a certain range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s. For Tower Faction units, red Dragon's damage will increase 50%</span><span style="color: black">
 
-### Regular Skill 2 : Могучий разрушитель магии
+### Обычное умение 2 : Могучий разрушитель магии
  **Описание:** <span style="color: #645252;font-size:20px">When an enemy hero casts a spell, Red Dragon unleashes its might, increasing Unit DMG of friendly non-Defensive Dungeon units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, as well as increasing Shield of friendly defensive Dungeon units by a value equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of HP and Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 8s and stacks up to 2 times.</span><span style="color: black">
 
-### Regular Skill 3 : Великолепие дракона
+### Обычное умение 3 : Великолепие дракона
  **Описание:** <span style="color: #645252;font-size:20px">У красных драконов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горению&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кровотечению&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;чуме&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда красные драконы на поле боя, сопротивление магии заклинаний Огня у врагов снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Для отрядов фракции Башни эффект удваивается. При использовании Ревущего пламени у красного дракона есть </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс активировать Драконий резонанс. Драконы используют еще одно умение пробуждения: зеленые и золотые драконы - Подкрепление с небес; костяные и призрачные драконы - Страх; гидры - Туман Хаоса; черные драконы и король черных драконов - Дыхание дракона; виверны - Дикие миазмы; панцирные драконы - Оплот прилива.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -146,13 +146,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте черного дракона и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

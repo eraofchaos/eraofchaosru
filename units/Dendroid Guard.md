@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /units/Dendroid Guard/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Дендроид-страж"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Бес
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 10182.0**
 
  **Base ATK: 396.0**
@@ -77,13 +77,13 @@ toc: true
   | [Вечнозеленая руна](/equipment/Вечнозеленая руна/) | **АТК** | **DEF** | 
   | [Доспех лозы](/equipment/Доспех лозы/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Алчность](/Emblem/Greed/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
@@ -98,22 +98,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Bind
+### Совершенное умение: Bind
  **Описание:** <span style="color: #645252;font-size:20px">Дендроиды-стражи </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающие вражеские отряды в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Стремительный перекат
+### Обычное умение 1 : Стремительный перекат
  **Описание:** <span style="color: #645252;font-size:20px">The Dendroid Guard's normal attack has a great chance to create a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself to absorb damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Regular Skill 2 : Доспехи из окам. дерева
+### Обычное умение 2 : Доспехи из окам. дерева
  **Описание:** <span style="color: #645252;font-size:20px">У дендроидов-стражей иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. </span><span style="color: black">
 
-### Regular Skill 3 : Деревянный кол
+### Обычное умение 3 : Деревянный кол
  **Описание:** <span style="color: #645252;font-size:20px">When a Dendroid Guard is under attack, it will reflect damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK, making the attacker </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Риланд](/heroes/Ryland/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Дендроид-воин
 
- **Awaking Description:** В этом древнем и могучем существе в идеальной комбинации соединились сила и стойкость. Оно сильно и несокрушимо, словно сама природа. Оно бесстрашно встречает любого врага, и способно прорвать любую линию обороны.
+ **Awaking Описание:** В этом древнем и могучем существе в идеальной комбинации соединились сила и стойкость. Оно сильно и несокрушимо, словно сама природа. Оно бесстрашно встречает любого врага, и способно прорвать любую линию обороны.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте дендроидов-стражей и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

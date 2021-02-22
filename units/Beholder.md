@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /units/Beholder/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Бехолдер"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 744.0**
 
  **Base ATK: 115.8**
@@ -74,13 +74,13 @@ toc: true
   | [Злой бивень](/equipment/Злой бивень/) | **АТК** | **DEF** | 
   | [Щупальца из Бездны](/equipment/Щупальца из Бездны/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -92,19 +92,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Mind Control
+### Совершенное умение: Mind Control
  **Описание:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
 
-### Regular Skill 1 : Spell Penetration
+### Обычное умение 1 : Spell Penetration
  **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
 
-### Regular Skill 2 : Бессилие
+### Обычное умение 2 : Бессилие
  **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
 
-### Regular Skill 3 : Gather Energy
+### Обычное умение 3 : Gather Energy
  **Описание:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -133,13 +133,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -158,7 +158,7 @@ toc: true
 
  **Awaking Name:** Злобоглаз
 
- **Awaking Description:** Взгляд этого злого создание неизвестного происхождения излучает непередаваемый страх. Око смерти видит хрупкость врагов и поглощает невидимую силу.
+ **Awaking Описание:** Взгляд этого злого создание неизвестного происхождения излучает непередаваемый страх. Око смерти видит хрупкость врагов и поглощает невидимую силу.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Beholder with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)</span>

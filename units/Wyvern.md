@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /units/Wyvern/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Виверна"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5544.0**
 
  **Base ATK: 500.0**
@@ -72,13 +72,13 @@ toc: true
   | [Спинные шипы беса](/equipment/Спинные шипы беса/) | **АТК** | **DEF** | 
   | [Крылья дракона](/equipment/Крылья дракона/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Чума](/combination/Чума/) 
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Venomous Spurt
+### Совершенное умение: Venomous Spurt
  **Описание:** <span style="color: #645252;font-size:20px">Every 21s, Wyvern spits venom at the target, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a certain range and inflicts them with <span style="color: #48b946;font-size:20px">Plague</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. (</span><span style="color: black"><span style="color: #48b946;font-size:20px">Plague</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage dealt by Wyvern increased)</span><span style="color: black">
 
-### Regular Skill 1 : null
+### Обычное умение 1 : null
  **Описание:** 
 
-### Regular Skill 2 : Plague Symbiosis
+### Обычное умение 2 : Plague Symbiosis
  **Описание:** <span style="color: #645252;font-size:20px">The Wyvern's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, which is increased by an extra 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
-### Regular Skill 3 : Дикие миазмы
+### Обычное умение 3 : Дикие миазмы
  **Описание:** <span style="color: #645252;font-size:20px">Wyvern's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Every 20s, Wyvern makes all hostile units suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases their healing by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">  over the next 10s.</span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** Виверна-монарх
 
- **Awaking Description:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
+ **Awaking Описание:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте виверн и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Крепости, чтобы добиться уровня «Мастер» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

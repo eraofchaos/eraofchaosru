@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2725.0**
 
  **Base ATK: 108.0**
@@ -75,13 +75,13 @@ toc: true
   | [Gorgon Bands](/equipment/Gorgon Bands/) | **АТК** | **DEF** | 
   | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 
@@ -94,19 +94,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Вихрь
+### Совершенное умение: Вихрь
  **Описание:** <span style="color: #645252;font-size:20px">Минотавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным вражеским отрядам в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Высшая свирепость
+### Обычное умение 1 : Высшая свирепость
  **Описание:** <span style="color: #645252;font-size:20px">АТК минотавра увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Его обычная атака вызывает у цели <span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 с.</span><span style="color: black">
 
-### Regular Skill 2 : Телосложение разрушителя магии
+### Обычное умение 2 : Телосложение разрушителя магии
  **Описание:** <span style="color: #645252;font-size:20px">Минотавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению отряда урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
-### Regular Skill 3 : Тактическое решение
+### Обычное умение 3 : Тактическое решение
  **Описание:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Minotaur King
 
- **Awaking Description:** Символом их власти являются огромные боевые топоры, и они преданно обороняют свой темный лабиринт. Жестокий король минотавров окружен скелетами, и всегда готов убить незваного гостя.
+ **Awaking Описание:** Символом их власти являются огромные боевые топоры, и они преданно обороняют свой темный лабиринт. Жестокий король минотавров окружен скелетами, и всегда готов убить незваного гостя.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте минотавров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

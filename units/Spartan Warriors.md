@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /units/Spartan Warriors/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Спартанец"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Neutral Army](/units/Faction Neutral Army/)
+ **Фракция: ** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Удар щитом вызывает оглушение, смерть одного - вдохновляет соратников.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2825.0**
 
  **Base ATK: 216.0**
@@ -70,13 +70,13 @@ toc: true
   | [Piercing Spear](/equipment/Piercing Spear/) | **АТК** | **DEF** | 
   | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -88,22 +88,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Удар щитом
+### Обычное умение 1 : Удар щитом
  **Описание:** <span style="color: #645252;font-size:20px">Спартанцы яростно бьют щитами противников в большой области, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушая&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. На следующие 10 сек. собственный урон повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а скорость атаки - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Восстановление - 20 сек. </span><span style="color: black">
 
-### Regular Skill 2 : Братья по крови
+### Обычное умение 2 : Братья по крови
  **Описание:** <span style="color: #645252;font-size:20px">С каждой потерей 5% ОЗ спартанцы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Когда здоровье впервые опускается до 50%, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается скорость атаки и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - урон отряда. Эффект длится до конца боя.</span><span style="color: black">
 
-### Regular Skill 3 : Фермопилы
+### Обычное умение 3 : Фермопилы
  **Описание:** <span style="color: #645252;font-size:20px">С каждым павшим спартанцем УРН и ЗЩТ всех союзных отрядов повышаются на 5% до конца боя. Каждые 20 сек. спартанцы выкрикивают боевой клич, повышающий на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорость атаки союзников на 10 сек.</span><span style="color: black">
 
-### Faction Special Skill I : Столкновение сил
+### Эксклюзивное умение фракции I : Столкновение сил
  **Описание:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Faction Special Skill II : Набор сил
+### Эксклюзивное умение фракции II : Набор сил
  **Описание:** <span style="color: #645252;font-size:20px">Стойкость нейтральных отрядов растет. За каждые 10% потраченных ОЗ они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Нейтральный**  (Neutral Roster)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Кассандра](/heroes/Kassandra/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

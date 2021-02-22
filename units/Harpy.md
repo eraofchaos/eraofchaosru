@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Harpy"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 860.0**
 
  **Base ATK: 74.0**
@@ -75,13 +75,13 @@ toc: true
   | [Когтистый убийца](/equipment/Когтистый убийца/) | **АТК** | **DEF** | 
   | [Наплечники чаровницы](/equipment/Наплечники чаровницы/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -94,19 +94,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Острый коготь гарпии
+### Совершенное умение: Острый коготь гарпии
  **Описание:** <span style="color: #645252;font-size:20px">Когда гарпии подвергаются атаке, они получают шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урон 3 отрядам. Шанс активации имеется и при обычной атаке.</span><span style="color: black">
 
-### Regular Skill 1 : High Suppression
+### Обычное умение 1 : High Suppression
  **Описание:** <span style="color: #645252;font-size:20px">В бою против нелетающего отряда гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
-### Regular Skill 2 : Крик разрушителя магии
+### Обычное умение 2 : Крик разрушителя магии
  **Описание:** <span style="color: #645252;font-size:20px">Whenever a hostile hero casts a spell, the Harpy decreases the unit damage reduction of the units in the same path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 3 stacks.</span><span style="color: black">
 
-### Regular Skill 3 : Aiming in Mid Air
+### Обычное умение 3 : Aiming in Mid Air
  **Описание:** <span style="color: #645252;font-size:20px">Гарпии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Гарпии гарантированно выполняют критические удары по <span style="color: #48b946;font-size:20px">оглушенным</span><span style="color: black"><span style="color: #645252;font-size:20px"> целям.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -135,13 +135,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -160,7 +160,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

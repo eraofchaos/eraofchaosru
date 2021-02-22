@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Regnan Archer"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Критические удары и пробивание. Боевой жнец.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1245.0**
 
  **Base ATK: 235.5**
@@ -70,13 +70,13 @@ toc: true
   | [Стальная стрела](/equipment/Стальная стрела/) | **АТК** | **DEF** | 
   | [Одежда охотника](/equipment/Одежда охотника/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 
@@ -89,22 +89,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Смертоносная стрела
+### Совершенное умение: Смертоносная стрела
  **Описание:** <span style="color: #645252;font-size:20px">Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP if a Crit Hit is landed. Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks</span><span style="color: black">
 
-### Regular Skill 1 : Обучение тактике
+### Обычное умение 1 : Обучение тактике
  **Описание:** <span style="color: #645252;font-size:20px">Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> when any unit is downed on the battlefield. The effect can be stacked up to 4 times. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and is guaranteed to deal a Crit Hit when its HP is less than 30%. This effect lasts for 7s and can only be triggered once</span><span style="color: black">
 
-### Regular Skill 2 : Tidal Giant Crossbow
+### Обычное умение 2 : Tidal Giant Crossbow
  **Описание:** <span style="color: #645252;font-size:20px">Regnan Archer's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. At the beginning of battle, deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and additional damage equal to 25% of Max HP to 2 random units while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slowing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s</span><span style="color: black">
 
-### Regular Skill 3 : Огневая поддержка
+### Обычное умение 3 : Огневая поддержка
  **Описание:** <span style="color: #645252;font-size:20px">Выполняется атака на вражеский отряд с самым низким процентом ОЗ, наносящая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и снижающая ЗЩТ цели на 30%.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

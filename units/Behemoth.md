@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Behemoth"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Единорог
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 10182.0**
 
  **Base ATK: 407.3**
@@ -74,13 +74,13 @@ toc: true
   | [Ferocious Fangs](/equipment/Ferocious Fangs/) | **АТК** | **DEF** | 
   | [Толстая меховая шкура](/equipment/Толстая меховая шкура/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 * [Оглушение](/combination/Оглушение/) 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Wild Roar
+### Совершенное умение: Wild Roar
  **Описание:** <span style="color: #645252;font-size:20px">Behemoth deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Attack to surrounding enemy units within a large range, inflicting </span><span style="color: black"><span style="color: #48b946;font-size:20px"> &lt;stun&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> on them for 6s, and reducing their attack by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">and damage reduction by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 20s.</span><span style="color: black">
 
-### Regular Skill 1 : Разрывание когтями
+### Обычное умение 1 : Разрывание когтями
  **Описание:** <span style="color: #645252;font-size:20px">Чудища наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели каждые 20 сек. и вызывают у нее </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Rampage
+### Обычное умение 2 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">Чудища получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к сопротивлению урону. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Бешенство
+### Обычное умение 3 : Бешенство
  **Описание:** <span style="color: #645252;font-size:20px">За гибель каждого вражеского отряда чудища восстанавливают ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и получают +10% к урону отряда на 10 сек. </span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -146,13 +146,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Ancient Behemoth
 
- **Awaking Description:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Описание:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте чудищ и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Цитадели, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>

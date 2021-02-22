@@ -3,7 +3,7 @@ title: "Магический корабль"
 permalink: /units/Magic Airship/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Магический корабль"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Поддержка магов. Увеличивает АТК отряда заклинателей и замораживает атаки врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1715.0**
 
  **Base ATK: 208.5**
@@ -70,13 +70,13 @@ toc: true
   | [Главная вышка управления](/equipment/Главная вышка управления/) | **АТК** | **DEF** | 
   | [Палуба наблюдения](/equipment/Палуба наблюдения/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Заморозка](/combination/Заморозка/) 
 
@@ -89,22 +89,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Energy Support
+### Совершенное умение: Energy Support
  **Описание:** <span style="color: #645252;font-size:20px">При менее 30% ОЗ у любого из ваших отрядов восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ, рассеиваются все ослабления, а сопротивление урону и сопротивление магии повышаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. Можно использовать только один раз за бой.</span><span style="color: black">
 
-### Regular Skill 1 : Frost Bombing
+### Обычное умение 1 : Frost Bombing
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель и вражеские отряды вокруг нее на 2 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Поле заклинания
+### Обычное умение 2 : Поле заклинания
  **Описание:** <span style="color: #645252;font-size:20px">Магические корабли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда используется «Магическое пробуждение», вражеские герои теряют 2 ед. маны, а союзные герои восстанавливают 3 ед. маны. </span><span style="color: black">
 
-### Regular Skill 3 : Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Описание:** <span style="color: #645252;font-size:20px">При усилении магических кораблей заклинанием союзного героя скорость атаки у всех отрядов заклинателей повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. Скорость атаки повышается у всех отрядов заклинателей на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в течение всего боя. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

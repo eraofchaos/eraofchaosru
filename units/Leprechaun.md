@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Единорог
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** 
 
-## Basic stats
+## Базовые параметры
  **Base HP: 3162.0**
 
  **Base ATK: 134.5**
@@ -72,13 +72,13 @@ toc: true
   | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **DEF** | 
   | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -90,22 +90,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Прямой удар
+### Совершенное умение: Прямой удар
  **Описание:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
 
-### Regular Skill 1 : Fortune
+### Обычное умение 1 : Fortune
  **Описание:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
 
-### Regular Skill 2 : Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Описание:** <span style="color: #645252;font-size:20px">Лепреконы получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда лепреконы вступают в бой, все союзные отряды получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к блокированию и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"></span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При одиночном ударе лепреконы получают иммунитет к любому урону выше 20% от их максимума ОЗ. </span><span style="color: black">
 
-### Regular Skill 3 : Тактический блок
+### Обычное умение 3 : Тактический блок
  **Описание:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -158,13 +158,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -182,7 +182,7 @@ toc: true
 
  **Awaking Name:** Sacred Tree Guardian Spirit
 
- **Awaking Description:** В краю элементалей есть волшебное и древнее Мировое древо. К нему устремлены взоры искателей приключений, хотя путь к нему непрост. А все потому, что Древо охраняют свирепые стражи, убивающие любого. Немало странников отправлялось к Мировому древу, но вот назад никто пока не возвращался.
+ **Awaking Описание:** В краю элементалей есть волшебное и древнее Мировое древо. К нему устремлены взоры искателей приключений, хотя путь к нему непрост. А все потому, что Древо охраняют свирепые стражи, убивающие любого. Немало странников отправлялось к Мировому древу, но вот назад никто пока не возвращался.
 
 ### Awaking Tasks
  1. 

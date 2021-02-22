@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Nightmare"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Поддержка защиты. Делает отряды Инферно сильнее.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2691.0**
 
  **Base ATK: 84.1**
@@ -70,13 +70,13 @@ toc: true
   | [Подкова пепла](/equipment/Подкова пепла/) | **АТК** | **DEF** | 
   | [Конский волос пламени](/equipment/Конский волос пламени/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -88,22 +88,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Постоянный кошмар
+### Совершенное умение: Постоянный кошмар
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 30 сек. кошмары насылают проклятье, поджигая выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Также в определенном радиусе от цели все вражеские отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к эффективности лечения на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### Regular Skill 1 : Ловец снов
+### Обычное умение 1 : Ловец снов
  **Описание:** <span style="color: #645252;font-size:20px">Кошмары получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Атакуемый вражеский отряд теряет 2% сопротивления отряда урону на 10 сек. Суммируется до 15 раз, нельзя рассеять. </span><span style="color: black">
 
-### Regular Skill 2 : null
+### Обычное умение 2 : null
  **Описание:** 
 
-### Regular Skill 3 : null
+### Обычное умение 3 : null
  **Описание:** 
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
   <script language="JavaScript">
@@ -136,13 +136,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -160,7 +160,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
+ **Awaking Описание:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
 
 ### Awaking Tasks
  1. 

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Lich"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1581.0**
 
  **Base ATK: 228.7**
@@ -74,13 +74,13 @@ toc: true
   | [Пояс души](/equipment/Пояс души/) | **АТК** | **DEF** | 
   | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Забытая фамилия](/Emblem/Forgotten Autonym/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Жертвоприношение
+### Совершенное умение: Жертвоприношение
  **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 1 : Ядовитое облако
+### Обычное умение 1 : Ядовитое облако
  **Описание:** <span style="color: #645252;font-size:20px">Lich's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
 
-### Regular Skill 2 : Темное усиление
+### Обычное умение 2 : Темное усиление
  **Описание:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
 
-### Regular Skill 3 : Жертвоприношение скелета
+### Обычное умение 3 : Жертвоприношение скелета
  **Описание:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** Могучий лич
 
- **Awaking Description:** Чтобы увидеть истинный смысл смерти и открыть тайну вечной жизни, исследователи жизни готовы жертвовать жизнями смертных. После этой великой церемонии бессмертные чародеи возвращаются из мертвых.
+ **Awaking Описание:** Чтобы увидеть истинный смысл смерти и открыть тайну вечной жизни, исследователи жизни готовы жертвовать жизнями смертных. После этой великой церемонии бессмертные чародеи возвращаются из мертвых.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Lich with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>

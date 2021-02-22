@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Storm Elemental"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 662.0**
 
  **Base ATK: 99.2**
@@ -71,13 +71,13 @@ toc: true
   | [Magic Claw](/equipment/Magic Claw/) | **АТК** | **DEF** | 
   | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Разряд](/combination/Разряд/) 
 
@@ -90,22 +90,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Отметка разряда
+### Совершенное умение: Отметка разряда
  **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, элементали Шторма применяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> ко всем вражеским отрядам на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 1 : Скачущая молния
+### Обычное умение 1 : Скачущая молния
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
 
-### Regular Skill 2 : Elemental Force
+### Обычное умение 2 : Elemental Force
  **Описание:** <span style="color: #645252;font-size:20px">When Storm Elemental is on the battlefield, it increases air magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces air magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Storm Elemental is on the battlefield, increases friendly hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Пробивание разрядом
+### Обычное умение 3 : Пробивание разрядом
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Lightning Storm
 
- **Awaking Description:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
+ **Awaking Описание:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Шторма, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>

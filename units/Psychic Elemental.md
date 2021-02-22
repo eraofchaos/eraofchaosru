@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Наносит урон от атак дальнего боя, при гибели уменьшает ману врага, основной атакующий отряд.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1749.0**
 
  **Base ATK: 212.0**
@@ -70,13 +70,13 @@ toc: true
   | [Корона духа звезды](/equipment/Корона духа звезды/) | **АТК** | **DEF** | 
   | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -89,22 +89,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Energy Blast
+### Совершенное умение: Energy Blast
  **Описание:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
 
-### Regular Skill 1 : Earth
+### Обычное умение 1 : Earth
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Огонь
+### Обычное умение 2 : Огонь
  **Описание:** <span style="color: #645252;font-size:20px">Psychic Elemental unit damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burn&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 6s.</span><span style="color: black">
 
-### Regular Skill 3 : Владыка стихии
+### Обычное умение 3 : Владыка стихии
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -137,13 +137,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Monere](/heroes/Monere/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -162,7 +162,7 @@ toc: true
 
  **Awaking Name:** Элементаль Магии
 
- **Awaking Description:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+ **Awaking Описание:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Мысли, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за один раз. (Набег не учитывается при выполнении этого задания).</span>

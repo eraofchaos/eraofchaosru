@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Black Dragon"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 8712.0**
 
  **Base ATK: 430.0**
@@ -74,13 +74,13 @@ toc: true
   | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **DEF** | 
   | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -93,19 +93,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Дыхание дракона
+### Совершенное умение: Дыхание дракона
  **Описание:** <span style="color: #645252;font-size:20px">Черные драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским отрядам в очень широком радиусе каждые 15 сек. Они также наносят ближайшим отрядам дополнительный урон, равный </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ, и вызывают их <span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Чешуя черного дракона
+### Обычное умение 1 : Чешуя черного дракона
  **Описание:** <span style="color: #645252;font-size:20px">У черных драконов иммунитет к <span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и <span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px">. При получении критического удара восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. Перезарядка - 6 сек. </span><span style="color: black">
 
-### Regular Skill 2 : Иммунитет к магии
+### Обычное умение 2 : Иммунитет к магии
  **Описание:** <span style="color: #645252;font-size:20px">Иммунитет к урону от заклинаний всех героев. Повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урон на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> при каждом применении &lt;Дыхания дракона&gt; в течение всего боя. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Regular Skill 3 : Адаптация к высоким температурам
+### Обычное умение 3 : Адаптация к высоким температурам
  **Описание:** <span style="color: #645252;font-size:20px">Черные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. В бою против <span style="color: #48b946;font-size:20px">горящих</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядов эффект сопротивления урону удваивается. Против отрядов Башни черные драконы получают +50% к урону отряда и +50% сопротивления урону.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Король черных драконов
 
- **Awaking Description:** Любое заклинание, наложенное на короля черных драконов, не оставляет на его шкуре ни малейшего следа. Иное дело - его собственное темное дыхание и гнев.
+ **Awaking Описание:** Любое заклинание, наложенное на короля черных драконов, не оставляет на его шкуре ни малейшего следа. Иное дело - его собственное темное дыхание и гнев.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте черного дракона и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

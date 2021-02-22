@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /units/Swordsman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Мечник"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Deals extra damage to any slowed enemies.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1324.0**
 
  **Base ATK: 54.6**
@@ -75,13 +75,13 @@ toc: true
   | [Empire's Shield](/equipment/Empire's Shield/) | **АТК** | **DEF** | 
   | [Empire's Pauldrons](/equipment/Empire's Pauldrons/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Алчность](/Emblem/Greed/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 * [Замедление](/combination/Замедление/) 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Воодушевление
+### Обычное умение 1 : Воодушевление
  **Описание:** <span style="color: #645252;font-size:20px">The Swordsmen's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Double Strike
+### Обычное умение 2 : Double Strike
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### Regular Skill 3 : Salvation
+### Обычное умение 3 : Salvation
  **Описание:** <span style="color: #645252;font-size:20px">The Swordsmen's normal attack has a high chance of restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Catherine](/heroes/Catherine/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** Крестоносец
 
- **Awaking Description:** Герой, в тот миг, когда ты поднимаешь меч, ты становишься величайшей угрозой для врагов. Несокрушимая вера в твоем сердце - твое самое могучее оружие. Яркий символ щита в руке - несокрушимая сила.
+ **Awaking Описание:** Герой, в тот миг, когда ты поднимаешь меч, ты становишься величайшей угрозой для врагов. Несокрушимая вера в твоем сердце - твое самое могучее оружие. Яркий символ щита в руке - несокрушимая сила.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Swordsman with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

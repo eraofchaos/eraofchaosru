@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Элементаль Моря"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Эффективное сдерживание толпы, мощное восстановление.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1446.0**
 
  **Base ATK: 201.8**
@@ -74,13 +74,13 @@ toc: true
   | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **DEF** | 
   | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Спираль времени
+### Совершенное умение: Спираль времени
  **Описание:** <span style="color: #645252;font-size:20px">Элементаль Моря создает на земле 10-секундный водоворот каждые 30 сек., снижая скорость атаки у всех вражеских отрядов в радиусе действия на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждую секунду. Когда водоворот исчезает, он наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона вражеским отрядам в радиусе действия.</span><span style="color: black">
 
-### Regular Skill 1 : Дар полного прилива
+### Обычное умение 1 : Дар полного прилива
  **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 2 : Tidal Rite
+### Обычное умение 2 : Tidal Rite
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 3 : Abyss Cage
+### Обычное умение 3 : Abyss Cage
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Элементаль Приливов
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте нага и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>

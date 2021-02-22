@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /units/Griffin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Грифон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Зверь
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1850.0**
 
  **Base ATK: 151.4**
@@ -75,13 +75,13 @@ toc: true
   | [Перо архигрифона](/equipment/Перо архигрифона/) | **АТК** | **DEF** | 
   | [Эмблема империи](/equipment/Эмблема империи/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Ум](/Emblem/Witness/) (Добро)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Diving Counterattack
+### Совершенное умение: Diving Counterattack
  **Описание:** <span style="color: #645252;font-size:20px">Когда грифоны подвергаются атаке, у них есть шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 отрядам. При обычной атаке также есть шанс выполнить Пикирование.</span><span style="color: black">
 
-### Regular Skill 1 : Управление башней
+### Обычное умение 1 : Управление башней
  **Описание:** <span style="color: #645252;font-size:20px">When Griffins are on the battlefield, all your flying units' ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">,and Attack speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Великолепный штурм
+### Обычное умение 2 : Великолепный штурм
  **Описание:** <span style="color: #645252;font-size:20px">When Griffin units are in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, they receive 30 extra movement speed and increased </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">Critical Hit for 15s.</span><span style="color: black">
 
-### Regular Skill 3 : Архангел
+### Обычное умение 3 : Архангел
  **Описание:** <span style="color: #645252;font-size:20px">Грифоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Грифонам дается дополнительно 10% ОЗ за каждый союзный летающий отряд на поле боя.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

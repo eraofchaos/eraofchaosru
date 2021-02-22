@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Roc"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Единорог
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 4978.0**
 
  **Base ATK: 792.0**
@@ -77,13 +77,13 @@ toc: true
   | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **DEF** | 
   | [Lightning's armor](/equipment/Lightning's armor/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Гром
+### Совершенное умение: Гром
  **Описание:** <span style="color: #645252;font-size:20px">Рух наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам перед собой в широком радиусе и снижает их точность на 200 на 10 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Удар шаровой молнии
+### Обычное умение 1 : Удар шаровой молнии
  **Описание:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Regular Skill 2 : Rampage
+### Обычное умение 2 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Hurricane Barrier
+### Обычное умение 3 : Hurricane Barrier
  **Описание:** <span style="color: #645252;font-size:20px">When Roc is on the battlefield, all hostile units' Accuracy decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Шива](/heroes/Shiva/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Громовая птица
 
- **Awaking Description:** В книгах библиотеки Бракады она считается самой сильной душой во всем Астральном мире Воздуха. Приходя в материальный мир, Громовая птица призывает бури и ураганы каждым взмахом своих сильных крыльев.
+ **Awaking Описание:** В книгах библиотеки Бракады она считается самой сильной душой во всем Астральном мире Воздуха. Приходя в материальный мир, Громовая птица призывает бури и ураганы каждым взмахом своих сильных крыльев.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте птиц Рух и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов заклинателей, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания).</span>

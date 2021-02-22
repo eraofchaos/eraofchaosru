@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Giant"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5431.0**
 
  **Base ATK: 792.0**
@@ -74,13 +74,13 @@ toc: true
   | [Громовой шлем](/equipment/Громовой шлем/) | **АТК** | **DEF** | 
   | [Нагрудник молнии](/equipment/Нагрудник молнии/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -92,22 +92,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Гнев грома
+### Обычное умение 1 : Гнев грома
  **Описание:** <span style="color: #645252;font-size:20px">Гиганты наносят урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ всем вражеским отрядам, снижая их АТК на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Giant's strength
+### Обычное умение 2 : Giant's strength
  **Описание:** <span style="color: #645252;font-size:20px">Чем ближе гигант к цели, тем выше у него АТК. Он получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК за каждые 100 ед. расстояния до цели. Когда активируется «Магическое пробуждение», с гиганта снимаются все ослабления, за исключением эффектов ауры.</span><span style="color: black">
 
-### Regular Skill 3 : null
+### Обычное умение 3 : null
  **Описание:** 
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -138,13 +138,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -162,7 +162,7 @@ toc: true
 
  **Awaking Name:** Вестник грома
 
- **Awaking Description:** Легенды гласят, что гиганты обладают безграничной магической силой. Но лишь немногие из гигантов владеют силой грома. Они используют гром и молнии, чтобы закалить себя и стать непобедимыми.
+ **Awaking Описание:** Легенды гласят, что гиганты обладают безграничной магической силой. Но лишь немногие из гигантов владеют силой грома. Они используют гром и молнии, чтобы закалить себя и стать непобедимыми.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте гигантов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы добиться уровня «Чемпион» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания)</span>

@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /units/Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Демон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2489.0**
 
  **Base ATK: 114.4**
@@ -75,13 +75,13 @@ toc: true
   | [Scalding Claws](/equipment/Scalding Claws/) | **АТК** | **DEF** | 
   | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Алчность](/Emblem/Greed/) (Хаос)
 * [Похоть](/Emblem/Lust/) (Хаос)
 * [Зловещий знак](/Emblem/Ominous Sign/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ошпаривающий удар
+### Совершенное умение: Ошпаривающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Демоны случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и получают +300 к уклонению на 12 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Burns
+### Обычное умение 1 : Burns
  **Описание:** <span style="color: #645252;font-size:20px">Демоны восстанавливают <span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ за каждое уклонение.</span><span style="color: black">
 
-### Regular Skill 2 : Слуга Инферно
+### Обычное умение 2 : Слуга Инферно
  **Описание:** <span style="color: #645252;font-size:20px">Демоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
-### Regular Skill 3 : Отряд Огня
+### Обычное умение 3 : Отряд Огня
  **Описание:** <span style="color: #645252;font-size:20px">Демоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Также их уклонение повышается на 40 за каждый участвующий в бою отряд Инферно.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

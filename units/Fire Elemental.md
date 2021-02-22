@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /units/Fire Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Элементаль Огня"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Вызывает ожоги, взрывает все поле боя, при уничтожении врагов становится сильнее
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1682.0**
 
  **Base ATK: 195.0**
@@ -71,13 +71,13 @@ toc: true
   | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **АТК** | **DEF** | 
   | [Темно-синий острый коготь](/equipment/Темно-синий острый коготь/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -90,22 +90,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Небесный огонь
+### Совершенное умение: Небесный огонь
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Огня наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду и </span><span style="color: black"><span style="color: #48b946;font-size:20px">поджигают</span><span style="color: black"><span style="color: #645252;font-size:20px"> его на 15 сек.</span><span style="color: black">
 
-### Regular Skill 1 : null
+### Обычное умение 1 : null
  **Описание:** 
 
-### Regular Skill 2 : Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Описание:** <span style="color: #645252;font-size:20px">Когда элементали Огня на поле боя, сопротивление магии заклинаний Огня повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Огня на поле боя, восстановление маны вражеского героя снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Проводник энергии Огня
+### Обычное умение 3 : Проводник энергии Огня
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Огня восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ при убийстве вражеского отряда и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект длится в течение всего боя. Суммируется до 3 раз.</span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Fiur](/heroes/Fiur/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Элементаль Энергии
 
- **Awaking Description:** Энергия превращается в форму, которая не исчезает никогда, и вокруг нее собирается холодная аура. Поглощает все силы природы, чтобы стать сильнее в бою.
+ **Awaking Описание:** Энергия превращается в форму, которая не исчезает никогда, и вокруг нее собирается холодная аура. Поглощает все силы природы, чтобы стать сильнее в бою.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Огня, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за один раз. (Набег не учитывается при выполнении этого задания).</span>

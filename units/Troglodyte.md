@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Troglodyte"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 744.0**
 
  **Base ATK: 86.0**
@@ -76,13 +76,13 @@ toc: true
   | [Ломающий хребет удар](/equipment/Ломающий хребет удар/) | **АТК** | **DEF** | 
   | [Кровь сильной кислоты](/equipment/Кровь сильной кислоты/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 
@@ -95,19 +95,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Spear Array
+### Совершенное умение: Spear Array
  **Описание:** <span style="color: #645252;font-size:20px">Троглодиты наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Острота
+### Обычное умение 1 : Острота
  **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Regular Skill 2 : Spell Breaker's Smell
+### Обычное умение 2 : Spell Breaker's Smell
  **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и сопротивлению урону на следующие 10 сек. Эффект удваивается при каждом накладывании заклинания вражеским героем.</span><span style="color: black">
 
-### Regular Skill 3 : Отравленное копье
+### Обычное умение 3 : Отравленное копье
  **Описание:** <span style="color: #645252;font-size:20px">Троглодиты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -138,13 +138,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** Темный троглодит
 
- **Awaking Description:** With their crimson skin and icy armor, they clean their sharp spears again and again. When the sound of the war horn echoes throughout every corner of the Dungeon, the heroic Troglodytes stand ready for battle.
+ **Awaking Описание:** With their crimson skin and icy armor, they clean their sharp spears again and again. When the sound of the war horn echoes throughout every corner of the Dungeon, the heroic Troglodytes stand ready for battle.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Deploy Troglodyte with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #876741;font-size:18px"> Dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

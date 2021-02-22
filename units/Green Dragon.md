@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /units/Green Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Дракон
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Магия Воды может нанести дополнительный урон за счет эффекта «Кровотечение».
 
-## Basic stats
+## Базовые параметры
  **Base HP: 4525.0**
 
  **Base ATK: 1018.2**
@@ -76,13 +76,13 @@ toc: true
   | [Когти распада](/equipment/Когти распада/) | **АТК** | **DEF** | 
   | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Волна яда
+### Совершенное умение: Волна яда
  **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 1 : Ядовитое дыхание
+### Обычное умение 1 : Ядовитое дыхание
  **Описание:** <span style="color: #645252;font-size:20px">When fighting against a 9-man unit, a normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 targets.</span><span style="color: black">
 
-### Regular Skill 2 : Чешуя Зеленого дракона
+### Обычное умение 2 : Чешуя Зеленого дракона
  **Описание:** <span style="color: #645252;font-size:20px">The Green Dragon is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and all friendly units' damage reduction to water spells is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Green Dragon gets &lt;Shield&gt;, it will increase attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, this effect will last for 15s. For each flying unit deployed, Green Dragon will increase unit's damage by 3%.</span><span style="color: black">
 
-### Regular Skill 3 : Подкрепление с небес
+### Обычное умение 3 : Подкрепление с небес
  **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Золотой дракон
 
- **Awaking Description:** Золотые драконы эволюционировали из зеленых драконов. После долгих лет испытаний они стали намного сильнее и устойчивее к магии.
+ **Awaking Описание:** Золотые драконы эволюционировали из зеленых драконов. После долгих лет испытаний они стали намного сильнее и устойчивее к магии.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте зеленого дракона и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы добиться уровня «Мастер» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

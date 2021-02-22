@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /units/Angel/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ангел"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Ангел
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5431.0**
 
  **Base ATK: 792.0**
@@ -76,12 +76,12 @@ toc: true
   | [Легкие рукавицы](/equipment/Легкие рукавицы/) | **АТК** | **DEF** | 
   | [Наплечники легкости](/equipment/Наплечники легкости/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Осуждение
+### Совершенное умение: Осуждение
  **Описание:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
-### Regular Skill 1 : Воскрешение
+### Обычное умение 1 : Воскрешение
  **Описание:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
 
-### Regular Skill 2 : Сияние
+### Обычное умение 2 : Сияние
  **Описание:** <span style="color: #645252;font-size:20px">Когда ангелы на поле боя, все союзные отряды получают каждые 2 сек. дополнительное восстановление ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Целеустремленный снайпер
+### Обычное умение 3 : Целеустремленный снайпер
  **Описание:** <span style="color: #645252;font-size:20px">Angel's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Archangel
 
- **Awaking Description:** Те, кто были рождены стать мессией. Когда в вашей стране наступают тяжелые времена, проявляются защищающие ее силы. Так происходило всегда, с самых древних времен. И народы Эрафии знают, что все, кто вписан в книгу, будут спасены. Книга Гнева 12:1
+ **Awaking Описание:** Те, кто были рождены стать мессией. Когда в вашей стране наступают тяжелые времена, проявляются защищающие ее силы. Так происходило всегда, с самых древних времен. И народы Эрафии знают, что все, кто вписан в книгу, будут спасены. Книга Гнева 12:1
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Angel with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

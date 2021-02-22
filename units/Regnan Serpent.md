@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Регнанский змей"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Сильный танк, сдерживает врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 3027.0**
 
  **Base ATK: 100.9**
@@ -74,13 +74,13 @@ toc: true
   | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **DEF** | 
   | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 
-## Combination Info
+## Информация о комбинации
 
 * [Deterrence](/combination/Deterrence/) 
 * [Оглушение](/combination/Оглушение/) 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Доспех русалки
+### Обычное умение 1 : Доспех русалки
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою регнанских змеев против целей со сдерживанием эффект удваивается.</span><span style="color: black">
 
-### Regular Skill 2 : Путеводный прилив
+### Обычное умение 2 : Путеводный прилив
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя выбирается одно из 3 усилений: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии; </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Эффект длится в течение всего боя. Регнанские змеи получают одно случайное усиление при нанесении критического удара. Эффект может суммироваться до 3 раз.</span><span style="color: black">
 
-### Regular Skill 3 : Боевой рог
+### Обычное умение 3 : Боевой рог
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские змеи активируют &lt;Топот глубин&gt; при получении критического удара. Перезарядка этого умения - 8 сек. Гарантированно 1 раз активируется &lt;Глубоководный топот&gt;, если регнанские змеи получают 30% урона. Регнанские змеи испускают могучий боевой крик каждые 25 сек., повышая свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Для отрядов фракции Убежища эффект удваивается.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -154,13 +154,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -178,7 +178,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

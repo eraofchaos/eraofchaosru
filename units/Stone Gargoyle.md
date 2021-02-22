@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Stone Gargoyle"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 300.0**
 
  **Base ATK: 48.0**
@@ -75,13 +75,13 @@ toc: true
   | [Острые каменные когти](/equipment/Острые каменные когти/) | **АТК** | **DEF** | 
   | [Зачарованный хвост](/equipment/Зачарованный хвост/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Каменное обличье
+### Совершенное умение: Каменное обличье
  **Описание:** <span style="color: #645252;font-size:20px">The Stone Gargoyle will be in &lt;Stone Form&gt; for 10s every 20s. During this time, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its ATK speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 1 : Высокое подавление
+### Обычное умение 1 : Высокое подавление
  **Описание:** <span style="color: #645252;font-size:20px">В бою с отрядом, не умеющим летать, каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-### Regular Skill 2 : Острый коготь
+### Обычное умение 2 : Острый коготь
  **Описание:** <span style="color: #645252;font-size:20px">Каменные горгульи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к пробиванию защиты. Для оборонительных отрядов эффект удваивается.</span><span style="color: black">
 
-### Regular Skill 3 : Каменное подкрепление
+### Обычное умение 3 : Каменное подкрепление
  **Описание:** <span style="color: #645252;font-size:20px">Когда каменные горгульи находятся в &lt;Каменном обличье&gt;, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

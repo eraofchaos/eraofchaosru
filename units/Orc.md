@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /units/Orc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Орк"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 662.0**
 
  **Base ATK: 82.7**
@@ -75,13 +75,13 @@ toc: true
   | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **АТК** | **DEF** | 
   | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Казнь эксперта
+### Совершенное умение: Казнь эксперта
  **Описание:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
 
-### Regular Skill 1 : Срезание
+### Обычное умение 1 : Срезание
  **Описание:** <span style="color: #645252;font-size:20px">Orc's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">,unit's damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### Regular Skill 2 : Rampage
+### Обычное умение 2 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Жажда крови
+### Обычное умение 3 : Жажда крови
  **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -146,13 +146,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Orc Commander
 
- **Awaking Description:** Орки - настоящие мастера по отрубанию вражеских голов. В их глазах светится жажда крови. На поле боя они не убивают всех без разбора, а действуют хладнокровно и собранно.
+ **Awaking Описание:** Орки - настоящие мастера по отрубанию вражеских голов. В их глазах светится жажда крови. На поле боя они не убивают всех без разбора, а действуют хладнокровно и собранно.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Deploy Orc with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>

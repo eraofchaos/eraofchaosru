@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Genie"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Warrior, Mage and Priest work well together.  
 
-## Basic stats
+## Базовые параметры
  **Base HP: 662.0**
 
  **Base ATK: 102.6**
@@ -74,12 +74,12 @@ toc: true
   | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **DEF** | 
   | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Дар заклинания
+### Совершенное умение: Дар заклинания
  **Описание:** <span style="color: #645252;font-size:20px">Когда атака джиннов переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере 80% от АТК джиннов. Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### Regular Skill 1 : Three Wishes
+### Обычное умение 1 : Three Wishes
  **Описание:** <span style="color: #645252;font-size:20px">Когда джинны на поле боя, они благословляют 3 случайных союзных отряда, что дает им один из следующих эффектов: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда или </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Regular Skill 2 : Magic Wick
+### Обычное умение 2 : Magic Wick
  **Описание:** <span style="color: #645252;font-size:20px">Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### Regular Skill 3 : Magic Awakening
+### Обычное умение 3 : Magic Awakening
  **Описание:** <span style="color: #645252;font-size:20px">При усилении джиннов заклинанием поддержки союзного героя они восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у отряда с самым низким процентом ОЗ. </span><span style="color: black">
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** Владыка джиннов
 
- **Awaking Description:** Сила джиннов закалена в тысячах битв, и они могут вернуться в мир стихий в любой момент... для этого им нужно лишь покинуть свою крохотную масляную лампу. Однако из-за их отношений с магами, они решили оставаться с ними до скончания времен.
+ **Awaking Описание:** Сила джиннов закалена в тысячах битв, и они могут вернуться в мир стихий в любой момент... для этого им нужно лишь покинуть свою крохотную масляную лампу. Однако из-за их отношений с магами, они решили оставаться с ними до скончания времен.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте джиннов и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Башни, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

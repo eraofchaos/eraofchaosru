@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2758.0**
 
  **Base ATK: 117.7**
@@ -76,13 +76,13 @@ toc: true
   | [Закаленные стальные браслеты](/equipment/Закаленные стальные браслеты/) | **АТК** | **DEF** | 
   | [Штаны распада](/equipment/Штаны распада/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
@@ -97,22 +97,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ядовитый газ
+### Совершенное умение: Ядовитый газ
  **Описание:** <span style="color: #645252;font-size:20px"> Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам в определенном радиусе каждые 2 сек. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 1 : Зараза
+### Обычное умение 1 : Зараза
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Ядовитый газ&gt; ходячих мертвецов снижает АТК цели на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и постепенно </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> ее.</span><span style="color: black">
 
-### Regular Skill 2 : Взрывчатка
+### Обычное умение 2 : Взрывчатка
  **Описание:** <span style="color: #645252;font-size:20px">Ходячие мертвецы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в широком радиусе в течение 8 сек. Их урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается на 30%. </span><span style="color: black">
 
-### Regular Skill 3 : Завал из трупов
+### Обычное умение 3 : Завал из трупов
  **Описание:** <span style="color: #645252;font-size:20px">Ходячие мертвецы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Если у противника, атакующего ходячих мертвецов, </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект удваивается.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Зомби
 
- **Awaking Description:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
+ **Awaking Описание:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

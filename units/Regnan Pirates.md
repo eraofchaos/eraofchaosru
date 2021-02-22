@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Regnan Pirates"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Атака из нескольких ударов, высокий урон от взрыва, большой УВС.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 695.0**
 
  **Base ATK: 99.3**
@@ -73,13 +73,13 @@ toc: true
   | [Праведная бандана](/equipment/Праведная бандана/) | **АТК** | **DEF** | 
   | [Штаны моряка](/equipment/Штаны моряка/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Злой)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Tidal Plunder
+### Совершенное умение: Tidal Plunder
  **Описание:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
-### Regular Skill 1 : Тактические навыки
+### Обычное умение 1 : Тактические навыки
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты получают +20% к ОЗ. При любой атаке пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону на 6 сек. Эффект может суммироваться максимум до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">.
 
-### Regular Skill 2 : Оголенный клинок
+### Обычное умение 2 : Оголенный клинок
  **Описание:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
 
-### Regular Skill 3 : Prudence and Greed
+### Обычное умение 3 : Prudence and Greed
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты наносят больше урона по мере снижения ОЗ. АТК регнанских пиратов повышается по мере снижения ОЗ цели. Их АТК может повыситься максимум на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Боцман-пират
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

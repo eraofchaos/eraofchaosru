@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Black Knight"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 910.0**
 
  **Base ATK: 115.8**
@@ -74,13 +74,13 @@ toc: true
   | [Браслеты кошмара](/equipment/Браслеты кошмара/) | **АТК** | **DEF** | 
   | [Наплечники кошмара](/equipment/Наплечники кошмара/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ум](/Emblem/Witness/) (Добро)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Низкий боевой дух](/combination/Низкий боевой дух/) 
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Критическая схватка
+### Совершенное умение: Критическая схватка
  **Описание:** <span style="color: #645252;font-size:20px">Черные рыцари наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Смертельный штурм
+### Обычное умение 1 : Смертельный штурм
  **Описание:** <span style="color: #645252;font-size:20px">If the target is downed, the Black Knight's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit value is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. It works throughout the battle, up to 5 stacks.</span><span style="color: black">
 
-### Regular Skill 2 : Knight Abilities
+### Обычное умение 2 : Knight Abilities
  **Описание:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### Regular Skill 3 : Ужасающее подавление
+### Обычное умение 3 : Ужасающее подавление
  **Описание:** <span style="color: #645252;font-size:20px">Black Knight's Critical Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical DMG is increased by 50%.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Lord Haart](/heroes/Lord Haart/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Dread Knight
 
- **Awaking Description:** Я вижу угольно-черные небеса и луну, красную, как кровь. Тьма поглотила свет. Страх - вот слово, что призывает Тьму. В руках он сжимает кровавый клинок, и даже мертвые идут за ним. За громогласной поступью Владыки Ужаса никто не услышит плача агнцев.
+ **Awaking Описание:** Я вижу угольно-черные небеса и луну, красную, как кровь. Тьма поглотила свет. Страх - вот слово, что призывает Тьму. В руках он сжимает кровавый клинок, и даже мертвые идут за ним. За громогласной поступью Владыки Ужаса никто не услышит плача агнцев.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Black Knight with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level. (Sweep does not count towards the mission.)</span>

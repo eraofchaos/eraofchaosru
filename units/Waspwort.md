@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Waspwort"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5543.0**
 
  **Base ATK: 950.3**
@@ -70,13 +70,13 @@ toc: true
   | [Повелитель цветов](/equipment/Повелитель цветов/) | **АТК** | **DEF** | 
   | [Пчела-убийца](/equipment/Пчела-убийца/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Чума](/combination/Чума/) 
 * [Кровотечение](/combination/Кровотечение/) 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Чумная игла
+### Совершенное умение: Чумная игла
  **Описание:** <span style="color: #645252;font-size:20px">Waspwort spits a rain of poison stingers every 12s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and making them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. When causing a Crit hit during a normal attack, Waspwort increases its ATK speed by 5% for the next 10s, up to 20 stacks.</span><span style="color: black">
 
-### Regular Skill 1 : Plague Wasp
+### Обычное умение 1 : Plague Wasp
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у росянок есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> призвать 1 моровую осу. Каждый призыв дает дополнительно 2% урона всем союзным отрядам Крепости. Эффект суммируется до 8 раз. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Во время атаки у росянок есть шанс 20% произвести </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Чумную осу&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и шанс 30% снять усиления цели. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">&lt;Чумная пчела&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">паралич</span><span style="color: black"><span style="color: #645252;font-size:20px"> или </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение цели</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Осы живут 40 сек. В случае гибели осы она наносит урон в размере 4% от максимума ОЗ вражеским отрядам в радиусе действия.</span><span style="color: black">
 
-### Regular Skill 2 : Усугубление чумы
+### Обычное умение 2 : Усугубление чумы
  **Описание:** <span style="color: #645252;font-size:20px">Waspwort's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and is increased another 75 for every debuff the target has, up to 5 stacks</span><span style="color: black">
 
-### Regular Skill 3 : Инкубатор роя
+### Обычное умение 3 : Инкубатор роя
  **Описание:** <span style="color: #645252;font-size:20px">Waspwort is surrounded by wasps that increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for waspwort. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Swarms of wasps deal damage equal to 0.2% of Max HP to all hostile units within range every 0.1s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralyzes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them. When damage is done, it has a 5% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enemies for 1s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Swarms of wasps increase friendly Fortress unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and life drain by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">                                                                                                                                                                                                                                                                                                                                                           
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

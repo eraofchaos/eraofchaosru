@@ -3,7 +3,7 @@ title: "Единорог"
 permalink: /units/Unicorn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Единорог"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1850.0**
 
  **Base ATK: 151.4**
@@ -75,13 +75,13 @@ toc: true
   | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **DEF** | 
   | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Зловещий знак](/Emblem/Ominous Sign/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Blind](/combination/Blind/) 
 * [Shield](/combination/Shield/) 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Flickering Figures
+### Обычное умение 1 : Flickering Figures
  **Описание:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
-### Regular Skill 2 : Ангельский свет
+### Обычное умение 2 : Ангельский свет
  **Описание:** <span style="color: #645252;font-size:20px">Умение &lt;Ослепление&gt; повышает урон отряда по цели еще на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Смелый лидер
+### Обычное умение 3 : Смелый лидер
  **Описание:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** War Unicorn
 
- **Awaking Description:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
+ **Awaking Описание:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте единорогов, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за один раз. (Набег не учитывается при выполнении этого задания).</span>

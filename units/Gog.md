@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Gog"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Gogs may seem to be mild but they can be very aggressive in battle.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 629.0**
 
  **Base ATK: 102.6**
@@ -76,13 +76,13 @@ toc: true
   | [Хвост пламени](/equipment/Хвост пламени/) | **АТК** | **DEF** | 
   | [Scalding Bracers](/equipment/Scalding Bracers/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Fire Wall
+### Совершенное умение: Fire Wall
  **Описание:** <span style="color: #645252;font-size:20px">Гоги создают стену огня перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам, окруженным ею. Стена огня существует в течение 8 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Пылающий взрыв
+### Обычное умение 1 : Пылающий взрыв
  **Описание:** <span style="color: #645252;font-size:20px">Gog's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets, and may </span><span style="color: black"><span style="color: #e07c44;font-size:20px">\"Burn\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
 
-### Regular Skill 2 : Incineration
+### Обычное умение 2 : Incineration
  **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
-### Regular Skill 3 : Fire Phantom
+### Обычное умение 3 : Fire Phantom
  **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и +40% к сопротивлению урону от заклинаний магии Огня.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** Magog
 
- **Awaking Description:** Сильный демон, властвующий над огнем, и в ее теле заключено пламя ада. Эфес окутывает своих врагов пламенем, пока от них не остается ничего, кроме пепла.
+ **Awaking Описание:** Сильный демон, властвующий над огнем, и в ее теле заключено пламя ада. Эфес окутывает своих врагов пламенем, пока от них не остается ничего, кроме пепла.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Gog with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Inferno units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

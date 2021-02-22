@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Порождение зла"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1850.0**
 
  **Base ATK: 174.9**
@@ -75,13 +75,13 @@ toc: true
   | [Charmed Horn](/equipment/Charmed Horn/) | **АТК** | **DEF** | 
   | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Огненный источник
+### Совершенное умение: Огненный источник
  **Описание:** <span style="color: #645252;font-size:20px">Pit Fiend units cast 1 Fire Spring in their path, restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP of friendly units in a large area in front of them every 2s for 8s.</span><span style="color: black">
 
-### Regular Skill 1 : Lord's Summon
+### Обычное умение 1 : Lord's Summon
  **Описание:** <span style="color: #645252;font-size:20px">When a Pit Fiend unit is on the battlefield, it summons 4 Demons to fight. Demons have </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, 700 DEF and 500 Crit Hit, lasting throughout the entire battle.</span><span style="color: black">
 
-### Regular Skill 2 : Жар
+### Обычное умение 2 : Жар
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
 
-### Regular Skill 3 : Lord's Will
+### Обычное умение 3 : Lord's Will
  **Описание:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Владыка бездны
 
- **Awaking Description:** Она гордится тем, что способна сокрушить любого врага, и вселяет энтузиазм в сердца всех воинов ада. Ее кожа, напоенная магмой, ввергает дьяволов в безумие, превращая битву в настоящий карнавал.
+ **Awaking Описание:** Она гордится тем, что способна сокрушить любого врага, и вселяет энтузиазм в сердца всех воинов ада. Ее кожа, напоенная магмой, ввергает дьяволов в безумие, превращая битву в настоящий карнавал.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте порождений зла и хотя бы 3 отряда Инферно, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов за раз в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>

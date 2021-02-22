@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Units"
 permalink: /units/Faction Rampart/
 excerpt: "Эра хаоса Faction Rampart. Faction Rampart. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Faction Rampart"
 toc: false

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Naga"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 811.0**
 
  **Base ATK: 79.4**
@@ -74,13 +74,13 @@ toc: true
   | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **DEF** | 
   | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -92,22 +92,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Танец клинков
+### Совершенное умение: Танец клинков
  **Описание:** <span style="color: #645252;font-size:20px">Нага наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным врагам в широком радиусе и снижают их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Regular Skill 1 : Cruelty
+### Обычное умение 1 : Cruelty
  **Описание:** <span style="color: #645252;font-size:20px">Наги всегда попадают. Наги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. По мере снижения ОЗ цель получает более высокий урон в размере до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК. Против отрядов Подземелья наги получают +50% к урону отряда и +50% к сопротивлению урону.</span><span style="color: black">
 
-### Regular Skill 2 : Королева клинков
+### Обычное умение 2 : Королева клинков
  **Описание:** <span style="color: #645252;font-size:20px">Когда нага на поле боя, все союзные атакующие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. В то же самое время нага получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Regular Skill 3 : Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Описание:** <span style="color: #645252;font-size:20px">При усилении нага заклинанием поддержки союзного героя они применяют &lt;Танец клинков&gt; к выбранному отряду, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона и снижая их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз. </span><span style="color: black">
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Королева нага
 
- **Awaking Description:** Благороднейшая властительница нага. Ее величие подчеркивают прекраснейшие из сокровищ моря. Королеву нага отличают длинные белые волосы и нефритовая корона. Все ее таланты и умения служат лишь одному предназначению - поиску богатых охотничьих угодий и жилищ для племени.
+ **Awaking Описание:** Благороднейшая властительница нага. Ее величие подчеркивают прекраснейшие из сокровищ моря. Королеву нага отличают длинные белые волосы и нефритовая корона. Все ее таланты и умения служат лишь одному предназначению - поиску богатых охотничьих угодий и жилищ для племени.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте нага и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>

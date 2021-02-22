@@ -3,7 +3,7 @@ title: "Горгона"
 permalink: /units/Gorgon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Горгона"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 3094.0**
 
  **Base ATK: 121.1**
@@ -72,13 +72,13 @@ toc: true
   | [Смертельный рог быка](/equipment/Смертельный рог быка/) | **АТК** | **DEF** | 
   | [Магическое копыто быка](/equipment/Магическое копыто быка/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Разряд](/combination/Разряд/) 
 * [Окаменение](/combination/Окаменение/) 
@@ -103,22 +103,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Повелитель топи
+### Обычное умение 1 : Повелитель топи
  **Описание:** <span style="color: #645252;font-size:20px">Increases Gorgon's DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If damage received by Gorgon from a single attack exceeds 15% of its max HP, it becomes immune to the damage beyond 15%.</span><span style="color: black">
 
-### Regular Skill 2 : Чумной симбиоз
+### Обычное умение 2 : Чумной симбиоз
  **Описание:** <span style="color: #645252;font-size:20px">Горгоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, которое дополнительно повышается на 5% за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Regular Skill 3 : Дикое проклятие
+### Обычное умение 3 : Дикое проклятие
  **Описание:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% of hostile units around Gorgon.</span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -153,13 +153,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -177,7 +177,7 @@ toc: true
 
  **Awaking Name:** Могучая горгона
 
- **Awaking Description:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
+ **Awaking Описание:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте горгон и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Крепости, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

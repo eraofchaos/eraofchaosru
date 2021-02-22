@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /units/Efreeti/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Злой дух
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1446.0**
 
  **Base ATK: 225.4**
@@ -75,13 +75,13 @@ toc: true
   | [Bracers of Flame](/equipment/Bracers of Flame/) | **АТК** | **DEF** | 
   | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Firestorm
+### Совершенное умение: Firestorm
  **Описание:** <span style="color: #645252;font-size:20px">Ифриты применяют к выбранной области Огненную бурю, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским войскам в этой области и вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. </span><span style="color: black">
 
-### Regular Skill 1 : Пылающий щит
+### Обычное умение 1 : Пылающий щит
  **Описание:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Regular Skill 2 : Раскаление
+### Обычное умение 2 : Раскаление
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Щит огня&gt; ифритов повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Бог Огня
+### Обычное умение 3 : Бог Огня
  **Описание:** <span style="color: #645252;font-size:20px">Efreeti's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
   <script language="JavaScript">
@@ -146,13 +146,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Rashka](/heroes/Rashka/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** Efreet Sultan
 
- **Awaking Description:** Эти сильные духи появились из сосредоточенного пламени бездны. Они - сильнейшие союзники демонов Астрального мира Огня. И теперь они пришли в Эрафию, чтобы помочь Эофолу одержать окончательную победу.
+ **Awaking Описание:** Эти сильные духи появились из сосредоточенного пламени бездны. Они - сильнейшие союзники демонов Астрального мира Огня. И теперь они пришли в Эрафию, чтобы помочь Эофолу одержать окончательную победу.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте ифритов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов заклинателей, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания).</span>

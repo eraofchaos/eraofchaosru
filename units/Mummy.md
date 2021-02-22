@@ -3,7 +3,7 @@ title: "Мумия"
 permalink: /units/Mummy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Мумия"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Носитель болезней. Снижает эффективность исцеления отрядов врага.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2691.0**
 
  **Base ATK: 141.0**
@@ -72,13 +72,13 @@ toc: true
   | [Ученик покойного](/equipment/Ученик покойного/) | **АТК** | **DEF** | 
   | [Дыхание смерти](/equipment/Дыхание смерти/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Болезнь](/combination/Болезнь/) 
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Decaying Curse
+### Совершенное умение: Decaying Curse
  **Описание:** <span style="color: #645252;font-size:20px">Мумии наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона окружающим вражеским отрядам в определенном радиусе каждые 20 сек. и поражают их </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезнью</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 12 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Покров
+### Обычное умение 1 : Покров
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Гнилостное проклятие&gt; восстанавливает ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума, и повышает сопротивление отряда урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Источник болезни
+### Обычное умение 2 : Источник болезни
  **Описание:** <span style="color: #645252;font-size:20px">У мумий иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Мумии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. Когда мумии на поле боя, все эффекты исцеления, полученные врагами, снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : Бог чумы
+### Обычное умение 3 : Бог чумы
  **Описание:** <span style="color: #645252;font-size:20px">Мумии получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Если противник, атакующий мумий, страдает от </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект удваивается.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** Король мумий
 
- **Awaking Description:** Душа, привязанная к бессмертному телу, превращает его в мумию, и тысячи тел, проведенных в одиночестве, наполнили душу фараона ненавистью ко всему живому. Король мумий проклинает всех живых существ, превращая их в такую же нежить, как и он сам.
+ **Awaking Описание:** Душа, привязанная к бессмертному телу, превращает его в мумию, и тысячи тел, проведенных в одиночестве, наполнили душу фараона ненавистью ко всему живому. Король мумий проклинает всех живых существ, превращая их в такую же нежить, как и он сам.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Mummy and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis Units to pass Ruthless or higher level of Dragon Utopia one time.</span>

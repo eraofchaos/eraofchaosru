@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Описание:** Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -32,7 +32,7 @@ toc: true
 
  **Position :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
 
-## Basic stats
+## Базовые параметры
  **Base HP: 9504.0**
 
  **Base ATK: 1029.5**
@@ -73,13 +73,13 @@ toc: true
   | [Огонь спасения Инферно](/equipment/Огонь спасения Инферно/) | **АТК** | **DEF** | 
   | [Лопатка Аида](/equipment/Лопатка Аида/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 * [Немота](/combination/Немота/) 
@@ -93,25 +93,25 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Sickle of Silence
+### Совершенное умение: Sickle of Silence
  **Описание:** <span style="color: #645252;font-size:20px">Цели наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ каждые 24 сек. с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> у них на 10 сек. Чемпионы Тьмы восстанавливают ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их ATK за каждую обычную атаку.</span><span style="color: black">
 
-### Regular Skill 1 : Конец судьбы
+### Обычное умение 1 : Конец судьбы
  **Описание:** <span style="color: #645252;font-size:20px">Когда чемпионы Тьмы на поле боя, отряды с низким боевым духом будут уничтожены, если в этот момент у них менее 5% ОЗ. </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Проклятие неудачи&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> применяется каждые 13 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Мрачные могилы
+### Обычное умение 2 : Мрачные могилы
  **Описание:** <span style="color: #645252;font-size:20px">При менее 40% ОЗ у цели чемпионы Тьмы погребают выбранный отряд под могильной плитой на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Погребенный отряд подвергается немоте и не может быть исцелен, а также не способен двигаться и атаковать. Тем временем весь полученный им урон перемещается на 4 случайных вражеских стрелковых отрядов. Пока существует могильная плита, у всех союзных отрядов Некрополя в радиусе действия восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду. Перезарядка - 28 сек.</span><span style="color: black">
 
-### Regular Skill 3 : Bones Monarch
+### Обычное умение 3 : Bones Monarch
  **Описание:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
-### Regular Skill 6 : Тихое кладбище
+### Обычное умение 6 : Тихое кладбище
  **Описание:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -150,13 +150,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -176,7 +176,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
+ **Awaking Описание:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Bone Dragon with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at King level or higher. (Sweep does not count towards the mission.)</span>

@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Описание:** Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -32,7 +32,7 @@ toc: true
 
  **Position :** Основа фракции Убежище. Наносит взрывной урон по области.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5091.0**
 
  **Base ATK: 1006.9**
@@ -73,13 +73,13 @@ toc: true
   | [Бандана сияния](/equipment/Бандана сияния/) | **АТК** | **DEF** | 
   | [Благородный браслет](/equipment/Благородный браслет/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -92,25 +92,25 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Бурное море
+### Совершенное умение: Бурное море
  **Описание:** <span style="color: #645252;font-size:20px">Regnan Seer summons a waterspout from the deep every 25s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to 2 hostile units within the area every 0.5s. At the same time, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets. For &lt;deterred&gt; hostile units, the damage is increased by 30%. The waterspout lasts for 5s.</span><span style="color: black">
 
-### Regular Skill 1 : Род Нептуна
+### Обычное умение 1 : Род Нептуна
  **Описание:** <span style="color: #645252;font-size:20px">Regnan Seer's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left
 
-### Regular Skill 2 : Глубокий страх
+### Обычное умение 2 : Глубокий страх
  **Описание:** <span style="color: #645252;font-size:20px">Спустя 5 сек. после начала боя происходит повышение пробивания у всех союзных отрядов на пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">истощение</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеских отрядов на 5 сек. Перезарядка - 20 сек.</span><span style="color: black">
 
-### Regular Skill 3 : Бушующие волны
+### Обычное умение 3 : Бушующие волны
  **Описание:** <span style="color: #645252;font-size:20px">For each additional Cove unit deployed, Regnan Seer's unit's damage will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Stormy Sea has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to summon 1 small waterspout</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
-### Regular Skill 6 : Ярость океана
+### Обычное умение 6 : Ярость океана
  **Описание:** Если на поле боя есть 3 отряда Убежища, скорость атаки и сопротивление урону регнанских прорицательниц увеличивается. Спустя 10 секунд после начала боя регнанские прорицатели испускают «Глубокий страх», открывающий Океанские владения на 15 сек. Перезарядка - 30 сек.
 
   <script language="JavaScript">
@@ -147,13 +147,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Элементаль Приливов
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте нага и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>

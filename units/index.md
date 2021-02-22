@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Faction: [Conflux](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Крепость](/units/Faction Fortress){: .btn .btn--danger} [Rampart](/units/Faction Rampart){: .btn .btn--info} [Замок](/units/Faction Castle){: .btn .btn--primary} [Башня](/units/Faction Tower){: .btn .btn--success} [Цитадель](/units/Faction Stronghold){: .btn .btn--warning} [Cove](/units/Faction Cove){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army){: .btn .btn--info} [Necropolis](/units/Faction Necropolis){: .btn .btn--primary} 
+  by Фракция: [Conflux](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Крепость](/units/Faction Fortress){: .btn .btn--danger} [Rampart](/units/Faction Rampart){: .btn .btn--info} [Замок](/units/Faction Castle){: .btn .btn--primary} [Башня](/units/Faction Tower){: .btn .btn--success} [Цитадель](/units/Faction Stronghold){: .btn .btn--warning} [Cove](/units/Faction Cove){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army){: .btn .btn--info} [Necropolis](/units/Faction Necropolis){: .btn .btn--primary} 
 
   by Class: [Стрелковый](/units/Unit Class Ranged){: .btn .btn--primary} [Штурм](/units/Unit Class Charging){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster){: .btn .btn--warning} [Наступление](/units/Unit Class Offense){: .btn .btn--danger} [Защита](/units/Unit Class Defense){: .btn .btn--info} 
 

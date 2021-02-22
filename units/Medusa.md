@@ -3,7 +3,7 @@ title: "Медуза"
 permalink: /units/Medusa/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Медуза"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1144.0**
 
  **Base ATK: 202.0**
@@ -74,13 +74,13 @@ toc: true
   | [Queen's Crown](/equipment/Queen's Crown/) | **АТК** | **DEF** | 
   | [Abyss Armor](/equipment/Abyss Armor/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Окаменение](/combination/Окаменение/) 
 * [Кровотечение](/combination/Кровотечение/) 
@@ -94,19 +94,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Stone Gaze
+### Совершенное умение: Stone Gaze
  **Описание:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
-### Regular Skill 1 : Стрела со змеиным ядом
+### Обычное умение 1 : Стрела со змеиным ядом
  **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Кожа разрушителя магии
+### Обычное умение 2 : Кожа разрушителя магии
  **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда вражеский герой применяет заклинание, урон отряда у медуз повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
-### Regular Skill 3 : Обратный удар
+### Обычное умение 3 : Обратный удар
  **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -137,13 +137,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Сефинрот](/heroes/Sephinroth/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** Medusa Queen
 
- **Awaking Description:** В мрачной темнице стоит немало статуй. На фоне белоснежной чешуи они как живые.
+ **Awaking Описание:** В мрачной темнице стоит немало статуй. На фоне белоснежной чешуи они как живые.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Используйте медуз и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Мастер» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

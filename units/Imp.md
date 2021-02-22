@@ -3,7 +3,7 @@ title: "Бес"
 permalink: /units/Imp/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Бес"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1224.0**
 
  **Base ATK: 51.3**
@@ -76,13 +76,13 @@ toc: true
   | [Зловещие крылья](/equipment/Зловещие крылья/) | **АТК** | **DEF** | 
   | [Зловещая легкая броня](/equipment/Зловещая легкая броня/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Гнев](/Emblem/Anger/) (Хаос)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Импульс
+### Совершенное умение: Импульс
  **Описание:** <span style="color: #645252;font-size:20px">Когда бесы погибают, они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> шанс воскреснуть с полным запасом ОЗ.</span><span style="color: black">
 
-### Regular Skill 1 : Карающий удар
+### Обычное умение 1 : Карающий удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у бесов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Agility
+### Обычное умение 2 : Agility
  **Описание:** <span style="color: #645252;font-size:20px">Imp's dodge is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. When Imp dodges an attack, it has 20% chance to reduce mana of the enemy hero by 5, this skill has 5s cooldown </span><span style="color: black">
 
-### Regular Skill 3 : Inferno Minion
+### Обычное умение 3 : Inferno Minion
  **Описание:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
-### Faction Special Skill I : Broiling Strike
+### Эксклюзивное умение фракции I : Broiling Strike
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
-### Faction Special Skill II : Резонанс антимагии
+### Эксклюзивное умение фракции II : Резонанс антимагии
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Familiar
 
- **Awaking Description:** Это преданная и самоотверженная прислужница ада, она готова добиваться победы любой ценой, и одной силой мысли призывает ужасных демонов.
+ **Awaking Описание:** Это преданная и самоотверженная прислужница ада, она готова добиваться победы любой ценой, и одной силой мысли призывает ужасных демонов.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Imp with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Inferno units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

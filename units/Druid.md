@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Druid"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
 
-## Basic stats
+## Базовые параметры
  **Base HP: 844.0**
 
  **Base ATK: 102.6**
@@ -72,13 +72,13 @@ toc: true
   | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **DEF** | 
   | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 * [Алчность](/Emblem/Greed/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Shield](/combination/Shield/) 
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Зов леса
+### Совершенное умение: Зов леса
  **Описание:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
 
-### Regular Skill 1 : Outgrowing
+### Обычное умение 1 : Outgrowing
  **Описание:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Regular Skill 2 : Blessing of Life
+### Обычное умение 2 : Blessing of Life
  **Описание:** <span style="color: #645252;font-size:20px">The Druid unit randomly generates </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 4 friendly units in the front row every 30s that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Regular Skill 3 : Сердце природы
+### Обычное умение 3 : Сердце природы
  **Описание:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Великий друид
 
- **Awaking Description:** Солнце согревает землю и пробуждает все вокруг. Тает снег, поют птицы, из земли пробиваются первые ростки.
+ **Awaking Описание:** Солнце согревает землю и пробуждает все вокруг. Тает снег, поют птицы, из земли пробиваются первые ростки.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Druid with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Caster units and defeat </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count toward the mission.)</span>

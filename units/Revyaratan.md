@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Атака из нескольких ударов, высокий урон от взрыва, большой УВС.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 7128.0**
 
  **Base ATK: 1267.1**
@@ -72,13 +72,13 @@ toc: true
   | [Хвост чудовища](/equipment/Хвост чудовища/) | **АТК** | **DEF** | 
   | [Мерзкие щупальца](/equipment/Мерзкие щупальца/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Злой)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Deterrence](/combination/Deterrence/) 
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Свирепая челюсть
+### Совершенное умение: Свирепая челюсть
  **Описание:** <span style="color: #645252;font-size:20px">Целям наносится дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона каждые 10 сек. со сдерживанием вражеских отрядов в том же ряду в течение 4 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Ледяной плавник
+### Обычное умение 1 : Ледяной плавник
  **Описание:** <span style="color: #645252;font-size:20px">Immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Time Stop&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Revyaratan is deployed, all friendly units gets a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.</span><span style="color: black">
 
-### Regular Skill 2 : Skeleton Covet
+### Обычное умение 2 : Skeleton Covet
  **Описание:** <span style="color: #645252;font-size:20px">УРН отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Два вражеских отряда будут отмечены в начале боя. Метка на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижает скорость атаки, КРИТ УРН, УРН отряда и сопротивление отряда урону, а также запрещает воскрешение ангелами первых погибших. &lt;Свирепая челюсть&gt; с шансом 30% восстанавливает </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
-### Regular Skill 3 : Непоколебимое подводное течение
+### Обычное умение 3 : Непоколебимое подводное течение
  **Описание:** <span style="color: #645252;font-size:20px">Когда союзному отряду Убежища наносится урон выше 20% от максимума ОЗ, это приводит в ярость морского монстра, который повышает урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> у союзных отрядов Убежищ на 25 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -149,13 +149,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -173,7 +173,7 @@ toc: true
 
  **Awaking Name:** Ancient Sea Monster
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

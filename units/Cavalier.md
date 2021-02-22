@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /units/Cavalier/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Всадники"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Замок](/units/Faction Castle/)
+ **Фракция: ** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 811.0**
 
  **Base ATK: 79.4**
@@ -78,13 +78,13 @@ toc: true
   | [Щит защиты](/equipment/Щит защиты/) | **АТК** | **DEF** | 
   | [Наплечники паладина](/equipment/Наплечники паладина/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Высокий боевой дух](/combination/Высокий боевой дух/) 
 * [Оглушение](/combination/Оглушение/) 
@@ -98,22 +98,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Jousting
+### Совершенное умение: Jousting
  **Описание:** <span style="color: #645252;font-size:20px">When a Cavalier unit is on the battlefield, their 1st attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s.</span><span style="color: black">
 
-### Regular Skill 1 : Великолепный штурм
+### Обычное умение 1 : Великолепный штурм
  **Описание:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 2 : Стремительный прорыв
+### Обычное умение 2 : Стремительный прорыв
  **Описание:** <span style="color: #645252;font-size:20px">Когда всадники убивают цель в первый раз, они наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона следующей цели.</span><span style="color: black">
 
-### Regular Skill 3 : Knight Abilities
+### Обычное умение 3 : Knight Abilities
  **Описание:** <span style="color: #645252;font-size:20px">Всадники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
-### Faction Special Skill I : Siege Combat
+### Эксклюзивное умение фракции I : Siege Combat
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Defense Resonance
+### Эксклюзивное умение фракции II : Defense Resonance
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -146,13 +146,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** Champion Knights
 
- **Awaking Description:** Так пусть же не дрогнет ваша рука! Храбрые рыцари Эрафии! Вас ждет венец защитников слабых! Сражайтесь за то, во что вы верите, бейтесь за справедливость. Ваша судьба в ваших руках!
+ **Awaking Описание:** Так пусть же не дрогнет ваша рука! Храбрые рыцари Эрафии! Вас ждет венец защитников слабых! Сражайтесь за то, во что вы верите, бейтесь за справедливость. Ваша судьба в ваших руках!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Cavalier with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Charging units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Master level. (Sweep does not count towards the mission.)</span>

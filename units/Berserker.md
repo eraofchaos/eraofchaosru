@@ -3,7 +3,7 @@ title: "Берсерк"
 permalink: /units/Berserker/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Берсерк"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами.
 
- **Описание:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/units/Unit Class Offense/)
 
- **Описание Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
+ **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 5317.0**
 
  **Base ATK: 678.8**
@@ -74,13 +74,13 @@ toc: true
   | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **АТК** | **DEF** | 
   | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Deterrence](/combination/Deterrence/) 
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Боевая ярость
+### Обычное умение 1 : Боевая ярость
  **Описание:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Rampage
+### Обычное умение 2 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
 
-### Regular Skill 3 : Бессмертный бог войны
+### Обычное умение 3 : Бессмертный бог войны
  **Описание:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -149,13 +149,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Offensive**  (Дозор атакующих отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -174,7 +174,7 @@ toc: true
 
  **Awaking Name:** Ревун смерти
 
- **Awaking Description:** Однажды люди обнаружили, что статуи Марса начали издавать жуткий звук - столь жуткий, как будто бы кто-то пытался отринуть саму смерть.
+ **Awaking Описание:** Однажды люди обнаружили, что статуи Марса начали издавать жуткий звук - столь жуткий, как будто бы кто-то пытался отринуть саму смерть.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте берсерков и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Цитадели, чтобы добиться уровня «Чемпион» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

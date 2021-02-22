@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Панцирный дракон"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Сильный танк, прикрывает от урона союзные отряды.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 12000.0**
 
  **Base ATK: 362.0**
@@ -72,13 +72,13 @@ toc: true
   | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **DEF** | 
   | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Алчность](/Emblem/Greed/) (Хаос)
 * [Ядро мировой сети](/Emblem/Core of the Global Network/) (Нейтральный)
 
-## Combination Info
+## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
 * [Shield](/combination/Shield/) 
@@ -92,22 +92,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Стремительный перекат
+### Совершенное умение: Стремительный перекат
  **Описание:** 
 
-### Regular Skill 1 : Ядовитое дыхание, ур. 2
+### Обычное умение 1 : Ядовитое дыхание, ур. 2
  **Описание:** 
 
-### Regular Skill 2 : Оплот прилива
+### Обычное умение 2 : Оплот прилива
  **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя панцирные драконы </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеские отряды в широком радиусе на 2 сек. После использования &lt;Бронированного щита&gt; в течение 20 сек. панцирные драконы восстанавливают 15% ОЗ и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>+%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 3 : Подкрепление
+### Обычное умение 3 : Подкрепление
  **Описание:** <span style="color: #645252;font-size:20px">Панцирные драконы создают щит подкрепления, повышая сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> для себя и всех союзных отрядов Убежища каждые 20 сек. Эффект длится 8 сек. и не может быть рассеян.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -136,13 +136,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -160,7 +160,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

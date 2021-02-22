@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "White Tiger"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Описание:** Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Единорог
 
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
-## Basic stats
+## Базовые параметры
  **Base HP: 6138.8**
 
  **Base ATK: 1078.2**
@@ -69,13 +69,13 @@ toc: true
   | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **АТК** | **DEF** | 
   | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -87,25 +87,25 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Фантом белого тигра
+### Совершенное умение: Фантом белого тигра
  **Описание:** <span style="color: #645252;font-size:20px">Призванный фантом белого тигра наносит целям урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и накладывает на вражеские отряды в большой области 2 случайных негативных эффекта из следующих: </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедление, кровотечение, горение, ослепление, разряд, чума, болезнь</span><span style="color: black"><span style="color: #645252;font-size:20px">, они действуют </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Перезарядка 15 сек. Если вражеский отряд состоит из 1 существа, «Фантом белого тигра» дополнительно наносит ему урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ.</span><span style="color: black">
 
-### Regular Skill 1 : Инициатива
+### Обычное умение 1 : Инициатива
  **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон белого тигра повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а скорость атаки - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Белый тигр с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> игнорирует урон летающих отрядов. У белого тигра иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушению</span><span style="color: black"><span style="color: #645252;font-size:20px">, у вражеских отрядов в большой области на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижена защита.</span><span style="color: black">
 
-### Regular Skill 2 : Исход чумы
+### Обычное умение 2 : Исход чумы
  **Описание:** <span style="color: #645252;font-size:20px">Increases White Tiger's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases White Tiger's Unit DMG by 5%, Unit DMG Reduction by 5%, and Critical Hit by 75 for every debuff the target has. Stacks up to 5 times. White Tiger casts &lt;Plague Extermination&gt; on enemy units within a small range, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to enemy units for every debuff they have. CD is 30s. Pre-CD is 15s. (Valid debuffs include: </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow, Bleed, Burn, Blind, Static, Plague, Disease, and Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px">)</span><span style="color: black">
 
-### Regular Skill 3 : Укрытие
+### Обычное умение 3 : Укрытие
  **Описание:** <span style="color: #645252;font-size:20px">At the start of the battle, increases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For the next 30s, decreases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every 2s. If it is resurrected, the decrease in its Unit DMG Reduction and increase in its Attack Speed are stacked afresh. Attacks have a 20% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px"> on the target unit for 5s. &lt;White Tiger Spirit&gt; is triggered once every 7 attacks.</span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-### Regular Skill 6 : Время охоты
+### Обычное умение 6 : Время охоты
  **Описание:** <span style="color: #645252;font-size:20px">When 3 Fortress units are deployed, increases own Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. The first time &lt;White Tiger Spirit&gt; is cast, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Heated Hunt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain forms, which expands as the skill levels up. The domain exists for 15s. The domain forms once every 30s after that.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -158,13 +158,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -182,7 +182,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ## Technical info
  **runart:** 1

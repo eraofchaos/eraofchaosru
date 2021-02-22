@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Skeleton"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1158.0**
 
  **Base ATK: 57.9**
@@ -76,13 +76,13 @@ toc: true
   | [Щит нечестивца](/equipment/Щит нечестивца/) | **АТК** | **DEF** | 
   | [Ржавые наплечники](/equipment/Ржавые наплечники/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Алчность](/Emblem/Greed/) (Хаос)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Костяной щит
+### Совершенное умение: Костяной щит
  **Описание:** <span style="color: #645252;font-size:20px">Когда ОЗ у скелетов впервые опускается ниже 50%, они создают для себя костяной щит, который снижает урон, получаемый отрядом, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Костяной шип
+### Обычное умение 1 : Костяной шип
  **Описание:** <span style="color: #645252;font-size:20px">Скелеты отражают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> полученного урона.</span><span style="color: black">
 
-### Regular Skill 2 : Стать камнем
+### Обычное умение 2 : Стать камнем
  **Описание:** <span style="color: #645252;font-size:20px">Скелеты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и +10% к отражению урона. </span><span style="color: black">
 
-### Regular Skill 3 : Каркас
+### Обычное умение 3 : Каркас
  **Описание:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Skeleton Warrior
 
- **Awaking Description:** В давние времена жил мудрый и великий король, которого погубил страх смерти. Теперь он пришел во главе армии мертвых, чтобы вернуть себе свое королевство.
+ **Awaking Описание:** В давние времена жил мудрый и великий король, которого погубил страх смерти. Теперь он пришел во главе армии мертвых, чтобы вернуть себе свое королевство.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте скелетов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>

@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Mermaid"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Cove](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Сильный целитель. В начале боя дает значительное усиление.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1648.0**
 
  **Base ATK: 185.0**
@@ -70,12 +70,12 @@ toc: true
   | [Гибкий рыбий хвост](/equipment/Гибкий рыбий хвост/) | **АТК** | **DEF** | 
   | [Защита океана](/equipment/Защита океана/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Вина Тарнума](/Emblem/Tarnum's Culpability/) (Нейтральный)
 * [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) (Нейтральный)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -87,22 +87,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: D Chord
+### Совершенное умение: D Chord
  **Описание:** <span style="color: #645252;font-size:20px">Когда атака русалок переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% от АТК русалок и исцеляют еще 1 случайный отряд. Дополнительный эффект можно активировать 3 раза. Исцеление равно </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">/</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК русалок.</span><span style="color: black">
 
-### Regular Skill 1 : Безграничное звучание
+### Обычное умение 1 : Безграничное звучание
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя русалки повышают урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> у всех союзных отрядов. Урон отряда снижается на 2% и критический удар - на 50 каждые 2 сек., что происходит не более 10 раз. Эффект длится 20 сек. Для отрядов Убежища длительность удваивается, а сам эффект снижается вдвое.</span><span style="color: black">
 
-### Regular Skill 2 : null
+### Обычное умение 2 : null
  **Описание:** 
 
-### Regular Skill 3 : Лазурная песня
+### Обычное умение 3 : Лазурная песня
  **Описание:** <span style="color: #645252;font-size:20px">Русалки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению. Когда русалки используют &lt;Ре мажор&gt;, снимаются все ослабления с союзного отряда с самым низким процентом ОЗ.</span><span style="color: black">
 
-### Faction Special Skill I : Спокойное тело
+### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Faction Special Skill II : Pirate Conflict
+### Эксклюзивное умение фракции II : Pirate Conflict
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Cove**  (Дозор отрядов Убежища)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** 
+ **Awaking Описание:** 
 
 ### Awaking Tasks
  1. 

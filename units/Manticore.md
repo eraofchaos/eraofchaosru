@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /units/Manticore/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Мантикора"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1917.0**
 
  **Base ATK: 174.9**
@@ -72,13 +72,13 @@ toc: true
   | [Toxic Tail](/equipment/Toxic Tail/) | **АТК** | **DEF** | 
   | [Manticore Wings](/equipment/Manticore Wings/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Немота](/combination/Немота/) 
 
@@ -91,19 +91,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Парализующий яд
+### Совершенное умение: Парализующий яд
  **Описание:** <span style="color: #645252;font-size:20px">Мантикоры атакуют выбранный отряд каждые 20 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и окружающим ее врагам в определенном радиусе и снижая их ЗЩТ на 30% на 10 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Tactical Decision
+### Обычное умение 1 : Tactical Decision
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мантикор есть шанс 25% уменьшить сопротивление урону у отрядов ближнего боя на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При обычной атаке в бою против стрелковых отрядов и заклинателей есть шанс 25% повысить критический удар у союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Эффект суммируется до 8 раз.</span><span style="color: black">
 
-### Regular Skill 2 : null
+### Обычное умение 2 : null
  **Описание:** 
 
-### Regular Skill 3 : Брызги ядовитой крови
+### Обычное умение 3 : Брызги ядовитой крови
  **Описание:** <span style="color: #645252;font-size:20px">When a target is downed, all hostile units' DEF will lose 30% DEF and be <span style="color: #48b946;font-size:20px">&lt;silenced&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Only triggered once throughout the entire battle.</span><span style="color: black">
 
-### Faction Special Skill : Темный конфликт
+### Эксклюзивное умение фракции : Темный конфликт
  **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
   <script language="JavaScript">
@@ -132,13 +132,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -157,7 +157,7 @@ toc: true
 
  **Awaking Name:** Скорпикора
 
- **Awaking Description:** Гнев Скорпикоры сокрушает горы, ее вид вселяет ужас, а рев - подчиняет волю.
+ **Awaking Описание:** Гнев Скорпикоры сокрушает горы, ее вид вселяет ужас, а рев - подчиняет волю.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте мантикору и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>

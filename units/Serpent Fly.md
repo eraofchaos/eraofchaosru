@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Крепость](/units/Faction Fortress/)
+ **Фракция: ** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -31,7 +31,7 @@ toc: true
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1615.0**
 
  **Base ATK: 178.3**
@@ -73,13 +73,13 @@ toc: true
   | [Холодный зубец](/equipment/Холодный зубец/) | **АТК** | **DEF** | 
   | [Ядовитый клык](/equipment/Ядовитый клык/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Разряд](/combination/Разряд/) 
 * [Окаменение](/combination/Окаменение/) 
@@ -104,22 +104,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Болотная чума
+### Совершенное умение: Болотная чума
  **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и заставляют ее страдать от <span style="color: #48b946;font-size:20px">чумы</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Змей в воздухе
+### Обычное умение 1 : Змей в воздухе
  **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Regular Skill 2 : Чумной симбиоз
+### Обычное умение 2 : Чумной симбиоз
  **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Летучие змеи получают еще +75 к критическому удару за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Regular Skill 3 : Слабость
+### Обычное умение 3 : Слабость
  **Описание:** <span style="color: #645252;font-size:20px">When the Serpent Fly lands a Crit Hit, it has an 8% chance to decrease unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> of hostile units within a certain area for 10s, up to 3 stacks.</span><span style="color: black">
 
-### Faction Special Skill I : Чумной удар
+### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Faction Special Skill II : Rise of Vitality
+### Эксклюзивное умение фракции II : Rise of Vitality
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -156,13 +156,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Корбак](/heroes/Korbac/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -181,7 +181,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

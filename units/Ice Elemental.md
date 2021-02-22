@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Специализирующийся на контроле маг, покрывает все вокруг себя льдом, возводит ледяную стену.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 744.0**
 
  **Base ATK: 111.0**
@@ -71,13 +71,13 @@ toc: true
   | [Метка океана](/equipment/Метка океана/) | **АТК** | **DEF** | 
   | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 * [Заморозка](/combination/Заморозка/) 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Стена льда
+### Совершенное умение: Стена льда
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Льда создают ледяную стену перед целью, </span><span style="color: black"><span style="color: #48b946;font-size:20px">замораживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели в горизонтальном ряду в широком радиусе на <span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 1 : Холодная хватка
+### Обычное умение 1 : Холодная хватка
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
-### Regular Skill 2 : Сила элементалей
+### Обычное умение 2 : Сила элементалей
  **Описание:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Regular Skill 3 : null
+### Обычное умение 3 : null
  **Описание:** 
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,13 +139,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -163,7 +163,7 @@ toc: true
 
  **Awaking Name:** Снежный дух
 
- **Awaking Description:** Элементали Льда не такие хладнокровные и безжалостные, какими их считают. В снежную ночь можно услышать, как они поют. Их голоса чисты и печальны, словно далекое эхо.
+ **Awaking Описание:** Элементали Льда не такие хладнокровные и безжалостные, какими их считают. В снежную ночь можно услышать, как они поют. Их голоса чисты и печальны, словно далекое эхо.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Используйте элементалей Льда и хотя бы </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>

@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /units/Firebird/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Жар-птица"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Conflux](/units/Faction Conflux/)
 
  **Race:** Единорог
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 4525.0**
 
  **Base ATK: 848.5**
@@ -76,13 +76,13 @@ toc: true
   | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **АТК** | **DEF** | 
   | [Радужные оперенные крылья](/equipment/Радужные оперенные крылья/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
 * [Королевская беда](/Emblem/King's Calamity/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Горение](/combination/Горение/) 
 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Огненное дыхание
+### Совершенное умение: Огненное дыхание
  **Описание:** <span style="color: #645252;font-size:20px">Жар-птицы истребляют вражеские отряды в широком радиусе перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона. Критический удар по </span><span style="color: black"><span style="color: #48b946;font-size:20px">горящим</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядам повышается на 500.</span><span style="color: black">
 
-### Regular Skill 1 : Огненный язык
+### Обычное умение 1 : Огненный язык
  **Описание:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Regular Skill 2 : Воскрешение
+### Обычное умение 2 : Воскрешение
  **Описание:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
 
-### Regular Skill 3 : Огненное усиление
+### Обычное умение 3 : Огненное усиление
  **Описание:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
 
-### Faction Special Skill I : Elemental Affinity
+### Эксклюзивное умение фракции I : Elemental Affinity
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Конфликт с элементалями
+### Эксклюзивное умение фракции II : Конфликт с элементалями
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,13 +141,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Luna](/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Феникс
 
- **Awaking Description:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
+ **Awaking Описание:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте жар-птиц и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов-магов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн зомби в Склепе. (Набег не учитывается при выполнении этого задания).</span>

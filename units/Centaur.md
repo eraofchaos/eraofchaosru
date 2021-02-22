@@ -3,7 +3,7 @@ title: "Кентавр"
 permalink: /units/Centaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Кентавр"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2691.0**
 
  **Base ATK: 111.0**
@@ -76,13 +76,13 @@ toc: true
   | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **АТК** | **DEF** | 
   | [Наплечники дикой природы](/equipment/Наплечники дикой природы/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
@@ -96,22 +96,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Боевой топот
+### Совершенное умение: Боевой топот
  **Описание:** <span style="color: #645252;font-size:20px">Кентавры наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем окружающим вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 15 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Сила
+### Обычное умение 1 : Сила
  **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. </span><span style="color: black">
 
-### Regular Skill 2 : Свирепость
+### Обычное умение 2 : Свирепость
  **Описание:** <span style="color: #645252;font-size:20px">Centaur's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
-### Regular Skill 3 : Fearless Leader
+### Обычное умение 3 : Fearless Leader
  **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Кентаврам дается дополнительно 2% к сопротивлению отряда урону за каждый оборонительный отряд на поле боя. </span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,13 +144,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Centaur Captain
 
- **Awaking Description:** Капитаны кентавров, широко известные своей эрудицией, кроме всего прочего, умелые музыканты, и слагают прекрасные поэмы. Ведь они верят в то, что глава племени должен быть лучшим во всем, от точной стрельбы и сильного удара до флористики.
+ **Awaking Описание:** Капитаны кентавров, широко известные своей эрудицией, кроме всего прочего, умелые музыканты, и слагают прекрасные поэмы. Ведь они верят в то, что глава племени должен быть лучшим во всем, от точной стрельбы и сильного удара до флористики.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте кентавров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы добиться уровня «Чемпион» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

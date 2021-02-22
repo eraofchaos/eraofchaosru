@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Neutral Army](/units/Faction Neutral Army/)
+ **Фракция: ** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Смертельный урон, подавление регенерации, метание ножей и немота.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2119.0**
 
  **Base ATK: 269.0**
@@ -70,13 +70,13 @@ toc: true
   | [Assassin's Belt](/equipment/Assassin's Belt/) | **АТК** | **DEF** | 
   | [Leather Boots](/equipment/Leather Boots/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -88,22 +88,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Assassination
+### Совершенное умение: Assassination
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;скрытности&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
 
-### Regular Skill 1 : Инстинкт убийцы
+### Обычное умение 1 : Инстинкт убийцы
  **Описание:** <span style="color: #645252;font-size:20px">Ассасин повышает на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> УРН отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - КРИТ. УРН. </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Орлиное зрение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дает удвоенный урон, атака </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепленного</span><span style="color: black"><span style="color: #645252;font-size:20px"> противника получает </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> бонус к пробиванию. </span><span style="color: black">
 
-### Regular Skill 2 : Дымовая завеса
+### Обычное умение 2 : Дымовая завеса
  **Описание:** <span style="color: #645252;font-size:20px">Ассасин бросает себе под ноги дымовую гранату, повышая на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Враги в большом радиусе получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепление</span><span style="color: black"><span style="color: #645252;font-size:20px">, их урон и скорость атаки снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Восстановление - 18 сек. </span><span style="color: black">
 
-### Regular Skill 3 : Chain Attack
+### Обычное умение 3 : Chain Attack
  **Описание:** <span style="color: #645252;font-size:20px">Ассасины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда они убивают противника, этот бонус увеличивается в 3 раза на 20 сек., а также они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытность</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 5 сек.</span><span style="color: black">
 
-### Faction Special Skill I : Столкновение сил
+### Эксклюзивное умение фракции I : Столкновение сил
  **Описание:** <span style="color: #645252;font-size:20px">Нейтральные отряды - искусные воины. В бою против других фракций они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Faction Special Skill II : Набор сил
+### Эксклюзивное умение фракции II : Набор сил
  **Описание:** <span style="color: #645252;font-size:20px">Стойкость нейтральных отрядов растет. За каждые 10% потраченных ОЗ они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,13 +142,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Нейтральный**  (Neutral Roster)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Эцио](/heroes/Ezio/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -166,7 +166,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Описание:** null
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>

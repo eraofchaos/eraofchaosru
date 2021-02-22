@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Vampire"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
 
- **Описание:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/units/Unit Class Charging/)
 
- **Описание Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
+ **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Злой дух
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 910.0**
 
  **Base ATK: 74.4**
@@ -75,13 +75,13 @@ toc: true
   | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **DEF** | 
   | [Shadow Cloak](/equipment/Shadow Cloak/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Высасывание жизни
+### Совершенное умение: Высасывание жизни
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
-### Regular Skill 1 : Bloodthirst
+### Обычное умение 1 : Bloodthirst
  **Описание:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-### Regular Skill 2 : Разрастание
+### Обычное умение 2 : Разрастание
  **Описание:** <span style="color: #645252;font-size:20px">When a Vampire casts &lt;Life Drain&gt;, life drain increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, lasting for the entire battle, up to 3 stacks.</span><span style="color: black">
 
-### Regular Skill 3 : Кровавая охота
+### Обычное умение 3 : Кровавая охота
  **Описание:** <span style="color: #645252;font-size:20px">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Charging**  (Дозор штурмовых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** Vampire Lord
 
- **Awaking Description:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
+ **Awaking Описание:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте вампиров и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз пройти уровень «Мастер» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Ogre"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 2523.0**
 
  **Base ATK: 107.6**
@@ -75,13 +75,13 @@ toc: true
   | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **DEF** | 
   | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Blood Pool
+### Совершенное умение: Blood Pool
  **Описание:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
 
-### Regular Skill 1 : Кожа колдуна
+### Обычное умение 1 : Кожа колдуна
  **Описание:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>% к урону отряда.</span><span style="color: black">
 
-### Regular Skill 2 : Rampage
+### Обычное умение 2 : Rampage
  **Описание:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 3 : Исцеление от яда
+### Обычное умение 3 : Исцеление от яда
  **Описание:** <span style="color: #645252;font-size:20px">Когда огры на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### Faction Special Skill I : Фанатик сражений
+### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
 
-### Faction Special Skill II : Рост живучести
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** Огр-маг
 
- **Awaking Description:** Вожди правят своими племенами с большой мудростью и непререкаемым авторитетом. Их символом всегда было огромное и устрашающее знамя из костей. Те, кто по глупости своей осмеливается бросить им вызов, исчезает без следа, оставляя по себе лишь кости на знамени.
+ **Awaking Описание:** Вожди правят своими племенами с большой мудростью и непререкаемым авторитетом. Их символом всегда было огромное и устрашающее знамя из костей. Те, кто по глупости своей осмеливается бросить им вызов, исчезает без следа, оставляя по себе лишь кости на знамени.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте огров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Цитадели, чтобы добиться уровня «Мастер» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>

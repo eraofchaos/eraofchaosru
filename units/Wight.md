@@ -3,7 +3,7 @@ title: "Призрак"
 permalink: /units/Wight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Призрак"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living.
 
- **Описание:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Описание Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 662.0**
 
  **Base ATK: 107.5**
@@ -75,13 +75,13 @@ toc: true
   | [Проклятая душа](/equipment/Проклятая душа/) | **АТК** | **DEF** | 
   | [Dress of Requiem](/equipment/Dress of Requiem/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
 * [Гнев](/Emblem/Anger/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Немота](/combination/Немота/) 
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Ужасающий вопль
+### Совершенное умение: Ужасающий вопль
  **Описание:** <span style="color: #645252;font-size:20px">Когда призраки на поле боя, их первая атака приводит к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px"> врагов у них на пути в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 1 : Воплощение ужаса
+### Обычное умение 1 : Воплощение ужаса
  **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. АТК увеличивается на 8% за гибель каждого союзного отряда на поле боя. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
 
-### Regular Skill 2 : Misfortune Curse
+### Обычное умение 2 : Misfortune Curse
  **Описание:** <span style="color: #645252;font-size:20px">Когда призраки погибают, на все вражеские отряды накладывается эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### Regular Skill 3 : Invisibility
+### Обычное умение 3 : Invisibility
  **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда герой получает урон от вражеских заклинаний, у него восстанавливается 10 ед. маны.</span><span style="color: black">
 
-### Faction Special Skill I : Мрачная защита
+### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
-### Faction Special Skill II : Гармония заклинаний
+### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -140,13 +140,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Caster**  (Дозор отрядов заклинателей)
 
-### Hero Bonus
+### Бонус героя
 * [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Привидение
 
- **Awaking Description:** Любое смертное существо, осмелившееся приблизиться к привидению, цепенеет от ужаса. Его крики несут смерть всему живому и радость нежити.
+ **Awaking Описание:** Любое смертное существо, осмелившееся приблизиться к привидению, цепенеет от ужаса. Его крики несут смерть всему живому и радость нежити.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units to pass Ruthless or higher level of Dragon Utopia one time.</span>

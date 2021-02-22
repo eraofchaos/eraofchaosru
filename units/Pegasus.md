@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /units/Pegasus/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Пегас"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1144.0**
 
  **Base ATK: 195.1**
@@ -75,13 +75,13 @@ toc: true
   | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **DEF** | 
   | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
 * [Shield](/combination/Shield/) 
@@ -95,22 +95,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Forest Guardian
+### Совершенное умение: Forest Guardian
  **Описание:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
-### Regular Skill 1 : Острота бритвы
+### Обычное умение 1 : Острота бритвы
  **Описание:** <span style="color: #645252;font-size:20px">Пегасы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
-### Regular Skill 2 : Защита жизни
+### Обычное умение 2 : Защита жизни
  **Описание:** <span style="color: #645252;font-size:20px">Пегасы создают для союзных отрядов в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
-### Regular Skill 3 : Конница Серебряных крыльев
+### Обычное умение 3 : Конница Серебряных крыльев
  **Описание:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,13 +145,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** Серебряный пегас
 
- **Awaking Description:** Стать этими великими воинами, поклявшимися защищать леса, могут лишь самые доблестные и бесстрашные из эльфов. Они защищают слабых и обездоленных, а их недреманное око вечно следит за зеленым лесом.
+ **Awaking Описание:** Стать этими великими воинами, поклявшимися защищать леса, могут лишь самые доблестные и бесстрашные из эльфов. Они защищают слабых и обездоленных, а их недреманное око вечно следит за зеленым лесом.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте пегасов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> стрелковых отрядов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания).</span>

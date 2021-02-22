@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел.
 
- **Описание:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
- **Описание Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
+ **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -35,7 +35,7 @@ toc: true
 
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 438.4**
 
  **Base ATK: 92.4**
@@ -77,13 +77,13 @@ toc: true
   | [Стрелы из нефрита](/equipment/Стрелы из нефрита/) | **АТК** | **DEF** | 
   | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Jealousy](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
-## Combination Info
+## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
 * [Shield](/combination/Shield/) 
@@ -97,22 +97,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: null
+### Совершенное умение: null
  **Описание:** 
 
-### Regular Skill 1 : Double Strike
+### Обычное умение 1 : Double Strike
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### Regular Skill 2 : Убежище эльфа
+### Обычное умение 2 : Убежище эльфа
  **Описание:** <span style="color: #645252;font-size:20px">Каждый лесной эльф получает 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждый раз, как вражеский герой применяет заклинание, и поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в течение 5 сек. Перезарядка - 10 сек.</span><span style="color: black">
 
-### Regular Skill 3 : Сосредоточить огонь на вражеском лидере
+### Обычное умение 3 : Сосредоточить огонь на вражеском лидере
  **Описание:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
 
-### Faction Special Skill I : Calm Proliferation
+### Эксклюзивное умение фракции I : Calm Proliferation
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Faction Special Skill II : Отметка ненависти
+### Эксклюзивное умение фракции II : Отметка ненависти
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски владеют тактическим преследованием, повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов, подвергшихся замедлению и кровотечению. Если цель страдает от 2 вышеупомянутых состояний, эффект удваивается.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Grand Elf
 
- **Awaking Description:** Лесные птицы служат для них глазами, их стрелы разят без промаха, и они едины с природой. Благородные охотники, воплощение воли огромного леса, высокие эльфы Тулалиона!
+ **Awaking Описание:** Лесные птицы служат для них глазами, их стрелы разят без промаха, и они едины с природой. Благородные охотники, воплощение воли огромного леса, высокие эльфы Тулалиона!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Rampart units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level. (Sweep does not count towards the mission.)</span>

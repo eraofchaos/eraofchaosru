@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Описание:** Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства.
 
- **Описание:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/units/Unit Class Defense/)
 
- **Описание Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
+ **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Faction:** [Башня](/units/Faction Tower/)
+ **Фракция: ** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -33,7 +33,7 @@ toc: true
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
-## Basic stats
+## Базовые параметры
  **Base HP: 1850.0**
 
  **Base ATK: 151.4**
@@ -75,13 +75,13 @@ toc: true
   | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **DEF** | 
   | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **DEF** | 
 
-## Recommended Holy Emblems
+## Рекомендуемые эмблемы святости
 
 * [Благословение](/Emblem/Queen's Blessing/) (Порядок)
 * [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
 * [Похоть](/Emblem/Lust/) (Хаос)
 
-## Combination Info
+## Информация о комбинации
 
   none
 
@@ -93,22 +93,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Ultimate Skill: Резонанс металла
+### Совершенное умение: Резонанс металла
  **Описание:** <span style="color: #645252;font-size:20px">Железные големы поднимают покров, повышая сопротивление урону союзных отрядов на 30% на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 1 : Сила
+### Обычное умение 1 : Сила
  **Описание:** <span style="color: #645252;font-size:20px">Железные големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону.</span><span style="color: black">
 
-### Regular Skill 2 : Железное тело
+### Обычное умение 2 : Железное тело
  **Описание:** <span style="color: #645252;font-size:20px">У железных големов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда железные големы получают урон от заклинаний героя, они получают +100% к сопротивлению магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Regular Skill 3 : Магическое пробуждение
+### Обычное умение 3 : Магическое пробуждение
  **Описание:** <span style="color: #645252;font-size:20px">При усилении железных големов заклинанием поддержки союзного героя восстанавливаются </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ. В то же самое время отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. </span><span style="color: black">
 
-### Faction Special Skill I : Трезвый ум
+### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">
 
-### Faction Special Skill II : Энергетический динамит
+### Эксклюзивное умение фракции II : Энергетический динамит
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски владеют преобразованием энергии, повышая свой КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,13 +143,13 @@ toc: true
   form.addEventListener('submit', skillCalc);
   window.onload = skillCalc;
   </script>
-## Relevance
-### Roster Connection
+## Значимость
+### Связь дозора
 
 * **Tower**  (Дозор отрядов Башни)
 * **Defensive**  (Дозор оборонительных отрядов)
 
-### Hero Bonus
+### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
@@ -167,7 +167,7 @@ toc: true
 
  **Awaking Name:** Gold Golem
 
- **Awaking Description:** Таинственный волшебный сплав делает золотых големов неразрушимыми, и они, похоже, способны противостоять любым атакам. Они преданно охраняют Башню, и этот барьер не преодолеть ни одному врагу.
+ **Awaking Описание:** Таинственный волшебный сплав делает золотых големов неразрушимыми, и они, похоже, способны противостоять любым атакам. Они преданно охраняют Башню, и этот барьер не преодолеть ни одному врагу.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Iron Golem with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
