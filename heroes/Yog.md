@@ -3,12 +3,12 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Эра хаоса Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Yog"
 toc: true
 ---
- **Description:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
+ **Описание:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
 ## Details
  **Profession:** Barbarian
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Зыбучие пески
- **Description:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
+ **Описание:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Меткость
- **Description:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
+ **Описание:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 ### 4 Spell: Возврат энергии
- **Description:** Заклинания противника, наносящие урон, вместо этого восстанавливают здоровье союзным отрядам. Заклинания противника, восстанавливающие здоровья, наносят урон его отрядам. Действует {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Описание:** Заклинания противника, наносящие урон, вместо этого восстанавливают здоровье союзным отрядам. Заклинания противника, восстанавливающие здоровья, наносят урон его отрядам. Действует {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
 ## HERO Biography
@@ -56,12 +56,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Сила и магия, кровь и слава! </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Сила и магия, кровь и слава! </span>
 
 
 ### Skin 2: **Боевой маг**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Никогда не сбрасывай со счетов силу родственных уз. </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Никогда не сбрасывай со счетов силу родственных уз. </span>
 
  **Skin features:** 
 

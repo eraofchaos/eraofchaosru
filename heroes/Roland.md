@@ -3,12 +3,12 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Эра хаоса Roland. Roland. Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
 heroID: 60103
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Roland"
 toc: true
 ---
- **Description:** Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками.
+ **Описание:** Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками.
 ## Details
  **Profession:** Рыцарь
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Описание:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Стена огня
- **Description:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
+ **Описание:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 4 Spell: Ветер королей
- **Description:** Наделяет все союзные отряды <span style="color: #e07c44;font-size:20px">высоким боевым духом</span><span style="color: black"> и дает +50<50*($a122+$a126+$a132+$a136)>% к АТК на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Описание:** Наделяет все союзные отряды <span style="color: #e07c44;font-size:20px">высоким боевым духом</span><span style="color: black"> и дает +50<50*($a122+$a126+$a132+$a136)>% к АТК на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Во славу Энрота, почувствуй праведный гнев Айронфиста! </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Во славу Энрота, почувствуй праведный гнев Айронфиста! </span>
 
 
 ### Skin 2: **Разоренный принц**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Преданный и плененный братом, принц Роланд пришел в Эрафию за помощью. </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Преданный и плененный братом, принц Роланд пришел в Эрафию за помощью. </span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Royal Wedding**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир Энроту и счастье нашему народу.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир Энроту и счастье нашему народу.</span>
 
  **Skin features:** 
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 4: **Ночь урожая**
 
- **Description:** <span style="color: #ffffff;font-size:20px">When the festival comes, we should stay with our family to enjoy food and each other's company.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">When the festival comes, we should stay with our family to enjoy food and each other's company.</span>
 
  **Skin features:** 
 

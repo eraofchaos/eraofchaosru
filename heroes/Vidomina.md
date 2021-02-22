@@ -3,12 +3,12 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Эра хаоса Vidomina. Vidomina. Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла."
 heroID: 60502
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Vidomina"
 toc: true
 ---
- **Description:** Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла.
+ **Описание:** Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла.
 ## Details
  **Profession:** Necromancer
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Necromancy
- **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+ **Описание:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
 ### 3 Spell: Поднять мертвецов
- **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Армия нежити
- **Description:** Призывает скелетов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в выбранной области в количестве, равном числу вражеских отрядов в этой области Скелеты остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
+ **Описание:** Призывает скелетов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в выбранной области в количестве, равном числу вражеских отрядов в этой области Скелеты остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Смерть подобна небесному телу; на ее зов поднимается всепоглощающая волна костей!</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Смерть подобна небесному телу; на ее зов поднимается всепоглощающая волна костей!</span>
 
 
 ### Skin 2: **Ведьма с конфетами**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Праведные души всегда слетаются на шум праздника и запах сластей.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Праведные души всегда слетаются на шум праздника и запах сластей.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Ученица-еретик**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Большинство замечают в смерти лишь уродство и хаос, но я вижу истину вечности.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Большинство замечают в смерти лишь уродство и хаос, но я вижу истину вечности.</span>
 
  **Skin features:** 
 

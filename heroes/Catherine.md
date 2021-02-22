@@ -3,12 +3,12 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Эра хаоса Catherine. Catherine. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: ru
 ref: "Catherine"
 toc: true
 ---
- **Description:** Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено.
+ **Описание:** Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено.
 ## Details
  **Profession:** Рыцарь
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
 ### 2 Spell: Радость
- **Description:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Описание:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
- **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Описание:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
 ### 4 Spell: Буран
- **Description:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
+ **Описание:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Не было никакого Спасителя! Спасайте себя сами! Берите оружие и защищайте все то, что вам дорого!</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Не было никакого Спасителя! Спасайте себя сами! Берите оружие и защищайте все то, что вам дорого!</span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Капитан**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Мы отправимся в Эрафию, на правый бой.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Мы отправимся в Эрафию, на правый бой.</span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Королевская свадьба**
 
- **Description:** <span style="color: #ffffff;font-size:20px">I hope our union will bring peace to the nation and happiness to our people. </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">I hope our union will bring peace to the nation and happiness to our people. </span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Светская львица**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Если бы не мешали гости, за садом было бы видно отцовский дворец. Этот зеленый свет ведет меня домой сквозь ночную тьму. <span style="color: #ffffff;font-size:20px"> ——Катерина, в разговоре с ее подругой Кристиной</span>[]
+ **Описание:** <span style="color: #ffffff;font-size:20px">Если бы не мешали гости, за садом было бы видно отцовский дворец. Этот зеленый свет ведет меня домой сквозь ночную тьму. <span style="color: #ffffff;font-size:20px"> ——Катерина, в разговоре с ее подругой Кристиной</span>[]
 
  **Skin features:** 
 
@@ -96,7 +96,7 @@ toc: true
 
 ### Skin 5: **Союз Правосудия**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Нечисть не пройдет! Союз Правосудия готов к обороне - вместе мы остановим вторжение демонов и сохраним мир на землях Эрафии! </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Нечисть не пройдет! Союз Правосудия готов к обороне - вместе мы остановим вторжение демонов и сохраним мир на землях Эрафии! </span>
 
  **Skin features:** 
 
