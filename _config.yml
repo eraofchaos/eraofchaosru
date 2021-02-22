@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Эра Хаоса"
-subtitle: Герои Магии и Меча: Era Of Chaos
+subtitle: "Герои Магии и Меча Era Of Chaos"
 email:
-description: "Герои Магии и Меча: Era Of Chaos полная информация о мобильной игре"
+description: "Герои Магии и Меча Era Of Chaos полная информация о мобильной игре"
 keywords:           EraOfChaos Эра Хаоса Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "ru" 
 url:                "https://eraofchaos.github.io/ru/"
