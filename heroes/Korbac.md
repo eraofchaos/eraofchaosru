@@ -1,16 +1,16 @@
 ---
 title: "Корбак"
 permalink: /heroes/Korbac/
-excerpt: "Эра хаоса Корбак. Корбак. Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
+excerpt: "Эра хаоса Корбак. Корбак. Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии."
 heroID: 61502
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Korbac"
 toc: true
 ---
- **Описание:** Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia.
+ **Описание:** Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии.
 ## Details
- **Profession:** Beast Master
+ **Profession:** Хозяин зверей
 
  **Race:** Крепость
 
@@ -32,10 +32,10 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Щит Льда
- **Описание:** Grants water spell damage immunity to targeted friendly units within a large range for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are <span style="color: #e07c44;font-size:20px">slowed</span><span style="color: black"> for 3s.
+ **Описание:** Дает иммунитет к урону Водой выбранным союзным отрядам на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. При атаке ваших отрядов с щитом противники получат <span style="color: #e07c44;font-size:20px">замедление</span><span style="color: black"> на 3 сек.
 
 ### 3 Spell: Радость
  **Описание:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
@@ -57,4 +57,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Pathfinding
+   - Поиск пути

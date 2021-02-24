@@ -1,21 +1,21 @@
 ---
 title: "Призрак"
 permalink: /units/Wight/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Призраки жаждут лишь одного - жизни. Они вытянут из окружающих столько энергии, сколько смогут. Некроманты используют призраков, чтобы собирать души живых."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Призрак"
 toc: true
 ---
 ## General information
- **Описание:** Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living.
+ **Описание:** Призраки жаждут лишь одного - жизни. Они вытянут из окружающих столько энергии, сколько смогут. Некроманты используют призраков, чтобы собирать души живых.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Человек
 
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Ужасающий вопль: вызывает немоту у вражеских отрядов на пути.
 
- **Short description:** Mass Silence. Evades attacks. Regenerates magic
+ **Short description:** Массовая немота. Уклоняется от атак. Восстанавливает магию.
 
- **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Position :** Вызывает немоту у врага перед собой; при гибели немота распространяется на всех врагов.
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
 ## Базовые параметры
  **Base HP: 662.0**
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 53.75 | 4.5 | 496.5 |
+  | Зеленый | 53.75 | 4.5 | 496.5 |
   | Синий | 107.5 | 9.0 | 993.0 |
-  | Blue +1 | 161.25 | 13.5 | 1489.5 |
+  | Синий +1 | 161.25 | 13.5 | 1489.5 |
   | Синий +2 | 225.75 | 18.9 | 2085.3 |
   | Фиолетовый | 290.25 | 24.3 | 2681.1 |
   | Фиолетовый +1 | 354.75 | 29.7 | 3276.9 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 580.5 | 48.6 | 5362.2 |
   | Оранжевый +1 | 666.5 | 55.8 | 6156.6 |
   | Оранжевый +2 | 752.5 | 63.0 | 6951.0 |
-  | Orange +3 | 838.5 | 70.2 | 7745.4 |
+  | Оранжевый +3 | 838.5 | 70.2 | 7745.4 |
   | Оранжевый +4 | 924.5 | 77.4 | 8539.8 |
-  | Orange +5 | 1053.5 | 88.2 | 9731.4 |
-  | Red | 1225.5 | 102.6 | 11320.2 |
+  | Оранжевый +5 | 1053.5 | 88.2 | 9731.4 |
+  | Красный | 1225.5 | 102.6 | 11320.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Призрачные когти](/equipment/Призрачные когти/) | **АТК** | **DEF** | 
-  | [Легкая броня реквиема](/equipment/Легкая броня реквиема/) | **ОЗ** | **DEF** | 
-  | [Проклятая душа](/equipment/Проклятая душа/) | **АТК** | **DEF** | 
-  | [Dress of Requiem](/equipment/Dress of Requiem/) | **ОЗ** | **DEF** | 
+  | [Призрачные когти](/equipment/Призрачные когти/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня реквиема](/equipment/Легкая броня реквиема/) | **ОЗ** | **ЗЩТ** | 
+  | [Проклятая душа](/equipment/Проклятая душа/) | **АТК** | **ЗЩТ** | 
+  | [Платье реквиема](/equipment/Платье реквиема/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -100,10 +100,10 @@ toc: true
 ### Обычное умение 1 : Воплощение ужаса
  **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. АТК увеличивается на 8% за гибель каждого союзного отряда на поле боя. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
 
-### Обычное умение 2 : Misfortune Curse
+### Обычное умение 2 : Проклятие неудачи
  **Описание:** <span style="color: #645252;font-size:20px">Когда призраки погибают, на все вражеские отряды накладывается эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black">
 
-### Обычное умение 3 : Invisibility
+### Обычное умение 3 : Невидимость
  **Описание:** <span style="color: #645252;font-size:20px">Призраки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии. Когда герой получает урон от вражеских заклинаний, у него восстанавливается 10 ед. маны.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
@@ -144,56 +144,56 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Привидение
 
  **Awaking Описание:** Любое смертное существо, осмелившееся приблизиться к привидению, цепенеет от ужаса. Его крики несут смерть всему живому и радость нежити.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units to pass Ruthless or higher level of Dragon Utopia one time.</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте призраков и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз.</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ призраков на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте призраков, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Проклятие нежити
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Invisibility&gt;</span><span style="color: #645252;font-size:18px">Invisibility's Magic resistance doubled. The Wight releases a fatal sound wave, causing damage equal to 5% of Max HP to hostile non-Necropolis units in its path, after taking spell damage from enemies</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак вызывает смертоносную звуковую волну, наносящую урон в размере 5% от макс. ОЗ всем вражеским отрядам Некрополя в своем ряду.</span>
 
 ### 2nd Skill (or 1st): Роковое благословение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Невидимость&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии удваивается. Получив урон магией, призрак произносит смертельное благословение, которое повышает сопротивление урону союзных отрядов Некрополя на 10%. Эффект длится в течение всего боя, суммируется до 3 раз.</span>
 
 ### 3rd Skill (or 4th): Паническое расстройство
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: отряды, впавшие в состояние немоты от ужасающего вопля, получают -50% к сопротивлению магии на все время действия немоты</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: отряды, впавшие в состояние немоты от ужасающего вопля, получают -50% к сопротивлению магии на все время действия немоты и -20% к урону отряда.</span>
 
 ### 4th Skill (or 3rd): Мастерство крика
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды Некрополя в том же ряду получают +50% к сопротивлению магии на следующие 25 сек.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ужасающий вопль&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды Некрополя получают +50% к сопротивлению магии и +20% к сопротивлению урону на следующие 25 сек.</span>
 
-### 5th Skill (or 6th): Quaky Soul
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 8% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 20 раз. Этот эффект не может быть рассеян.</span>
+### 5th Skill (or 6th): Трясущаяся душа
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: призрак повышает защиту на 10%. Когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям, снижает всем отрядам врага сопротивление магии Земли на 4%, а также сопротивление урону на 2%. Эффект длится в течение всего боя, суммируется до 20 раз. Этот эффект не может быть рассеян.</span>
 
 ### 6th Skill (or 5th): Ужасная сцена
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям и снижает сопротивление магии на 16% для всех отрядов врага. Эффект длится в течение всего боя, суммируется до 6 раз. Этот эффект не может быть рассеян.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воплощение ужаса&gt;</span><span style="color: #645252;font-size:18px">: призрак повышает защиту на 10%. Когда союзный герой применяет магию Земли, призрак восстанавливает по 5 ед. маны героям, снижает врагам сопротивление магии Земли на 8% и сопротивление урону на 4%. Эффект длится в течение всего боя, суммируется до 6 раз. Этот эффект не может быть рассеян.</span>
 
 ## Technical info
  **runart:** 0

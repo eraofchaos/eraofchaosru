@@ -1,16 +1,16 @@
 ---
-title: "Solmyr"
+title: "Сольмир"
 permalink: /heroes/Solmyr/
-excerpt: "Эра хаоса Solmyr. Solmyr. Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность."
+excerpt: "Эра хаоса Сольмир. Сольмир. Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность."
 heroID: 61201
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Solmyr"
 toc: true
 ---
  **Описание:** Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность.
 ## Details
- **Profession:** Wizard
+ **Profession:** Боевой маг
 
  **Race:** Башня
 
@@ -38,7 +38,7 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
 
 ### 3 Spell: Стена Ветра
- **Описание:** Summons 1 Wall of Wind which increases dodge by {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
+ **Описание:** Создает стену ветра, которая дает проходящим через нее союзным отрядам + {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> к уклонению и +{$buffaddattr22+$buffaddattr23*($sklevel-1)} к скорости движения на {$olast11/1000} сек.
 
 ### 4 Spell: Цепь молний
  **Описание:** Призывает разряд молнии, который перескакивает на новую цель 5 раз. Каждый удар наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> урона Воздухом
@@ -77,4 +77,4 @@ toc: true
    - Наступление
    - Волшебство
    - Ученый
-   - Pathfinding
+   - Поиск пути

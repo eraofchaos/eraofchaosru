@@ -1,21 +1,21 @@
 ---
 title: "Мумия"
 permalink: /units/Mummy/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят."
 unitID: 308
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Мумия"
 toc: true
 ---
 ## General information
- **Описание:** The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed.
+ **Описание:** Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 70.5 | 12.5 | 2018.25 |
+  | Зеленый | 70.5 | 12.5 | 2018.25 |
   | Синий | 141.0 | 25.0 | 4036.5 |
-  | Blue +1 | 211.5 | 37.5 | 6054.75 |
+  | Синий +1 | 211.5 | 37.5 | 6054.75 |
   | Синий +2 | 296.1 | 52.5 | 8476.65 |
   | Фиолетовый | 380.7 | 67.5 | 10898.55 |
   | Фиолетовый +1 | 465.3 | 82.5 | 13320.45 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 761.4 | 135.0 | 21797.1 |
   | Оранжевый +1 | 874.2 | 155.0 | 25026.3 |
   | Оранжевый +2 | 987.0 | 175.0 | 28255.5 |
-  | Orange +3 | 1099.8 | 195.0 | 31484.7 |
+  | Оранжевый +3 | 1099.8 | 195.0 | 31484.7 |
   | Оранжевый +4 | 1212.6 | 215.0 | 34713.9 |
-  | Orange +5 | 1381.8 | 245.0 | 39557.7 |
-  | Red | 1607.4 | 285.0 | 46016.1 |
+  | Оранжевый +5 | 1381.8 | 245.0 | 39557.7 |
+  | Красный | 1607.4 | 285.0 | 46016.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Бессмертное касание](/equipment/Бессмертное касание/) | **АТК** | **DEF** | 
-  | [Древний бинт](/equipment/Древний бинт/) | **ОЗ** | **DEF** | 
-  | [Ученик покойного](/equipment/Ученик покойного/) | **АТК** | **DEF** | 
-  | [Дыхание смерти](/equipment/Дыхание смерти/) | **ОЗ** | **DEF** | 
+  | [Бессмертное касание](/equipment/Бессмертное касание/) | **АТК** | **ЗЩТ** | 
+  | [Древний бинт](/equipment/Древний бинт/) | **ОЗ** | **ЗЩТ** | 
+  | [Ученик покойного](/equipment/Ученик покойного/) | **АТК** | **ЗЩТ** | 
+  | [Дыхание смерти](/equipment/Дыхание смерти/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -91,7 +91,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Decaying Curse
+### Совершенное умение: Гнилостное проклятие
  **Описание:** <span style="color: #645252;font-size:20px">Мумии наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона окружающим вражеским отрядам в определенном радиусе каждые 20 сек. и поражают их </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезнью</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 12 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Покров
@@ -145,19 +145,19 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -169,26 +169,26 @@ toc: true
  **Awaking Описание:** Душа, привязанная к бессмертному телу, превращает его в мумию, и тысячи тел, проведенных в одиночестве, наполнили душу фараона ненавистью ко всему живому. Король мумий проклинает всех живых существ, превращая их в такую же нежить, как и он сам.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Mummy and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis Units to pass Ruthless or higher level of Dragon Utopia one time.</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте мумий и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз.</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Mummy King souls in the Underground: 15-2 and 15-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королей мумий на уровнях 15-2 и 15-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя мумий.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Проклятие распада
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Decaying Curse&gt;</span><span style="color: #645252;font-size:18px"> can be triggered 1 time every 18s. The damage it causes is increased to 150% of the previous skill's damage. \"Disease\" decreases 10% of hostile unit's damage reduction further. The additional effect doubles if the target is from Rampart Faction. Range of &lt;Decaying Curse&gt; expanded greatly</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гнилостное проклятие&gt;</span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает дальнейшее сопротивление всех вражеских отрядов урону на 10%. Добавочный эффект удваивается, если цель из Бастиона. Зона действия &lt;Гнилостного проклятья&gt; значительно расширяется</span>
 
 ### 2nd Skill (or 1st): Воля смерти
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гнилостное проклятие&gt;</span><span style="color: #645252;font-size:18px">: может срабатывать раз в 18 сек. Урон умения повышается до 150% от урона предыдущего умения. Болезнь снижает урон вражеских отрядов на 10%. Этот эффект не может быть рассеян. Зона действия &lt;Гнилостного проклятья&gt; значительно расширяется</span>
 
-### 3rd Skill (or 4th): Armored Crusader
+### 3rd Skill (or 4th): Бронированный крестоносец
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Покров&gt;</span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект длится 5 сек. Сопротивление еще одного союзного отряда в определенной области повышается на 20%, а его ОЗ восстанавливаются на 5% от максимума</span>
 
-### 4th Skill (or 3rd): The Hardened Shroud
+### 4th Skill (or 3rd): Плотный покров
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Покров&gt;</span><span style="color: #645252;font-size:18px">: мумия получает +20% к сопротивлению урону. Эффект &lt;Покрова&gt; длится 5 сек. Все союзные отряды Некрополя получают +20% к сопротивлению урону и восстанавливают 5% от своего максимума ОЗ</span>
 
 ### 5th Skill (or 6th): Болезнь: мутация

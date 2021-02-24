@@ -1,11 +1,11 @@
 ---
-title: "Hell Hound"
+title: "Гончая ада"
 permalink: /units/Hell Hound/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Hell Hound"
+ref: "Гончая ада"
 toc: true
 ---
 ## General information
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Зверь
 
@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Обладает способностью наносить критический урон. При вызове кровотечения наносит высокий урон за короткое время.
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
 ## Базовые параметры
  **Base HP: 827.0**
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 38.9 | 6.5 | 620.25 |
+  | Зеленый | 38.9 | 6.5 | 620.25 |
   | Синий | 77.8 | 13.0 | 1240.5 |
-  | Blue +1 | 116.7 | 19.5 | 1860.75 |
+  | Синий +1 | 116.7 | 19.5 | 1860.75 |
   | Синий +2 | 163.38 | 27.3 | 2605.05 |
   | Фиолетовый | 210.06 | 35.1 | 3349.35 |
   | Фиолетовый +1 | 256.74 | 42.9 | 4093.65 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 420.12 | 70.2 | 6698.7 |
   | Оранжевый +1 | 482.36 | 80.6 | 7691.1 |
   | Оранжевый +2 | 544.6 | 91.0 | 8683.5 |
-  | Orange +3 | 606.84 | 101.4 | 9675.9 |
+  | Оранжевый +3 | 606.84 | 101.4 | 9675.9 |
   | Оранжевый +4 | 669.08 | 111.8 | 10668.3 |
-  | Orange +5 | 762.44 | 127.4 | 12156.9 |
-  | Red | 886.92 | 148.2 | 14141.7 |
+  | Оранжевый +5 | 762.44 | 127.4 | 12156.9 |
+  | Красный | 886.92 | 148.2 | 14141.7 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,15 +70,15 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ошпаривающие зубы](/equipment/Ошпаривающие зубы/) | **АТК** | **DEF** | 
-  | [Адская броня](/equipment/Адская броня/) | **ОЗ** | **DEF** | 
-  | [Scalding Claws](/equipment/Scalding Claws/) | **АТК** | **DEF** | 
-  | [Mane of Flame](/equipment/Mane of Flame/) | **ОЗ** | **DEF** | 
+  | [Ошпаривающие зубы](/equipment/Ошпаривающие зубы/) | **АТК** | **ЗЩТ** | 
+  | [Адская броня](/equipment/Адская броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
+  | [Грива пламени](/equipment/Грива пламени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
@@ -95,18 +95,18 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Огонь
- **Описание:** <span style="color: #645252;font-size:20px">Hell Hound is guaranteed to land a Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гончие ада гарантированно наносят критический удар в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Атака тремя головами
  **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по 3 вражеским целям и вызывается </span><span style="color: black"><span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Bloodlust
+### Обычное умение 2 : Жажда крови
  **Описание:** <span style="color: #645252;font-size:20px">В бою гончих ада против отрядов с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
-### Обычное умение 3 : Inferno
+### Обычное умение 3 : Инферно
  **Описание:** <span style="color: #645252;font-size:20px">Гончие ада получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Показатель КРИТ. УРН у гончих ада повышается на 3% за каждый использованный отряд фракции Инферно.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
@@ -145,19 +145,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -169,9 +169,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -183,18 +183,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

@@ -1,11 +1,11 @@
 ---
-title: "Vampire"
+title: "Вампир"
 permalink: /units/Vampire/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Vampire"
+ref: "Вампир"
 toc: true
 ---
 ## General information
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Злой дух
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
+ **Unit description:** Высасывание жизни: отнимает здоровье у вражеского отряда, восстанавливая свое.
 
  **Short description:** Высасывание жизни. Эффективен против целей с низким здоровьем.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 37.2 | 6.25 | 682.5 |
+  | Зеленый | 37.2 | 6.25 | 682.5 |
   | Синий | 74.4 | 12.5 | 1365.0 |
-  | Blue +1 | 111.6 | 18.75 | 2047.5 |
+  | Синий +1 | 111.6 | 18.75 | 2047.5 |
   | Синий +2 | 156.24 | 26.25 | 2866.5 |
   | Фиолетовый | 200.88 | 33.75 | 3685.5 |
   | Фиолетовый +1 | 245.52 | 41.25 | 4504.5 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 401.76 | 67.5 | 7371.0 |
   | Оранжевый +1 | 461.28 | 77.5 | 8463.0 |
   | Оранжевый +2 | 520.8 | 87.5 | 9555.0 |
-  | Orange +3 | 580.32 | 97.5 | 10647.0 |
+  | Оранжевый +3 | 580.32 | 97.5 | 10647.0 |
   | Оранжевый +4 | 639.84 | 107.5 | 11739.0 |
-  | Orange +5 | 729.12 | 122.5 | 13377.0 |
-  | Red | 848.16 | 142.5 | 15561.0 |
+  | Оранжевый +5 | 729.12 | 122.5 | 13377.0 |
+  | Красный | 848.16 | 142.5 | 15561.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Кровожадный пояс](/equipment/Кровожадный пояс/) | **АТК** | **DEF** | 
-  | [Легкая броня кровожадности](/equipment/Легкая броня кровожадности/) | **ОЗ** | **DEF** | 
-  | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **DEF** | 
-  | [Shadow Cloak](/equipment/Shadow Cloak/) | **ОЗ** | **DEF** | 
+  | [Кровожадный пояс](/equipment/Кровожадный пояс/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня кровожадности](/equipment/Легкая броня кровожадности/) | **ОЗ** | **ЗЩТ** | 
+  | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **ЗЩТ** | 
+  | [Плащ тени](/equipment/Плащ тени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -96,14 +96,14 @@ toc: true
 ### Совершенное умение: Высасывание жизни
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 12 сек. вампиры случайным образом наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 1 вражескому отряду в широком радиусе и похищают у него </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
-### Обычное умение 1 : Bloodthirst
+### Обычное умение 1 : Высасывание жизни
  **Описание:** <span style="color: #645252;font-size:20px">Вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
 ### Обычное умение 2 : Разрастание
- **Описание:** <span style="color: #645252;font-size:20px">When a Vampire casts &lt;Life Drain&gt;, life drain increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, lasting for the entire battle, up to 3 stacks.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда вампиры применяют &lt;Высасывание жизни&gt;, значение высасывания жизни повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится в течение всего боя. Суммируется до 3 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Кровавая охота
- **Описание:** <span style="color: #645252;font-size:20px">When fighting against a target whose HP percentage is lower than himself, Vampire's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против с цели с меньшим процентом ОЗ, чем у вас, вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
@@ -147,28 +147,28 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* unit DMG Reduction
+* Урон отряда
+* Снижение УРН отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Vampire Lord
+ **Awaking Name:** Лорд вампиров
 
- **Awaking Описание:** Ancient nestors, cursed for killing their loved ones, have been hidden in the dark corners of the world for thousands of years. The sins committed by the unclean body cannot be redeemed, only waiting for the annihilation day to wash away their sins.
+ **Awaking Описание:** В мрачных уголках земли вот уже многие тысячи лет лежат грешники, проклятые за смерть тех, кого любили Им уже не искупить своих грехов, и остается лишь ждать Судного дня.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте вампиров и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз пройти уровень «Мастер» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
@@ -177,7 +177,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ лордов вампиров на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Vampire with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Charging units and win </span><span style="color: #1ca216;font-size:18px">12</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте вампиров и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> штурмовых отрядов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">12</span><span style="color: #3c2a1e;font-size:18px"> боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

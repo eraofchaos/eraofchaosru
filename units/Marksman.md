@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /units/Marksman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Лучник"
 toc: true
@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Наносит удар дважды. Эффективен против больших существ.
 
- **Position :** Deal colossal burst damage and a double strike. Most effective against large units.
+ **Position :** Наносит огромный урон огнем и совершает двойной удар. Эффективнее всего против крупных отрядов.
 
  **Recommend:** Воин, маг и священник хорошо работают в команде.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 42.65 | 7.5 | 328.8 |
+  | Зеленый | 42.65 | 7.5 | 328.8 |
   | Синий | 85.3 | 15.0 | 657.6 |
-  | Blue +1 | 127.95 | 22.5 | 986.4 |
+  | Синий +1 | 127.95 | 22.5 | 986.4 |
   | Синий +2 | 179.13 | 31.5 | 1380.96 |
   | Фиолетовый | 230.31 | 40.5 | 1775.52 |
   | Фиолетовый +1 | 281.49 | 49.5 | 2170.08 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 460.62 | 81.0 | 3551.04 |
   | Оранжевый +1 | 528.86 | 93.0 | 4077.12 |
   | Оранжевый +2 | 597.1 | 105.0 | 4603.2 |
-  | Orange +3 | 665.34 | 117.0 | 5129.28 |
+  | Оранжевый +3 | 665.34 | 117.0 | 5129.28 |
   | Оранжевый +4 | 733.58 | 129.0 | 5655.36 |
-  | Orange +5 | 835.94 | 147.0 | 6444.48 |
-  | Red | 972.42 | 171.0 | 7496.64 |
+  | Оранжевый +5 | 835.94 | 147.0 | 6444.48 |
+  | Красный | 972.42 | 171.0 | 7496.64 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Легкий арбалет](/equipment/Легкий арбалет/) | **АТК** | **DEF** | 
-  | [Steel Cap](/equipment/Steel Cap/) | **ОЗ** | **DEF** | 
-  | [Пронзающие стрелы](/equipment/Пронзающие стрелы/) | **АТК** | **DEF** | 
-  | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **ОЗ** | **DEF** | 
+  | [Легкий арбалет](/equipment/Легкий арбалет/) | **АТК** | **ЗЩТ** | 
+  | [Стальной шлем](/equipment/Стальной шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Пронзающие стрелы](/equipment/Пронзающие стрелы/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные перчатки](/equipment/Кожаные перчатки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,9 +97,9 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Разрывная стрела
- **Описание:** <span style="color: #645252;font-size:20px">Marksman units deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Лучники наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели.</span><span style="color: black">
 
-### Обычное умение 1 : Inspiring
+### Обычное умение 1 : Воодушевление
  **Описание:** <span style="color: #645252;font-size:20px">Лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Двойной удар
@@ -108,10 +108,10 @@ toc: true
 ### Обычное умение 3 : Драконоубийца
  **Описание:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -151,7 +151,7 @@ toc: true
 * **Стрелок**  (Дозор стрелковых отрядов)
 
 ### Бонус героя
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -159,7 +159,7 @@ toc: true
 * Атака
 * ОЗ
 * Критический удар отряда
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -168,16 +168,16 @@ toc: true
 
  **Awaking Name:** Опытный лучник
 
- **Awaking Описание:** Under the tutelage of the master archer Valeska, the Marksmen's skills improved by leaps and bounds, making them a vital support for the Castle faction in the battlefield.
+ **Awaking Описание:** Благодаря тренировкам Валески мастерство лучников растет не по дням, а по часам. Они - основная сила Замка на поле боя.
 
 ### Awaking Tasks
- 1. <span style="color: #876741;font-size:18px">Deploy Marksman with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Castle units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте лучников и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Замка, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
  2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ опытных лучников на уровнях 15-2 и 15-4 в Подземелье. </span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Marksman and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #876741;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз, используя лучников. </span>
 
 ## Awaken Skills
 

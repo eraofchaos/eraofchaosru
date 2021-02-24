@@ -1,18 +1,18 @@
 ---
-title: "Luna"
+title: "Луна"
 permalink: /heroes/Luna/
-excerpt: "Эра хаоса Luna. Luna. Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets."
+excerpt: "Эра хаоса Луна. Луна. Луна жила в Энроте, когда до нее дошли слухи об элементале, появившемся в Эрафии. Поверив, что там ей удастся обучиться куда более могущественной магии, она пересекла море, чтобы открыть секреты Эрафии."
 heroID: 60701
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Luna"
 toc: true
 ---
- **Описание:** Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets.
+ **Описание:** Луна жила в Энроте, когда до нее дошли слухи об элементале, появившемся в Эрафии. Поверив, что там ей удастся обучиться куда более могущественной магии, она пересекла море, чтобы открыть секреты Эрафии.
 ## Details
- **Profession:** Elementalist
+ **Profession:** Элементалист
 
- **Race:** Conflux
+ **Race:** Гармония
 
  **Rate:** R
 
@@ -35,7 +35,7 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Жажда крови
- **Описание:** Increase ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for friendly units within a large range, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Описание:** Дает союзным отрядам в большой области +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Стена огня
  **Описание:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
@@ -67,4 +67,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Pathfinding
+   - Поиск пути

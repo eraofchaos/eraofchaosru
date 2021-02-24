@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /units/Orc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Орк"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
+ **Unit description:** Казнь: наносит дополнительный урон врагам, у которых запас здоровья меньше 30%.
 
  **Short description:** Причиняет кровотечение. Эффективен против отрядов с низким здоровьем.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 41.35 | 5.0 | 496.5 |
+  | Зеленый | 41.35 | 5.0 | 496.5 |
   | Синий | 82.7 | 10.0 | 993.0 |
-  | Blue +1 | 124.05 | 15.0 | 1489.5 |
+  | Синий +1 | 124.05 | 15.0 | 1489.5 |
   | Синий +2 | 173.67 | 21.0 | 2085.3 |
   | Фиолетовый | 223.29 | 27.0 | 2681.1 |
   | Фиолетовый +1 | 272.91 | 33.0 | 3276.9 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 446.58 | 54.0 | 5362.2 |
   | Оранжевый +1 | 512.74 | 62.0 | 6156.6 |
   | Оранжевый +2 | 578.9 | 70.0 | 6951.0 |
-  | Orange +3 | 645.06 | 78.0 | 7745.4 |
+  | Оранжевый +3 | 645.06 | 78.0 | 7745.4 |
   | Оранжевый +4 | 711.22 | 86.0 | 8539.8 |
-  | Orange +5 | 810.46 | 98.0 | 9731.4 |
-  | Red | 942.78 | 114.0 | 11320.2 |
+  | Оранжевый +5 | 810.46 | 98.0 | 9731.4 |
+  | Красный | 942.78 | 114.0 | 11320.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,16 +70,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Метательный топор](/equipment/Метательный топор/) | **АТК** | **DEF** | 
-  | [Пояс ограничения](/equipment/Пояс ограничения/) | **ОЗ** | **DEF** | 
-  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **АТК** | **DEF** | 
-  | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **DEF** | 
+  | [Метательный топор](/equipment/Метательный топор/) | **АТК** | **ЗЩТ** | 
+  | [Пояс ограничения](/equipment/Пояс ограничения/) | **ОЗ** | **ЗЩТ** | 
+  | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
+  | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -98,9 +98,9 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">В бою против цели с ОЗ менее 30% орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому урону.</span><span style="color: black">
 
 ### Обычное умение 1 : Срезание
- **Описание:** <span style="color: #645252;font-size:20px">Orc's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">,unit's damage increase </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к дополнительной атаке и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Во время обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Rampage
+### Обычное умение 2 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">Орки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается, когда ОЗ падают ниже 35%, и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : Жажда крови
@@ -154,33 +154,33 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Orc Commander
+ **Awaking Name:** Главарь орков
 
  **Awaking Описание:** Орки - настоящие мастера по отрубанию вражеских голов. В их глазах светится жажда крови. На поле боя они не убивают всех без разбора, а действуют хладнокровно и собранно.
 
 ### Awaking Tasks
- 1. <span style="color: #876741;font-size:18px">Deploy Orc with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Ranged units and defeat </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте орков и не менее </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> стрелковых отрядов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #876741;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ главарей орков на уровнях 14-2 и 14-4 в Подземелье. </span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #876741;font-size:18px">Используйте орков и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Цитадели, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
@@ -193,7 +193,7 @@ toc: true
 ### 3rd Skill (or 4th): Быстрый порез
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Срезание&gt;</span><span style="color: #645252;font-size:18px">: повышает скорость атаки на 15%, против оглушенных врагов эффект удваивается.</span>
 
-### 4th Skill (or 3rd): Fatal Cutting
+### 4th Skill (or 3rd): Смертельный порез
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Срезание&gt;</span><span style="color: #645252;font-size:18px">: повышает урон отряда на 15%, против оглушенных врагов эффект удваивается.</span>
 
 ### 5th Skill (or 6th): Кровавый натиск
@@ -249,5 +249,5 @@ toc: true
 
  **talk2:** Орки ничего не боятся!
 
- **talk3:** Ah, a fresh meal! Pity they don't come unwrapped, I do find armour sticks in the teeth.
+ **talk3:** Ах, свежее мясо! Жаль, что они в этой броне - вечно ее куски в зубах застревают.
 

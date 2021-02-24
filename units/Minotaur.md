@@ -1,21 +1,21 @@
 ---
 title: "Минотавр"
 permalink: /units/Minotaur/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Минотавр"
 toc: true
 ---
 ## General information
- **Описание:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
+ **Описание:** Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -25,9 +25,9 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
+ **Unit description:** Вихрь: наносит урон в области и снижает скорость атаки
 
- **Short description:** Support and Tank hybrid.
+ **Short description:** Гибрид поддержки и танка.
 
  **Position :** Танк поддержки. Идеальное сочетание атаки и защиты. Кровотечение повышает УВС союзных отрядов.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 54.0 | 13.75 | 2043.75 |
+  | Зеленый | 54.0 | 13.75 | 2043.75 |
   | Синий | 108.0 | 27.5 | 4087.5 |
-  | Blue +1 | 162.0 | 41.25 | 6131.25 |
+  | Синий +1 | 162.0 | 41.25 | 6131.25 |
   | Синий +2 | 226.8 | 57.75 | 8583.75 |
   | Фиолетовый | 291.6 | 74.25 | 11036.25 |
   | Фиолетовый +1 | 356.4 | 90.75 | 13488.75 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 583.2 | 148.5 | 22072.5 |
   | Оранжевый +1 | 669.6 | 170.5 | 25342.5 |
   | Оранжевый +2 | 756.0 | 192.5 | 28612.5 |
-  | Orange +3 | 842.4 | 214.5 | 31882.5 |
+  | Оранжевый +3 | 842.4 | 214.5 | 31882.5 |
   | Оранжевый +4 | 928.8 | 236.5 | 35152.5 |
-  | Orange +5 | 1058.4 | 269.5 | 40057.5 |
-  | Red | 1231.2 | 313.5 | 46597.5 |
+  | Оранжевый +5 | 1058.4 | 269.5 | 40057.5 |
+  | Красный | 1231.2 | 313.5 | 46597.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Gorgon Battle Axe](/equipment/Gorgon Battle Axe/) | **АТК** | **DEF** | 
-  | [Наплечники горгоны](/equipment/Наплечники горгоны/) | **ОЗ** | **DEF** | 
-  | [Gorgon Bands](/equipment/Gorgon Bands/) | **АТК** | **DEF** | 
-  | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **DEF** | 
+  | [Секира горгоны](/equipment/Секира горгоны/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники горгоны](/equipment/Наплечники горгоны/) | **ОЗ** | **ЗЩТ** | 
+  | [Ленты горгоны](/equipment/Ленты горгоны/) | **АТК** | **ЗЩТ** | 
+  | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -107,7 +107,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">При получении урона от отрядов из 1 или 4 бойцов защита повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При атаке отряда из 9 бойцов критический удар повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -143,26 +143,26 @@ toc: true
 ### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Minotaur King
+ **Awaking Name:** Король минотавров
 
  **Awaking Описание:** Символом их власти являются огромные боевые топоры, и они преданно обороняют свой темный лабиринт. Жестокий король минотавров окружен скелетами, и всегда готов убить незваного гостя.
 
@@ -173,11 +173,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королей минотавров на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Minotaur and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Dungeon Units and win 1 Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте минотавра и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы победить в 1 бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Hyperactive Slash
+### 1st Skill (or 2nd): Гиперактивный удар
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вихрь&gt;</span><span style="color: #645252;font-size:18px">: в состоянии высокого боевого духа минотавр 1 раз гарантированно запускает &lt;Вихрь&gt;. Урон от &lt;Вихря&gt; удваивается, сопротивление цели урону снижается на 10%. Эффект длится 6 сек. Суммируется до 3 раз.</span>
 
 ### 2nd Skill (or 1st): Стимулированный удар
@@ -189,8 +189,8 @@ toc: true
 ### 4th Skill (or 3rd): Сопротивление магии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Телосложение разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда вражеский герой применяет заклинание, минотавр на 5 сек. получает состояние высокого боевого духа и повышает свое сопротивление урону на 10%. Эффект суммируется до 3 раз за бой</span>
 
-### 5th Skill (or 6th): Ferocious Will
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Advanced Ferocity&gt;</span><span style="color: #645252;font-size:18px">When fighting against \"bleeding\" enemies, the Minotaur receives an increase of 20% unit's damage. If the Minotaur is \"bleeding\", its attack speed will be increased by 20% for 6s</span>
+### 5th Skill (or 6th): Свирепая воля
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20%. Если кровоточит сам минотавр, его АТК повышается на 20% на 6 сек.</span>
 
 ### 6th Skill (or 5th): Кровавая беспощадность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Высшая свирепость&gt;</span><span style="color: #645252;font-size:18px">: против кровоточащих врагов урон минотавра повышается на 20% от урона отряда. Если кровоточит сам минотавр, его сопротивление урону повышается на 20% на 6 сек.</span>

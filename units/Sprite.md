@@ -1,21 +1,21 @@
 ---
-title: "Sprite"
+title: "Фея"
 permalink: /units/Sprite/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал."
 unitID: 901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Sprite"
+ref: "Фея"
 toc: true
 ---
 ## General information
- **Описание:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
+ **Описание:** Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал.
 
  **Класс:** [Штурм](/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 34.75 | 3.75 | 744.75 |
+  | Зеленый | 34.75 | 3.75 | 744.75 |
   | Синий | 69.5 | 7.5 | 1489.5 |
-  | Blue +1 | 104.25 | 11.25 | 2234.25 |
+  | Синий +1 | 104.25 | 11.25 | 2234.25 |
   | Синий +2 | 145.95 | 15.75 | 3127.95 |
   | Фиолетовый | 187.65 | 20.25 | 4021.65 |
   | Фиолетовый +1 | 229.35 | 24.75 | 4915.35 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 375.3 | 40.5 | 8043.3 |
   | Оранжевый +1 | 430.9 | 46.5 | 9234.9 |
   | Оранжевый +2 | 486.5 | 52.5 | 10426.5 |
-  | Orange +3 | 542.1 | 58.5 | 11618.1 |
+  | Оранжевый +3 | 542.1 | 58.5 | 11618.1 |
   | Оранжевый +4 | 597.7 | 64.5 | 12809.7 |
-  | Orange +5 | 681.1 | 73.5 | 14597.1 |
-  | Red | 792.3 | 85.5 | 16980.3 |
+  | Оранжевый +5 | 681.1 | 73.5 | 14597.1 |
+  | Красный | 792.3 | 85.5 | 16980.3 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ароматный венок](/equipment/Ароматный венок/) | **АТК** | **DEF** | 
-  | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **ОЗ** | **DEF** | 
-  | [Фосфоресцирующие крылья бабочки](/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **DEF** | 
-  | [Изумрудное обручье](/equipment/Изумрудное обручье/) | **ОЗ** | **DEF** | 
+  | [Ароматный венок](/equipment/Ароматный венок/) | **АТК** | **ЗЩТ** | 
+  | [Платье Луны и звезд](/equipment/Платье Луны и звезд/) | **ОЗ** | **ЗЩТ** | 
+  | [Фосфоресцирующие крылья бабочки](/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **ЗЩТ** | 
+  | [Изумрудное обручье](/equipment/Изумрудное обручье/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,13 +97,13 @@ toc: true
 ### Обычное умение 1 : Благословение фей
  **Описание:** <span style="color: #645252;font-size:20px">Когда начинается бой, феи повышают сопротивление магии всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект также удваивается для фей.</span><span style="color: black">
 
-### Обычное умение 2 : Inspiration
- **Описание:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Обычное умение 2 : Вдохновение
+ **Описание:** <span style="color: #645252;font-size:20px">Когда феи на поле боя, базовая мана союзных героев повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Преданность
- **Описание:** <span style="color: #645252;font-size:20px">When a Sprite is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда феи погибают, они накладывают эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоты</span><span style="color: black"><span style="color: #645252;font-size:20px"> на выбранный отряд на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -141,18 +141,18 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* Magic resistance
+* Урон отряда
+* Сопротивление магии
 
 
 ## Awaking
@@ -164,9 +164,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -178,18 +178,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

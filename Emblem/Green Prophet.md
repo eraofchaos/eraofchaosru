@@ -2,7 +2,7 @@
 title: "Эмблема святости - Зеленый пророк"
 permalink: /Emblem/Green Prophet/
 excerpt: "Эра хаоса Зеленый пророк. Зеленый пророк. Эра хаоса Эмблема святости Зеленый пророк. Эра хаоса Добро Зеленый пророк"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Green Prophet.md"
 toc: false
@@ -17,8 +17,8 @@ classes: wide
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Deployed units have a 35% chance to be immune to petrify, stun, and freeze.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
-  | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Deployed units have a 25% chance to be immune to petrify, stun, and freeze.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
+  | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 35% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
+  | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 25% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 
   | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 8% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
   | [Зеленый пророк](/Emblem/Green Prophet/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 15% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0,7%, эмблема святости ЗЩТ +16</span> | 
 

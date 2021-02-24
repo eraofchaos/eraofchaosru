@@ -1,9 +1,9 @@
 ---
 title: "Драконий голем"
 permalink: /units/Dragon Golem/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Драконий голем"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Описание:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
+ **Описание:** Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 198.0 | 16.5 | 7212.525 |
+  | Зеленый | 198.0 | 16.5 | 7212.525 |
   | Синий | 396.0 | 33.0 | 14425.05 |
-  | Blue +1 | 594.0 | 49.5 | 21637.575 |
+  | Синий +1 | 594.0 | 49.5 | 21637.575 |
   | Синий +2 | 831.6 | 69.3 | 30292.605 |
   | Фиолетовый | 1069.2 | 89.1 | 38947.635 |
   | Фиолетовый +1 | 1306.8 | 108.9 | 47602.665 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 2138.4 | 178.2 | 77895.27 |
   | Оранжевый +1 | 2455.2 | 204.6 | 89435.31 |
   | Оранжевый +2 | 2772.0 | 231.0 | 100975.35 |
-  | Orange +3 | 3088.8 | 257.4 | 112515.39 |
+  | Оранжевый +3 | 3088.8 | 257.4 | 112515.39 |
   | Оранжевый +4 | 3405.6 | 283.8 | 124055.43 |
-  | Orange +5 | 3880.8 | 323.4 | 141365.49 |
-  | Red | 4514.4 | 376.2 | 164445.57 |
+  | Оранжевый +5 | 3880.8 | 323.4 | 141365.49 |
+  | Красный | 4514.4 | 376.2 | 164445.57 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Коготь из сплава](/equipment/Коготь из сплава/) | **АТК** | **DEF** | 
-  | [Голова дракона из титана](/equipment/Голова дракона из титана/) | **ОЗ** | **DEF** | 
-  | [Главный рычаг управления](/equipment/Главный рычаг управления/) | **АТК** | **DEF** | 
-  | [Броня из сплава](/equipment/Броня из сплава/) | **ОЗ** | **DEF** | 
+  | [Коготь из сплава](/equipment/Коготь из сплава/) | **АТК** | **ЗЩТ** | 
+  | [Голова дракона из титана](/equipment/Голова дракона из титана/) | **ОЗ** | **ЗЩТ** | 
+  | [Главный рычаг управления](/equipment/Главный рычаг управления/) | **АТК** | **ЗЩТ** | 
+  | [Броня из сплава](/equipment/Броня из сплава/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -99,7 +99,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Драконьи големы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. В бою против отрядов Подземелья урон отряда увеличивается на 100%. В начале боя драконьи големы создают <span style="color: #F0F000;font-size:20px">&lt;Железное строение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Магическое пробуждение
- **Описание:** <span style="color: #645252;font-size:20px">When awakened by a friendly hero's support spell, it triggers &lt;Magic Storm&gt; to &lt;silence&gt; hostile units within range for 2s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralyzes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s. At the same time, it increases its own DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the battle, up to 3 stacks. The Dragon Golem awakens itself once every 25s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При пробуждении под действием заклинания поддержки союзного героя активируется &lt;Магическая буря&gt;, которая вызывает немоту у вражеских отрядов в радиусе действия на 2 сек. и </span><span style="color: black"><span style="color: #48b946;font-size:20px">парализует</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 5 сек. В то же самое время они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект длится в течение всего боя. Суммируется до 3 раз. Драконьи големы пробуждаются каждые 25 сек. </span><span style="color: black">
 
 ### Обычное умение 3 : Повторная магия
  **Описание:** <span style="color: #645252;font-size:20px">Если у драконьих големов остается 40% или 20% ОЗ, они создают силовое поле для починки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Во время починки урон, полученный драконьими големами, преобразуется в восстановление ОЗ. Когда драконьи големы погибают, вытекшая временная энергия наносит урон в размере 30% максимума ОЗ вражеским отрядам в широком радиусе и применяет </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Остановку времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> к целям на 5 сек.</span><span style="color: black">
@@ -154,19 +154,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Башня**  (Дозор отрядов Башни)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit DMG Reduction
-* Magic resistance
+* Снижение УРН отряда
+* Сопротивление магии
 
 
 ## Awaking
@@ -184,17 +184,17 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высших паладинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы победить в 1 бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Казнь без страха
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. Охрана святилища увеличивает защиту высших паладинов на 15% за каждого смотрителя святилища на поле боя. Святилище восстанавливает 10% ОЗ в течение первых 3 призывов</span>
 
-### 2nd Skill (or 1st): Sanctuary's Glory
+### 2nd Skill (or 1st): Слава святилища
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. При первых 3 призывах урон и сопротивление урону для ваших отрядов будут увеличены на 10% на 30 сек. Высший паладин призывает смотрителя святилища, выйдя на поле боя</span>
 
-### 3rd Skill (or 4th): Loyalty and Belief
+### 3rd Skill (or 4th): Вера и верность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: паладины получают 22% к сопротивлению отряда урону. Высокий боевой дух не влияет на эффект</span>
 
 ### 4th Skill (or 3rd): Неукротимая вера
@@ -203,7 +203,7 @@ toc: true
 ### 5th Skill (or 6th): Упорство
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. КРИТ. УРН повышается на 50%, а стойкость - на 150. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Ловкое парирование
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. Стойкость всех отрядов в зоне действия повышается на 150, а урон - на 15%. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
 ## Technical info

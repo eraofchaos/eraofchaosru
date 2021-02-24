@@ -1,21 +1,21 @@
 ---
 title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Панцирный дракон"
 toc: true
 ---
 ## General information
- **Описание:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
+ **Описание:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 181.0 | 17.0 | 7350.0 |
+  | Зеленый | 181.0 | 17.0 | 7350.0 |
   | Синий | 362.0 | 34.0 | 14700.0 |
-  | Blue +1 | 543.0 | 51.0 | 22050.0 |
+  | Синий +1 | 543.0 | 51.0 | 22050.0 |
   | Синий +2 | 760.2 | 71.4 | 30870.0 |
   | Фиолетовый | 977.4 | 91.8 | 39690.0 |
   | Фиолетовый +1 | 1194.6 | 112.2 | 48510.0 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 1954.8 | 183.6 | 79380.0 |
   | Оранжевый +1 | 2244.4 | 210.8 | 91140.0 |
   | Оранжевый +2 | 2534.0 | 238.0 | 102900.0 |
-  | Orange +3 | 2823.6 | 265.2 | 114660.0 |
+  | Оранжевый +3 | 2823.6 | 265.2 | 114660.0 |
   | Оранжевый +4 | 3113.2 | 292.4 | 126420.0 |
-  | Orange +5 | 3547.6 | 333.2 | 144060.0 |
-  | Red | 4126.8 | 387.6 | 167580.0 |
+  | Оранжевый +5 | 3547.6 | 333.2 | 144060.0 |
+  | Красный | 4126.8 | 387.6 | 167580.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Острые зубы Панцирного дракона](/equipment/Острые зубы Панцирного дракона/) | **АТК** | **DEF** | 
-  | [Панцирь шипастой черепахи](/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **DEF** | 
-  | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **DEF** | 
-  | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **DEF** | 
+  | [Острые зубы Панцирного дракона](/equipment/Острые зубы Панцирного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Панцирь шипастой черепахи](/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **ЗЩТ** | 
+  | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -81,7 +81,7 @@ toc: true
 ## Информация о комбинации
 
 * [Оглушение](/combination/Оглушение/) 
-* [Shield](/combination/Shield/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -107,7 +107,7 @@ toc: true
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -139,19 +139,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -165,7 +165,7 @@ toc: true
 ### Awaking Tasks
  1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
  3. 
 

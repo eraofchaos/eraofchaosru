@@ -1,21 +1,21 @@
 ---
 title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Элементаль Льда"
 toc: true
 ---
 ## General information
- **Описание:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
+ **Описание:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 55.5 | 2.5 | 558.0 |
+  | Зеленый | 55.5 | 2.5 | 558.0 |
   | Синий | 111.0 | 5.0 | 1116.0 |
-  | Blue +1 | 166.5 | 7.5 | 1674.0 |
+  | Синий +1 | 166.5 | 7.5 | 1674.0 |
   | Синий +2 | 233.1 | 10.5 | 2343.6 |
   | Фиолетовый | 299.7 | 13.5 | 3013.2 |
   | Фиолетовый +1 | 366.3 | 16.5 | 3682.8 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 599.4 | 27.0 | 6026.4 |
   | Оранжевый +1 | 688.2 | 31.0 | 6919.2 |
   | Оранжевый +2 | 777.0 | 35.0 | 7812.0 |
-  | Orange +3 | 865.8 | 39.0 | 8704.8 |
+  | Оранжевый +3 | 865.8 | 39.0 | 8704.8 |
   | Оранжевый +4 | 954.6 | 43.0 | 9597.6 |
-  | Orange +5 | 1087.8 | 49.0 | 10936.8 |
-  | Red | 1265.4 | 57.0 | 12722.4 |
+  | Оранжевый +5 | 1087.8 | 49.0 | 10936.8 |
+  | Красный | 1265.4 | 57.0 | 12722.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -66,10 +66,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Глубинный ледяной кристалл](/equipment/Глубинный ледяной кристалл/) | **АТК** | **DEF** | 
-  | [Tidal Headdress](/equipment/Tidal Headdress/) | **ОЗ** | **DEF** | 
-  | [Метка океана](/equipment/Метка океана/) | **АТК** | **DEF** | 
-  | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **ОЗ** | **DEF** | 
+  | [Глубинный ледяной кристалл](/equipment/Глубинный ледяной кристалл/) | **АТК** | **ЗЩТ** | 
+  | [Головной убор приливов](/equipment/Головной убор приливов/) | **ОЗ** | **ЗЩТ** | 
+  | [Метка океана](/equipment/Метка океана/) | **АТК** | **ЗЩТ** | 
+  | [Одежда русалки](/equipment/Одежда русалки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -98,12 +98,12 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Льда есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлить</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 15 сек. Кроме того, скорость атаки у цели снижается на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 2 : Сила элементалей
- **Описание:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда элементали Льда на поле боя, сопротивление урону от заклинаний Воды повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Льда на поле боя, восстановление маны героя-союзника повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : null
  **Описание:** 
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -143,18 +143,18 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -182,7 +182,7 @@ toc: true
 ### 2nd Skill (or 1st): Ледяные оковы
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стена льда&gt;</span><span style="color: #645252;font-size:18px">: снижает у цели сопротивление урону на 20%. При попадании в цель замораживает ее и вызывает немоту. Эффект длится 3 сек.</span>
 
-### 3rd Skill (or 4th): Elemental Defense
+### 3rd Skill (or 4th): Защита Гармонии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воды, отряды в том же ряду получают +100 к стойкости и +50% ОЗ. Эффект длится 7 сек.</span>
 
 ### 4th Skill (or 3rd): Вторжение Гармонии

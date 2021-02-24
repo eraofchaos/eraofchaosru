@@ -1,15 +1,15 @@
 ---
 title: "Гоблин"
 permalink: /units/Goblin/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Гоблин"
 toc: true
 ---
 ## General information
- **Описание:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
+ **Описание:** Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 41.35 | 4.25 | 570.75 |
+  | Зеленый | 41.35 | 4.25 | 570.75 |
   | Синий | 82.7 | 8.5 | 1141.5 |
-  | Blue +1 | 124.05 | 12.75 | 1712.25 |
+  | Синий +1 | 124.05 | 12.75 | 1712.25 |
   | Синий +2 | 173.67 | 17.85 | 2397.15 |
   | Фиолетовый | 223.29 | 22.95 | 3082.05 |
   | Фиолетовый +1 | 272.91 | 28.05 | 3766.95 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 446.58 | 45.9 | 6164.1 |
   | Оранжевый +1 | 512.74 | 52.7 | 7077.3 |
   | Оранжевый +2 | 578.9 | 59.5 | 7990.5 |
-  | Orange +3 | 645.06 | 66.3 | 8903.7 |
+  | Оранжевый +3 | 645.06 | 66.3 | 8903.7 |
   | Оранжевый +4 | 711.22 | 73.1 | 9816.9 |
-  | Orange +5 | 810.46 | 83.3 | 11186.7 |
-  | Red | 942.78 | 96.9 | 13013.1 |
+  | Оранжевый +5 | 810.46 | 83.3 | 11186.7 |
+  | Красный | 942.78 | 96.9 | 13013.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,15 +71,15 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Шипованная дубина](/equipment/Шипованная дубина/) | **АТК** | **DEF** | 
-  | [Кожаный пояс](/equipment/Кожаный пояс/) | **ОЗ** | **DEF** | 
-  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **АТК** | **DEF** | 
-  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **ОЗ** | **DEF** | 
+  | [Шипованная дубина](/equipment/Шипованная дубина/) | **АТК** | **ЗЩТ** | 
+  | [Кожаный пояс](/equipment/Кожаный пояс/) | **ОЗ** | **ЗЩТ** | 
+  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные наплечники](/equipment/Кожаные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
@@ -97,14 +97,14 @@ toc: true
 ### Совершенное умение: Боевой шторм
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гоблинов есть шанс нанести урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК трем вражеским отрядам.</span><span style="color: black">
 
-### Обычное умение 1 : Rampage
+### Обычное умение 1 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Обычное умение 2 : Execution
+### Обычное умение 2 : Казнь
  **Описание:** <span style="color: #645252;font-size:20px">В бою против отряда с менее 30% ОЗ гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
 ### Обычное умение 3 : Жажда крови
- **Описание:** <span style="color: #645252;font-size:20px">Goblin's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit done.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гоблины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
@@ -146,33 +146,33 @@ toc: true
 ### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Hobgoblin
+ **Awaking Name:** Хобгоблин
 
  **Awaking Описание:** Хобгоблины не страшатся битвы, ведь жестокость и жажда убийств у них в крови, и чем сильнее льется кровь врагов, тем яростнее они становятся.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Goblin and at least </span><span style="color: #1ca216;font-size:18px">3 Stronghold Units to kill </span><span style="color: #3c2a1e;font-size:18px">1,000</span><span style="color: #1ca216;font-size:18px"> Dwarfs</span> <span style="color: #3c2a1e;font-size:18px">in the Dwarven Treasury a single time.</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте гоблинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3 отряда Цитадели</span><span style="color: #3c2a1e;font-size:18px">, чтобы убить 1000 </span><span style="color: #1ca216;font-size:18px">гномов</span><span style="color: #3c2a1e;font-size:18px"> за раз в Сокровищнице гномов.</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Consume </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Action points in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Используйте </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> очков действия в Походе гильдии.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ гоблинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
@@ -189,7 +189,7 @@ toc: true
 ### 3rd Skill (or 4th): Из ножен
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:18px">: АТК гоблинов повышается на 150%, если у противника осталось меньше 30% ОЗ.</span>
 
-### 4th Skill (or 3rd): Unarmed Counter
+### 4th Skill (or 3rd): Контратака без оружия
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:20px">: урон гоблинов повышается на 30%, если у противника осталось меньше 30% ОЗ</span>
 
 ### 5th Skill (or 6th): Кровожадный мастер

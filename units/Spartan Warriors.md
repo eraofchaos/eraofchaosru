@@ -1,23 +1,23 @@
 ---
 title: "Спартанец"
 permalink: /units/Spartan Warriors/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!"
 unitID: 9702
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Спартанец"
 toc: true
 ---
 ## General information
- **Описание:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
+ **Описание:** Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Neutral Army](/units/Faction Neutral Army/)
+ **Фракция: ** [Нейтральная армия](/units/Faction Neutral Army/)
 
- **Race:** Assassin Guild
+ **Race:** Орден Ассасинов
 
  **Members:** [x1](/units/Unit Member x1/)
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 108.0 | 12.5 | 2118.75 |
+  | Зеленый | 108.0 | 12.5 | 2118.75 |
   | Синий | 216.0 | 25.0 | 4237.5 |
-  | Blue +1 | 324.0 | 37.5 | 6356.25 |
+  | Синий +1 | 324.0 | 37.5 | 6356.25 |
   | Синий +2 | 453.6 | 52.5 | 8898.75 |
   | Фиолетовый | 583.2 | 67.5 | 11441.25 |
   | Фиолетовый +1 | 712.8 | 82.5 | 13983.75 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 1166.4 | 135.0 | 22882.5 |
   | Оранжевый +1 | 1339.2 | 155.0 | 26272.5 |
   | Оранжевый +2 | 1512.0 | 175.0 | 29662.5 |
-  | Orange +3 | 1684.8 | 195.0 | 33052.5 |
+  | Оранжевый +3 | 1684.8 | 195.0 | 33052.5 |
   | Оранжевый +4 | 1857.6 | 215.0 | 36442.5 |
-  | Orange +5 | 2116.8 | 245.0 | 41527.5 |
-  | Red | 2462.4 | 285.0 | 48307.5 |
+  | Оранжевый +5 | 2116.8 | 245.0 | 41527.5 |
+  | Красный | 2462.4 | 285.0 | 48307.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Spartan Helmet](/equipment/Spartan Helmet/) | **АТК** | **DEF** | 
-  | [Steel Shield](/equipment/Steel Shield/) | **ОЗ** | **DEF** | 
-  | [Piercing Spear](/equipment/Piercing Spear/) | **АТК** | **DEF** | 
-  | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **DEF** | 
+  | [Спартанский шлем](/equipment/Спартанский шлем/) | **АТК** | **ЗЩТ** | 
+  | [Стальной щит](/equipment/Стальной щит/) | **ОЗ** | **ЗЩТ** | 
+  | [Длинное копье](/equipment/Длинное копье/) | **АТК** | **ЗЩТ** | 
+  | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -143,19 +143,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Нейтральный**  (Neutral Roster)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Нейтральный**  (Нейтральный дозор)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
 * [Кассандра](/heroes/Kassandra/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* unit DMG Reduction
+* Урон отряда
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -167,9 +167,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -181,18 +181,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
@@ -236,5 +236,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** You'll never catch me!
+ **talk3:** Меня не поймать!
 

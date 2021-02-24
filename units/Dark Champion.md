@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Казнь. Непобедимость в собственном царстве.
 
- **Position :** Lowers enemy morale. Deals high damage and insta-kills units. Makes allies in the domain invincible
+ **Position :** Снижает боевой дух врага. Наносит высокий урон и моментально уничтожает отряды. Делает все союзные отряды в области действия неуязвимыми.
 
 ## Базовые параметры
  **Base HP: 9504.0**
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 514.75 | 6.875 | 7128.0 |
+  | Зеленый | 514.75 | 6.875 | 7128.0 |
   | Синий | 1029.5 | 13.75 | 14256.0 |
-  | Blue +1 | 1544.25 | 20.625 | 21384.0 |
+  | Синий +1 | 1544.25 | 20.625 | 21384.0 |
   | Синий +2 | 2161.95 | 28.875 | 29937.6 |
   | Фиолетовый | 2779.65 | 37.125 | 38491.2 |
   | Фиолетовый +1 | 3397.35 | 45.375 | 47044.8 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 5559.3 | 74.25 | 76982.4 |
   | Оранжевый +1 | 6382.9 | 85.25 | 88387.2 |
   | Оранжевый +2 | 7206.5 | 96.25 | 99792.0 |
-  | Orange +3 | 8030.1 | 107.25 | 111196.8 |
+  | Оранжевый +3 | 8030.1 | 107.25 | 111196.8 |
   | Оранжевый +4 | 8853.7 | 118.25 | 122601.6 |
-  | Orange +5 | 10089.1 | 134.75 | 139708.8 |
-  | Red | 11736.3 | 156.75 | 162518.4 |
+  | Оранжевый +5 | 10089.1 | 134.75 | 139708.8 |
+  | Красный | 11736.3 | 156.75 | 162518.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Серп тишины](/equipment/Серп тишины/) | **АТК** | **DEF** | 
-  | [Тяжелый шлем преджизни](/equipment/Тяжелый шлем преджизни/) | **ОЗ** | **DEF** | 
-  | [Огонь спасения Инферно](/equipment/Огонь спасения Инферно/) | **АТК** | **DEF** | 
-  | [Лопатка Аида](/equipment/Лопатка Аида/) | **ОЗ** | **DEF** | 
+  | [Серп тишины](/equipment/Серп тишины/) | **АТК** | **ЗЩТ** | 
+  | [Тяжелый шлем преджизни](/equipment/Тяжелый шлем преджизни/) | **ОЗ** | **ЗЩТ** | 
+  | [Огонь спасения Инферно](/equipment/Огонь спасения Инферно/) | **АТК** | **ЗЩТ** | 
+  | [Лопатка Аида](/equipment/Лопатка Аида/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -93,7 +93,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Sickle of Silence
+### Совершенное умение: Серп тишины
  **Описание:** <span style="color: #645252;font-size:20px">Цели наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ каждые 24 сек. с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> у них на 10 сек. Чемпионы Тьмы восстанавливают ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их ATK за каждую обычную атаку.</span><span style="color: black">
 
 ### Обычное умение 1 : Конец судьбы
@@ -102,8 +102,8 @@ toc: true
 ### Обычное умение 2 : Мрачные могилы
  **Описание:** <span style="color: #645252;font-size:20px">При менее 40% ОЗ у цели чемпионы Тьмы погребают выбранный отряд под могильной плитой на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Погребенный отряд подвергается немоте и не может быть исцелен, а также не способен двигаться и атаковать. Тем временем весь полученный им урон перемещается на 4 случайных вражеских стрелковых отрядов. Пока существует могильная плита, у всех союзных отрядов Некрополя в радиусе действия восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду. Перезарядка - 28 сек.</span><span style="color: black">
 
-### Обычное умение 3 : Bones Monarch
- **Описание:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
+### Обычное умение 3 : Костяной монарх
+ **Описание:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. ОЗ, получаемые от Конца судьбы, повышаются еще на 4% за каждый отряд Некрополя на поле боя. ОЗ, получаемые от Конца судьбы, повышаются еще на 1% за каждый отряд, вызываемый Некрополем на поле боя. ОЗ могут увеличены максимум на 25% под действием Конца судьбы. Когда союзный герой применяет заклинание Земли, время перезарядки 1 случайного заклинания сокращается на 4 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
@@ -112,7 +112,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ### Обычное умение 6 : Тихое кладбище
- **Описание:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда используются 3 отряда Некрополя, чемпионы Тьмы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда применяется &lt;Проклятие неудачи&gt;, </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Тихое кладбище&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> открывается на 15 сек. Эта область расширяется по мере повышения уровня умения. Перезарядка - 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -154,20 +154,20 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -179,18 +179,18 @@ toc: true
  **Awaking Описание:** В его гнилых костях кроется погибель, ведь призрак не умирает, а лишь только перерождается. Колючие крылья, острых холод когтей, пугающий голос... даже смерть не уменьшила ужаса, вызываемого этим существом.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Bone Dragon with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at King level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте костяных драконов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Король» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Ghost Dragon souls in the Underground: 18-2 and 18-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ призрачных драконов на уровнях 18-2 и 18-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте костяных драконов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): null
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Fear&gt;</span><span style="color: #645252;font-size:18px">Decreases unit's damage reduction of the target unit by additional 20%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление цели урону снижается дополнительно на 20%</span>
 
 ### 2nd Skill (or 1st): null
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Страх&gt;</span><span style="color: #645252;font-size:18px">: сопротивление вражеских отрядов урону в большой области снижается на 10%</span>
@@ -198,13 +198,13 @@ toc: true
 ### 3rd Skill (or 4th): Истощающий удар
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ снижается на 30%</span>
 
-### 4th Skill (or 3rd): Dark Prohibition
+### 4th Skill (or 3rd): Темный запрет
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный перекат&gt;</span><span style="color: #645252;font-size:18px">: немота поражает все вражеские отряды в определенной области</span>
 
-### 5th Skill (or 6th): Ghostly Embrace
+### 5th Skill (or 6th): Призрачные объятия
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
-### 6th Skill (or 5th): Ageing Curse
+### 6th Skill (or 5th): Проклятие старения
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Старение&gt;</span><span style="color: #645252;font-size:18px">: вражеские отряды в определенной области вокруг костяного дракона получают урон, повышенный до 200% от урона предыдущего умения</span>
 
 ## Technical info

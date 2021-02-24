@@ -1,15 +1,15 @@
 ---
-title: "Ogre"
+title: "Огр"
 permalink: /units/Ogre/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Ogre"
+ref: "Огр"
 toc: true
 ---
 ## General information
- **Описание:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
+ **Описание:** Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
@@ -17,7 +17,7 @@ toc: true
 
  **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Варвар
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 53.8 | 15.0 | 1892.25 |
+  | Зеленый | 53.8 | 15.0 | 1892.25 |
   | Синий | 107.6 | 30.0 | 3784.5 |
-  | Blue +1 | 161.4 | 45.0 | 5676.75 |
+  | Синий +1 | 161.4 | 45.0 | 5676.75 |
   | Синий +2 | 225.96 | 63.0 | 7947.45 |
   | Фиолетовый | 290.52 | 81.0 | 10218.15 |
   | Фиолетовый +1 | 355.08 | 99.0 | 12488.85 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 581.04 | 162.0 | 20436.3 |
   | Оранжевый +1 | 667.12 | 186.0 | 23463.9 |
   | Оранжевый +2 | 753.2 | 210.0 | 26491.5 |
-  | Orange +3 | 839.28 | 234.0 | 29519.1 |
+  | Оранжевый +3 | 839.28 | 234.0 | 29519.1 |
   | Оранжевый +4 | 925.36 | 258.0 | 32546.7 |
-  | Orange +5 | 1054.48 | 294.0 | 37088.1 |
-  | Red | 1226.64 | 342.0 | 43143.3 |
+  | Оранжевый +5 | 1054.48 | 294.0 | 37088.1 |
+  | Красный | 1226.64 | 342.0 | 43143.3 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Посох с головой барана](/equipment/Посох с головой барана/) | **АТК** | **DEF** | 
-  | [Пояс ритуала](/equipment/Пояс ритуала/) | **ОЗ** | **DEF** | 
-  | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **DEF** | 
-  | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **DEF** | 
+  | [Посох с головой барана](/equipment/Посох с головой барана/) | **АТК** | **ЗЩТ** | 
+  | [Пояс ритуала](/equipment/Пояс ритуала/) | **ОЗ** | **ЗЩТ** | 
+  | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -93,13 +93,13 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Blood Pool
+### Совершенное умение: Бассейн крови
  **Описание:** <span style="color: #645252;font-size:20px">Огры вызывают кровавый пруд, чтобы повысить эффективность высасывания жизни у союзных отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Кровавый пруд существует 15 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Кожа колдуна
  **Описание:** <span style="color: #645252;font-size:20px">Огры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к восстановлению ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>% к урону отряда.</span><span style="color: black">
 
-### Обычное умение 2 : Rampage
+### Обычное умение 2 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">При менее 35% ОЗ у огров все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 3 : Исцеление от яда
@@ -149,19 +149,19 @@ toc: true
 ### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -179,7 +179,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ огров-магов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Hack and Ogre and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте Крэг Хака и огров, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
@@ -192,14 +192,14 @@ toc: true
 ### 3rd Skill (or 4th): Дикое сердце
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; эффект удваивается</span>
 
-### 4th Skill (or 3rd): Heartening War Song
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
+### 4th Skill (or 3rd): Душевная боевая песнь
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; урон повышается до 200% от базового для умения.</span>
 
 ### 5th Skill (or 6th): Древний поток
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>
 
 ### 6th Skill (or 5th): Защита патриарха
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения продолжает действовать после смерти отряда огров</span>
 
 ## Technical info
  **runart:** 1
@@ -238,7 +238,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** We ogres never quarrel. You shut your mouth! No, you shut yours!
+ **talk1:** Мы, огры, никогда не ссоримся. А ну-ка заткни свою пасть! Нет, ты заткни свою!
 
  **talk2:** Враг уже готов бежать... Думаете, бегство вас спасет?
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of INTERNAL (unreleased) Отряды"
 permalink: /units/internal/
 excerpt: "List of INTERNAL Отряды in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "internal"
 toc: false

@@ -3,7 +3,7 @@ title: "Сефинрот"
 permalink: /heroes/Sephinroth/
 excerpt: "Эра хаоса Сефинрот. Сефинрот. Говорят, что Сефинрот, единственная известная колдунья Антагрича, является незаконнорожденной дочерью короля Грифонхарта."
 heroID: 61402
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Sephinroth"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 ## Details
  **Profession:** Алхимик
 
- **Race:** Dungeon
+ **Race:** Подземелье
 
  **Rate:** R
 
@@ -32,12 +32,12 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Метеоритный дождь
  **Описание:** Призывает наносящие врагам урон Землей метеориты в выбранную область 6 раз. <span style="color: #48b946;font-size:20px">Оглушенные {($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2} цели получат двойной урон. Общее количество урона: </span><span style="color: black">$t$t<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>).
 
-### 3 Spell: Petrification
+### 3 Spell: Окаменение
  **Описание:** Превращает цели <span style="color: #e07c44;font-size:20px">в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек., а также наносит им <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей.
 
 ### 4 Spell: Кристальная земля
@@ -57,4 +57,4 @@ toc: true
    - Наступление
    - Волшебство
    - Ученый
-   - Pathfinding
+   - Поиск пути

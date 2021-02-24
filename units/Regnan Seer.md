@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -16,9 +16,9 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 503.45 | 4.5 | 3818.25 |
+  | Зеленый | 503.45 | 4.5 | 3818.25 |
   | Синий | 1006.9 | 9.0 | 7636.5 |
-  | Blue +1 | 1510.35 | 13.5 | 11454.75 |
+  | Синий +1 | 1510.35 | 13.5 | 11454.75 |
   | Синий +2 | 2114.49 | 18.9 | 16036.65 |
   | Фиолетовый | 2718.63 | 24.3 | 20618.55 |
   | Фиолетовый +1 | 3322.77 | 29.7 | 25200.45 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 5437.26 | 48.6 | 41237.1 |
   | Оранжевый +1 | 6242.78 | 55.8 | 47346.3 |
   | Оранжевый +2 | 7048.3 | 63.0 | 53455.5 |
-  | Orange +3 | 7853.82 | 70.2 | 59564.7 |
+  | Оранжевый +3 | 7853.82 | 70.2 | 59564.7 |
   | Оранжевый +4 | 8659.34 | 77.4 | 65673.9 |
-  | Orange +5 | 9867.62 | 88.2 | 74837.7 |
-  | Red | 11478.66 | 102.6 | 87056.1 |
+  | Оранжевый +5 | 9867.62 | 88.2 | 74837.7 |
+  | Красный | 11478.66 | 102.6 | 87056.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,16 +68,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Божественный трезубец души океана](/equipment/Божественный трезубец души океана/) | **АТК** | **DEF** | 
-  | [Ожерелье души Посейдона](/equipment/Ожерелье души Посейдона/) | **ОЗ** | **DEF** | 
-  | [Бандана сияния](/equipment/Бандана сияния/) | **АТК** | **DEF** | 
-  | [Благородный браслет](/equipment/Благородный браслет/) | **ОЗ** | **DEF** | 
+  | [Божественный трезубец души океана](/equipment/Божественный трезубец души океана/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье души Посейдона](/equipment/Ожерелье души Посейдона/) | **ОЗ** | **ЗЩТ** | 
+  | [Бандана сияния](/equipment/Бандана сияния/) | **АТК** | **ЗЩТ** | 
+  | [Благородный браслет](/equipment/Благородный браслет/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -93,21 +93,21 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Бурное море
- **Описание:** <span style="color: #645252;font-size:20px">Regnan Seer summons a waterspout from the deep every 25s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to 2 hostile units within the area every 0.5s. At the same time, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets. For &lt;deterred&gt; hostile units, the damage is increased by 30%. The waterspout lasts for 5s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские прорицательницы каждые 25 сек. призывают из глубины водяной поток, наносящий </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ 2 вражеским отрядам в радиусе действия каждые 0,5 сек. В то же самое время он </span><span style="color: black"><span style="color: #48b946;font-size:20px">истощает</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели. При сдерживании вражеских отрядов урон увеличивается на 30%. Водяной поток существует 5 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Род Нептуна
- **Описание:** <span style="color: #645252;font-size:20px">Regnan Seer's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские прорицательницы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. При менее 40% ОЗ они призывают регнанских змеев и оглушают все вражеские отряды на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Если остается 10% ОЗ, активируется <span style="color: #F0F000;font-size:20px">&lt;Лазурная защита&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Глубокий страх
  **Описание:** <span style="color: #645252;font-size:20px">Спустя 5 сек. после начала боя происходит повышение пробивания у всех союзных отрядов на пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">истощение</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеских отрядов на 5 сек. Перезарядка - 20 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Бушующие волны
- **Описание:** <span style="color: #645252;font-size:20px">For each additional Cove unit deployed, Regnan Seer's unit's damage will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Stormy Sea has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to summon 1 small waterspout</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">За каждый дополнительно размещенный отряд Убежища регнанские прорицательницы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону. Бурное море имеет шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> призвать 1 маленький водяной поток.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ### Обычное умение 6 : Ярость океана
@@ -150,19 +150,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -171,16 +171,16 @@ toc: true
 
  **Awaking Name:** Элементаль Приливов
 
- **Awaking Описание:** 
+ **Awaking Описание:** Поднять паруса! Отдать швартовы! Бей, грабь, убивай! Эти воды будут нашими!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте нага и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королев нага на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Naga and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте нага, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
@@ -200,7 +200,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается еще на 30% на 6 сек.</span>
 
 ## Technical info
  **runart:** 0

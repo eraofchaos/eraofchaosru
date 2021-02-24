@@ -1,19 +1,19 @@
 ---
-title: "Genie"
+title: "Джинн"
 permalink: /units/Genie/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Genie"
+ref: "Джинн"
 toc: true
 ---
 ## General information
- **Описание:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
+ **Описание:** Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
  **Фракция: ** [Башня](/units/Faction Tower/)
 
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Дареная энергия: превращает атаку в лечение
 
- **Short description:** powerful buffs and heals
+ **Short description:** Сильные положительные эффекты и исцеление.
 
- **Position :** A powerful healer that also provides buff. The heroes' spells trigger its buff.
+ **Position :** Могущественный целитель, усиливает отряды. Заклинания героев приводят к срабатыванию усиления.
 
- **Recommend:** Warrior, Mage and Priest work well together.  
+ **Recommend:** Воин, маг и священник хорошо работают в команде.
 
 ## Базовые параметры
  **Base HP: 662.0**
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 90.8 | 7.5 | 1261.5 |
+  | Зеленый | 90.8 | 7.5 | 1261.5 |
   | Синий | 181.6 | 15.0 | 2523.0 |
-  | Blue +1 | 272.4 | 22.5 | 3784.5 |
+  | Синий +1 | 272.4 | 22.5 | 3784.5 |
   | Синий +2 | 381.36 | 31.5 | 5298.3 |
   | Фиолетовый | 490.32 | 40.5 | 6812.1 |
   | Фиолетовый +1 | 599.28 | 49.5 | 8325.9 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 980.64 | 81.0 | 13624.2 |
   | Оранжевый +1 | 1125.92 | 93.0 | 15642.6 |
   | Оранжевый +2 | 1271.2 | 105.0 | 17661.0 |
-  | Orange +3 | 1416.48 | 117.0 | 19679.4 |
+  | Оранжевый +3 | 1416.48 | 117.0 | 19679.4 |
   | Оранжевый +4 | 1561.76 | 129.0 | 21697.8 |
-  | Orange +5 | 1779.68 | 147.0 | 24725.4 |
-  | Red | 2070.24 | 171.0 | 28762.2 |
+  | Оранжевый +5 | 1779.68 | 147.0 | 24725.4 |
+  | Красный | 2070.24 | 171.0 | 28762.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мистическая золотая лампа](/equipment/Мистическая золотая лампа/) | **АТК** | **DEF** | 
-  | [Странное кристаллическое украшение](/equipment/Странное кристаллическое украшение/) | **ОЗ** | **DEF** | 
-  | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **DEF** | 
-  | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **DEF** | 
+  | [Мистическая золотая лампа](/equipment/Мистическая золотая лампа/) | **АТК** | **ЗЩТ** | 
+  | [Странное кристаллическое украшение](/equipment/Странное кристаллическое украшение/) | **ОЗ** | **ЗЩТ** | 
+  | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -94,13 +94,13 @@ toc: true
 ### Совершенное умение: Дар заклинания
  **Описание:** <span style="color: #645252;font-size:20px">Когда атака джиннов переключается на исцеление, они восстанавливают ОЗ союзного отряда с самым низким процентом ОЗ в размере 80% от АТК джиннов. Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к исцелению.</span><span style="color: black">
 
-### Обычное умение 1 : Three Wishes
+### Обычное умение 1 : Три желания
  **Описание:** <span style="color: #645252;font-size:20px">Когда джинны на поле боя, они благословляют 3 случайных союзных отряда, что дает им один из следующих эффектов: </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда или </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Обычное умение 2 : Magic Wick
+### Обычное умение 2 : Магический фитиль
  **Описание:** <span style="color: #645252;font-size:20px">Джинны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### Обычное умение 3 : Magic Awakening
+### Обычное умение 3 : Магическое пробуждение
  **Описание:** <span style="color: #645252;font-size:20px">При усилении джиннов заклинанием поддержки союзного героя они восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у отряда с самым низким процентом ОЗ. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Трезвый ум
@@ -148,19 +148,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Башня**  (Дозор отрядов Башни)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Исцеление
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -176,7 +176,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Master Genie souls in the Underground: 15-2 and 15-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ владык джиннов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте джиннов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы победить в 3 боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
@@ -186,10 +186,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дареная энергия&gt;</span><span style="color: #645252;font-size:18px">: при обычной атаке восстанавливает ОЗ в размере 25% от АТК. Сопротивление отряда урону повышается на 20%, а скорость АТК - на 10% от собственной.</span>
 
 ### 2nd Skill (or 1st): Энергетическая защита
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дареная энергия&gt;</span><span style="color: #645252;font-size:18px">: при обычной атаке восстанавливает ОЗ в размере 25% от АТК. Если урон от 1 атаки превышает 30% от максимума ОЗ, он будет проигнорирован</span>
 
 ### 3rd Skill (or 4th): Как пожелаете
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Три желания&gt;</span><span style="color: #645252;font-size:18px">: благословляет 6 случайных союзных отрядов и дает случайный бонус (к скорости атаки, урону или сопротивлению урону). Бонус дает увеличение на 50%</span>
 
 ### 4th Skill (or 3rd): Многие благословения
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Три желания&gt;</span><span style="color: #645252;font-size:18px">: благословляет 6 случайных союзных отрядов и дает 2 случайных бонуса (к скорости атаки, урону или сопротивлению урону).</span>
@@ -245,7 +245,7 @@ toc: true
 
  **talk1:** Священный свет не угаснет, пока я храню его!
 
- **talk2:** Silence! Or I shall silence you forever.
+ **talk2:** Молчать! Или я собственными руками сделаю так, что вы умолкнете навеки.
 
- **talk3:** I am bathed in the holy light!
+ **talk3:** Я купаюсь в лучах священного света!
 

@@ -1,21 +1,21 @@
 ---
-title: "Druid"
+title: "Друид"
 permalink: /units/Druid/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Druid"
+ref: "Друид"
 toc: true
 ---
 ## General information
- **Описание:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
+ **Описание:** Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -25,11 +25,11 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
+ **Unit description:** Лесная хроносфера: отряды в волшебном кругу становятся невосприимчивы к магическому урону
 
  **Short description:** Снимает щит. Повышает критический удар.
 
- **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Position :** Оказывает поддержку отрядам в заднем ряду, повышает УВС союзных отрядов и дает иммунитет к магическому урону.
 
 ## Базовые параметры
  **Base HP: 844.0**
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 51.3 | 3.75 | 633.0 |
+  | Зеленый | 51.3 | 3.75 | 633.0 |
   | Синий | 102.6 | 7.5 | 1266.0 |
-  | Blue +1 | 153.9 | 11.25 | 1899.0 |
+  | Синий +1 | 153.9 | 11.25 | 1899.0 |
   | Синий +2 | 215.46 | 15.75 | 2658.6 |
   | Фиолетовый | 277.02 | 20.25 | 3418.2 |
   | Фиолетовый +1 | 338.58 | 24.75 | 4177.8 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 554.04 | 40.5 | 6836.4 |
   | Оранжевый +1 | 636.12 | 46.5 | 7849.2 |
   | Оранжевый +2 | 718.2 | 52.5 | 8862.0 |
-  | Orange +3 | 800.28 | 58.5 | 9874.8 |
+  | Оранжевый +3 | 800.28 | 58.5 | 9874.8 |
   | Оранжевый +4 | 882.36 | 64.5 | 10887.6 |
-  | Orange +5 | 1005.48 | 73.5 | 12406.8 |
-  | Red | 1169.64 | 85.5 | 14432.4 |
+  | Оранжевый +5 | 1005.48 | 73.5 | 12406.8 |
+  | Красный | 1169.64 | 85.5 | 14432.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Crown of Tranquility](/equipment/Crown of Tranquility/) | **АТК** | **DEF** | 
-  | [Древний посох](/equipment/Древний посох/) | **ОЗ** | **DEF** | 
-  | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **DEF** | 
-  | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **ОЗ** | **DEF** | 
+  | [Корона безмятежности](/equipment/Корона безмятежности/) | **АТК** | **ЗЩТ** | 
+  | [Древний посох](/equipment/Древний посох/) | **ОЗ** | **ЗЩТ** | 
+  | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **ЗЩТ** | 
+  | [Высокие сапоги леса](/equipment/Высокие сапоги леса/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -80,7 +80,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Shield](/combination/Shield/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -94,16 +94,16 @@ toc: true
 ### Совершенное умение: Зов леса
  **Описание:** <span style="color: #645252;font-size:20px">Вступив в бой, друиды создают магический круг, который существует </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Все союзные отряды , попавшие в круг, получают иммунитет к урону от заклинаний.</span><span style="color: black">
 
-### Обычное умение 1 : Outgrowing
+### Обычное умение 1 : Дикий рост
  **Описание:** <span style="color: #645252;font-size:20px">Друиды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к ATK и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
-### Обычное умение 2 : Blessing of Life
- **Описание:** <span style="color: #645252;font-size:20px">The Druid unit randomly generates </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 4 friendly units in the front row every 30s that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+### Обычное умение 2 : Благословение жизни
+ **Описание:** <span style="color: #645252;font-size:20px">Друиды случайным образом каждые 30 сек. создают для 4 союзных отрядов в переднем ряду </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, который поглощает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : Сердце природы
  **Описание:** <span style="color: #645252;font-size:20px">Друиды благословляют союзные отряды в широком радиусе каждые 25 сек., повышая КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> в следующие 15 сек. Бонус удваивается при первом применении этого умения друидами.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -145,7 +145,7 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -156,7 +156,7 @@ toc: true
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -168,11 +168,11 @@ toc: true
  **Awaking Описание:** Солнце согревает землю и пробуждает все вокруг. Тает снег, поют птицы, из земли пробиваются первые ростки.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Druid with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Caster units and defeat </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> waves of Walking Dead in the Crypt in a single battle. (Sweep does not count toward the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов заклинателей, чтобы победить </span><span style="color: #1ca216;font-size:18px">15</span><span style="color: #3c2a1e;font-size:18px"> волн ходячих мертвецов в Склепе за один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Resources in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Archdruid souls in the Underground: Levels 16-2 and 16-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ великих друидов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте друидов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы победить в одном бою Дуэли заступников. (Набег не учитывается при выполнении этого задания).</span>
 

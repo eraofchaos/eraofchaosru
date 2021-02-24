@@ -1,21 +1,21 @@
 ---
 title: "Медуза"
 permalink: /units/Medusa/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
 unitID: 704
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Медуза"
 toc: true
 ---
 ## General information
- **Описание:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
+ **Описание:** Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 101.0 | 4.5 | 858.0 |
+  | Зеленый | 101.0 | 4.5 | 858.0 |
   | Синий | 202.0 | 9.0 | 1716.0 |
-  | Blue +1 | 303.0 | 13.5 | 2574.0 |
+  | Синий +1 | 303.0 | 13.5 | 2574.0 |
   | Синий +2 | 424.2 | 18.9 | 3603.6 |
   | Фиолетовый | 545.4 | 24.3 | 4633.2 |
   | Фиолетовый +1 | 666.6 | 29.7 | 5662.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 1090.8 | 48.6 | 9266.4 |
   | Оранжевый +1 | 1252.4 | 55.8 | 10639.2 |
   | Оранжевый +2 | 1414.0 | 63.0 | 12012.0 |
-  | Orange +3 | 1575.6 | 70.2 | 13384.8 |
+  | Оранжевый +3 | 1575.6 | 70.2 | 13384.8 |
   | Оранжевый +4 | 1737.2 | 77.4 | 14757.6 |
-  | Orange +5 | 1979.6 | 88.2 | 16816.8 |
-  | Red | 2302.8 | 102.6 | 19562.4 |
+  | Оранжевый +5 | 1979.6 | 88.2 | 16816.8 |
+  | Красный | 2302.8 | 102.6 | 19562.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,15 +69,15 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Большой лук резни](/equipment/Большой лук резни/) | **АТК** | **DEF** | 
-  | [Волосы из извивающихся змей](/equipment/Волосы из извивающихся змей/) | **ОЗ** | **DEF** | 
-  | [Queen's Crown](/equipment/Queen's Crown/) | **АТК** | **DEF** | 
-  | [Abyss Armor](/equipment/Abyss Armor/) | **ОЗ** | **DEF** | 
+  | [Большой лук резни](/equipment/Большой лук резни/) | **АТК** | **ЗЩТ** | 
+  | [Волосы из извивающихся змей](/equipment/Волосы из извивающихся змей/) | **ОЗ** | **ЗЩТ** | 
+  | [Корона королевы](/equipment/Корона королевы/) | **АТК** | **ЗЩТ** | 
+  | [Броня Бездны](/equipment/Броня Бездны/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
@@ -94,8 +94,8 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Stone Gaze
- **Описание:** <span style="color: #645252;font-size:20px">The Medusa unit <span style="color: #48b946;font-size:20px">&lt;petrifies&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 random hostile unit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+### Совершенное умение: Каменный взгляд
+ **Описание:** <span style="color: #645252;font-size:20px">Медузы вызывают <span style="color: #48b946;font-size:20px">окаменение</span><span style="color: black"><span style="color: #645252;font-size:20px"> 1 случайного вражеского отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Стрела со змеиным ядом
  **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону от обычной атаки. Наносят на 30% больший урон целям с <span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -107,7 +107,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Медузы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Урон отряда повышается на 2% в течение всего боя при каждом успешном нанесении критического удара. Эффект суммируется до 10 раз.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -145,9 +145,9 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Сефинрот](/heroes/Sephinroth/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -161,7 +161,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Medusa Queen
+ **Awaking Name:** Королевская медуза
 
  **Awaking Описание:** В мрачной темнице стоит немало статуй. На фоне белоснежной чешуи они как живые.
 
@@ -172,7 +172,7 @@ toc: true
 
  3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ королевских медуз на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Medusa and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #876741;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз, используя медуз.</span>
 
 ## Awaken Skills
 

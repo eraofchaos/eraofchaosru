@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "index.md"
 toc: false
@@ -10,43 +10,43 @@ classes: wide
 ---
   | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
-  | 1 | [Astral](/heroes/Astral/) | Башня | Wizard | SSR |  Magic Amplification  |
-  | 2 | [Cassanbel](/heroes/Cassanbel/) | Cove | Дитя океана | SSR |  Песнь океана  |
-  | 3 | [Catherine](/heroes/Catherine/) | Замок | Рыцарь | R |  Iron Crusader  |
-  | 4 | [Ciele](/heroes/Ciele/) | Conflux | Elementalist | SSR |  Резонанс стихий  |
-  | 5 | [Crag Hack](/heroes/Crag Hack/) | Цитадель | Barbarian | R+ |  Наступление  |
-  | 6 | [Dragon Mutare](/heroes/Dragon Mutare/) | Dungeon | Overlord | SSR |  Dragon Awakes  |
-  | 7 | [Erdamon](/heroes/Erdamon/) | Conflux | Путешественник | R |  Король камней  |
-  | 8 | [Fiur](/heroes/Fiur/) | Conflux | Путешественник | R |  Элементаль Огня  |
-  | 9 | [Human Sandro](/heroes/Human Sandro/) | Necropolis | Necromancer | SR |  Бессмертная душа  |
-  | 10 | [Jeddite](/heroes/Jeddite/) | Dungeon | Алхимик | SR |  The Cycle of Life  |
-  | 11 | [Jenova](/heroes/Jenova/) | Rampart | Ranger | R |  Unicorn Maiden  |
-  | 12 | [Kendal](/heroes/Kendal/) | Замок | Рыцарь | R |  Master of Tactics  |
-  | 13 | [Kilgor](/heroes/Kilgor/) | Цитадель | Barbarian | SSR |  Боевое чудище  |
-  | 14 | [Lord Haart](/heroes/Lord Haart/) | Necropolis | Death Knight | SR- |  Рыцарь Смерти  |
-  | 15 | [Luna](/heroes/Luna/) | Conflux | Elementalist | R |  Стена Инферно  |
-  | 16 | [Monere](/heroes/Monere/) | Conflux | Путешественник | R |  Элементаль Мысли  |
-  | 17 | [Mullich](/heroes/Mullich/) | Замок | Рыцарь | R+ |  Штурмовая атака  |
-  | 18 | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | R |  Подземелье безумия  |
-  | 19 | [Rashka](/heroes/Rashka/) | Inferno | Demoniac | R |  Fire Lord  |
-  | 20 | [Roland](/heroes/Roland/) | Замок | Рыцарь | SR+ |  Heightened Morale  |
-  | 21 | [Sandro](/heroes/Sandro/) | Necropolis | Necromancer | SSR |  Падение тьмы  |
-  | 22 | [Solmyr](/heroes/Solmyr/) | Башня | Wizard | SR |  Цепь молний  |
-  | 23 | [Tazar](/heroes/Tazar/) | Крепость | Beast Master | SR |  Bloody Rage  |
-  | 24 | [Vidomina](/heroes/Vidomina/) | Necropolis | Necromancer | R |  Некромант  |
-  | 25 | [Xeron](/heroes/Xeron/) | Inferno | Demoniac | SSR |  Arch Devil  |
-  | 26 | [Yog](/heroes/Yog/) | Цитадель | Barbarian | SR |  Raging Cyclops  |
-  | 27 | [Zydar](/heroes/Zydar/) | Inferno | Еретик | R |  Призыв Инферно  |
-  | 28 | [Аделаида](/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
-  | 29 | [Вестан](/heroes/Wystan/) | Крепость | Beast Master | R |  Болотный охотник  |
-  | 30 | [Джелу](/heroes/Gelu/) | Rampart | Ranger | SR+ |  Снайпер  |
-  | 31 | [Джем](/heroes/Gem/) | Rampart | Druid | SSR |  Natural Healing  |
-  | 32 | [Дракон](/heroes/Dracon/) | Башня | Wizard | R |  Enchanter  |
-  | 33 | [Кассандра](/heroes/Kassandra/) | Neutral Army |  | R |  Армия спартанцев  |
-  | 34 | [Корбак](/heroes/Korbac/) | Крепость | Beast Master | R |  Змей в воздухе  |
-  | 35 | [Мефала](/heroes/Mephala/) | Rampart | Ranger | R |  Absolute Defense  |
-  | 36 | [Питер Ли](/heroes/Peter Lee/) | Cove | Pirate | R+ |  Set Sail  |
-  | 37 | [Риланд](/heroes/Ryland/) | Rampart | Ranger | R |  Dendroid Guard  |
-  | 38 | [Сефинрот](/heroes/Sephinroth/) | Dungeon | Алхимик | R |  Кристальный взгляд  |
-  | 39 | [Шива](/heroes/Shiva/) | Цитадель | Barbarian | R |  Вестники бури  |
-  | 40 | [Эцио](/heroes/Ezio/) | Neutral Army |  | R+ |  Братство  |
+  | 1 | [Аделаида](/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
+  | 2 | [Астрал](/heroes/Astral/) | Башня | Боевой маг | SSR |  Увеличение магии  |
+  | 3 | [Вестан](/heroes/Wystan/) | Крепость | Хозяин зверей | R |  Болотный охотник  |
+  | 4 | [Видомина](/heroes/Vidomina/) | Некрополь | Некромант | R |  Некромант  |
+  | 5 | [Джеддит](/heroes/Jeddite/) | Подземелье | Алхимик | SR |  Цикл жизни  |
+  | 6 | [Джелу](/heroes/Gelu/) | Бастион | Лесничий | SR+ |  Снайпер  |
+  | 7 | [Джем](/heroes/Gem/) | Бастион | Друид | SSR |  Природное исцеление  |
+  | 8 | [Дракон](/heroes/Dracon/) | Башня | Боевой маг | R |  Колдуны  |
+  | 9 | [Дракон Мутара](/heroes/Dragon Mutare/) | Подземелье | Владыка Подземелья | SSR |  Пробуждение дракона  |
+  | 10 | [Зидар](/heroes/Zydar/) | Инферно | Еретик | R |  Призыв Инферно  |
+  | 11 | [Йог](/heroes/Yog/) | Цитадель | Варвар | SR |  Разъяренные циклопы  |
+  | 12 | [Кассанбель](/heroes/Cassanbel/) | Убежище | Дитя океана | SSR |  Песнь океана  |
+  | 13 | [Кассандра](/heroes/Kassandra/) | Нейтральная армия |  | R |  Армия спартанцев  |
+  | 14 | [Катерина](/heroes/Catherine/) | Замок | Рыцарь | R |  Железные крестоносцы  |
+  | 15 | [Кендал](/heroes/Kendal/) | Замок | Рыцарь | R |  Мастер тактики  |
+  | 16 | [Килгор](/heroes/Kilgor/) | Цитадель | Варвар | SSR |  Боевое чудище  |
+  | 17 | [Корбак](/heroes/Korbac/) | Крепость | Хозяин зверей | R |  Змей в воздухе  |
+  | 18 | [Крэг Хак](/heroes/Crag Hack/) | Цитадель | Варвар | R+ |  Наступление  |
+  | 19 | [Ксерон](/heroes/Xeron/) | Инферно | Одержимый | SSR |  Архидьявол  |
+  | 20 | [Лорд Хаарт](/heroes/Lord Haart/) | Некрополь | Рыцарь Смерти | SR- |  Рыцарь Смерти  |
+  | 21 | [Луна](/heroes/Luna/) | Гармония | Элементалист | R |  Стена Инферно  |
+  | 22 | [Мефала](/heroes/Mephala/) | Бастион | Лесничий | R |  Абсолютная защита  |
+  | 23 | [Монер](/heroes/Monere/) | Гармония | Путешественник | R |  Элементаль Мысли  |
+  | 24 | [Мутара](/heroes/Mutare/) | Подземелье | Владыка Подземелья | R |  Подземелье безумия  |
+  | 25 | [Мюллих](/heroes/Mullich/) | Замок | Рыцарь | R+ |  Штурмовая атака  |
+  | 26 | [Питер Ли](/heroes/Peter Lee/) | Убежище | Пират | R+ |  Поднятый парус  |
+  | 27 | [Раска](/heroes/Rashka/) | Инферно | Одержимый | R |  Повелители Огня  |
+  | 28 | [Риланд](/heroes/Ryland/) | Бастион | Лесничий | R |  Дендроид-страж  |
+  | 29 | [Роланд](/heroes/Roland/) | Замок | Рыцарь | SR+ |  Повышение боевого духа  |
+  | 30 | [Сандро](/heroes/Sandro/) | Некрополь | Некромант | SSR |  Падение тьмы  |
+  | 31 | [Сефинрот](/heroes/Sephinroth/) | Подземелье | Алхимик | R |  Кристальный взгляд  |
+  | 32 | [Сиэль](/heroes/Ciele/) | Гармония | Элементалист | SSR |  Резонанс стихий  |
+  | 33 | [Сольмир](/heroes/Solmyr/) | Башня | Боевой маг | SR |  Цепь молний  |
+  | 34 | [Тазар](/heroes/Tazar/) | Крепость | Хозяин зверей | SR |  Кровавая ярость  |
+  | 35 | [Фиур](/heroes/Fiur/) | Гармония | Путешественник | R |  Элементаль Огня  |
+  | 36 | [Человек Сандро](/heroes/Human Sandro/) | Некрополь | Некромант | SR |  Бессмертная душа  |
+  | 37 | [Шива](/heroes/Shiva/) | Цитадель | Варвар | R |  Вестники бури  |
+  | 38 | [Эрдамон](/heroes/Erdamon/) | Гармония | Путешественник | R |  Король камней  |
+  | 39 | [Эцио](/heroes/Ezio/) | Нейтральная армия |  | R+ |  Братство  |
+  | 40 | [Янова](/heroes/Jenova/) | Бастион | Лесничий | R |  Дева единорога  |

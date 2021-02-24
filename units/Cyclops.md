@@ -1,15 +1,15 @@
 ---
 title: "Циклоп"
 permalink: /units/Cyclops/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов."
 unitID: 406
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Циклоп"
 toc: true
 ---
 ## General information
- **Описание:** Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons.
+ **Описание:** Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
@@ -17,7 +17,7 @@ toc: true
 
  **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Варвар
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 339.4 | 6.25 | 3818.25 |
+  | Зеленый | 339.4 | 6.25 | 3818.25 |
   | Синий | 678.8 | 12.5 | 7636.5 |
-  | Blue +1 | 1018.2 | 18.75 | 11454.75 |
+  | Синий +1 | 1018.2 | 18.75 | 11454.75 |
   | Синий +2 | 1425.48 | 26.25 | 16036.65 |
   | Фиолетовый | 1832.76 | 33.75 | 20618.55 |
   | Фиолетовый +1 | 2240.04 | 41.25 | 25200.45 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 3665.52 | 67.5 | 41237.1 |
   | Оранжевый +1 | 4208.56 | 77.5 | 47346.3 |
   | Оранжевый +2 | 4751.6 | 87.5 | 53455.5 |
-  | Orange +3 | 5294.64 | 97.5 | 59564.7 |
+  | Оранжевый +3 | 5294.64 | 97.5 | 59564.7 |
   | Оранжевый +4 | 5837.68 | 107.5 | 65673.9 |
-  | Orange +5 | 6652.24 | 122.5 | 74837.7 |
-  | Red | 7738.32 | 142.5 | 87056.1 |
+  | Оранжевый +5 | 6652.24 | 122.5 | 74837.7 |
+  | Красный | 7738.32 | 142.5 | 87056.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Валун](/equipment/Валун/) | **АТК** | **DEF** | 
-  | [Оковы войны](/equipment/Оковы войны/) | **ОЗ** | **DEF** | 
-  | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **АТК** | **DEF** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **ОЗ** | **DEF** | 
+  | [Валун](/equipment/Валун/) | **АТК** | **ЗЩТ** | 
+  | [Оковы войны](/equipment/Оковы войны/) | **ОЗ** | **ЗЩТ** | 
+  | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные брюки](/equipment/Кожаные брюки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -96,7 +96,7 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Огненный камень
- **Описание:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Циклопы бросают огненные камни в широком радиусе перед собой, вызывая </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у вражеских отрядов, попавших в него, и нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона каждые 2 сек. в течение 8 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Осадный удар
  **Описание:** <span style="color: #645252;font-size:20px">Циклопы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК. При менее 35% ОЗ циклопы могут получить двойной эффект, причем эффект сохраняется после восстановления здоровья. В бою циклопов против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
@@ -157,8 +157,8 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Йог](/heroes/Yog/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -172,7 +172,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Cyclops King
+ **Awaking Name:** Осадное чудище
 
  **Awaking Описание:** Под яростным градом камней крепостные стены рухнули, и чудища ворвались в город. Но на этом они не остановятся, их цель - битва ради битвы.
 
@@ -200,7 +200,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Осадный удар&gt;</span><span style="color: #645252;font-size:18px">: циклопы получают +200 к крит. удару. С каждым уровнем «Осадного удара» прибавка возрастает на 40 ед. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ. Умение влияет на 3★ способность Крэга Хака.</span>
 
 ### 5th Skill (or 6th): Угроза циклопов
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Giant&gt;</span><span style="color: #645252;font-size:18px"> Whenever Cyclops attacks 1-man or 4-man units, there is a 30% chance of decreasing the target unit's Unit DMG Reduction by 25% for 2s.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гигант&gt;</span><span style="color: #645252;font-size:18px">: при атаке отрядов из 1 или 4 существ циклопы с шансом 30% снижают сопротивление цели урону на 25%. Эффект длится 2 сек.</span>
 
 ### 6th Skill (or 5th): Звериная встряска
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Гигант&gt;</span><span style="color: #645252;font-size:18px">: при атаке отрядов из 1 или 4 существ циклопы с шансом 30% снижают ЗЩТ цели на 15%. Эффект длится 2 сек.</span>

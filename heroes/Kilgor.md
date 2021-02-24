@@ -1,16 +1,16 @@
 ---
-title: "Kilgor"
+title: "Килгор"
 permalink: /heroes/Kilgor/
-excerpt: "Эра хаоса Kilgor. Kilgor. At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. "
+excerpt: "Эра хаоса Килгор. Килгор. В юном возрасте Килгор победил своего отца, чтобы стать вождем клана. С тех пор слава о нем распространилась по всему Крулоду. Многие считают его единственным воином, способным победить в Празднестве Жизни своего времени."
 heroID: 60601
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Kilgor"
 toc: true
 ---
- **Описание:** At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. 
+ **Описание:** В юном возрасте Килгор победил своего отца, чтобы стать вождем клана. С тех пор слава о нем распространилась по всему Крулоду. Многие считают его единственным воином, способным победить в Празднестве Жизни своего времени.
 ## Details
- **Profession:** Barbarian
+ **Profession:** Варвар
 
  **Race:** Цитадель
 
@@ -18,7 +18,7 @@ toc: true
 
  **Specialty:** Боевое чудище
 
- **Specialty Desc:** Under Kilgor's leadership, Behemoth will upgrade to War Behemoth. Its attack and survivability will be greatly improved.
+ **Specialty Desc:** Под предводительством Килгора чудище получает улучшение до боевого чудища. Его атака и выживаемость значительно улучшаются.
 
  **Mana base:** 20
 
@@ -40,10 +40,10 @@ toc: true
  **Описание:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Жажда крови
- **Описание:** Increase ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for friendly units within a large range, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Описание:** Дает союзным отрядам в большой области +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 4 Spell: Неукротимая воля
- **Описание:** Increases all friendly units' Tenacity by 50 and their CRIT DMG by 10%. Friendly Stronghold units restore <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> HP every 3s for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+ **Описание:** Повышает стойкость всех союзных отрядов на 50 и крит. урон на 10%. Дает союзным отрядам Цитадели +<span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> ОЗ раз в 3 сек. в течение <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
 ## HERO Biography
@@ -69,4 +69,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Pathfinding
+   - Поиск пути

@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /units/Beholder/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Бехолдер"
 toc: true
@@ -13,9 +13,9 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 57.9 | 3.75 | 558.0 |
+  | Зеленый | 57.9 | 3.75 | 558.0 |
   | Синий | 115.8 | 7.5 | 1116.0 |
-  | Blue +1 | 173.7 | 11.25 | 1674.0 |
+  | Синий +1 | 173.7 | 11.25 | 1674.0 |
   | Синий +2 | 243.18 | 15.75 | 2343.6 |
   | Фиолетовый | 312.66 | 20.25 | 3013.2 |
   | Фиолетовый +1 | 382.14 | 24.75 | 3682.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 625.32 | 40.5 | 6026.4 |
   | Оранжевый +1 | 717.96 | 46.5 | 6919.2 |
   | Оранжевый +2 | 810.6 | 52.5 | 7812.0 |
-  | Orange +3 | 903.24 | 58.5 | 8704.8 |
+  | Оранжевый +3 | 903.24 | 58.5 | 8704.8 |
   | Оранжевый +4 | 995.88 | 64.5 | 9597.6 |
-  | Orange +5 | 1134.84 | 73.5 | 10936.8 |
-  | Red | 1320.12 | 85.5 | 12722.4 |
+  | Оранжевый +5 | 1134.84 | 73.5 | 10936.8 |
+  | Красный | 1320.12 | 85.5 | 12722.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Глаз богохульства](/equipment/Глаз богохульства/) | **АТК** | **DEF** | 
-  | [Ученик смерти](/equipment/Ученик смерти/) | **ОЗ** | **DEF** | 
-  | [Злой бивень](/equipment/Злой бивень/) | **АТК** | **DEF** | 
-  | [Щупальца из Бездны](/equipment/Щупальца из Бездны/) | **ОЗ** | **DEF** | 
+  | [Глаз богохульства](/equipment/Глаз богохульства/) | **АТК** | **ЗЩТ** | 
+  | [Ученик смерти](/equipment/Ученик смерти/) | **ОЗ** | **ЗЩТ** | 
+  | [Злой бивень](/equipment/Злой бивень/) | **АТК** | **ЗЩТ** | 
+  | [Щупальца из Бездны](/equipment/Щупальца из Бездны/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -92,20 +92,20 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Mind Control
+### Совершенное умение: Управление разумом
  **Описание:** <span style="color: #645252;font-size:20px">Бехолдеры контролируют 1 случайный вражеский отряд. Цель получает урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в секунду в течение 8 сек. Находясь под контролем, выбранный целью отряд не может атаковать, двигаться и использовать умения.</span><span style="color: black">
 
-### Обычное умение 1 : Spell Penetration
+### Обычное умение 1 : Пробивание заклинания
  **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры появляются на поле боя, они открывают 4 глаза смерти. Каждый глаз дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. С каждой убитой целью закрывается 1 глаз. Могут быть закрыты максимум 3 глаза.</span><span style="color: black">
 
 ### Обычное умение 2 : Бессилие
  **Описание:** <span style="color: #645252;font-size:20px">Когда бехолдеры на поле боя, исходная мана вражеских героев снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда погибает вражеский отряд, мана вражеских героев снижается еще на 10.</span><span style="color: black">
 
-### Обычное умение 3 : Gather Energy
- **Описание:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
+### Обычное умение 3 : Сбор энергии
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя бехолдеры повышают ОЗ у всех ваших отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в течение всего боя.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -137,19 +137,19 @@ toc: true
 ### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* Magic resistance
+* Урон отряда
+* Сопротивление магии
 
 
 ## Awaking
@@ -161,7 +161,7 @@ toc: true
  **Awaking Описание:** Взгляд этого злого создание неизвестного происхождения излучает непередаваемый страх. Око смерти видит хрупкость врагов и поглощает невидимую силу.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Beholder with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Champion level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте бехолдеров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Подземелья, чтобы добиться уровня «Чемпион» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
@@ -183,7 +183,7 @@ toc: true
 ### 4th Skill (or 3rd): Чародейский грабеж
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бессилие&gt;</span><span style="color: #645252;font-size:18px">: восстановление маны вражеских героев уменьшается на 10 при гибели каждого вражеского отряда.</span>
 
-### 5th Skill (or 6th): Spell Breaker's Shield
+### 5th Skill (or 6th): Щит разрушителя магии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сбор энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения. Сопротивление отряда урону повышается на 10%. Сопротивление магии и сопротивление урону для бехолдера повышаются на 10%, если вражеский герой применяет заклинание</span>
 
 ### 6th Skill (or 5th): Резонанс экзорцизма

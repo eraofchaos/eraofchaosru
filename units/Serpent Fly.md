@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
  **Фракция: ** [Крепость](/units/Faction Fortress/)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Position :** Отряды заклинателей - эксперты контроля. Уменьшает УВС врага.
 
- **Recommend:** Low-health, high-attack creatures. They will be extremely powerful if you remember to heal them swiftly.
+ **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
 ## Базовые параметры
  **Base HP: 1615.0**
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 89.15 | 4.0 | 1211.25 |
+  | Зеленый | 89.15 | 4.0 | 1211.25 |
   | Синий | 178.3 | 8.0 | 2422.5 |
-  | Blue +1 | 267.45 | 12.0 | 3633.75 |
+  | Синий +1 | 267.45 | 12.0 | 3633.75 |
   | Синий +2 | 374.43 | 16.8 | 5087.25 |
   | Фиолетовый | 481.41 | 21.6 | 6540.75 |
   | Фиолетовый +1 | 588.39 | 26.4 | 7994.25 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 962.82 | 43.2 | 13081.5 |
   | Оранжевый +1 | 1105.46 | 49.6 | 15019.5 |
   | Оранжевый +2 | 1248.1 | 56.0 | 16957.5 |
-  | Orange +3 | 1390.74 | 62.4 | 18895.5 |
+  | Оранжевый +3 | 1390.74 | 62.4 | 18895.5 |
   | Оранжевый +4 | 1533.38 | 68.8 | 20833.5 |
-  | Orange +5 | 1747.34 | 78.4 | 23740.5 |
-  | Red | 2032.62 | 91.2 | 27616.5 |
+  | Оранжевый +5 | 1747.34 | 78.4 | 23740.5 |
+  | Красный | 2032.62 | 91.2 | 27616.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fiend's Neck Umbrella](/equipment/Fiend's Neck Umbrella/) | **АТК** | **DEF** | 
-  | [Смертельная челюсть](/equipment/Смертельная челюсть/) | **ОЗ** | **DEF** | 
-  | [Холодный зубец](/equipment/Холодный зубец/) | **АТК** | **DEF** | 
-  | [Ядовитый клык](/equipment/Ядовитый клык/) | **ОЗ** | **DEF** | 
+  | [Шипастый воротник беса](/equipment/Шипастый воротник беса/) | **АТК** | **ЗЩТ** | 
+  | [Смертельная челюсть](/equipment/Смертельная челюсть/) | **ОЗ** | **ЗЩТ** | 
+  | [Холодный зубец](/equipment/Холодный зубец/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитый клык](/equipment/Ядовитый клык/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
@@ -85,13 +85,13 @@ toc: true
 * [Окаменение](/combination/Окаменение/) 
 * [Чума](/combination/Чума/) 
 * [Заморозка](/combination/Заморозка/) 
-* [Deterrence](/combination/Deterrence/) 
+* [Сдерживание](/combination/Сдерживание/) 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
 * [Горение](/combination/Горение/) 
 * [Низкий боевой дух](/combination/Низкий боевой дух/) 
 * [Болезнь](/combination/Болезнь/) 
-* [Blind](/combination/Blind/) 
+* [Ослепление](/combination/Ослепление/) 
 * [Немота](/combination/Немота/) 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -114,12 +114,12 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Летучие змеи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Летучие змеи получают еще +75 к критическому удару за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Слабость
- **Описание:** <span style="color: #645252;font-size:20px">When the Serpent Fly lands a Crit Hit, it has an 8% chance to decrease unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> of hostile units within a certain area for 10s, up to 3 stacks.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда летучие змеи наносят критический удар, у них есть шанс 8% снизить урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> у вражеских отрядов в определенной области на 10 сек. Эффект суммируется до 3 раз.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Rise of Vitality
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -160,11 +160,11 @@ toc: true
 ### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Корбак](/heroes/Korbac/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -184,9 +184,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -198,18 +198,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

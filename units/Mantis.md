@@ -1,24 +1,24 @@
 ---
-title: "Mantis"
+title: "Богомол"
 permalink: /units/Mantis/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Mantis"
+ref: "Богомол"
 toc: true
 ---
 **Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
 {: .notice--danger}
 
 ## General information
- **Описание:** Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality.
+ **Описание:** Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 570.2 | 5.5 | 4752.0 |
+  | Зеленый | 570.2 | 5.5 | 4752.0 |
   | Синий | 1140.4 | 11.0 | 9504.0 |
-  | Blue +1 | 1710.6 | 16.5 | 14256.0 |
+  | Синий +1 | 1710.6 | 16.5 | 14256.0 |
   | Синий +2 | 2394.84 | 23.1 | 19958.4 |
   | Фиолетовый | 3079.08 | 29.7 | 25660.8 |
   | Фиолетовый +1 | 3763.32 | 36.3 | 31363.2 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 6158.16 | 59.4 | 51321.6 |
   | Оранжевый +1 | 7070.48 | 68.2 | 58924.8 |
   | Оранжевый +2 | 7982.8 | 77.0 | 66528.0 |
-  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Оранжевый +3 | 8895.12 | 85.8 | 74131.2 |
   | Оранжевый +4 | 9807.44 | 94.6 | 81734.4 |
-  | Orange +5 | 11175.92 | 107.8 | 93139.2 |
-  | Red | 13000.56 | 125.4 | 108345.6 |
+  | Оранжевый +5 | 11175.92 | 107.8 | 93139.2 |
+  | Красный | 13000.56 | 125.4 | 108345.6 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **ОЗ** | **DEF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **DEF** | 
+  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -91,19 +91,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Sonic Speed Cutting
+### Совершенное умение: Молниеносный порез
  **Описание:** <span style="color: #645252;font-size:20px">После каждых 3 атак дополнительно наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px"> получают на 50% больше урона и теряют 120 ед. защиты и 4% сопротивления урону, также на них действует </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедление</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 8 сек., суммируется до 10 раз и не рассеивается. Вражеским отрядам в определенном радиусе вокруг цели наносится дополнительный урон в 40% от АТК.</span><span style="color: black">
 
-### Обычное умение 1 : First Strike
+### Обычное умение 1 : Инициатива
  **Описание:** <span style="color: #645252;font-size:20px">Урон отряда повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Предварительная зарядка совершенных заклинаний вражеских героев продлевается на 4 сек. Богомол с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> игнорирует урон нелетающих отрядов.</span><span style="color: black">
 
 ### Обычное умение 2 : Ярость
  **Описание:** <span style="color: #645252;font-size:20px">У богомола иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">окаменению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый отряд Бастиона в бою повышает скорость атаки богомола на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а его урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При крит. ударе с самого бойца и 1 союзного отряда Бастиона в определенном радиусе вокруг бойца снимаются негативные эффекты. Также дается равный по прочности </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ (нельзя деактивировать). Эффект суммируется до 3 раз, перезарядка 8 сек. В начале боя богомол создает для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит ярости&gt;.</span><span style="color: black">
 
-### Обычное умение 3 : Bind
+### Обычное умение 3 : Путы
  **Описание:** <span style="color: #645252;font-size:20px">При атаке </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленной</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 вражеских отряда в небольшом радиусе вокруг нее на 3 сек. накладываются <span style="color: #48b946;font-size:20px">&lt;путы&gt;</span><span style="color: black">. Перезарядка 6 сек. Когда отряды Бастиона получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, богомол дополнительно получает +0,5% к урону отряда, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. удару. Эффект длится 10 сек. и суммируется до 50 раз.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -162,10 +162,10 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -189,9 +189,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ боевых единорогов на уровнях 18-2 и 18-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Unicorn and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте единорогов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

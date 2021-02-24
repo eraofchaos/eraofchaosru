@@ -1,21 +1,21 @@
 ---
 title: "Ифрит"
 permalink: /units/Efreeti/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Efreets are born in the fires of the inferno. They can cast fire magic into the air."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ифрит"
 toc: true
 ---
 ## General information
- **Описание:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
+ **Описание:** Ифриты рождены в пламени Инферно. Они обладают магией Огня.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Злой дух
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 112.7 | 3.25 | 1084.5 |
+  | Зеленый | 112.7 | 3.25 | 1084.5 |
   | Синий | 225.4 | 6.5 | 2169.0 |
-  | Blue +1 | 338.1 | 9.75 | 3253.5 |
+  | Синий +1 | 338.1 | 9.75 | 3253.5 |
   | Синий +2 | 473.34 | 13.65 | 4554.9 |
   | Фиолетовый | 608.58 | 17.55 | 5856.3 |
   | Фиолетовый +1 | 743.82 | 21.45 | 7157.7 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 1217.16 | 35.1 | 11712.6 |
   | Оранжевый +1 | 1397.48 | 40.3 | 13447.8 |
   | Оранжевый +2 | 1577.8 | 45.5 | 15183.0 |
-  | Orange +3 | 1758.12 | 50.7 | 16918.2 |
+  | Оранжевый +3 | 1758.12 | 50.7 | 16918.2 |
   | Оранжевый +4 | 1938.44 | 55.9 | 18653.4 |
-  | Orange +5 | 2208.92 | 63.7 | 21256.2 |
-  | Red | 2569.56 | 74.1 | 24726.6 |
+  | Оранжевый +5 | 2208.92 | 63.7 | 21256.2 |
+  | Красный | 2569.56 | 74.1 | 24726.6 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orb of Flame](/equipment/Orb of Flame/) | **АТК** | **DEF** | 
-  | [Легкая броня пламени](/equipment/Легкая броня пламени/) | **ОЗ** | **DEF** | 
-  | [Bracers of Flame](/equipment/Bracers of Flame/) | **АТК** | **DEF** | 
-  | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **ОЗ** | **DEF** | 
+  | [Шар пламени](/equipment/Шар пламени/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня пламени](/equipment/Легкая броня пламени/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты пламени](/equipment/Браслеты пламени/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники пламени](/equipment/Наплечники пламени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -94,23 +94,23 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Firestorm
+### Совершенное умение: Огненная буря
  **Описание:** <span style="color: #645252;font-size:20px">Ифриты применяют к выбранной области Огненную бурю, которая наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона всем вражеским войскам в этой области и вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 15 сек. </span><span style="color: black">
 
 ### Обычное умение 1 : Пылающий щит
- **Описание:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В начале боя ифриты создают для всех союзных отрядов Инферно &lt;Щит огня&gt;, который отражает 15% полученного урона в следующие </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Раскаление
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Щит огня&gt; ифритов повышает сопротивление урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление магии на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Бог Огня
- **Описание:** <span style="color: #645252;font-size:20px">Efreeti's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ифриты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -149,26 +149,26 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
-* [Rashka](/heroes/Rashka/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Раска](/heroes/Rashka/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Efreet Sultan
+ **Awaking Name:** Султан ифритов
 
  **Awaking Описание:** Эти сильные духи появились из сосредоточенного пламени бездны. Они - сильнейшие союзники демонов Астрального мира Огня. И теперь они пришли в Эрафию, чтобы помочь Эофолу одержать окончательную победу.
 
@@ -199,7 +199,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бог огня&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки ифритов повышается на 5% за каждый отряд Инферно на поле боя</span>
 
 ### 6th Skill (or 5th): Волшебная ткань
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бог огня&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки ифритов повышается на 5% за каждый отряд заклинателей на поле боя</span>
 
 ## Technical info
  **runart:** 0

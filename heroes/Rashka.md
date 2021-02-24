@@ -1,24 +1,24 @@
 ---
-title: "Rashka"
+title: "Раска"
 permalink: /heroes/Rashka/
-excerpt: "Эра хаоса Rashka. Rashka. Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
+excerpt: "Эра хаоса Раска. Раска. Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Rashka"
 toc: true
 ---
  **Описание:** Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек.
 ## Details
- **Profession:** Demoniac
+ **Profession:** Одержимый
 
- **Race:** Inferno
+ **Race:** Инферно
 
  **Rate:** R
 
- **Specialty:** Fire Lord
+ **Specialty:** Повелители Огня
 
- **Specialty Desc:** Under Rashka's leadership, Efreeti upgrades to Fire Lord. Its fighting and attacking abilities will be greatly improved.
+ **Specialty Desc:** Под предводительством Раски ифрит получает улучшение до повелителя Огня. Его боевые и атакующие навыки значительно улучшатся.
 
  **Mana base:** 20
 
@@ -40,16 +40,16 @@ toc: true
  **Описание:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Жажда крови
- **Описание:** Increase ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for friendly units within a large range, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Описание:** Дает союзным отрядам в большой области +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 4 Spell: Пламя Инферно
- **Описание:** Summons an Inferno Fissure, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units around the fissure every 0.5s, lasting for {$olast11/1000}s. The damage is halved for Inferno units.
+ **Описание:** Открывает разлом в ад, который наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {$olast11/1000} сек. Отряды Инферно получат вдвое меньше урона.
 
 
 ## HERO Biography
    - Раска - амбициозный владыка ада. После свержения Ксенофекса он начал планировать объединение Эофола.
-   - To get near Kreelah, the capital of Eeofol, Rashka have to control the Furnace which can provide a steady stream of troops for his army of Hell.
-   - When Lucifer Kreegan heard what Rashka had done, he deployed his elite army of Divine Demons onto the battlefield.
+   - Чтобы подобраться к столице Эофола, Раске нужно взять Горнило, гарантируя непрерывное поступление войск.
+   - Когда Люцифер Криган услышал, что сделал Раска, он отправил за ним отборный отряд демонов.
    - Владыка церберов Брайт отказался подчиняться королю Люциферу. Нужно показать ему, каким может быть наказание за подобное.
    - Диктус, принц Черного рога, отказался подчиняться королю Люциферу. Теперь нужно подавить последнее восстание.
 
@@ -76,7 +76,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Магия Огня
    - Мистицизм
-   - Resistance
+   - Сопротивление

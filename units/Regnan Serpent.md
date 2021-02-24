@@ -1,21 +1,21 @@
 ---
 title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
 unitID: 9904
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Регнанский змей"
 toc: true
 ---
 ## General information
- **Описание:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
+ **Описание:** Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -25,9 +25,9 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
+ **Unit description:** Топот глубин: наносит урон в области, отбрасывает врага и предотвращает критические удары
 
- **Short description:** Strong tank. Deep sea guard
+ **Short description:** Сильный танк. Глубоководная стража.
 
  **Position :** Сильный защитник. Хорошо сдерживает многочисленных врагов и снижает вероятность критического удара.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 50.45 | 15.0 | 2270.25 |
+  | Зеленый | 50.45 | 15.0 | 2270.25 |
   | Синий | 100.9 | 30.0 | 4540.5 |
-  | Blue +1 | 151.35 | 45.0 | 6810.75 |
+  | Синий +1 | 151.35 | 45.0 | 6810.75 |
   | Синий +2 | 211.89 | 63.0 | 9535.05 |
   | Фиолетовый | 272.43 | 81.0 | 12259.35 |
   | Фиолетовый +1 | 332.97 | 99.0 | 14983.65 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 544.86 | 162.0 | 24518.7 |
   | Оранжевый +1 | 625.58 | 186.0 | 28151.1 |
   | Оранжевый +2 | 706.3 | 210.0 | 31783.5 |
-  | Orange +3 | 787.02 | 234.0 | 35415.9 |
+  | Оранжевый +3 | 787.02 | 234.0 | 35415.9 |
   | Оранжевый +4 | 867.74 | 258.0 | 39048.3 |
-  | Orange +5 | 988.82 | 294.0 | 44496.9 |
-  | Red | 1150.26 | 342.0 | 51761.7 |
+  | Оранжевый +5 | 988.82 | 294.0 | 44496.9 |
+  | Красный | 1150.26 | 342.0 | 51761.7 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **АТК** | **DEF** | 
-  | [Рожок из ракушки](/equipment/Рожок из ракушки/) | **ОЗ** | **DEF** | 
-  | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **DEF** | 
-  | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **DEF** | 
+  | [Трезубец](/equipment/Трезубец/) | **АТК** | **ЗЩТ** | 
+  | [Рожок из ракушки](/equipment/Рожок из ракушки/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **ЗЩТ** | 
+  | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -82,7 +82,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Deterrence](/combination/Deterrence/) 
+* [Сдерживание](/combination/Сдерживание/) 
 * [Оглушение](/combination/Оглушение/) 
 
 
@@ -109,7 +109,7 @@ toc: true
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -157,19 +157,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -246,7 +246,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** My iron-clad hooves will leave you quivering in the mud!
+ **talk1:** Стальными копытами я любого втопчу в грязь!
 
  **talk2:** Земля будет залита кровью...
 

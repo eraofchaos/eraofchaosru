@@ -3,7 +3,7 @@ title: "Берсерк"
 permalink: /units/Berserker/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Берсерк"
 toc: true
@@ -27,9 +27,9 @@ toc: true
 
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
- **Short description:** Strong vs single unit. Buff on death
+ **Short description:** Эффективен против отдельного отряда. Усиливается при смерти.
 
- **Position :** Powerful DPS, good in all positions
+ **Position :** Высокий УВС, хорошо действует на любой позиции.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 339.4 | 10.5 | 3987.75 |
+  | Зеленый | 339.4 | 10.5 | 3987.75 |
   | Синий | 678.8 | 21.0 | 7975.5 |
-  | Blue +1 | 1018.2 | 31.5 | 11963.25 |
+  | Синий +1 | 1018.2 | 31.5 | 11963.25 |
   | Синий +2 | 1425.48 | 44.1 | 16748.55 |
   | Фиолетовый | 1832.76 | 56.7 | 21533.85 |
   | Фиолетовый +1 | 2240.04 | 69.3 | 26319.15 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 3665.52 | 113.4 | 43067.7 |
   | Оранжевый +1 | 4208.56 | 130.2 | 49448.1 |
   | Оранжевый +2 | 4751.6 | 147.0 | 55828.5 |
-  | Orange +3 | 5294.64 | 163.8 | 62208.9 |
+  | Оранжевый +3 | 5294.64 | 163.8 | 62208.9 |
   | Оранжевый +4 | 5837.68 | 180.6 | 68589.3 |
-  | Orange +5 | 6652.24 | 205.8 | 78159.9 |
-  | Red | 7738.32 | 239.4 | 90920.7 |
+  | Оранжевый +5 | 6652.24 | 205.8 | 78159.9 |
+  | Красный | 7738.32 | 239.4 | 90920.7 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,20 +69,20 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Секира из обсидиана](/equipment/Секира из обсидиана/) | **АТК** | **DEF** | 
-  | [Necklace of Bone](/equipment/Necklace of Bone/) | **ОЗ** | **DEF** | 
-  | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **АТК** | **DEF** | 
-  | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **DEF** | 
+  | [Секира из обсидиана](/equipment/Секира из обсидиана/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
+  | [Шлем из звериных костей](/equipment/Шлем из звериных костей/) | **АТК** | **ЗЩТ** | 
+  | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
-* [Deterrence](/combination/Deterrence/) 
+* [Сдерживание](/combination/Сдерживание/) 
 
 
 ## Skills
@@ -99,11 +99,11 @@ toc: true
 ### Обычное умение 1 : Боевая ярость
  **Описание:** <span style="color: #645252;font-size:20px">АТК берсерка может повыситься до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> по мере уменьшения ОЗ. Берсерки кричат каждые 20 сек., получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживая</span><span style="color: black"><span style="color: #645252;font-size:20px"> все вражеские отряды в течение 10 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Rampage
- **Описание:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
+### Обычное умение 2 : Буйство
+ **Описание:** <span style="color: #645252;font-size:20px">У берсерков иммунитет к окаменению и оглушению. Виверны получают <span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"> к скорости атаки. Эффект удваивается при менее 35% ОЗ и продолжает действовать при восстановлении ОЗ. </span><span style="color: black">
 
 ### Обычное умение 3 : Бессмертный бог войны
- **Описание:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">За каждый размещенный отряд Цитадели берсерки получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> - к критическому удару. После смерти берсерки каменеют, повышая урон у союзных отрядов Цитадели на </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
@@ -153,19 +153,19 @@ toc: true
 ### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -188,10 +188,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Смертоносный топор
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">Damage related to Max HP caused by Peerless Dance doubled. When it's dispelled successfully, it deals 50% extra damage</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: урон &lt;Несравненного танца&gt;, связанный с максимумом ОЗ, удваивается. При успешном снятии наносится 50% дополнительного урона</span>
 
 ### 2nd Skill (or 1st): Боевой топор жажды крови
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Peerless Dance&gt;</span><span style="color: #645252;font-size:18px">The Berserker receives 20% extra life drain. When it is successfully dispelled, it deals 50% extra damage</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несравненный танец&gt;</span><span style="color: #645252;font-size:18px">: берсерк получает +20% к высасыванию жизни. При успешном снятии наносится 50% дополнительного урона</span>
 
 ### 3rd Skill (or 4th): Бескрайняя ярость
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевая ярость&gt;</span><span style="color: #645252;font-size:18px">: длительность увеличена на 15 сек. Ярость повышается на 50%. КРИТ. УРН в дальнейшем повышается на 30%. Эффекты не могут быть рассеяны.</span>

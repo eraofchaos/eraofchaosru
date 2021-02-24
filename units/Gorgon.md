@@ -1,15 +1,15 @@
 ---
 title: "Горгона"
 permalink: /units/Gorgon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Горгона"
 toc: true
 ---
 ## General information
- **Описание:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
+ **Описание:** Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 60.55 | 16.0 | 2320.5 |
+  | Зеленый | 60.55 | 16.0 | 2320.5 |
   | Синий | 121.1 | 32.0 | 4641.0 |
-  | Blue +1 | 181.65 | 48.0 | 6961.5 |
+  | Синий +1 | 181.65 | 48.0 | 6961.5 |
   | Синий +2 | 254.31 | 67.2 | 9746.1 |
   | Фиолетовый | 326.97 | 86.4 | 12530.7 |
   | Фиолетовый +1 | 399.63 | 105.6 | 15315.3 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 653.94 | 172.8 | 25061.4 |
   | Оранжевый +1 | 750.82 | 198.4 | 28774.2 |
   | Оранжевый +2 | 847.7 | 224.0 | 32487.0 |
-  | Orange +3 | 944.58 | 249.6 | 36199.8 |
+  | Оранжевый +3 | 944.58 | 249.6 | 36199.8 |
   | Оранжевый +4 | 1041.46 | 275.2 | 39912.6 |
-  | Orange +5 | 1186.78 | 313.6 | 45481.8 |
-  | Red | 1380.54 | 364.8 | 52907.4 |
+  | Оранжевый +5 | 1186.78 | 313.6 | 45481.8 |
+  | Красный | 1380.54 | 364.8 | 52907.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Адамантовая кожа](/equipment/Адамантовая кожа/) | **АТК** | **DEF** | 
-  | [Варварская броня для спины](/equipment/Варварская броня для спины/) | **ОЗ** | **DEF** | 
-  | [Смертельный рог быка](/equipment/Смертельный рог быка/) | **АТК** | **DEF** | 
-  | [Магическое копыто быка](/equipment/Магическое копыто быка/) | **ОЗ** | **DEF** | 
+  | [Адамантовая кожа](/equipment/Адамантовая кожа/) | **АТК** | **ЗЩТ** | 
+  | [Варварская броня для спины](/equipment/Варварская броня для спины/) | **ОЗ** | **ЗЩТ** | 
+  | [Смертельный рог быка](/equipment/Смертельный рог быка/) | **АТК** | **ЗЩТ** | 
+  | [Магическое копыто быка](/equipment/Магическое копыто быка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -84,13 +84,13 @@ toc: true
 * [Окаменение](/combination/Окаменение/) 
 * [Чума](/combination/Чума/) 
 * [Заморозка](/combination/Заморозка/) 
-* [Deterrence](/combination/Deterrence/) 
+* [Сдерживание](/combination/Сдерживание/) 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
 * [Горение](/combination/Горение/) 
 * [Низкий боевой дух](/combination/Низкий боевой дух/) 
 * [Болезнь](/combination/Болезнь/) 
-* [Blind](/combination/Blind/) 
+* [Ослепление](/combination/Ослепление/) 
 * [Немота](/combination/Немота/) 
 * [Оглушение](/combination/Оглушение/) 
 
@@ -107,18 +107,18 @@ toc: true
  **Описание:** 
 
 ### Обычное умение 1 : Повелитель топи
- **Описание:** <span style="color: #645252;font-size:20px">Increases Gorgon's DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If damage received by Gorgon from a single attack exceeds 15% of its max HP, it becomes immune to the damage beyond 15%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Горгоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Получая урон в одиночку, горгона получает иммунитет к урону более 15% своих макс. ОЗ. </span><span style="color: black">
 
 ### Обычное умение 2 : Чумной симбиоз
  **Описание:** <span style="color: #645252;font-size:20px">Горгоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону, которое дополнительно повышается на 5% за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Дикое проклятие
- **Описание:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% of hostile units around Gorgon.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У вражеских отрядов вокруг горгон снижается критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Rise of Vitality
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -157,18 +157,18 @@ toc: true
 ### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -177,21 +177,21 @@ toc: true
 
  **Awaking Name:** Могучая горгона
 
- **Awaking Описание:** Legend has it that the eyes of a dead cow can strip the soul of a living creature, but the truth of this matter cannot be determined so far. Because anyone who has seen it has not been able to get out of the swamp.
+ **Awaking Описание:** Легенда гласит, что ее мертвые глаза способны вынуть душу из вашего тела, но правда это или нет - никто не знает. Ведь никто из тех, кто видел ее своими глазами, не смог об этом рассказать.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте горгон и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Крепости, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Doom Dull souls in the Underground: 15-2 and 15-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ могучих горгон на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Gorgon and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя горгон.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Взгляд бездны
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18 seconds. It has a 100% chance of petrifying the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Могучая горгона&gt;</span><span style="color: #645252;font-size:18px">: эффект срабатывает раз в 18 сек. С шансом 100% цель получает окаменение на 3 сек. Также на всех врагов в определенной области накладывается случайное ослабление. Кроме того, все союзные отряды на 10 секунд получают +200 к пробиванию.</span>
 
 ### 2nd Skill (or 1st): Смертельный взгляд
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Могучая горгона&gt;</span><span style="color: #645252;font-size:18px">: эффект срабатывает раз в 18 сек. С шансом 100% цель получает окаменение на 3 сек. Также на всех врагов в определенной области накладывается 2 случайных ослабления на следующие 10 сек.</span>

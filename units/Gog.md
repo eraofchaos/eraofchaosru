@@ -1,21 +1,21 @@
 ---
-title: "Gog"
+title: "Гог"
 permalink: /units/Gog/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Gogs may seem to be mild but they can be very aggressive in battle."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Gog"
+ref: "Гог"
 toc: true
 ---
 ## General information
- **Описание:** Gogs may seem to be mild but they can be very aggressive in battle.
+ **Описание:** Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 51.3 | 3.75 | 471.75 |
+  | Зеленый | 51.3 | 3.75 | 471.75 |
   | Синий | 102.6 | 7.5 | 943.5 |
-  | Blue +1 | 153.9 | 11.25 | 1415.25 |
+  | Синий +1 | 153.9 | 11.25 | 1415.25 |
   | Синий +2 | 215.46 | 15.75 | 1981.35 |
   | Фиолетовый | 277.02 | 20.25 | 2547.45 |
   | Фиолетовый +1 | 338.58 | 24.75 | 3113.55 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 554.04 | 40.5 | 5094.9 |
   | Оранжевый +1 | 636.12 | 46.5 | 5849.7 |
   | Оранжевый +2 | 718.2 | 52.5 | 6604.5 |
-  | Orange +3 | 800.28 | 58.5 | 7359.3 |
+  | Оранжевый +3 | 800.28 | 58.5 | 7359.3 |
   | Оранжевый +4 | 882.36 | 64.5 | 8114.1 |
-  | Orange +5 | 1005.48 | 73.5 | 9246.3 |
-  | Red | 1169.64 | 85.5 | 10755.9 |
+  | Оранжевый +5 | 1005.48 | 73.5 | 9246.3 |
+  | Красный | 1169.64 | 85.5 | 10755.9 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scalding Orb](/equipment/Scalding Orb/) | **АТК** | **DEF** | 
-  | [Огненный рог](/equipment/Огненный рог/) | **ОЗ** | **DEF** | 
-  | [Хвост пламени](/equipment/Хвост пламени/) | **АТК** | **DEF** | 
-  | [Scalding Bracers](/equipment/Scalding Bracers/) | **ОЗ** | **DEF** | 
+  | [Ошпаривающий шар](/equipment/Ошпаривающий шар/) | **АТК** | **ЗЩТ** | 
+  | [Огненный рог](/equipment/Огненный рог/) | **ОЗ** | **ЗЩТ** | 
+  | [Хвост пламени](/equipment/Хвост пламени/) | **АТК** | **ЗЩТ** | 
+  | [Ошпаривающие браслеты](/equipment/Ошпаривающие браслеты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -95,19 +95,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Fire Wall
+### Совершенное умение: Стена огня
  **Описание:** <span style="color: #645252;font-size:20px">Гоги создают стену огня перед собой, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам, окруженным ею. Стена огня существует в течение 8 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Пылающий взрыв
- **Описание:** <span style="color: #645252;font-size:20px">Gog's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets, and may </span><span style="color: black"><span style="color: #e07c44;font-size:20px">\"Burn\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гогов есть шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона 3 целям и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Incineration
+### Обычное умение 2 : Сжигание
  **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК.</span><span style="color: black">
 
-### Обычное умение 3 : Fire Phantom
+### Обычное умение 3 : Фантом огня
  **Описание:** <span style="color: #645252;font-size:20px">Гоги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и +40% к сопротивлению урону от заклинаний магии Огня.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
@@ -146,36 +146,36 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Magog
+ **Awaking Name:** Магог
 
  **Awaking Описание:** Сильный демон, властвующий над огнем, и в ее теле заключено пламя ада. Эфес окутывает своих врагов пламенем, пока от них не остается ничего, кроме пепла.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Gog with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Inferno units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте гогов и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Инферно, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Захватите город в подземелье Похода гильдии </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите в Подземелье </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ магогов на уровнях 15-2 и 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Gog and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Caster Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте гогов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов заклинателей, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 

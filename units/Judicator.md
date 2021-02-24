@@ -1,19 +1,19 @@
 ---
 title: "Вершитель"
 permalink: /units/Judicator/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
 unitID: 109
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Вершитель"
 toc: true
 ---
 ## General information
- **Описание:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
+ **Описание:** Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
  **Фракция: ** [Замок](/units/Faction Castle/)
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 282.85 | 15.0 | 4582.05 |
+  | Зеленый | 282.85 | 15.0 | 4582.05 |
   | Синий | 565.7 | 30.0 | 9164.1 |
-  | Blue +1 | 848.55 | 45.0 | 13746.15 |
+  | Синий +1 | 848.55 | 45.0 | 13746.15 |
   | Синий +2 | 1187.97 | 63.0 | 19244.61 |
   | Фиолетовый | 1527.39 | 81.0 | 24743.07 |
   | Фиолетовый +1 | 1866.81 | 99.0 | 30241.53 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 3054.78 | 162.0 | 49486.14 |
   | Оранжевый +1 | 3507.34 | 186.0 | 56817.42 |
   | Оранжевый +2 | 3959.9 | 210.0 | 64148.7 |
-  | Orange +3 | 4412.46 | 234.0 | 71479.98 |
+  | Оранжевый +3 | 4412.46 | 234.0 | 71479.98 |
   | Оранжевый +4 | 4865.02 | 258.0 | 78811.26 |
-  | Orange +5 | 5543.86 | 294.0 | 89808.18 |
-  | Red | 6448.98 | 342.0 | 104470.74 |
+  | Оранжевый +5 | 5543.86 | 294.0 | 89808.18 |
+  | Красный | 6448.98 | 342.0 | 104470.74 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Посох теократии](/equipment/Посох теократии/) | **АТК** | **DEF** | 
-  | [Капюшон небесного блаженства](/equipment/Капюшон небесного блаженства/) | **ОЗ** | **DEF** | 
-  | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **DEF** | 
-  | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **DEF** | 
+  | [Посох теократии](/equipment/Посох теократии/) | **АТК** | **ЗЩТ** | 
+  | [Капюшон небесного блаженства](/equipment/Капюшон небесного блаженства/) | **ОЗ** | **ЗЩТ** | 
+  | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **ЗЩТ** | 
+  | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -89,7 +89,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Ray of Judgment
+### Совершенное умение: Луч правосудия
  **Описание:** <span style="color: #645252;font-size:20px">Вершители призывают 2 луча правосудия каждые 25 сек. Когда лучи появляются, они <span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"> вражеские отряды в радиусе действия на 1 сек., наносят урон в размере <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> от максимума ОЗ и снижают исцеление у врагов на <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"> на 8 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Благословение
@@ -101,10 +101,10 @@ toc: true
 ### Обычное умение 3 : null
  **Описание:** 
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
 ### Обычное умение 6 : Ореол теократии
@@ -146,18 +146,18 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Исцеление
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -175,17 +175,17 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высших паладинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы победить в 1 бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Казнь без страха
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. Охрана святилища увеличивает защиту высших паладинов на 15% за каждого смотрителя святилища на поле боя. Святилище восстанавливает 10% ОЗ в течение первых 3 призывов</span>
 
-### 2nd Skill (or 1st): Sanctuary's Glory
+### 2nd Skill (or 1st): Слава святилища
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. При первых 3 призывах урон и сопротивление урону для ваших отрядов будут увеличены на 10% на 30 сек. Высший паладин призывает смотрителя святилища, выйдя на поле боя</span>
 
-### 3rd Skill (or 4th): Loyalty and Belief
+### 3rd Skill (or 4th): Вера и верность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: паладины получают 22% к сопротивлению отряда урону. Высокий боевой дух не влияет на эффект</span>
 
 ### 4th Skill (or 3rd): Неукротимая вера
@@ -194,7 +194,7 @@ toc: true
 ### 5th Skill (or 6th): Упорство
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. КРИТ. УРН повышается на 50%, а стойкость - на 150. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Ловкое парирование
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. Стойкость всех отрядов в зоне действия повышается на 150, а урон - на 15%. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
 ## Technical info

@@ -1,21 +1,21 @@
 ---
 title: "Единорог"
 permalink: /units/Unicorn/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Единорог"
 toc: true
 ---
 ## General information
- **Описание:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
+ **Описание:** Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами.
 
  **Класс:** [Штурм](/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -25,9 +25,9 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
+ **Unit description:** Ослепление: снижает вероятность попадания для целого ряда вражеских войск.
 
- **Short description:** Blinds. Its shield and evasion skills increase over time.
+ **Short description:** Ослепляет. Его щит и умения уклонения улучшаются со временем.
 
  **Position :** Снижает шанс попадания врага, обладает высоким показателем уклонения.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 75.7 | 6.5 | 1387.5 |
+  | Зеленый | 75.7 | 6.5 | 1387.5 |
   | Синий | 151.4 | 13.0 | 2775.0 |
-  | Blue +1 | 227.1 | 19.5 | 4162.5 |
+  | Синий +1 | 227.1 | 19.5 | 4162.5 |
   | Синий +2 | 317.94 | 27.3 | 5827.5 |
   | Фиолетовый | 408.78 | 35.1 | 7492.5 |
   | Фиолетовый +1 | 499.62 | 42.9 | 9157.5 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 817.56 | 70.2 | 14985.0 |
   | Оранжевый +1 | 938.68 | 80.6 | 17205.0 |
   | Оранжевый +2 | 1059.8 | 91.0 | 19425.0 |
-  | Orange +3 | 1180.92 | 101.4 | 21645.0 |
+  | Оранжевый +3 | 1180.92 | 101.4 | 21645.0 |
   | Оранжевый +4 | 1302.04 | 111.8 | 23865.0 |
-  | Orange +5 | 1483.72 | 127.4 | 27195.0 |
-  | Red | 1725.96 | 148.2 | 31635.0 |
+  | Оранжевый +5 | 1483.72 | 127.4 | 27195.0 |
+  | Красный | 1725.96 | 148.2 | 31635.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Crystal Longhorn](/equipment/Crystal Longhorn/) | **АТК** | **DEF** | 
-  | [Камни мечтателя](/equipment/Камни мечтателя/) | **ОЗ** | **DEF** | 
-  | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **DEF** | 
-  | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **DEF** | 
+  | [Кристаллический длинный рог](/equipment/Кристаллический длинный рог/) | **АТК** | **ЗЩТ** | 
+  | [Камни мечтателя](/equipment/Камни мечтателя/) | **ОЗ** | **ЗЩТ** | 
+  | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **ЗЩТ** | 
+  | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Blind](/combination/Blind/) 
-* [Shield](/combination/Shield/) 
+* [Ослепление](/combination/Ослепление/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -98,7 +98,7 @@ toc: true
 ### Совершенное умение: null
  **Описание:** 
 
-### Обычное умение 1 : Flickering Figures
+### Обычное умение 1 : Мерцающие фигуры
  **Описание:** <span style="color: #645252;font-size:20px">При каждом уклонении у единорогов есть большой шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
 ### Обычное умение 2 : Ангельский свет
@@ -107,7 +107,7 @@ toc: true
 ### Обычное умение 3 : Смелый лидер
  **Описание:** <span style="color: #645252;font-size:20px">Единороги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Единорогам дается дополнительно 40 ед. уклонения за каждый стрелковый отряд на поле боя. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -143,10 +143,10 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -154,14 +154,14 @@ toc: true
 * Атака
 * ОЗ
 * Уклонение отряда
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** War Unicorn
+ **Awaking Name:** Боевой единорог
 
  **Awaking Описание:** Единороги с золотой шерстью встречаются очень редко. Эльфы Авлии считают их священными животными и поклоняются им. Говорят, что когда туларианский лес окажется в опасности, его снова озарит золотой свет.
 
@@ -170,9 +170,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> War Unicorn souls in the Underground: 18-2 and 18-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ боевых единорогов на уровнях 18-2 и 18-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Unicorn and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте единорогов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 

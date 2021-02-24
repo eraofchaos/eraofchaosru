@@ -3,20 +3,20 @@ title: "Мефала"
 permalink: /heroes/Mephala/
 excerpt: "Эра хаоса Мефала. Мефала. Обученная в эрафийской армии Мефала всегда умела обернуть особенности рельефа в свою пользу. И хотя Мефала предпочитает тихую и мирную родную деревушку, она осталась на службе ради своей страны."
 heroID: 60302
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Mephala"
 toc: true
 ---
  **Описание:** Обученная в эрафийской армии Мефала всегда умела обернуть особенности рельефа в свою пользу. И хотя Мефала предпочитает тихую и мирную родную деревушку, она осталась на службе ради своей страны.
 ## Details
- **Profession:** Ranger
+ **Profession:** Лесничий
 
- **Race:** Rampart
+ **Race:** Бастион
 
  **Rate:** R
 
- **Specialty:** Absolute Defense
+ **Specialty:** Абсолютная защита
 
  **Mana base:** 18
 
@@ -35,13 +35,13 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Каменная кожа
- **Описание:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Описание:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
 
-### 3 Spell: Earth Shield
- **Описание:** Increases unit damage reduction by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% for friendly units within a large range and grants them immunity to earth spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+### 3 Spell: Щит Земли
+ **Описание:** Дает всем союзным отрядам в большой области +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% к сопротивлению урону от отрядов и иммунитет к урону от заклинаний Земли на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 ### 4 Spell: Священный щит
- **Описание:** Summons 1 giant protective shield and makes friendly units immune to all damage for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
+ **Описание:** Призывает массивное защитное поле, которое дает союзным отрядам иммунитет к любому урону на <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
 ## HERO Biography
@@ -81,5 +81,5 @@ toc: true
 ## Initial Mastery
    - Стрельба
    - Доспехи
-   - Resistance
-   - Pathfinding
+   - Сопротивление
+   - Поиск пути

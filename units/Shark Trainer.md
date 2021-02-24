@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /units/Shark Trainer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
 unitID: 9909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Повелитель акул"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 396.0 | 7.5 | 4072.5 |
+  | Зеленый | 396.0 | 7.5 | 4072.5 |
   | Синий | 792.0 | 15.0 | 8145.0 |
-  | Blue +1 | 1188.0 | 22.5 | 12217.5 |
+  | Синий +1 | 1188.0 | 22.5 | 12217.5 |
   | Синий +2 | 1663.2 | 31.5 | 17104.5 |
   | Фиолетовый | 2138.4 | 40.5 | 21991.5 |
   | Фиолетовый +1 | 2613.6 | 49.5 | 26878.5 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 4276.8 | 81.0 | 43983.0 |
   | Оранжевый +1 | 4910.4 | 93.0 | 50499.0 |
   | Оранжевый +2 | 5544.0 | 105.0 | 57015.0 |
-  | Orange +3 | 6177.6 | 117.0 | 63531.0 |
+  | Оранжевый +3 | 6177.6 | 117.0 | 63531.0 |
   | Оранжевый +4 | 6811.2 | 129.0 | 70047.0 |
-  | Orange +5 | 7761.6 | 147.0 | 79821.0 |
-  | Red | 9028.8 | 171.0 | 92853.0 |
+  | Оранжевый +5 | 7761.6 | 147.0 | 79821.0 |
+  | Красный | 9028.8 | 171.0 | 92853.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,15 +68,15 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Steel Scimitar](/equipment/Steel Scimitar/) | **АТК** | **DEF** | 
-  | [Защитные ремни](/equipment/Защитные ремни/) | **ОЗ** | **DEF** | 
-  | [Защитные перчатки](/equipment/Защитные перчатки/) | **АТК** | **DEF** | 
-  | [Акульи поводья](/equipment/Акульи поводья/) | **ОЗ** | **DEF** | 
+  | [Стальная сабля](/equipment/Стальная сабля/) | **АТК** | **ЗЩТ** | 
+  | [Защитные ремни](/equipment/Защитные ремни/) | **ОЗ** | **ЗЩТ** | 
+  | [Защитные перчатки](/equipment/Защитные перчатки/) | **АТК** | **ЗЩТ** | 
+  | [Акульи поводья](/equipment/Акульи поводья/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
 
 ## Информация о комбинации
@@ -98,15 +98,15 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Когда повелитель акул атакует отряд, ОЗ которого опустилось ниже 70%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда ОЗ противника &lt;50%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки и наносит цели урон в 150% от АТК. Когда ОЗ противника &lt;30%, акула получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда. Данные бонусы длятся 20 сек. Интервал срабатывания: 30 сек. Когда ОЗ повелителя акул впервые опускается ниже 10%, акула входит в буйство, получая </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки на 15 сек. </span><span style="color: black">
 
 ### Обычное умение 2 : Укус акулы
- **Описание:** <span style="color: #645252;font-size:20px">Shark Trainer gains a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> boost to Unit DMG. When units targeted by Shark Trainer and his shark die, Shark trainer and his shark gain </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> Critical Hit and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Critical Hit DMG, and they recover </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their maximum HP. This buff lasts for the whole battle and can stack up to 3 times. When Shark Trainer and his shark attack 9-man units, 3 members of the unit will be simultaneously attacked, taking damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Shark Trainer's Attack. Attacking 1 or 4-man units will increase their Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str21"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and their Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str22"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Every 20s, Shark Trainer will make the shark devour target units, making them unable to move, attack, or cast skills for 3s and dealing damage equal to 30% of their max HP.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Повелитель акул получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда. Когда атакуемый отряд погибает, повелитель акул и акула получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит удару, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН и восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> максимума ОЗ. Эффект действует до конца боя, может суммироваться до 3 раз. Когда повелитель акул и акула атакуют отряд из 9 существ, трое из них получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК. Против отрядов из 1 и 4 существ они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str21"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str22"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. Каждые 20 сек. акула захватывает челюстями противника - вражеский отряд не может двигаться, атаковать и применять умения в течение 3 сек., а также получает урон в 30% от максимума ОЗ. </span><span style="color: black">
 
 ### Обычное умение 3 : Кровавый тиран
- **Описание:** <span style="color: #645252;font-size:20px">Shark Trainer casts &lt;Bloodied Knife&gt;, every 8s dealing damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">  of Shark Trainer's Attack as well as reducing their Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Also grants Shark Trainer 1 stack of the &lt;Bloodied Knife&gt; buff, increasing Shark Trainer's Unit DMG by 15% and Attack Speed by 10% for every stack. When Shark Trainer has 3 stacks of the &lt;Bloodied Knife&gt; buff, casting &lt;Bloodied Knife&gt; buff will remove all &lt;Bloodied Knife&gt; buffs and deal damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Shark Trainer's Attack.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">После применения повелителем акул &lt;Кровавого клинка&gt; каждые 8 сек. атакуемый отряд получает урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК, а также </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки на 5 сек. Повелитель акул получает бонус +15% к УРН отряда и +10% к скорости атаки, эффект суммируется. Третье применение умения активирует &lt;Кровавого тирана&gt; и снимает положительные эффекты от Кровавого клинка. Кровавый тиран наносит вражескому отряду урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str27"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str28"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -184,26 +184,26 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Shark Rider
+ **Awaking Name:** Разбойники на акулах
 
  **Awaking Описание:** 
 
@@ -218,14 +218,14 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Tame
+### 1st Skill (or 2nd): Приручение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к ЗЩТ и сопротивлению урону. Эффект удваивается против отрядов ближнего боя.</span>
 
-### 2nd Skill (or 1st): Obey
+### 2nd Skill (or 1st): Подчинение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровожадная акула&gt;</span><span style="color: #645252;font-size:18px"> Отряд повелителей акул получает +15% к УРН и скорости атаки. Эффект удваивается против стрелковых отрядов.</span>
 
 ### 3rd Skill (or 4th): Запах крови
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Blood Tracker&gt;</span><span style="color: #645252;font-size:18px"> A shark will add a Bloody mark to a random enemy unit in the rear every 10s. The marked unit has their Unit DMG and Attack Speed reduced by 15% each for 5s. When the mark disappears, the shark leaps up from the depths to rip into the target unit, dealing damage equal to 40% of their own Attack. This damage doubles when the target unit is &lt;emaciated&gt;. After its frenzy, the shark gains damage equal to 7% of its max HP. This skill cannot be silenced.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к УРН и скорости атаки. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>
 
 ### 4th Skill (or 3rd): Разрыв плоти
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Кровавый след&gt;</span><span style="color: #645252;font-size:18px"> Каждые 10 сек. акула накладывает на случайный вражеский отряд на задней линии кровавую метку. Отмеченный отряд на 5 сек. получает -15% к ЗЩТ и сопротивлению урону. По окончании эффекта акула выныривает перед отрядом и кусает его, нанося урон в 40% от АТК. Эффект удваивается при &lt;истощении&gt;. После буйства акула наносит дополнительный урон в 7% от максимума ОЗ. Немота не блокирует данное умение.</span>

@@ -1,15 +1,15 @@
 ---
 title: "Грифон"
 permalink: /units/Griffin/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
 unitID: 103
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Грифон"
 toc: true
 ---
 ## General information
- **Описание:** Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath.
+ **Описание:** Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха.
 
  **Класс:** [Штурм](/units/Unit Class Charging/)
 
@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Летающее существо Неограниченные контратаки.
 
- **Position :** Deals burst damage early in the game. Counter strikes frequently and deals area damage.
+ **Position :** В начале игры наносит взрывной урон. Часто контратакует и наносит высокий урон по области.
 
  **Recommend:** Повышение скорости движения делает ваши армии намного более эффективными.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 75.7 | 6.25 | 1387.5 |
+  | Зеленый | 75.7 | 6.25 | 1387.5 |
   | Синий | 151.4 | 12.5 | 2775.0 |
-  | Blue +1 | 227.1 | 18.75 | 4162.5 |
+  | Синий +1 | 227.1 | 18.75 | 4162.5 |
   | Синий +2 | 317.94 | 26.25 | 5827.5 |
   | Фиолетовый | 408.78 | 33.75 | 7492.5 |
   | Фиолетовый +1 | 499.62 | 41.25 | 9157.5 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 817.56 | 67.5 | 14985.0 |
   | Оранжевый +1 | 938.68 | 77.5 | 17205.0 |
   | Оранжевый +2 | 1059.8 | 87.5 | 19425.0 |
-  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Оранжевый +3 | 1180.92 | 97.5 | 21645.0 |
   | Оранжевый +4 | 1302.04 | 107.5 | 23865.0 |
-  | Orange +5 | 1483.72 | 122.5 | 27195.0 |
-  | Red | 1725.96 | 142.5 | 31635.0 |
+  | Оранжевый +5 | 1483.72 | 122.5 | 27195.0 |
+  | Красный | 1725.96 | 142.5 | 31635.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Serrated Claws](/equipment/Serrated Claws/) | **АТК** | **DEF** | 
-  | [Headplate of Speed](/equipment/Headplate of Speed/) | **ОЗ** | **DEF** | 
-  | [Перо архигрифона](/equipment/Перо архигрифона/) | **АТК** | **DEF** | 
-  | [Эмблема империи](/equipment/Эмблема империи/) | **ОЗ** | **DEF** | 
+  | [Зазубренные когти](/equipment/Зазубренные когти/) | **АТК** | **ЗЩТ** | 
+  | [Головной доспех скорости](/equipment/Головной доспех скорости/) | **ОЗ** | **ЗЩТ** | 
+  | [Перо архигрифона](/equipment/Перо архигрифона/) | **АТК** | **ЗЩТ** | 
+  | [Эмблема империи](/equipment/Эмблема империи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -94,22 +94,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Diving Counterattack
+### Совершенное умение: Ответный удар в пикировании
  **Описание:** <span style="color: #645252;font-size:20px">Когда грифоны подвергаются атаке, у них есть шанс нанести </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 отрядам. При обычной атаке также есть шанс выполнить Пикирование.</span><span style="color: black">
 
 ### Обычное умение 1 : Управление башней
- **Описание:** <span style="color: #645252;font-size:20px">When Griffins are on the battlefield, all your flying units' ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">,and Attack speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда грифоны на поле боя, все летающие отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК.</span><span style="color: black">
 
 ### Обычное умение 2 : Великолепный штурм
- **Описание:** <span style="color: #645252;font-size:20px">When Griffin units are in </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px">, they receive 30 extra movement speed and increased </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">Critical Hit for 15s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда у грифонов </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, они получают +30 к скорости движения, а также </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару на 15 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Архангел
  **Описание:** <span style="color: #645252;font-size:20px">Грифоны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Грифонам дается дополнительно 10% ОЗ за каждый союзный летающий отряд на поле боя.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -148,18 +148,18 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* unit DMG Reduction
+* Урон отряда
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -171,9 +171,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -185,18 +185,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
@@ -240,5 +240,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** You'll never catch me!
+ **talk3:** Меня не поймать!
 

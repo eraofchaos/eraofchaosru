@@ -1,21 +1,21 @@
 ---
 title: "Мантикора"
 permalink: /units/Manticore/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет."
 unitID: 706
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Мантикора"
 toc: true
 ---
 ## General information
- **Описание:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
+ **Описание:** Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет.
 
  **Класс:** [Штурм](/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 87.45 | 5.75 | 1437.75 |
+  | Зеленый | 87.45 | 5.75 | 1437.75 |
   | Синий | 174.9 | 11.5 | 2875.5 |
-  | Blue +1 | 262.35 | 17.25 | 4313.25 |
+  | Синий +1 | 262.35 | 17.25 | 4313.25 |
   | Синий +2 | 367.29 | 24.15 | 6038.55 |
   | Фиолетовый | 472.23 | 31.05 | 7763.85 |
   | Фиолетовый +1 | 577.17 | 37.95 | 9489.15 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 944.46 | 62.1 | 15527.7 |
   | Оранжевый +1 | 1084.38 | 71.3 | 17828.1 |
   | Оранжевый +2 | 1224.3 | 80.5 | 20128.5 |
-  | Orange +3 | 1364.22 | 89.7 | 22428.9 |
+  | Оранжевый +3 | 1364.22 | 89.7 | 22428.9 |
   | Оранжевый +4 | 1504.14 | 98.9 | 24729.3 |
-  | Orange +5 | 1714.02 | 112.7 | 28179.9 |
-  | Red | 1993.86 | 131.1 | 32780.7 |
+  | Оранжевый +5 | 1714.02 | 112.7 | 28179.9 |
+  | Красный | 1993.86 | 131.1 | 32780.7 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Коготь Бездны](/equipment/Коготь Бездны/) | **АТК** | **DEF** | 
-  | [Клык со смертельным ядом](/equipment/Клык со смертельным ядом/) | **ОЗ** | **DEF** | 
-  | [Toxic Tail](/equipment/Toxic Tail/) | **АТК** | **DEF** | 
-  | [Manticore Wings](/equipment/Manticore Wings/) | **ОЗ** | **DEF** | 
+  | [Коготь Бездны](/equipment/Коготь Бездны/) | **АТК** | **ЗЩТ** | 
+  | [Клык со смертельным ядом](/equipment/Клык со смертельным ядом/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядовитый хвост](/equipment/Ядовитый хвост/) | **АТК** | **ЗЩТ** | 
+  | [Крылья мантикоры](/equipment/Крылья мантикоры/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -94,17 +94,17 @@ toc: true
 ### Совершенное умение: Парализующий яд
  **Описание:** <span style="color: #645252;font-size:20px">Мантикоры атакуют выбранный отряд каждые 20 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона цели и окружающим ее врагам в определенном радиусе и снижая их ЗЩТ на 30% на 10 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Tactical Decision
+### Обычное умение 1 : Тактическое решение
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мантикор есть шанс 25% уменьшить сопротивление урону у отрядов ближнего боя на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. При обычной атаке в бою против стрелковых отрядов и заклинателей есть шанс 25% повысить критический удар у союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Эффект суммируется до 8 раз.</span><span style="color: black">
 
 ### Обычное умение 2 : null
  **Описание:** 
 
 ### Обычное умение 3 : Брызги ядовитой крови
- **Описание:** <span style="color: #645252;font-size:20px">When a target is downed, all hostile units' DEF will lose 30% DEF and be <span style="color: #48b946;font-size:20px">&lt;silenced&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Only triggered once throughout the entire battle.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, все вражеские отряды теряют 30% ЗЩТ и получают <span style="color: #48b946;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Эффект активируется только один раз в течение всего боя.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -136,19 +136,19 @@ toc: true
 ### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -171,7 +171,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Разбитый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Tactical Decision&gt;:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%, decreases melee units' tenacity by 60 and DEF by 2%. Lasts for 6s, up to 5 stacks</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Тактическое решение&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания при обычной атаке повышается на 50%. Отряды ближнего боя получают -60 к стойкости и -2% к защите. Этот эффект не может быть рассеян. Длится 6 сек., суммируется до 5 раз.</span>
 
 ### 2nd Skill (or 1st): Стратегия набега
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Тактическое решение&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания при обычной атаке повышается на 50%. Стрелковые отряды/заклинатели получают +4% к урону и критическому урону. Этот эффект не может быть рассеян. Длится 6 сек., суммируется до 5 раз.</span>
@@ -180,7 +180,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вой разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда враг применяет магию Земли, его оборонительные отряды получают -20% к исцелению; когда враг применяет магию Воды, его стрелковые отряды получают -20% к скорости атаки; когда враг применяет магию Огня, его атакующие отряды получают -20% к урону; когда враг применяет магию Воздуха, его отряды заклинателей получают немоту на 1,5 сек.</span>
 
 ### 4th Skill (or 3rd): Сила разрушителя магии
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Howl&gt;</span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, your and all friendly Defensive units' healing effect will be increased by 15%. When your enemy casts a water magic spell, your and all friendly Ranged units' ATK speed will be increased by 15%. When your enemy casts a fire magic spell, your and all friendly Offensive units' unit DMG will be increased by 15%. When your enemy casts an air magic spell, your and all friendly Caster units will become immune to \"silence\" for 2s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вой разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда враг применяет магию Земли, оборонительные отряды (ваши и союзников) получают +15% к исцелению. Когда враг применяет магию Воды, скорость стрелковых отрядов (ваших и союзников) повышается на 15%. Когда враг применяет магию Огня, УРН атакующих отрядов (ваших и союзников) повышается на 15%. Когда враг применяет магию Воздуха, вы и союзные отряды получаете иммунитет к немоте на 2 сек.</span>
 
 ### 5th Skill (or 6th): Пронизывающая ядовитая кровь
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Брызги ядовитой крови&gt;</span><span style="color: #645252;font-size:18px">: эффект срабатывает, когда цель повержена. Возможно до 3 срабатываний. Эффект брызг ядовитой крови гарантированно срабатывает раз в 30 сек.</span>

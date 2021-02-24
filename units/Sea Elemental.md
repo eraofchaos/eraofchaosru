@@ -1,21 +1,21 @@
 ---
 title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Элементаль Моря"
 toc: true
 ---
 ## General information
- **Описание:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
+ **Описание:** Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 100.9 | 3.25 | 1084.5 |
+  | Зеленый | 100.9 | 3.25 | 1084.5 |
   | Синий | 201.8 | 6.5 | 2169.0 |
-  | Blue +1 | 302.7 | 9.75 | 3253.5 |
+  | Синий +1 | 302.7 | 9.75 | 3253.5 |
   | Синий +2 | 423.78 | 13.65 | 4554.9 |
   | Фиолетовый | 544.86 | 17.55 | 5856.3 |
   | Фиолетовый +1 | 665.94 | 21.45 | 7157.7 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 1089.72 | 35.1 | 11712.6 |
   | Оранжевый +1 | 1251.16 | 40.3 | 13447.8 |
   | Оранжевый +2 | 1412.6 | 45.5 | 15183.0 |
-  | Orange +3 | 1574.04 | 50.7 | 16918.2 |
+  | Оранжевый +3 | 1574.04 | 50.7 | 16918.2 |
   | Оранжевый +4 | 1735.48 | 55.9 | 18653.4 |
-  | Orange +5 | 1977.64 | 63.7 | 21256.2 |
-  | Red | 2300.52 | 74.1 | 24726.6 |
+  | Оранжевый +5 | 1977.64 | 63.7 | 21256.2 |
+  | Красный | 2300.52 | 74.1 | 24726.6 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,16 +69,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Вечная слеза](/equipment/Вечная слеза/) | **АТК** | **DEF** | 
-  | [Ядро элементаля Воды](/equipment/Ядро элементаля Воды/) | **ОЗ** | **DEF** | 
-  | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **DEF** | 
-  | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **DEF** | 
+  | [Вечная слеза](/equipment/Вечная слеза/) | **АТК** | **ЗЩТ** | 
+  | [Ядро элементаля Воды](/equipment/Ядро элементаля Воды/) | **ОЗ** | **ЗЩТ** | 
+  | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **ЗЩТ** | 
+  | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -99,16 +99,16 @@ toc: true
 ### Обычное умение 1 : Дар полного прилива
  **Описание:** <span style="color: #645252;font-size:20px">После появления на поле боя элементали Моря создают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Щит Льда&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> для союзных отрядов на своем пути. Элементали Моря </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага, который их атакует. Щит действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 2 : Tidal Rite
+### Обычное умение 2 : Ритуал прилива
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя элементали Моря создают круг, повышающий их ОЗ на <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"> каждые 2 сек. и снижающий исцеление вражеских отрядов на 1% в течение всего боя.</span><span style="color: black">
 
-### Обычное умение 3 : Abyss Cage
+### Обычное умение 3 : Клетка Бездны
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Моря призывают водную темницу каждые 20 сек., которая подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения. Водная темница действует в течение </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,19 +144,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -165,16 +165,16 @@ toc: true
 
  **Awaking Name:** Элементаль Приливов
 
- **Awaking Описание:** 
+ **Awaking Описание:** Поднять паруса! Отдать швартовы! Бей, грабь, убивай! Эти воды будут нашими!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте нага и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Башни, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королев нага на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Naga and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте нага, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
@@ -194,7 +194,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается еще на 30% на 6 сек.</span>
 
 ## Technical info
  **runart:** 0

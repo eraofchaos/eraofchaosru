@@ -1,19 +1,19 @@
 ---
-title: "Arch Mage"
+title: "Архимаг"
 permalink: /units/Arch Mage/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Arch Mage"
+ref: "Архимаг"
 toc: true
 ---
 ## General information
- **Описание:** Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage.
+ **Описание:** Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
  **Фракция: ** [Башня](/units/Faction Tower/)
 
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Пробивание заклинания: урон отдельным отрядам становится все больше
 
- **Short description:** Magic unit with soaking shield
+ **Short description:** Магический отряд.
 
- **Position :** Crowd control your enemies' back row troops, enhance your heroes' spells, and reduce opponent heroes' MP restore.
+ **Position :** Накладывает эффекты контроля на вражеские отряды в заднем ряду, усиливает заклинания героев и уменьшает скорость восстановления маны вражеских героев.
 
- **Recommend:** Deals extra damage to any slowed enemies.
+ **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
 ## Базовые параметры
  **Base HP: 1324.0**
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 58.0 | 4.25 | 496.5 |
+  | Зеленый | 58.0 | 4.25 | 496.5 |
   | Синий | 116.0 | 8.5 | 993.0 |
-  | Blue +1 | 174.0 | 12.75 | 1489.5 |
+  | Синий +1 | 174.0 | 12.75 | 1489.5 |
   | Синий +2 | 243.6 | 17.85 | 2085.3 |
   | Фиолетовый | 313.2 | 22.95 | 2681.1 |
   | Фиолетовый +1 | 382.8 | 28.05 | 3276.9 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 626.4 | 45.9 | 5362.2 |
   | Оранжевый +1 | 719.2 | 52.7 | 6156.6 |
   | Оранжевый +2 | 812.0 | 59.5 | 6951.0 |
-  | Orange +3 | 904.8 | 66.3 | 7745.4 |
+  | Оранжевый +3 | 904.8 | 66.3 | 7745.4 |
   | Оранжевый +4 | 997.6 | 73.1 | 8539.8 |
-  | Orange +5 | 1136.8 | 83.3 | 9731.4 |
-  | Red | 1322.4 | 96.9 | 11320.2 |
+  | Оранжевый +5 | 1136.8 | 83.3 | 9731.4 |
+  | Красный | 1322.4 | 96.9 | 11320.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Длинный посох мистической силы](/equipment/Длинный посох мистической силы/) | **АТК** | **DEF** | 
-  | [Кристаллическая корона волшебства](/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **DEF** | 
-  | [Волшебная сфера маны](/equipment/Волшебная сфера маны/) | **АТК** | **DEF** | 
-  | [Мантия мага](/equipment/Мантия мага/) | **ОЗ** | **DEF** | 
+  | [Длинный посох мистической силы](/equipment/Длинный посох мистической силы/) | **АТК** | **ЗЩТ** | 
+  | [Кристаллическая корона волшебства](/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **ЗЩТ** | 
+  | [Волшебная сфера маны](/equipment/Волшебная сфера маны/) | **АТК** | **ЗЩТ** | 
+  | [Мантия мага](/equipment/Мантия мага/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,7 +97,7 @@ toc: true
 ### Совершенное умение: Пробивание заклинания
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
 
-### Обычное умение 1 : Hurricane
+### Обычное умение 1 : Ураган
  **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
 
 ### Обычное умение 2 : Потеря энергии
@@ -143,19 +143,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Башня**  (Дозор отрядов Башни)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -190,10 +190,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое поле&gt;</span><span style="color: #645252;font-size:18px">: в начале боя создается еще одно &lt;Магическое поле&gt; для всех союзных отрядов Башни (эффект не удваивается, а суммируется с предыдущим)</span>
 
 ### 5th Skill (or 6th): Груз смерти
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Потеря энергии&gt;</span><span style="color: #645252;font-size:18px">: после каждой смерти элементаля мана вражеских героев снижается на 2.</span>
 
 ### 6th Skill (or 5th): Подавление энергии
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 200% of the previous skill's effect</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Потеря энергии&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 200% от эффекта предыдущего умения</span>
 
 ## Technical info
  **runart:** 1
@@ -238,9 +238,9 @@ toc: true
 
  **posclass:** 5
 
- **talk1:** That was just the warmup! When does the battle begin?
+ **talk1:** Это только начало! А когда бой начнется?
 
- **talk2:** Come to me, my brothers!
+ **talk2:** Ко мне, братья!
 
  **talk3:** Щитом и мечом я положу конец твоему безумию!
 

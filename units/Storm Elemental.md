@@ -1,21 +1,21 @@
 ---
-title: "Storm Elemental"
+title: "Элементаль Шторма"
 permalink: /units/Storm Elemental/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством."
 unitID: 902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Storm Elemental"
+ref: "Элементаль Шторма"
 toc: true
 ---
 ## General information
- **Описание:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
+ **Описание:** Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Short description:** Marks for high single-target damage.
+ **Short description:** Помечает одну цель для высокого урона.
 
  **Position :** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 49.6 | 3.0 | 496.5 |
+  | Зеленый | 49.6 | 3.0 | 496.5 |
   | Синий | 99.2 | 6.0 | 993.0 |
-  | Blue +1 | 148.8 | 9.0 | 1489.5 |
+  | Синий +1 | 148.8 | 9.0 | 1489.5 |
   | Синий +2 | 208.32 | 12.6 | 2085.3 |
   | Фиолетовый | 267.84 | 16.2 | 2681.1 |
   | Фиолетовый +1 | 327.36 | 19.8 | 3276.9 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 535.68 | 32.4 | 5362.2 |
   | Оранжевый +1 | 615.04 | 37.2 | 6156.6 |
   | Оранжевый +2 | 694.4 | 42.0 | 6951.0 |
-  | Orange +3 | 773.76 | 46.8 | 7745.4 |
+  | Оранжевый +3 | 773.76 | 46.8 | 7745.4 |
   | Оранжевый +4 | 853.12 | 51.6 | 8539.8 |
-  | Orange +5 | 972.16 | 58.8 | 9731.4 |
-  | Red | 1130.88 | 68.4 | 11320.2 |
+  | Оранжевый +5 | 972.16 | 58.8 | 9731.4 |
+  | Красный | 1130.88 | 68.4 | 11320.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -66,10 +66,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мерцающий шар молнии](/equipment/Мерцающий шар молнии/) | **АТК** | **DEF** | 
-  | [Thunder Core](/equipment/Thunder Core/) | **ОЗ** | **DEF** | 
-  | [Magic Claw](/equipment/Magic Claw/) | **АТК** | **DEF** | 
-  | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **ОЗ** | **DEF** | 
+  | [Мерцающий шар молнии](/equipment/Мерцающий шар молнии/) | **АТК** | **ЗЩТ** | 
+  | [Ядро грома](/equipment/Ядро грома/) | **ОЗ** | **ЗЩТ** | 
+  | [Волшебный коготь](/equipment/Волшебный коготь/) | **АТК** | **ЗЩТ** | 
+  | [Око молнии](/equipment/Око молнии/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -96,13 +96,13 @@ toc: true
 ### Обычное умение 1 : Скачущая молния
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у элементалей Шторма есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ударить цель молнией, нанеся 300% урона.</span><span style="color: black">
 
-### Обычное умение 2 : Elemental Force
- **Описание:** <span style="color: #645252;font-size:20px">When Storm Elemental is on the battlefield, it increases air magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces air magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Storm Elemental is on the battlefield, increases friendly hero's initial Mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Обычное умение 2 : Сила элементалей
+ **Описание:** <span style="color: #645252;font-size:20px">Когда элементали Шторма на поле боя, сопротивление урону от заклинаний Земли повышается у всех союзных отрядов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижается у всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда элементали Шторма на поле боя, исходная мана союзного героя повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Пробивание разрядом
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Шторма получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается, если цель получала </span><span style="color: black"><span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -148,21 +148,21 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Lightning Storm
+ **Awaking Name:** Ураган молний
 
  **Awaking Описание:** Там, где вечно грохочет гром и сверкает молния, элементалям Шторма была поручено задание, выполнить которое способны лишь обитатели Астрального мира - использовать силу молний и накрыть ураганом целый континент!
 
@@ -189,7 +189,7 @@ toc: true
 ### 4th Skill (or 3rd): Разрывная молния
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Скачущая молния&gt;</span><span style="color: #645252;font-size:18px">: урон умения удваивается</span>
 
-### 5th Skill (or 6th): Conflux Aura
+### 5th Skill (or 6th): Круг Гармонии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила Гармонии&gt;</span><span style="color: #645252;font-size:18px">: когда герой применяет заклинание Воздуха, два случайных отряда на задней линии получают +25% к скорости атаки на 10 сек.</span>
 
 ### 6th Skill (or 5th): Взрыв Гармонии

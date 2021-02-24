@@ -1,21 +1,21 @@
 ---
-title: "Regnan Archer"
+title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса She is destined for wealth. Everything is her target, wherever her arrow aims."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Regnan Archer"
+ref: "Регнанский лучник"
 toc: true
 ---
 ## General information
- **Описание:** She is destined for wealth. Everything is her target, wherever her arrow aims.
+ **Описание:** Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Short description:** Crits and penetrates.
+ **Short description:** Наносит критический удар и пробивает.
 
  **Position :** Критические удары и пробивание. Боевой жнец.
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 117.75 | 5.0 | 933.75 |
+  | Зеленый | 117.75 | 5.0 | 933.75 |
   | Синий | 235.5 | 10.0 | 1867.5 |
-  | Blue +1 | 353.25 | 15.0 | 2801.25 |
+  | Синий +1 | 353.25 | 15.0 | 2801.25 |
   | Синий +2 | 494.55 | 21.0 | 3921.75 |
   | Фиолетовый | 635.85 | 27.0 | 5042.25 |
   | Фиолетовый +1 | 777.15 | 33.0 | 6162.75 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 1271.7 | 54.0 | 10084.5 |
   | Оранжевый +1 | 1460.1 | 62.0 | 11578.5 |
   | Оранжевый +2 | 1648.5 | 70.0 | 13072.5 |
-  | Orange +3 | 1836.9 | 78.0 | 14566.5 |
+  | Оранжевый +3 | 1836.9 | 78.0 | 14566.5 |
   | Оранжевый +4 | 2025.3 | 86.0 | 16060.5 |
-  | Orange +5 | 2307.9 | 98.0 | 18301.5 |
-  | Red | 2684.7 | 114.0 | 21289.5 |
+  | Оранжевый +5 | 2307.9 | 98.0 | 18301.5 |
+  | Красный | 2684.7 | 114.0 | 21289.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Арбалет океана](/equipment/Арбалет океана/) | **АТК** | **DEF** | 
-  | [Накидка престижа](/equipment/Накидка престижа/) | **ОЗ** | **DEF** | 
-  | [Стальная стрела](/equipment/Стальная стрела/) | **АТК** | **DEF** | 
-  | [Одежда охотника](/equipment/Одежда охотника/) | **ОЗ** | **DEF** | 
+  | [Арбалет океана](/equipment/Арбалет океана/) | **АТК** | **ЗЩТ** | 
+  | [Накидка престижа](/equipment/Накидка престижа/) | **ОЗ** | **ЗЩТ** | 
+  | [Стальная стрела](/equipment/Стальная стрела/) | **АТК** | **ЗЩТ** | 
+  | [Одежда охотника](/equipment/Одежда охотника/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -90,13 +90,13 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Смертоносная стрела
- **Описание:** <span style="color: #645252;font-size:20px">Normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP if a Crit Hit is landed. Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units on the same path every 5s, and decreases their DEF by 10% for 15s, up to 3 stacks</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ в случае успешного критического удара. Вражеские отряды в том же ряду получают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона каждые 5 сек. и -10% от ЗЩТ на 15 сек. Эффект суммируется до 3 раз.</span><span style="color: black">
 
 ### Обычное умение 1 : Обучение тактике
- **Описание:** <span style="color: #645252;font-size:20px">Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> when any unit is downed on the battlefield. The effect can be stacked up to 4 times. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and is guaranteed to deal a Crit Hit when its HP is less than 30%. This effect lasts for 7s and can only be triggered once</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а критический удар - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> при гибели любого отряда на поле боя. Эффект может суммироваться до 4 раз. скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, и гарантируется критический удар при менее 30% ОЗ. Этот эффект длится 7 сек. и может быть активирован только один раз.</span><span style="color: black">
 
-### Обычное умение 2 : Tidal Giant Crossbow
- **Описание:** <span style="color: #645252;font-size:20px">Regnan Archer's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. At the beginning of battle, deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and additional damage equal to 25% of Max HP to 2 random units while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;slowing&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 8s</span><span style="color: black">
+### Обычное умение 2 : Приливный гигантский арбалет
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские лучники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. В начале боя наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере 25% от максимума ОЗ 2 случайным отрядам с их </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедлением</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 8 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Огневая поддержка
  **Описание:** <span style="color: #645252;font-size:20px">Выполняется атака на вражеский отряд с самым низким процентом ОЗ, наносящая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и снижающая ЗЩТ цели на 30%.</span><span style="color: black">
@@ -104,7 +104,7 @@ toc: true
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -148,12 +148,12 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
+* **Убежище**  (Дозор отрядов Убежища)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -161,7 +161,7 @@ toc: true
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Описание:** 
+ **Awaking Описание:** У женщин-пиратов потрясающие красные глаза. Они в два счета очаруют любого глупца, но те, что поумнее, стараются избегать их взгляда.
 
 ### Awaking Tasks
  1. 

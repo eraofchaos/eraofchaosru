@@ -1,11 +1,11 @@
 ---
-title: "Lich"
+title: "Лич"
 permalink: /units/Lich/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Lich"
+ref: "Лич"
 toc: true
 ---
 ## General information
@@ -13,9 +13,9 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 114.35 | 4.0 | 1185.75 |
+  | Зеленый | 114.35 | 4.0 | 1185.75 |
   | Синий | 228.7 | 8.0 | 2371.5 |
-  | Blue +1 | 343.05 | 12.0 | 3557.25 |
+  | Синий +1 | 343.05 | 12.0 | 3557.25 |
   | Синий +2 | 480.27 | 16.8 | 4980.15 |
   | Фиолетовый | 617.49 | 21.6 | 6403.05 |
   | Фиолетовый +1 | 754.71 | 26.4 | 7825.95 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 1234.98 | 43.2 | 12806.1 |
   | Оранжевый +1 | 1417.94 | 49.6 | 14703.3 |
   | Оранжевый +2 | 1600.9 | 56.0 | 16600.5 |
-  | Orange +3 | 1783.86 | 62.4 | 18497.7 |
+  | Оранжевый +3 | 1783.86 | 62.4 | 18497.7 |
   | Оранжевый +4 | 1966.82 | 68.8 | 20394.9 |
-  | Orange +5 | 2241.26 | 78.4 | 23240.7 |
-  | Red | 2607.18 | 91.2 | 27035.1 |
+  | Оранжевый +5 | 2241.26 | 78.4 | 23240.7 |
+  | Красный | 2607.18 | 91.2 | 27035.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Загробный посох](/equipment/Загробный посох/) | **АТК** | **DEF** | 
-  | [Корона мертвечины](/equipment/Корона мертвечины/) | **ОЗ** | **DEF** | 
-  | [Пояс души](/equipment/Пояс души/) | **АТК** | **DEF** | 
-  | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **ОЗ** | **DEF** | 
+  | [Загробный посох](/equipment/Загробный посох/) | **АТК** | **ЗЩТ** | 
+  | [Корона мертвечины](/equipment/Корона мертвечины/) | **ОЗ** | **ЗЩТ** | 
+  | [Пояс души](/equipment/Пояс души/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня Преисподней](/equipment/Легкая броня Преисподней/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,7 +97,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, у личей есть шанс призвать 1 скелета с </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, который будет существовать в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 1 : Ядовитое облако
- **Описание:** <span style="color: #645252;font-size:20px">Lich's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 targets. Its damage to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets is increased by 30%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Обычная атака личей с вероятностью </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит урон 3 целям. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Темное усиление
  **Описание:** <span style="color: #645252;font-size:20px">Личи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Дальность атаки у личей повышается на 50% за каждый отряд Некрополя на поле боя.</span><span style="color: black">
@@ -145,12 +145,12 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
-* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -169,11 +169,11 @@ toc: true
  **Awaking Описание:** Чтобы увидеть истинный смысл смерти и открыть тайну вечной жизни, исследователи жизни готовы жертвовать жизнями смертных. После этой великой церемонии бессмертные чародеи возвращаются из мертвых.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Lich with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте личей и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Чемпион» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ могучих личей на уровнях 17-2 и 17-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте Видомину и личей, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 

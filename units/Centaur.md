@@ -3,7 +3,7 @@ title: "Кентавр"
 permalink: /units/Centaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Кентавр"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 55.5 | 11.75 | 2018.25 |
+  | Зеленый | 55.5 | 11.75 | 2018.25 |
   | Синий | 111.0 | 23.5 | 4036.5 |
-  | Blue +1 | 166.5 | 35.25 | 6054.75 |
+  | Синий +1 | 166.5 | 35.25 | 6054.75 |
   | Синий +2 | 233.1 | 49.35 | 8476.65 |
   | Фиолетовый | 299.7 | 63.45 | 10898.55 |
   | Фиолетовый +1 | 366.3 | 77.55 | 13320.45 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 599.4 | 126.9 | 21797.1 |
   | Оранжевый +1 | 688.2 | 145.7 | 25026.3 |
   | Оранжевый +2 | 777.0 | 164.5 | 28255.5 |
-  | Orange +3 | 865.8 | 183.3 | 31484.7 |
+  | Оранжевый +3 | 865.8 | 183.3 | 31484.7 |
   | Оранжевый +4 | 954.6 | 202.1 | 34713.9 |
-  | Orange +5 | 1087.8 | 230.3 | 39557.7 |
-  | Red | 1265.4 | 267.9 | 46016.1 |
+  | Оранжевый +5 | 1087.8 | 230.3 | 39557.7 |
+  | Красный | 1265.4 | 267.9 | 46016.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Секира дикой природы](/equipment/Секира дикой природы/) | **АТК** | **DEF** | 
-  | [Шлем дикой природы](/equipment/Шлем дикой природы/) | **ОЗ** | **DEF** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **АТК** | **DEF** | 
-  | [Наплечники дикой природы](/equipment/Наплечники дикой природы/) | **ОЗ** | **DEF** | 
+  | [Секира дикой природы](/equipment/Секира дикой природы/) | **АТК** | **ЗЩТ** | 
+  | [Шлем дикой природы](/equipment/Шлем дикой природы/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы дикой природы](/equipment/Рукавицы дикой природы/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники дикой природы](/equipment/Наплечники дикой природы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -103,12 +103,12 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. </span><span style="color: black">
 
 ### Обычное умение 2 : Свирепость
- **Описание:** <span style="color: #645252;font-size:20px">Centaur's additional attack increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к дополнительной атаке. В ходе обычной атаки они вызывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> у цели на 6 сек.</span><span style="color: black">
 
-### Обычное умение 3 : Fearless Leader
+### Обычное умение 3 : Бесстрашный лидер
  **Описание:** <span style="color: #645252;font-size:20px">Кентавры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Кентаврам дается дополнительно 2% к сопротивлению отряда урону за каждый оборонительный отряд на поле боя. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -148,7 +148,7 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -159,21 +159,21 @@ toc: true
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Centaur Captain
+ **Awaking Name:** Капитан кентавров
 
  **Awaking Описание:** Капитаны кентавров, широко известные своей эрудицией, кроме всего прочего, умелые музыканты, и слагают прекрасные поэмы. Ведь они верят в то, что глава племени должен быть лучшим во всем, от точной стрельбы и сильного удара до флористики.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте кентавров и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Бастиона, чтобы добиться уровня «Чемпион» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ капитанов кентавров на уровнях 17-2 и 17-4 в Подземелье.</span>
 
@@ -191,10 +191,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила&gt;</span><span style="color: #645252;font-size:18px">: кентавры получают 20% к сопротивлению отряда урону. Против замедленных врагов эффект удваивается</span>
 
 ### 4th Skill (or 3rd): Псалом жизни
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Strength&gt;</span><span style="color: #645252;font-size:18px">The Centaur restores his own HP equal to 1% of his Max HP per second</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Cила&gt;</span><span style="color: #645252;font-size:18px">: ОЗ кентавров восстанавливаются по 1% от максимума в секунду</span>
 
 ### 5th Skill (or 6th): Поза стража
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Fearless Leader&gt;</span><span style="color: #645252;font-size:18px">Centaur increases damage reduction of friendly units by 20% within a large area over the next 20s when engaged</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: если на поле боя есть кентавр, сопротивление урону союзных отрядов в большой области повышается на 20% на 20 сек. после срабатывания</span>
 
 ### 6th Skill (or 5th): Неукротимая воля
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Бесстрашный лидер&gt;</span><span style="color: #645252;font-size:18px">: когда у кентавра есть щит, дополнительная ЗЩТ повышается на 30% на 10 сек.</span>
@@ -236,7 +236,7 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** My iron-clad hooves will leave you quivering in the mud!
+ **talk1:** Стальными копытами я любого втопчу в грязь!
 
  **talk2:** Земля будет залита кровью...
 

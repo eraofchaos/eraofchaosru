@@ -1,21 +1,21 @@
 ---
 title: "Порождение зла"
 permalink: /units/Pit Fiend/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Порождение зла"
 toc: true
 ---
 ## General information
- **Описание:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
+ **Описание:** Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 87.45 | 4.75 | 1387.5 |
+  | Зеленый | 87.45 | 4.75 | 1387.5 |
   | Синий | 174.9 | 9.5 | 2775.0 |
-  | Blue +1 | 262.35 | 14.25 | 4162.5 |
+  | Синий +1 | 262.35 | 14.25 | 4162.5 |
   | Синий +2 | 367.29 | 19.95 | 5827.5 |
   | Фиолетовый | 472.23 | 25.65 | 7492.5 |
   | Фиолетовый +1 | 577.17 | 31.35 | 9157.5 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 944.46 | 51.3 | 14985.0 |
   | Оранжевый +1 | 1084.38 | 58.9 | 17205.0 |
   | Оранжевый +2 | 1224.3 | 66.5 | 19425.0 |
-  | Orange +3 | 1364.22 | 74.1 | 21645.0 |
+  | Оранжевый +3 | 1364.22 | 74.1 | 21645.0 |
   | Оранжевый +4 | 1504.14 | 81.7 | 23865.0 |
-  | Orange +5 | 1714.02 | 93.1 | 27195.0 |
-  | Red | 1993.86 | 108.3 | 31635.0 |
+  | Оранжевый +5 | 1714.02 | 93.1 | 27195.0 |
+  | Красный | 1993.86 | 108.3 | 31635.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hellish Whip](/equipment/Hellish Whip/) | **АТК** | **DEF** | 
-  | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **ОЗ** | **DEF** | 
-  | [Charmed Horn](/equipment/Charmed Horn/) | **АТК** | **DEF** | 
-  | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **DEF** | 
+  | [Адский кнут](/equipment/Адский кнут/) | **АТК** | **ЗЩТ** | 
+  | [Заколдованная легкая броня](/equipment/Заколдованная легкая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Заколдованный рожок](/equipment/Заколдованный рожок/) | **АТК** | **ЗЩТ** | 
+  | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -94,22 +94,22 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Огненный источник
- **Описание:** <span style="color: #645252;font-size:20px">Pit Fiend units cast 1 Fire Spring in their path, restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP of friendly units in a large area in front of them every 2s for 8s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Порождения зла применяют 1 Огненный источник у них на пути, восстанавливая ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ у союзных отрядов в широком радиусе перед собой каждые 2 сек. в течение 8 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Lord's Summon
- **Описание:** <span style="color: #645252;font-size:20px">When a Pit Fiend unit is on the battlefield, it summons 4 Demons to fight. Demons have </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, 700 DEF and 500 Crit Hit, lasting throughout the entire battle.</span><span style="color: black">
+### Обычное умение 1 : Призыв владыки
+ **Описание:** <span style="color: #645252;font-size:20px">Когда порождения зла остаются на поле боя, они призывают в бой 4 демонов. У демонов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК, </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, 700 ЗЩТ и 500 ед. критического удара, они сохраняются в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 2 : Жар
  **Описание:** <span style="color: #645252;font-size:20px">&lt;Огненный источник&gt; порождений зла повышает исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Исцеление от &lt;Огненного источника&gt; повышается на 5% за каждый используемый отряд Инферно.</span><span style="color: black">
 
-### Обычное умение 3 : Lord's Will
+### Обычное умение 3 : Воля владыки
  **Описание:** <span style="color: #645252;font-size:20px">Когда порождения зла участвуют в бою, ваши бесы, демоны и элементали Огня получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к здоровью и атаке.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -146,19 +146,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Исцеление
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -190,7 +190,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: призывает демона, увеличивая сопротивление отряда урону на 40%, а уклонение - на 800</span>
 
 ### 4th Skill (or 3rd): Дар любви
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Lord's Summon&gt;</span><span style="color: #645252;font-size:18px">When a hostile unit is downed, Pit Fiend will summon 4 Demons</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Призыв лорда&gt;</span><span style="color: #645252;font-size:18px">: при поражении вражеского отряда порождение зла вызывает 4 демонов</span>
 
 ### 5th Skill (or 6th): Восхищенный верующий
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воля лорда&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда и всех союзных отрядов Инферно повышается на 6% каждые 10 сек. После каждого поражения вражеского отряда эффект срабатывает 1 раз. Складывается до 5 раз</span>

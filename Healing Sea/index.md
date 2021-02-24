@@ -2,43 +2,43 @@
 title: "Era of Chaos - Море чудес - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Эра хаоса Море чудес. List of ALL Море чудес questions with correct answers"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "healingSea"
 toc: false
 classes: wide
 ---
 
-#### <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Правила события</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e">1. Во время события игроки могут получить щедрые награды, бросая кубики. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">2. Каждый раз при прохождении через старт награды на клетках обновляются. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">3. В день можно получить несколько бесплатных бросков. Если вы истратили все бесплатные броски, можно купить еще, но на следующий день количество бросков обнуляется. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">4. Игроки за участие в событиях могут получить купоны на скидку, телепорты и кристаллы драконьей крови. Номинал всех купонов составляет 300, они действуют ограниченное время и на ограниченное число товаров. Купоны не суммируются, на одну покупку можно потратить только один купон. Телепорты можно заработать не только в диалоговых событиях, но и набрав 100/200 очков активности в ежедневных заданиях. Телепорт активируется по нажатию в правом нижнем углу экрана «События». </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">5. Limited-time Store: Different discounted items will be sold for a limited time every day during the event.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
-   <span style="color: #3c2a1e">6. Limited-quantity Store: Discounted units of the day will be sold every day during the event.</span><br/>
+   <span style="color: #3c2a1e">5. Ограниченные по времени товары: в период события каждый день в магазине будут продаваться различные товары со скидкой. По истечении указанного времени купить их будет уже нельзя. </span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+   <span style="color: #3c2a1e">6. Ограниченное число товаров: в период события каждый день в магазине будут продаваться различные отряды со скидкой. </span><br/>
 #### Items on map: 
 
  -  Увесистый кошель алмазов. ( **x77** gems) 
 
- -  1 Sack of Gold. ( **x50000** gold)
+ -  Большой мешок золота. ( **x50000** gold)
 
- -  [Pop Quiz time!](#pop-quiz-time) 
+ -  [Прикоснись к прекрасному.](#pop-quiz-time) 
 
  -  Маленький непримечательный осколок. (reward one from below)
 
-    1.  **500x Soul Stone** (Камень души, полученный при разборе эмблем святости и используемый для покупки предметов в магазине эмблем.) 
+    1.  **500x Камень души** (Камень души, полученный при разборе эмблем святости и используемый для покупки предметов в магазине эмблем.) 
 
     2.  **3x Фиолетовый кристалл** (Таинственный рунный камень. Может значительно улучшить умение проницательности ваших отрядов. При использовании дает 450 ед. опыта умения.) 
 
-    3.  **200x Spell Scrolls** (Таинственный свиток, содержащий очищенную магическую силу. Требуется для изучения высокоуровневых умений вашими героями.) 
+    3.  **200x Свиток заклинания** (Таинственный свиток, содержащий очищенную магическую силу. Требуется для изучения высокоуровневых умений вашими героями.) 
 
-    4.  **200x Dragonsteel** (A pile of Dragonsteel (a level 3 resource); can be used to improve Barracks.) 
+    4.  **200x Драконья сталь** (Груда драконьей стали (ресурс уровня 3), можно использовать для улучшения казарм.) 
 
-    5.  **1x Energy Scroll** (Используется для улучшения умений на поле боя и всех умений бойцов подкреплений.) 
+    5.  **1x Свиток энергии** (Используется для улучшения умений на поле боя и всех умений бойцов подкреплений.) 
 
-    6.  **3x Ancient Temple Scroll** (Таинственный свиток из древнего храма. Только редким счастливцам покорится вся его сила - с его помощью можно один раз обновить способности героя.) 
+    6.  **3x Свиток древнего храма** (Таинственный свиток из древнего храма. Только редким счастливцам покорится вся его сила - с его помощью можно один раз обновить способности героя.) 
 
-    7.  **100x Небесный камень заклятий** (A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.) 
+    7.  **100x Небесный камень заклятий** (Кристалл, оставшийся после эпохи чудес. Обязательный материал для улучшения сокровищ.) 
 
     8.  **100x Ингредиенты зелья таланта** (Ингредиенты для создания зелья таланта. В результате вы получите зелье таланта для случайного отряда.) 
 
@@ -47,7 +47,7 @@ classes: wide
 **Tip:** Получите награду, когда число попыток достигнет определенного количества!
 {: .notice--danger}
 
-#### Pop Quiz time! 
+#### Прикоснись к прекрасному. 
 
 ##### 1. В известной легендарной битве кто больше убил орков: гном или эльф? 
 
@@ -57,7 +57,7 @@ classes: wide
 
    **Correct Answer:** **B. Гном** 
 
-   **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
+   **Rewards:**  **300x Кристалл драконьей крови** (Груда кристаллов драконьей крови (ресурс уровня 4), можно использовать для улучшения казарм.)
 
    *Wrong Answer:* *A. Эльф* 
 
@@ -71,7 +71,7 @@ classes: wide
 
    **Correct Answer:** **A. Вот в чем вопрос** 
 
-   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
+   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
    *Wrong Answer:* *B. Это не вопрос* 
 
@@ -85,7 +85,7 @@ classes: wide
 
    **Correct Answer:** **B. Кригане** 
 
-   **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
+   **Rewards:**  **1x Техника телепортации** (Искусство мгновенного перемещения, используется в событии «Море чудес».)
 
    *Wrong Answer:* *A. Орки* 
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Предлагаю слепить снежного циклопа** 
 
-   **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
+   **Rewards:**  **1x Техника телепортации** (Искусство мгновенного перемещения, используется в событии «Море чудес».)
 
    *Wrong Answer:* *A. Нет* 
 
@@ -113,49 +113,49 @@ classes: wide
 
    **Correct Answer:** **B. Минотавр** 
 
-   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
+   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
-   *Wrong Answer:* *A. Centaur* 
+   *Wrong Answer:* *A. Кентавр* 
 
 ---
 
-##### 6. Who looks more likely to interrupt an adventurer's adventure? 
+##### 6. Кто с большей вероятностью положит конец вашим приключениям? 
 
    **Title:**  Авантюрист
 
-   **Question:** Who looks more likely to interrupt an adventurer's adventure?
+   **Question:** Кто с большей вероятностью положит конец вашим приключениям?
 
    **Correct Answer:** **B. Лучник** 
 
-   **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
+   **Rewards:**  **300x Кристалл драконьей крови** (Груда кристаллов драконьей крови (ресурс уровня 4), можно использовать для улучшения казарм.)
 
    *Wrong Answer:* *A. Черный дракон* 
 
 ---
 
-##### 7. Who died and then destroyed the ice wall? 
+##### 7. Какой дракон, умирая, разрушил ледяную стену? 
 
    **Title:**  Мертвый король
 
-   **Question:** Who died and then destroyed the ice wall?
+   **Question:** Какой дракон, умирая, разрушил ледяную стену?
 
    **Correct Answer:** **B. Золотой дракон** 
 
-   **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
+   **Rewards:**  **1x Техника телепортации** (Искусство мгновенного перемещения, используется в событии «Море чудес».)
 
    *Wrong Answer:* *A. Зеленый дракон* 
 
 ---
 
-##### 8. Courage, faith, and________! 
+##### 8. Быстрее, выше, ________! 
 
    **Title:**  Лозунг
 
-   **Question:** Courage, faith, and________!
+   **Question:** Быстрее, выше, ________!
 
    **Correct Answer:** **A. Сильнее** 
 
-   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
+   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
    *Wrong Answer:* *B. Дальше* 
 
@@ -169,7 +169,7 @@ classes: wide
 
    **Correct Answer:** **B. Демоны** 
 
-   **Rewards:**  **1x Купон** (Coupon that can be used in the Healing Sea event.)
+   **Rewards:**  **1x Купон** (Скидочный купон, используется в событии «Море чудес».)
 
    *Wrong Answer:* *A. Ангелы* 
 
@@ -183,7 +183,7 @@ classes: wide
 
    **Correct Answer:** **A. Позор мне** 
 
-   **Rewards:**  **300x Dragon Blood Crystal** (A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks)
+   **Rewards:**  **300x Кристалл драконьей крови** (Груда кристаллов драконьей крови (ресурс уровня 4), можно использовать для улучшения казарм.)
 
    *Wrong Answer:* *B. Позор тебе* 
 
@@ -197,9 +197,9 @@ classes: wide
 
    **Correct Answer:** **B. Подземелье** 
 
-   **Rewards:**  **1x Техника телепортации** (Enables teleportation in the Healing Sea event.)
+   **Rewards:**  **1x Техника телепортации** (Искусство мгновенного перемещения, используется в событии «Море чудес».)
 
-   *Wrong Answer:* *A. Stronghold* 
+   *Wrong Answer:* *A. Цитадель* 
 
 ---
 

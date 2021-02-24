@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 633.55 | 12.375 | 5346.0 |
+  | Зеленый | 633.55 | 12.375 | 5346.0 |
   | Синий | 1267.1 | 24.75 | 10692.0 |
-  | Blue +1 | 1900.65 | 37.125 | 16038.0 |
+  | Синий +1 | 1900.65 | 37.125 | 16038.0 |
   | Синий +2 | 2660.91 | 51.975 | 22453.2 |
   | Фиолетовый | 3421.17 | 66.825 | 28868.4 |
   | Фиолетовый +1 | 4181.43 | 81.675 | 35283.6 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 6842.34 | 133.65 | 57736.8 |
   | Оранжевый +1 | 7856.02 | 153.45 | 66290.4 |
   | Оранжевый +2 | 8869.7 | 173.25 | 74844.0 |
-  | Orange +3 | 9883.38 | 193.05 | 83397.6 |
+  | Оранжевый +3 | 9883.38 | 193.05 | 83397.6 |
   | Оранжевый +4 | 10897.06 | 212.85 | 91951.2 |
-  | Orange +5 | 12417.58 | 242.55 | 104781.6 |
-  | Red | 14444.94 | 282.15 | 121888.8 |
+  | Оранжевый +5 | 12417.58 | 242.55 | 104781.6 |
+  | Красный | 14444.94 | 282.15 | 121888.8 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,20 +67,20 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Острые зубы](/equipment/Острые зубы/) | **АТК** | **DEF** | 
-  | [Ледяной плавник](/equipment/Ледяной плавник/) | **ОЗ** | **DEF** | 
-  | [Хвост чудовища](/equipment/Хвост чудовища/) | **АТК** | **DEF** | 
-  | [Мерзкие щупальца](/equipment/Мерзкие щупальца/) | **ОЗ** | **DEF** | 
+  | [Острые зубы](/equipment/Острые зубы/) | **АТК** | **ЗЩТ** | 
+  | [Ледяной плавник](/equipment/Ледяной плавник/) | **ОЗ** | **ЗЩТ** | 
+  | [Хвост чудовища](/equipment/Хвост чудовища/) | **АТК** | **ЗЩТ** | 
+  | [Мерзкие щупальца](/equipment/Мерзкие щупальца/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
-* [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Злой)
+* [Дыхание дракона](/Emblem/Dragon King's Breath/) (Злой)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
-* [Deterrence](/combination/Deterrence/) 
+* [Сдерживание](/combination/Сдерживание/) 
 
 
 ## Skills
@@ -95,9 +95,9 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Целям наносится дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона каждые 10 сек. со сдерживанием вражеских отрядов в том же ряду в течение 4 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Ледяной плавник
- **Описание:** <span style="color: #645252;font-size:20px">Immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Time Stop&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Revyaratan is deployed, all friendly units gets a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозке</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и урону от заклинаний Воды. За каждый дополнительно размещенный отряд Убежища </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН. Наличие левиафанов дает всем союзным отрядам </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда, скорости атаки и КРИТ. УРН, а также на 2,5% усиливает эффект от отрядов Убежища.</span><span style="color: black">
 
-### Обычное умение 2 : Skeleton Covet
+### Обычное умение 2 : Вожделенные скелеты
  **Описание:** <span style="color: #645252;font-size:20px">УРН отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Два вражеских отряда будут отмечены в начале боя. Метка на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> снижает скорость атаки, КРИТ УРН, УРН отряда и сопротивление отряда урону, а также запрещает воскрешение ангелами первых погибших. &lt;Свирепая челюсть&gt; с шансом 30% восстанавливает </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ. </span><span style="color: black">
 
 ### Обычное умение 3 : Непоколебимое подводное течение
@@ -106,7 +106,7 @@ toc: true
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -152,12 +152,12 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -171,7 +171,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Ancient Sea Monster
+ **Awaking Name:** Демон бездны
 
  **Awaking Описание:** 
 
@@ -241,9 +241,9 @@ toc: true
 
  **posclass:** 1
 
- **talk1:** Ever-forward, my comrades!
+ **talk1:** Вперед, братья и сестры по оружию!
 
- **talk2:** No one can stand in the way of our marching feet.
+ **talk2:** Наше наступление не остановить.
 
  **talk3:** Я сражаюсь под знаменами справедливости, честности, милосердия и смирения!
 

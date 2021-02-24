@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Злая ведьма"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 316.8 | 12.0 | 4327.5 |
+  | Зеленый | 316.8 | 12.0 | 4327.5 |
   | Синий | 633.6 | 24.0 | 8655.0 |
-  | Blue +1 | 950.4 | 36.0 | 12982.5 |
+  | Синий +1 | 950.4 | 36.0 | 12982.5 |
   | Синий +2 | 1330.56 | 50.4 | 18175.5 |
   | Фиолетовый | 1710.72 | 64.8 | 23368.5 |
   | Фиолетовый +1 | 2090.88 | 79.2 | 28561.5 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 3421.44 | 129.6 | 46737.0 |
   | Оранжевый +1 | 3928.32 | 148.8 | 53661.0 |
   | Оранжевый +2 | 4435.2 | 168.0 | 60585.0 |
-  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
+  | Оранжевый +3 | 4942.08 | 187.2 | 67509.0 |
   | Оранжевый +4 | 5448.96 | 206.4 | 74433.0 |
-  | Orange +5 | 6209.28 | 235.2 | 84819.0 |
-  | Red | 7223.04 | 273.6 | 98667.0 |
+  | Оранжевый +5 | 6209.28 | 235.2 | 84819.0 |
+  | Красный | 7223.04 | 273.6 | 98667.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **ОЗ** | **DEF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **ОЗ** | **DEF** | 
+  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -95,7 +95,7 @@ toc: true
 ### Совершенное умение: Разрыв душ
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 18 сек. 2 отрядам в определенном радиусе вокруг цели наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, с шансом 30% накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикация&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Одному вражескому отряду заклинателей наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ злой ведьмы, накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикация&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;интоксикации&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> действует 2 сек. При обычной атаке игнорируется 300 защиты врага.</span><span style="color: black">
 
-### Обычное умение 1 : Magic Mirror
+### Обычное умение 1 : Волшебное зеркало
  **Описание:** <span style="color: #645252;font-size:20px">У злой ведьмы иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;немоте&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, своим присутствием в бою она повышает базовую ману союзных героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. В начале боя боец накладывает на себя и 1 некрупный союзный отряд эффект &lt;Волшебное зеркало&gt;, который действует до конца боя. В бою с отрядами дальнего боя сопротивление урону злых ведьм повышено на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Посох антимагии
@@ -105,7 +105,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Штурмовые отряды Подземелья с шансом 5% при обычной атаке оглушают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравленные&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 2 сек. Через 4 сек. после начала боя Злая ведьма ускоряет атаку союзных штурмовиков на 15%, эффект длится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Злая ведьма перемещается между миром теней и реальностью. Когда она в мире теней, у нее иммунитет к урону, но ее нельзя лечить. Длительность 2 сек. Перезарядка 5 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ### Обычное умение 6 : Алые катакомбы
  **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Подземелья дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. При активации «Разрыва душ» появляется область действия </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Алых катакомб&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Область существует 15 сек. Перезарядка 30 сек.</span><span style="color: black">
@@ -158,19 +158,19 @@ toc: true
 ### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -193,7 +193,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Разбитый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Tactical Decision&gt;:</span><span style="color: #645252;font-size:18px"> Trigger chance of a normal attack is increased by 50%, decreases melee units' tenacity by 60 and DEF by 2%. Lasts for 6s, up to 5 stacks</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Тактическое решение&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания при обычной атаке повышается на 50%. Отряды ближнего боя получают -60 к стойкости и -2% к защите. Этот эффект не может быть рассеян. Длится 6 сек., суммируется до 5 раз.</span>
 
 ### 2nd Skill (or 1st): Стратегия набега
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Тактическое решение&gt;</span><span style="color: #645252;font-size:18px">: шанс срабатывания при обычной атаке повышается на 50%. Стрелковые отряды/заклинатели получают +4% к урону и критическому урону. Этот эффект не может быть рассеян. Длится 6 сек., суммируется до 5 раз.</span>
@@ -202,7 +202,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вой разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда враг применяет магию Земли, его оборонительные отряды получают -20% к исцелению; когда враг применяет магию Воды, его стрелковые отряды получают -20% к скорости атаки; когда враг применяет магию Огня, его атакующие отряды получают -20% к урону; когда враг применяет магию Воздуха, его отряды заклинателей получают немоту на 1,5 сек.</span>
 
 ### 4th Skill (or 3rd): Сила разрушителя магии
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Howl&gt;</span><span style="color: #645252;font-size:18px">When your enemy casts an earth magic spell, your and all friendly Defensive units' healing effect will be increased by 15%. When your enemy casts a water magic spell, your and all friendly Ranged units' ATK speed will be increased by 15%. When your enemy casts a fire magic spell, your and all friendly Offensive units' unit DMG will be increased by 15%. When your enemy casts an air magic spell, your and all friendly Caster units will become immune to \"silence\" for 2s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вой разрушителя магии&gt;</span><span style="color: #645252;font-size:18px">: когда враг применяет магию Земли, оборонительные отряды (ваши и союзников) получают +15% к исцелению. Когда враг применяет магию Воды, скорость стрелковых отрядов (ваших и союзников) повышается на 15%. Когда враг применяет магию Огня, УРН атакующих отрядов (ваших и союзников) повышается на 15%. Когда враг применяет магию Воздуха, вы и союзные отряды получаете иммунитет к немоте на 2 сек.</span>
 
 ### 5th Skill (or 6th): Пронизывающая ядовитая кровь
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Брызги ядовитой крови&gt;</span><span style="color: #645252;font-size:18px">: эффект срабатывает, когда цель повержена. Возможно до 3 срабатываний. Эффект брызг ядовитой крови гарантированно срабатывает раз в 30 сек.</span>

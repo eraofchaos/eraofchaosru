@@ -1,21 +1,21 @@
 ---
-title: "Regnan Pirates"
+title: "Регнанский пират"
 permalink: /units/Regnan Pirates/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Regnan Pirates"
+ref: "Регнанский пират"
 toc: true
 ---
 ## General information
- **Описание:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
+ **Описание:** Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Cove](/units/Faction Cove/)
+ **Фракция: ** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Short description:** Massive DMG increasing courage
+ **Short description:** Храбрость, существенно повышающая УРН.
 
  **Position :** В начале боя устраивает буйство. Большой УВС. Снижает ЗЩТ врагов.
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 49.65 | 4.0 | 521.25 |
+  | Зеленый | 49.65 | 4.0 | 521.25 |
   | Синий | 99.3 | 8.0 | 1042.5 |
-  | Blue +1 | 148.95 | 12.0 | 1563.75 |
+  | Синий +1 | 148.95 | 12.0 | 1563.75 |
   | Синий +2 | 208.53 | 16.8 | 2189.25 |
   | Фиолетовый | 268.11 | 21.6 | 2814.75 |
   | Фиолетовый +1 | 327.69 | 26.4 | 3440.25 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 536.22 | 43.2 | 5629.5 |
   | Оранжевый +1 | 615.66 | 49.6 | 6463.5 |
   | Оранжевый +2 | 695.1 | 56.0 | 7297.5 |
-  | Orange +3 | 774.54 | 62.4 | 8131.5 |
+  | Оранжевый +3 | 774.54 | 62.4 | 8131.5 |
   | Оранжевый +4 | 853.98 | 68.8 | 8965.5 |
-  | Orange +5 | 973.14 | 78.4 | 10216.5 |
-  | Red | 1132.02 | 91.2 | 11884.5 |
+  | Оранжевый +5 | 973.14 | 78.4 | 10216.5 |
+  | Красный | 1132.02 | 91.2 | 11884.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,16 +68,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Toughened Machete](/equipment/Toughened Machete/) | **АТК** | **DEF** | 
-  | [Рубашка моряка](/equipment/Рубашка моряка/) | **ОЗ** | **DEF** | 
-  | [Праведная бандана](/equipment/Праведная бандана/) | **АТК** | **DEF** | 
-  | [Штаны моряка](/equipment/Штаны моряка/) | **ОЗ** | **DEF** | 
+  | [Упрочненное мачете](/equipment/Упрочненное мачете/) | **АТК** | **ЗЩТ** | 
+  | [Рубашка моряка](/equipment/Рубашка моряка/) | **ОЗ** | **ЗЩТ** | 
+  | [Праведная бандана](/equipment/Праведная бандана/) | **АТК** | **ЗЩТ** | 
+  | [Штаны моряка](/equipment/Штаны моряка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
-* [Dragon King's Breath](/Emblem/Dragon King's Breath/) (Злой)
+* [Дыхание дракона](/Emblem/Dragon King's Breath/) (Злой)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Tidal Plunder
- **Описание:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
+### Совершенное умение: Приливный грабитель
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке регнанские пираты могут нанести вдвое больше урона. В начале боя регнанские пираты гарантированно попадут по цели в случае атаки. Отряд также получает +30% к урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Тактические навыки
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты получают +20% к ОЗ. При любой атаке пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону на 6 сек. Эффект может суммироваться максимум до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">.
 
 ### Обычное умение 2 : Оголенный клинок
- **Описание:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. ЗЩТ выбранного целью отряда снижается на 2% на 6 сек. при каждом успешном нанесении критического удара. Эффект может суммироваться до 20%.</span><span style="color: black">
 
-### Обычное умение 3 : Prudence and Greed
+### Обычное умение 3 : Бережливость и алчность
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские пираты наносят больше урона по мере снижения ОЗ. АТК регнанских пиратов повышается по мере снижения ОЗ цели. Их АТК может повыситься максимум на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Спокойное тело
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища прекрасно ориентируются во время шторма. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и шанс 40% приобрести иммунитет к оглушению при использовании эмблемы святости.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Pirate Conflict
+### Эксклюзивное умение фракции II : Конфликт с пиратами
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -142,12 +142,12 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Cove**  (Дозор отрядов Убежища)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Убежище**  (Дозор отрядов Убежища)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Боцман-пират
 
- **Awaking Описание:** 
+ **Awaking Описание:** Поднять паруса! Отдать швартовы! Бей, грабь, убивай! Эти воды будут нашими!
 
 ### Awaking Tasks
  1. 
@@ -232,9 +232,9 @@ toc: true
 
  **posclass:** 1
 
- **talk1:** Ever-forward, my comrades!
+ **talk1:** Вперед, братья и сестры по оружию!
 
- **talk2:** No one can stand in the way of our marching feet.
+ **talk2:** Наше наступление не остановить.
 
  **talk3:** Я сражаюсь под знаменами справедливости, честности, милосердия и смирения!
 

@@ -1,11 +1,11 @@
 ---
-title: "Waspwort"
+title: "Росянка"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Waspwort"
+ref: "Росянка"
 toc: true
 ---
 ## General information
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Short description:** DPS & control
+ **Short description:** УВС и контроль.
 
  **Position :** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 475.15 | 9.5 | 4157.25 |
+  | Зеленый | 475.15 | 9.5 | 4157.25 |
   | Синий | 950.3 | 19.0 | 8314.5 |
-  | Blue +1 | 1425.45 | 28.5 | 12471.75 |
+  | Синий +1 | 1425.45 | 28.5 | 12471.75 |
   | Синий +2 | 1995.63 | 39.9 | 17460.45 |
   | Фиолетовый | 2565.81 | 51.3 | 22449.15 |
   | Фиолетовый +1 | 3135.99 | 62.7 | 27437.85 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 5131.62 | 102.6 | 44898.3 |
   | Оранжевый +1 | 5891.86 | 117.8 | 51549.9 |
   | Оранжевый +2 | 6652.1 | 133.0 | 58201.5 |
-  | Orange +3 | 7412.34 | 148.2 | 64853.1 |
+  | Оранжевый +3 | 7412.34 | 148.2 | 64853.1 |
   | Оранжевый +4 | 8172.58 | 163.4 | 71504.7 |
-  | Orange +5 | 9312.94 | 186.2 | 81482.1 |
-  | Red | 10833.42 | 216.6 | 94785.3 |
+  | Оранжевый +5 | 9312.94 | 186.2 | 81482.1 |
+  | Красный | 10833.42 | 216.6 | 94785.3 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Прочная цветущая ветвь](/equipment/Прочная цветущая ветвь/) | **АТК** | **DEF** | 
-  | [Ядовитый шип](/equipment/Ядовитый шип/) | **ОЗ** | **DEF** | 
-  | [Повелитель цветов](/equipment/Повелитель цветов/) | **АТК** | **DEF** | 
-  | [Пчела-убийца](/equipment/Пчела-убийца/) | **ОЗ** | **DEF** | 
+  | [Прочная цветущая ветвь](/equipment/Прочная цветущая ветвь/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитый шип](/equipment/Ядовитый шип/) | **ОЗ** | **ЗЩТ** | 
+  | [Повелитель цветов](/equipment/Повелитель цветов/) | **АТК** | **ЗЩТ** | 
+  | [Пчела-убийца](/equipment/Пчела-убийца/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -92,21 +92,21 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Чумная игла
- **Описание:** <span style="color: #645252;font-size:20px">Waspwort spits a rain of poison stingers every 12s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and making them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. When causing a Crit hit during a normal attack, Waspwort increases its ATK speed by 5% for the next 10s, up to 20 stacks.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Росянки плюются потоком ядовитых жал каждые 12 сек., нанося цели </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызывая у них </span><span style="color: black"><span style="color: #48b946;font-size:20px">чуму</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. При использовании обычной атаки или успешном нанесении критического удара росянки получают +5% к скорости атаки на следующие 10 сек. Эффект суммируется до 20 раз.</span><span style="color: black">
 
-### Обычное умение 1 : Plague Wasp
+### Обычное умение 1 : Моровая оса
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у росянок есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> призвать 1 моровую осу. Каждый призыв дает дополнительно 2% урона всем союзным отрядам Крепости. Эффект суммируется до 8 раз. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Во время атаки у росянок есть шанс 20% произвести </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Чумную осу&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и шанс 30% снять усиления цели. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #48b946;font-size:20px">&lt;Чумная пчела&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> вызывает </span><span style="color: black"><span style="color: #48b946;font-size:20px">паралич</span><span style="color: black"><span style="color: #645252;font-size:20px"> или </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение цели</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Осы живут 40 сек. В случае гибели осы она наносит урон в размере 4% от максимума ОЗ вражеским отрядам в радиусе действия.</span><span style="color: black">
 
 ### Обычное умение 2 : Усугубление чумы
- **Описание:** <span style="color: #645252;font-size:20px">Waspwort's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and is increased another 75 for every debuff the target has, up to 5 stacks</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Росянки получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару, который дополнительно повышается на 75 за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Инкубатор роя
- **Описание:** <span style="color: #645252;font-size:20px">Waspwort is surrounded by wasps that increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for waspwort. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Swarms of wasps deal damage equal to 0.2% of Max HP to all hostile units within range every 0.1s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;paralyzes&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them. When damage is done, it has a 5% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enemies for 1s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Swarms of wasps increase friendly Fortress unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and life drain by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">                                                                                                                                                                                                                                                                                                                                                           
+ **Описание:** <span style="color: #645252;font-size:20px">Росянка окружена осами, повышающими урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждую росянку. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Рои ос наносят урон, равный 0,2% от макс. ОЗ всем враждебным отрядам в радиусе действия каждые 0,1 сек. и </span><span style="color: black"><span style="color: #48b946;font-size:20px">парализует</span><span style="color: black"><span style="color: #645252;font-size:20px"> их. При нанесении урона существует 5% вероятность </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> врага на 1 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Рои ос увеличивают сопротивление урону дружественного отряда Крепости на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и высасывание жизни на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Rise of Vitality
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -151,14 +151,14 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -170,9 +170,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -184,18 +184,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

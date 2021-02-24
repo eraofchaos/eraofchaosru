@@ -1,15 +1,15 @@
 ---
-title: "Gremlin"
+title: "Гремлин"
 permalink: /units/Gremlin/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы."
 unitID: 601
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Gremlin"
+ref: "Гремлин"
 toc: true
 ---
 ## General information
- **Описание:** Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls.
+ **Описание:** Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 40.5 | 7.5 | 350.7 |
+  | Зеленый | 40.5 | 7.5 | 350.7 |
   | Синий | 81.0 | 15.0 | 701.4 |
-  | Blue +1 | 121.5 | 22.5 | 1052.1 |
+  | Синий +1 | 121.5 | 22.5 | 1052.1 |
   | Синий +2 | 170.1 | 31.5 | 1472.94 |
   | Фиолетовый | 218.7 | 40.5 | 1893.78 |
   | Фиолетовый +1 | 267.3 | 49.5 | 2314.62 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 437.4 | 81.0 | 3787.56 |
   | Оранжевый +1 | 502.2 | 93.0 | 4348.68 |
   | Оранжевый +2 | 567.0 | 105.0 | 4909.8 |
-  | Orange +3 | 631.8 | 117.0 | 5470.92 |
+  | Оранжевый +3 | 631.8 | 117.0 | 5470.92 |
   | Оранжевый +4 | 696.6 | 129.0 | 6032.04 |
-  | Orange +5 | 793.8 | 147.0 | 6873.72 |
-  | Red | 923.4 | 171.0 | 7995.96 |
+  | Оранжевый +5 | 793.8 | 147.0 | 6873.72 |
+  | Красный | 923.4 | 171.0 | 7995.96 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Цеп молнии](/equipment/Цеп молнии/) | **АТК** | **DEF** | 
-  | [Зачарованный капюшон](/equipment/Зачарованный капюшон/) | **ОЗ** | **DEF** | 
-  | [Зачарованные перчатки](/equipment/Зачарованные перчатки/) | **АТК** | **DEF** | 
-  | [Ветрозащитный плащ](/equipment/Ветрозащитный плащ/) | **ОЗ** | **DEF** | 
+  | [Цеп молнии](/equipment/Цеп молнии/) | **АТК** | **ЗЩТ** | 
+  | [Зачарованный капюшон](/equipment/Зачарованный капюшон/) | **ОЗ** | **ЗЩТ** | 
+  | [Зачарованные перчатки](/equipment/Зачарованные перчатки/) | **АТК** | **ЗЩТ** | 
+  | [Ветрозащитный плащ](/equipment/Ветрозащитный плащ/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -98,13 +98,13 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Гремлины получают +100% к скорости атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Убийство драконов
- **Описание:** <span style="color: #645252;font-size:20px">When facing 1-man or 4-man units, Gremlin's normal attack has a chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против отрядов из 1 или 4 бойцов при обычной атаке гремлины получают шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 2 : Magic Will
+### Обычное умение 2 : Магическая воля
  **Описание:** <span style="color: #645252;font-size:20px">Гремлины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ### Обычное умение 3 : Магическое пробуждение
- **Описание:** <span style="color: #645252;font-size:20px">When a Gremlin unit is enhanced by a friendly hero's support spell, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Effective throughout the entire battle, up to 10 stacks.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При усилении гремлинов заклинанием поддержи союзного героя они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект длится в течение всего боя. Суммируется до 10 раз.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Трезвый ум
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Башни мастерски противостоят немоте. Длительность немоты сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black">
@@ -145,19 +145,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
+* **Башня**  (Дозор отрядов Башни)
 * **Стрелок**  (Дозор стрелковых отрядов)
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -169,9 +169,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -183,18 +183,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

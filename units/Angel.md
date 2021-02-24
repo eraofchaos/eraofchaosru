@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /units/Angel/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ангел"
 toc: true
@@ -27,13 +27,13 @@ toc: true
 
  **Unit description:** Порицание: наносит огромный урон 3 отрядам и оглушает их.
 
- **Short description:** Healing aura replenishes allies
+ **Short description:** Целебная аура восстанавливает союзников.
 
- **Position :** Revive dead troops, restore health of the whole unit and deal colossal damage.
+ **Position :** Оживляет павших бойцов, восстанавливает здоровье всего отряда и наносит огромный урон.
 
- **Unit extra description:** Angel can resurrect dead units.
+ **Unit extra description:** Ангел может возрождать павшие отряды.
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+ **Recommend:** Высокий боевой дух дает отрядам преимущества, например дополнительные ходы.
 
 ## Базовые параметры
  **Base HP: 5431.0**
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 396.0 | 4.75 | 4073.25 |
+  | Зеленый | 396.0 | 4.75 | 4073.25 |
   | Синий | 792.0 | 9.5 | 8146.5 |
-  | Blue +1 | 1188.0 | 14.25 | 12219.75 |
+  | Синий +1 | 1188.0 | 14.25 | 12219.75 |
   | Синий +2 | 1663.2 | 19.95 | 17107.65 |
   | Фиолетовый | 2138.4 | 25.65 | 21995.55 |
   | Фиолетовый +1 | 2613.6 | 31.35 | 26883.45 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 4276.8 | 51.3 | 43991.1 |
   | Оранжевый +1 | 4910.4 | 58.9 | 50508.3 |
   | Оранжевый +2 | 5544.0 | 66.5 | 57025.5 |
-  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Оранжевый +3 | 6177.6 | 74.1 | 63542.7 |
   | Оранжевый +4 | 6811.2 | 81.7 | 70059.9 |
-  | Orange +5 | 7761.6 | 93.1 | 79835.7 |
-  | Red | 9028.8 | 108.3 | 92870.1 |
+  | Оранжевый +5 | 7761.6 | 93.1 | 79835.7 |
+  | Красный | 9028.8 | 108.3 | 92870.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Empire's Sword](/equipment/Empire's Sword/) | **АТК** | **DEF** | 
-  | [Легкая боевая броня](/equipment/Легкая боевая броня/) | **ОЗ** | **DEF** | 
-  | [Легкие рукавицы](/equipment/Легкие рукавицы/) | **АТК** | **DEF** | 
-  | [Наплечники легкости](/equipment/Наплечники легкости/) | **ОЗ** | **DEF** | 
+  | [Меч империи](/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
+  | [Легкая боевая броня](/equipment/Легкая боевая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Легкие рукавицы](/equipment/Легкие рукавицы/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники легкости](/equipment/Наплечники легкости/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -95,21 +95,21 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Осуждение
- **Описание:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ангелы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Воскрешение
- **Описание:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ангелы воскрешают 1 из своих отрядов и восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ для этого отряда.</span><span style="color: black">
 
 ### Обычное умение 2 : Сияние
  **Описание:** <span style="color: #645252;font-size:20px">Когда ангелы на поле боя, все союзные отряды получают каждые 2 сек. дополнительное восстановление ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : Целеустремленный снайпер
- **Описание:** <span style="color: #645252;font-size:20px">Angel's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ангелы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и +10% к урону. В бою ангелов против фракции Инферно они получают +50% к урону отряда. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -144,11 +144,11 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -162,37 +162,37 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Archangel
+ **Awaking Name:** Архангел
 
  **Awaking Описание:** Те, кто были рождены стать мессией. Когда в вашей стране наступают тяжелые времена, проявляются защищающие ее силы. Так происходило всегда, с самых древних времен. И народы Эрафии знают, что все, кто вписан в книгу, будут спасены. Книга Гнева 12:1
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Angel with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте ангелов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Archangel souls in the Underground: 15-2 and 15-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ архангелов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Angel and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте ангелов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Trinity
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle</span>
+### 1st Skill (or 2nd): Троица
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Порицание&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону для 3 союзных отрядов повышается на 10%. Эффект длится в течение всего боя.</span>
 
 ### 2nd Skill (or 1st): Возвращайся
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Порицание&gt;</span><span style="color: #645252;font-size:18px">: ОЗ отряда, у которого их осталось меньше всего, восстанавливаются на 15% от максимума</span>
 
-### 3rd Skill (or 4th): Salvation
+### 3rd Skill (or 4th): Спасение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: все союзные отряды получают иммунитет к урону на 6 сек. Ангел неуязвим к немоте</span>
 
-### 4th Skill (or 3rd): Immersion
+### 4th Skill (or 3rd): Погружение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Воскрешение&gt;</span><span style="color: #645252;font-size:18px">: здоровье всех союзных отрядов восстанавливается на 10% от максимума. Ангел неуязвим к немоте</span>
 
-### 5th Skill (or 6th): Gospel Talk
+### 5th Skill (or 6th): Благая весть
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сияние&gt;</span><span style="color: #645252;font-size:18px">: когда ангел находится на поле боя, все союзные отряды получают +35% к исцелению</span>
 
-### 6th Skill (or 5th): Ordination
+### 6th Skill (or 5th): Посвящение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сияние&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается на 150% от эффекта предыдущего умения. Сопротивление урону повышается на 10% для всех союзных отрядов.</span>
 
 ## Technical info

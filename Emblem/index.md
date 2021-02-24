@@ -2,7 +2,7 @@
 title: "Эмблема святости"
 permalink: /Emblem/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эмблема святости значительно усиливает отряд. Возможны разные виды и комбинации эмблем святости. Эмблема святости дает великолепные дополнительные параметры."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "index.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Зловещий знак](/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
-  | 2 | [Successors' Legal Principles](/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
+  | 2 | [Принципы наследия](/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
   | 3 | [Похоть](/Emblem/Lust/) | Хаос | Подходит оборонительным отрядам | 
-  | 4 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Злой | Recommended to inlay for 4/9/16-man units | 
+  | 4 | [Просвещение тьмой](/Emblem/Darkness Enlightenment/) | Злой | Больше всего подходит отрядам из 4/9/16 существ | 
   | 5 | [Жетон Аксо](/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 
-  | 6 | [Гордыня](/Emblem/Arrogance/) | Хаос | Recommended to inlay for units with DPS | 
+  | 6 | [Гордыня](/Emblem/Arrogance/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 7 | [Святилище Космоса](/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
   | 8 | [Забытая фамилия](/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
   | 9 | [Вина Тарнума](/Emblem/Tarnum's Culpability/) | Нейтральный | Подходит для любых отрядов | 
@@ -32,22 +32,22 @@ classes: wide
   | 11 | [Благословение](/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
   | 12 | [Зеленый пророк](/Emblem/Green Prophet/) | Добро | Подходит для любых отрядов | 
   | 13 | [Разбитое пророчество](/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
-  | 14 | [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) | Порядок | Recommended to inlay for units with DPS | 
+  | 14 | [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
   | 15 | [Стена познания](/Emblem/Wall of Knowledge/) | Добро | Подходит для любых отрядов | 
   | 16 | [Суд отцов](/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
   | 17 | [Древний огонь](/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
-  | 18 | [Путь ассасина](/Emblem/Path of an Assassin/) | Нейтральный | Recommended to inlay for units with DPS | 
-  | 19 | [Dragon King's Breath](/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
+  | 18 | [Путь ассасина](/Emblem/Path of an Assassin/) | Нейтральный | Больше всего подходит отрядам с УВС | 
+  | 19 | [Дыхание дракона](/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
   | 20 | [Снаряжение времени](/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
-  | 21 | [Ключ меча и магии](/Emblem/Stone Key to the Gates/) | Нейтральный | Recommended to inlay for units that make enemies bleed | 
-  | 22 | [Jealousy](/Emblem/Jealousy/) | Хаос | Recommended to inlay for units with DPS | 
+  | 21 | [Ключ меча и магии](/Emblem/Stone Key to the Gates/) | Нейтральный | Подходит отрядам, выз. у врагов кровотеч. | 
+  | 22 | [Ревность](/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 23 | [Тайна Неувядающего](/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
-  | 24 | [Ангел-хранитель](/Emblem/Guardian Angel/) | Добро | Recommended to inlay for units with DPS | 
+  | 24 | [Ангел-хранитель](/Emblem/Guardian Angel/) | Добро | Больше всего подходит отрядам с УВС | 
   | 25 | [Королевская беда](/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
   | 26 | [Ядро мировой сети](/Emblem/Core of the Global Network/) | Нейтральный | Подходит для любых отрядов | 
   | 27 | [Гнев](/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 
-  | 28 | [Крылья грифона](/Emblem/Griffin Wings/) | Порядок | Recommended to inlay for units with DPS | 
-  | 29 | [Ум](/Emblem/Witness/) | Добро | Recommended to inlay for units with DPS | 
+  | 28 | [Крылья грифона](/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 29 | [Ум](/Emblem/Witness/) | Добро | Больше всего подходит отрядам с УВС | 
 
 ## Правила
 

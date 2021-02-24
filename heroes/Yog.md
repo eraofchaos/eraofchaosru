@@ -1,22 +1,22 @@
 ---
-title: "Yog"
+title: "Йог"
 permalink: /heroes/Yog/
-excerpt: "Эра хаоса Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
+excerpt: "Эра хаоса Йог. Йог. Йог много лет обучался у магов в Бракаде, но всегда предпочитал изучение военных стратегий магическим рунам. Позже его заметил герцог Крулода, и возвысил до предводителя армии варваров."
 heroID: 60604
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Yog"
 toc: true
 ---
- **Описание:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
+ **Описание:** Йог много лет обучался у магов в Бракаде, но всегда предпочитал изучение военных стратегий магическим рунам. Позже его заметил герцог Крулода, и возвысил до предводителя армии варваров.
 ## Details
- **Profession:** Barbarian
+ **Profession:** Варвар
 
  **Race:** Цитадель
 
  **Rate:** SR
 
- **Specialty:** Raging Cyclops
+ **Specialty:** Разъяренные циклопы
 
  **Specialty Desc:** Под предводительством Йога циклопы получают улучшение до разъяренных циклопов. Их боевые и атакующие навыки значительно улучшаются.
 
@@ -50,7 +50,7 @@ toc: true
    - Герцог Борагус назначил Йога командующим циклопами. Но сначала их нужно обуздать...
    - Килгор считал себя подходящим для этого поста, потому он бросил вызов Йогу...
    - Йог отправил Дивный доспех и Сандалии святого пророку Алундре в Таталию.
-   - Yog sent the Celestial Necklace of Bliss and the Lion's Shield of Courage to Fiur and Teroven, the hermits hiding in Erathia.
+   - Йог отправил Ожерелье небесного блаженства и Щит львиной храбрости Фиуру и Теровену - отшельникам, живущим в Эрафии.
    - Йог отправил Шлем небесного просветления и Меч правосудия паре ученых из Бракады - Рогге и Ораку.
 
 ## HERO Skins
@@ -74,4 +74,4 @@ toc: true
    - Наступление
    - Доспехи
    - Стрельба
-   - Pathfinding
+   - Поиск пути

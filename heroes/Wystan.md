@@ -3,14 +3,14 @@ title: "Вестан"
 permalink: /heroes/Wystan/
 excerpt: "Эра хаоса Вестан. Вестан. Вестан - старший зять короля Тралосска и второй претендент на престол. Он давно ждет возможности захватить власть."
 heroID: 61504
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Wystan"
 toc: true
 ---
  **Описание:** Вестан - старший зять короля Тралосска и второй претендент на престол. Он давно ждет возможности захватить власть.
 ## Details
- **Profession:** Beast Master
+ **Profession:** Хозяин зверей
 
  **Race:** Крепость
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Убийца
- **Описание:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Описание:** Повышает атаку союзных отрядов в большой области на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">. Эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Длительность действия для отрядов численностью 9 увеличена на 5 сек.
 
 ### 3 Spell: Каменная кожа
- **Описание:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Описание:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
 
 ### 4 Spell: Трясина
- **Описание:** Summons a Morass at the specified location, making friendly Fortress units within a very large range increase their ATK speed by <span style="color: #e07c44;font-size:20px">10%</span><span style="color: black"> and restore HP by <span style="color: #e07c44;font-size:20px">3%</span><span style="color: black"> of their Max HP every second; reduces ATK speed by <span style="color: #e07c44;font-size:20px">30%</span><span style="color: black"> and movement speed by <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> for hostile non-flying units, lasting for {($olast11+$olast12*($sklevel-1))/1000}s.
+ **Описание:** Создает трясину в определенной области, которая дает союзным отрядам Крепости в очень большой области +10% к скорости атаки и +3% от их максимального ОЗ в секунду; кроме того, дает нелетающим противникам -30% к скорости атаки и - 60 к скорости движения; длится <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
 ## HERO Biography
@@ -56,5 +56,5 @@ toc: true
 ## Initial Mastery
    - Наступление
    - Доспехи
-   - Resistance
+   - Сопротивление
    - Ученый

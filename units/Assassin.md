@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -15,9 +15,9 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Neutral Army](/units/Faction Neutral Army/)
+ **Фракция: ** [Нейтральная армия](/units/Faction Neutral Army/)
 
- **Race:** Assassin Guild
+ **Race:** Орден Ассасинов
 
  **Members:** [x1](/units/Unit Member x1/)
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 134.5 | 7.5 | 1589.25 |
+  | Зеленый | 134.5 | 7.5 | 1589.25 |
   | Синий | 269.0 | 15.0 | 3178.5 |
-  | Blue +1 | 403.5 | 22.5 | 4767.75 |
+  | Синий +1 | 403.5 | 22.5 | 4767.75 |
   | Синий +2 | 564.9 | 31.5 | 6674.85 |
   | Фиолетовый | 726.3 | 40.5 | 8581.95 |
   | Фиолетовый +1 | 887.7 | 49.5 | 10489.05 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 1452.6 | 81.0 | 17163.9 |
   | Оранжевый +1 | 1667.8 | 93.0 | 19706.7 |
   | Оранжевый +2 | 1883.0 | 105.0 | 22249.5 |
-  | Orange +3 | 2098.2 | 117.0 | 24792.3 |
+  | Оранжевый +3 | 2098.2 | 117.0 | 24792.3 |
   | Оранжевый +4 | 2313.4 | 129.0 | 27335.1 |
-  | Orange +5 | 2636.2 | 147.0 | 31149.3 |
-  | Red | 3066.6 | 171.0 | 36234.9 |
+  | Оранжевый +5 | 2636.2 | 147.0 | 31149.3 |
+  | Красный | 3066.6 | 171.0 | 36234.9 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,16 +65,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Assassin's Hood](/equipment/Assassin's Hood/) | **АТК** | **DEF** | 
-  | [Hidden Blade](/equipment/Hidden Blade/) | **ОЗ** | **DEF** | 
-  | [Assassin's Belt](/equipment/Assassin's Belt/) | **АТК** | **DEF** | 
-  | [Leather Boots](/equipment/Leather Boots/) | **ОЗ** | **DEF** | 
+  | [Капюшон ассасина](/equipment/Капюшон ассасина/) | **АТК** | **ЗЩТ** | 
+  | [Скрытый клинок](/equipment/Скрытый клинок/) | **ОЗ** | **ЗЩТ** | 
+  | [Защитный пояс](/equipment/Защитный пояс/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные сапоги](/equipment/Кожаные сапоги/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -88,7 +88,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Assassination
+### Совершенное умение: Скрытный убийца
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя ассасин входит в состояние </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;скрытности&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект снимается при проведении атаки.</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> Первая атака ассасина после утраты </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытности</span><span style="color: black"><span style="color: #645252;font-size:20px"> наносит противнику урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и на 30% снижает эффективность лечения на 10 сек. Срабатывает только 1 раз.</span><span style="color: black">
 
 ### Обычное умение 1 : Инстинкт убийцы
@@ -97,7 +97,7 @@ toc: true
 ### Обычное умение 2 : Дымовая завеса
  **Описание:** <span style="color: #645252;font-size:20px">Ассасин бросает себе под ноги дымовую гранату, повышая на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ЗЩТ. Враги в большом радиусе получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">ослепление</span><span style="color: black"><span style="color: #645252;font-size:20px">, их урон и скорость атаки снижаются на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. Восстановление - 18 сек. </span><span style="color: black">
 
-### Обычное умение 3 : Chain Attack
+### Обычное умение 3 : Серия убийств
  **Описание:** <span style="color: #645252;font-size:20px">Ассасины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к УРН отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Когда они убивают противника, этот бонус увеличивается в 3 раза на 20 сек., а также они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">скрытность</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 5 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Столкновение сил
@@ -145,19 +145,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Нейтральный**  (Neutral Roster)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Нейтральный**  (Нейтральный дозор)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
 * [Эцио](/heroes/Ezio/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* unit DMG Reduction
+* Урон отряда
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -169,9 +169,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -183,18 +183,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info
@@ -238,5 +238,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** You'll never catch me!
+ **talk3:** Меня не поймать!
 

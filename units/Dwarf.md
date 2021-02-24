@@ -3,7 +3,7 @@ title: "Гном"
 permalink: /units/Dwarf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Гном"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 27.3 | 13.25 | 993.0 |
+  | Зеленый | 27.3 | 13.25 | 993.0 |
   | Синий | 54.6 | 26.5 | 1986.0 |
-  | Blue +1 | 81.9 | 39.75 | 2979.0 |
+  | Синий +1 | 81.9 | 39.75 | 2979.0 |
   | Синий +2 | 114.66 | 55.65 | 4170.6 |
   | Фиолетовый | 147.42 | 71.55 | 5362.2 |
   | Фиолетовый +1 | 180.18 | 87.45 | 6553.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 294.84 | 143.1 | 10724.4 |
   | Оранжевый +1 | 338.52 | 164.3 | 12313.2 |
   | Оранжевый +2 | 382.2 | 185.5 | 13902.0 |
-  | Orange +3 | 425.88 | 206.7 | 15490.8 |
+  | Оранжевый +3 | 425.88 | 206.7 | 15490.8 |
   | Оранжевый +4 | 469.56 | 227.9 | 17079.6 |
-  | Orange +5 | 535.08 | 259.7 | 19462.8 |
-  | Red | 622.44 | 302.1 | 22640.4 |
+  | Оранжевый +5 | 535.08 | 259.7 | 19462.8 |
+  | Красный | 622.44 | 302.1 | 22640.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мощный молот](/equipment/Мощный молот/) | **АТК** | **DEF** | 
-  | [Horned Helmet](/equipment/Horned Helmet/) | **ОЗ** | **DEF** | 
-  | [Рукавицы печного огня](/equipment/Рукавицы печного огня/) | **АТК** | **DEF** | 
-  | [Наплечники печного огня](/equipment/Наплечники печного огня/) | **ОЗ** | **DEF** | 
+  | [Мощный молот](/equipment/Мощный молот/) | **АТК** | **ЗЩТ** | 
+  | [Рогатый шлем](/equipment/Рогатый шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы печного огня](/equipment/Рукавицы печного огня/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники печного огня](/equipment/Наплечники печного огня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,16 +97,16 @@ toc: true
 ### Совершенное умение: Гномий вой
  **Описание:** <span style="color: #645252;font-size:20px">В начале боя гномы повышают ОЗ у всех ваших отрядов в широком радиусе на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. Эффект длится в течение всего боя. </span><span style="color: black">
 
-### Обычное умение 1 : Smite
+### Обычное умение 1 : Карающий удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у гномов есть шанс нанести целям </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушение</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Крик ярости
  **Описание:** <span style="color: #645252;font-size:20px">«Гномий вой» дает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. </span><span style="color: black">
 
 ### Обычное умение 3 : Сопротивление магии
- **Описание:** <span style="color: #645252;font-size:20px">Dwarves offer protection cover, increasing magic resistance by 30% for all friendly units in it for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Гномы прикрывают остальных, повышая сопротивление магии на 30% у всех отрядов, попавших под их защиту, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -152,7 +152,7 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -163,7 +163,7 @@ toc: true
 * Атака
 * ОЗ
 * Защита
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -175,9 +175,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -189,18 +189,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

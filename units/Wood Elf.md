@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Туча стрел: ненадолго увеличивает скорость атаки на 500%.
 
- **Short description:** Rapid fire. Double strikes
+ **Short description:** Быстрый огонь. Двойные удары.
 
  **Position :** Наносит огромный взрывной урон, двойной удар. Эффективнее всего против маленьких отрядов.
 
- **Unit extra description:** Under the leadership of Gelu, wood elves transform into sharpshooters!
+ **Unit extra description:** Под предводительством Джелу лесные эльфы становятся снайперами!
 
  **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 46.2 | 6.25 | 328.8 |
+  | Зеленый | 46.2 | 6.25 | 328.8 |
   | Синий | 92.4 | 12.5 | 657.6 |
-  | Blue +1 | 138.6 | 18.75 | 986.4 |
+  | Синий +1 | 138.6 | 18.75 | 986.4 |
   | Синий +2 | 194.04 | 26.25 | 1380.96 |
   | Фиолетовый | 249.48 | 33.75 | 1775.52 |
   | Фиолетовый +1 | 304.92 | 41.25 | 2170.08 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 498.96 | 67.5 | 3551.04 |
   | Оранжевый +1 | 572.88 | 77.5 | 4077.12 |
   | Оранжевый +2 | 646.8 | 87.5 | 4603.2 |
-  | Orange +3 | 720.72 | 97.5 | 5129.28 |
+  | Оранжевый +3 | 720.72 | 97.5 | 5129.28 |
   | Оранжевый +4 | 794.64 | 107.5 | 5655.36 |
-  | Orange +5 | 905.52 | 122.5 | 6444.48 |
-  | Red | 1053.36 | 142.5 | 7496.64 |
+  | Оранжевый +5 | 905.52 | 122.5 | 6444.48 |
+  | Красный | 1053.36 | 142.5 | 7496.64 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -72,21 +72,21 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Лесной большой лук](/equipment/Лесной большой лук/) | **АТК** | **DEF** | 
-  | [Венец из древесных листьев](/equipment/Венец из древесных листьев/) | **ОЗ** | **DEF** | 
-  | [Стрелы из нефрита](/equipment/Стрелы из нефрита/) | **АТК** | **DEF** | 
-  | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **ОЗ** | **DEF** | 
+  | [Лесной большой лук](/equipment/Лесной большой лук/) | **АТК** | **ЗЩТ** | 
+  | [Венец из древесных листьев](/equipment/Венец из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
+  | [Стрелы из нефрита](/equipment/Стрелы из нефрита/) | **АТК** | **ЗЩТ** | 
+  | [Короткая мантия из древесных листьев](/equipment/Короткая мантия из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
 * [Замедление](/combination/Замедление/) 
-* [Shield](/combination/Shield/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -100,7 +100,7 @@ toc: true
 ### Совершенное умение: null
  **Описание:** 
 
-### Обычное умение 1 : Double Strike
+### Обычное умение 1 : Двойной удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у лесных эльфов есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> выпустить 2 стрелы. 2-я стрела наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### Обычное умение 2 : Убежище эльфа
@@ -109,7 +109,7 @@ toc: true
 ### Обычное умение 3 : Сосредоточить огонь на вражеском лидере
  **Описание:** <span style="color: #645252;font-size:20px">Лесные эльфы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Лесным эльфам дается дополнительно 40 ед. критического удара за каждый стрелковый отряд на поле боя.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -158,29 +158,29 @@ toc: true
 * Атака
 * ОЗ
 * Скорость атаки
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Grand Elf
+ **Awaking Name:** Высокий эльф
 
  **Awaking Описание:** Лесные птицы служат для них глазами, их стрелы разят без промаха, и они едины с природой. Благородные охотники, воплощение воли огромного леса, высокие эльфы Тулалиона!
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Rampart units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте лесных эльфов и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Бастиона, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз пройти уровень «Безжалостный» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высоких эльфов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте лесных эльфов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Бастиона, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Phantom Concentration
+### 1st Skill (or 2nd): Призрачная концентрация
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Град стрел&gt;</span><span style="color: #645252;font-size:18px">: при получении бонусов &lt;Бешенства&gt; урон отряда увеличивается на 20% на 5 сек.</span>
 
 ### 2nd Skill (or 1st): Ливень

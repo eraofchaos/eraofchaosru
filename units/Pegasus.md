@@ -1,21 +1,21 @@
 ---
 title: "Пегас"
 permalink: /units/Pegasus/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель."
 unitID: 204
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Пегас"
 toc: true
 ---
 ## General information
- **Описание:** Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest.
+ **Описание:** Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель.
 
  **Класс:** [Стрелковый](/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -27,7 +27,7 @@ toc: true
 
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 
- **Short description:** Shields and causes bleed.
+ **Short description:** Укрывает щитом и причиняет кровотечение.
 
  **Position :** Укрывает отряды щитом и вызывает Пегаса.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 97.55 | 5.0 | 858.0 |
+  | Зеленый | 97.55 | 5.0 | 858.0 |
   | Синий | 195.1 | 10.0 | 1716.0 |
-  | Blue +1 | 292.65 | 15.0 | 2574.0 |
+  | Синий +1 | 292.65 | 15.0 | 2574.0 |
   | Синий +2 | 409.71 | 21.0 | 3603.6 |
   | Фиолетовый | 526.77 | 27.0 | 4633.2 |
   | Фиолетовый +1 | 643.83 | 33.0 | 5662.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 1053.54 | 54.0 | 9266.4 |
   | Оранжевый +1 | 1209.62 | 62.0 | 10639.2 |
   | Оранжевый +2 | 1365.7 | 70.0 | 12012.0 |
-  | Orange +3 | 1521.78 | 78.0 | 13384.8 |
+  | Оранжевый +3 | 1521.78 | 78.0 | 13384.8 |
   | Оранжевый +4 | 1677.86 | 86.0 | 14757.6 |
-  | Orange +5 | 1911.98 | 98.0 | 16816.8 |
-  | Red | 2224.14 | 114.0 | 19562.4 |
+  | Оранжевый +5 | 1911.98 | 98.0 | 16816.8 |
+  | Красный | 2224.14 | 114.0 | 19562.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Терновый шакрам](/equipment/Терновый шакрам/) | **АТК** | **DEF** | 
-  | [Вечнозеленый венец](/equipment/Вечнозеленый венец/) | **ОЗ** | **DEF** | 
-  | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **DEF** | 
-  | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **DEF** | 
+  | [Терновый шакрам](/equipment/Терновый шакрам/) | **АТК** | **ЗЩТ** | 
+  | [Вечнозеленый венец](/equipment/Вечнозеленый венец/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **ЗЩТ** | 
+  | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -84,7 +84,7 @@ toc: true
 ## Информация о комбинации
 
 * [Кровотечение](/combination/Кровотечение/) 
-* [Shield](/combination/Shield/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -95,7 +95,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Forest Guardian
+### Совершенное умение: Страж лесов
  **Описание:** <span style="color: #645252;font-size:20px">После смерти пегаса призывается еще один пегас, который продолжает бой. У призванных пегасов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 1 : Острота бритвы
@@ -107,7 +107,7 @@ toc: true
 ### Обычное умение 3 : Конница Серебряных крыльев
  **Описание:** <span style="color: #645252;font-size:20px">Пегасы (в том числе и призванные) получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -178,12 +178,12 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ серебряных пегасов на уровнях 14-2 и 14-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Pegasus and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Ranged units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте пегасов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> стрелковых отрядов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Лесная хроносфера
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Vitality Protection&gt;</span><span style="color: #645252;font-size:18px">Works on all friendly units in the back-row. Skill effect increases to 200% of the previous skill's effect</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: работает для всех союзных отрядов в заднем ряду. Эффект усиливается до 200% от эффекта предыдущего умения</span>
 
 ### 2nd Skill (or 1st): Благословение леса
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Защита жизни&gt;</span><span style="color: #645252;font-size:18px">: эффект усиливается до 200% от эффекта предыдущего умения. В начале боя пегас применяет &lt;Защиту жизни&gt;</span>
@@ -243,7 +243,7 @@ toc: true
 
  **posclass:** 4
 
- **talk1:** I yearn for the skies. I always do.
+ **talk1:** Я тоскую по небесам. Всегда.
 
  **talk2:** Сгинь! Прочь с глаз моих, грязный глупец!
 

@@ -3,7 +3,7 @@ title: "Ледяной демон"
 permalink: /units/Ice Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
 unitID: 908
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ледяной демон"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 282.85 | 12.75 | 4497.225 |
+  | Зеленый | 282.85 | 12.75 | 4497.225 |
   | Синий | 565.7 | 25.5 | 8994.45 |
-  | Blue +1 | 848.55 | 38.25 | 13491.675 |
+  | Синий +1 | 848.55 | 38.25 | 13491.675 |
   | Синий +2 | 1187.97 | 53.55 | 18888.345 |
   | Фиолетовый | 1527.39 | 68.85 | 24285.015 |
   | Фиолетовый +1 | 1866.81 | 84.15 | 29681.685 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 3054.78 | 137.7 | 48570.03 |
   | Оранжевый +1 | 3507.34 | 158.1 | 55765.59 |
   | Оранжевый +2 | 3959.9 | 178.5 | 62961.15 |
-  | Orange +3 | 4412.46 | 198.9 | 70156.71 |
+  | Оранжевый +3 | 4412.46 | 198.9 | 70156.71 |
   | Оранжевый +4 | 4865.02 | 219.3 | 77352.27 |
-  | Orange +5 | 5543.86 | 249.9 | 88145.61 |
-  | Red | 6448.98 | 290.7 | 102536.73 |
+  | Оранжевый +5 | 5543.86 | 249.9 | 88145.61 |
+  | Красный | 6448.98 | 290.7 | 102536.73 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ancient Ice](/equipment/Ancient Ice/) | **АТК** | **DEF** | 
-  | [Ледяное прикосновение](/equipment/Ледяное прикосновение/) | **ОЗ** | **DEF** | 
-  | [Frigid Helm](/equipment/Frigid Helm/) | **АТК** | **DEF** | 
-  | [Throne of Ice](/equipment/Throne of Ice/) | **ОЗ** | **DEF** | 
+  | [Первобытный лед](/equipment/Первобытный лед/) | **АТК** | **ЗЩТ** | 
+  | [Ледяное прикосновение](/equipment/Ледяное прикосновение/) | **ОЗ** | **ЗЩТ** | 
+  | [Венец стужи](/equipment/Венец стужи/) | **АТК** | **ЗЩТ** | 
+  | [Ледяной трон](/equipment/Ледяной трон/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -92,49 +92,50 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Ледяной укол
- **Описание:** <span style="color: #645252;font-size:20px">Каждые 11 сек. ледяной демон активирует «Ледяной укол» и 3 раза наносит вражеским отрядам урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК, а при крит. ударе 3 вражеских отряда в довольно большой области дополнительно получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">обморожение</span><span style="color: black"><span style="color: #645252;font-size:20px">. Длительность 6 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 11 сек. ледяной демон активирует «Ледяной укол» и 3 раза наносит вражеским отрядам урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК, а при крит. ударе 3 вражеских отряда в значительной области дополнительно получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">обморожение</span><span style="color: black"><span style="color: #645252;font-size:20px">. Длительность 6 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Frost Triumph
- **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд Гармонии повышает скорость атаки ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и крит. удар - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд дальнего боя (стрелки/заклинатели) повышает отрядный урон ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> накладывает на цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозку</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 4 сек. и не рассеивается. Перезарядка 8 сек.</span><span style="color: black">
+### Обычное умение 1 : Победа льда
+ **Описание:** <span style="color: #645252;font-size:20px">Урон отряда повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а высасывание жизни на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд Гармонии повышает скорость атаки ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и крит. удар - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд дальнего боя (стрелки/заклинатели) повышает урон отряда ледяного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и пробивание - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляет</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Обычная атака ледяного демона с шансом </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> накладывает на цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">заморозку</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 4 сек. и не рассеивается. Перезарядка 8 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Абсолютный нуль
- **Описание:** <span style="color: #645252;font-size:20px">В присутствии ледяного демона вражеские отряды защиты со здоровьем выше 50% каждые 3 сек. получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, а цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;обморожением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> - на 30% больше урона.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Целям, пораженным </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозкой&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановкой времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, ледяной демон дополнительно наносит урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у всех врагов здоровье ниже 50%, скорость атаки снижается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В присутствии ледяного демона вражеские отряды защиты со здоровьем выше 50% каждые 3 сек. получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, а цели с </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;обморожением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> - на 30% больше урона.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Целям, пораженным </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозкой&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;обморожением&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановкой времени&gt;</span><span style="color: black">,<span style="color: #645252;font-size:20px"> ледяной демон каждые 3 сек. дополнительно наносит урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда ледяной демон появляется на поле, он использует Кару каждые 3 сек. Когда у всех врагов здоровье ниже 50%, они теряют </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> скорости атаки и с шансом 10% получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;обморожение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 3 : Правитель стужи
- **Описание:** <span style="color: #645252;font-size:20px">У Ледяного демона и отрядов в довольно большой области (кроме отрядов Крепости) появляется иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозке&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый 13 сек. ледяной демон дает союзным отрядам дальнего боя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кристальную броню&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, повышающую урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект не рассеивается, не суммируется, длится 6 сек. и исчезает после 5 входящих атак с уроном. У ледяного демона попыток применения вдвое больше.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У Ледяного демона и отрядов в довольно большой области (кроме отрядов Крепости) появляется иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;заморозке&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;остановке времени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый 13 сек. ледяной демон дает союзным отрядам дальнего боя </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;кристальную броню&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, повышающую урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект не рассеивается, не суммируется, длится 6 сек. и исчезает после 5 входящих атак с уроном. У ледяного демона попыток применения вдвое больше.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Эксклюзивное умение фракции I : Близость к элементалям
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски наносят урон Гармонии. В бою против отрядов не из Гармонии они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону.</span><span style="color: black">
 
 ### Обычное умение 6 : Студеный край
- **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Гармонии дает ледяному демону +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В первые 8 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Студеного края&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее запускается с интервалом 30 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Гармонии дает ледяному демону +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В первые 8 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Студеного края&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее запускается с интервалом 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*5+25"
-    let str8 = "LEVEL*1.5+22.5"
-    let str5 = "LEVEL*5+25"
-    let str18 = "LEVEL*2+5"
-    let str6 = "LEVEL*0.4+4"
-    let str3 = "LEVEL*0.5+12.5"
-    let str4 = "LEVEL*0.4+4"
+    let str7 = "LEVEL*0.7+4.5"
+    let str8 = "LEVEL*5+25"
+    let str5 = "LEVEL*0.7+4.5"
+    let str18 = "LEVEL*2+4"
+    let str6 = "LEVEL*5+25"
+    let str19 = "LEVEL*2+5"
+    let str3 = "LEVEL*1+15"
+    let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
-    let str2 = "LEVEL*3+5"
-    let str12 = "LEVEL*3+10"
-    let str13 = "LEVEL*1+10"
-    let str10 = "LEVEL*0.5+23.5"
-    let str11 = "LEVEL*0.2+4"
-    let str16 = "(LEVEL*1+5)"
-    let str17 = "LEVEL*2+4"
-    let str9 = "LEVEL*0.2+1.8"
-    let str14 = "LEVEL*5+25"
-    let str15 = "(LEVEL*3+15)"
+    let str2 = "LEVEL*4+10"
+    let str12 = "LEVEL*0.2+4"
+    let str13 = "LEVEL*3+10"
+    let str10 = "LEVEL*0.2+1.8"
+    let str11 = "LEVEL*0.5+23.5"
+    let str16 = "(LEVEL*3+15)"
+    let str17 = "(LEVEL*1+5)"
+    let str9 = "LEVEL*1.5+22.5"
+    let str14 = "LEVEL*1+10"
+    let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -142,6 +143,7 @@ toc: true
      res = eval(str5); document.getElementById('str5').textContent = res;
      res = eval(str18); document.getElementById('str18').textContent = res;
      res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str19); document.getElementById('str19').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
@@ -172,14 +174,14 @@ toc: true
 
 ### Бонус героя
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -191,9 +193,9 @@ toc: true
  **Awaking Описание:** null
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -205,18 +207,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

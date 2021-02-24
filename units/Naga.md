@@ -1,15 +1,15 @@
 ---
-title: "Naga"
+title: "Нага"
 permalink: /units/Naga/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Naga"
+ref: "Нага"
 toc: true
 ---
 ## General information
- **Описание:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
+ **Описание:** Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
@@ -27,7 +27,7 @@ toc: true
 
  **Unit description:** Танец лезвия: наносит урон в области, снижает защиту от него
 
- **Short description:** Terrifies. Huge damage output
+ **Short description:** Пугает. Огромный урон.
 
  **Position :** Наносит высочайший урон по области. Заклинания героев приводят к срабатыванию усиления атаки.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 112.5 | 5.0 | 1351.5 |
+  | Зеленый | 112.5 | 5.0 | 1351.5 |
   | Синий | 225.0 | 10.0 | 2703.0 |
-  | Blue +1 | 337.5 | 15.0 | 4054.5 |
+  | Синий +1 | 337.5 | 15.0 | 4054.5 |
   | Синий +2 | 472.5 | 21.0 | 5676.3 |
   | Фиолетовый | 607.5 | 27.0 | 7298.1 |
   | Фиолетовый +1 | 742.5 | 33.0 | 8919.9 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 1215.0 | 54.0 | 14596.2 |
   | Оранжевый +1 | 1395.0 | 62.0 | 16758.6 |
   | Оранжевый +2 | 1575.0 | 70.0 | 18921.0 |
-  | Orange +3 | 1755.0 | 78.0 | 21083.4 |
+  | Оранжевый +3 | 1755.0 | 78.0 | 21083.4 |
   | Оранжевый +4 | 1935.0 | 86.0 | 23245.8 |
-  | Orange +5 | 2205.0 | 98.0 | 26489.4 |
-  | Red | 2565.0 | 114.0 | 30814.2 |
+  | Оранжевый +5 | 2205.0 | 98.0 | 26489.4 |
+  | Красный | 2565.0 | 114.0 | 30814.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,16 +69,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Everflowing Blade](/equipment/Everflowing Blade/) | **АТК** | **DEF** | 
-  | [Наплечники морехода](/equipment/Наплечники морехода/) | **ОЗ** | **DEF** | 
-  | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **DEF** | 
-  | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **DEF** | 
+  | [Изобильный клинок](/equipment/Изобильный клинок/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники морехода](/equipment/Наплечники морехода/) | **ОЗ** | **ЗЩТ** | 
+  | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **ЗЩТ** | 
+  | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -95,7 +95,7 @@ toc: true
 ### Совершенное умение: Танец клинков
  **Описание:** <span style="color: #645252;font-size:20px">Нага наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 случайным врагам в широком радиусе и снижают их ЗЩТ на 10% на 10 сек. Эффект суммируется до 4 раз.</span><span style="color: black">
 
-### Обычное умение 1 : Cruelty
+### Обычное умение 1 : Жестокость
  **Описание:** <span style="color: #645252;font-size:20px">Наги всегда попадают. Наги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки. По мере снижения ОЗ цель получает более высокий урон в размере до </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК. Против отрядов Подземелья наги получают +50% к урону отряда и +50% к сопротивлению урону.</span><span style="color: black">
 
 ### Обычное умение 2 : Королева клинков
@@ -147,12 +147,12 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Башня**  (Дозор отрядов Башни)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -175,9 +175,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Naga Queen souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ королев нага на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Naga and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте нага, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
@@ -197,7 +197,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: дает на 3 сек. иммунитет к урону заклинания</span>
 
 ### 6th Skill (or 5th): Заколдованное острие
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: урон отряда повышается еще на 30% на 6 сек.</span>
 
 ## Technical info
  **runart:** 1
@@ -236,9 +236,9 @@ toc: true
 
  **posclass:** 1
 
- **talk1:** Ever-forward, my comrades!
+ **talk1:** Вперед, братья и сестры по оружию!
 
- **talk2:** No one can stand in the way of our marching feet.
+ **talk2:** Наше наступление не остановить.
 
  **talk3:** Я сражаюсь под знаменами справедливости, честности, милосердия и смирения!
 

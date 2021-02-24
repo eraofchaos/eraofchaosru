@@ -1,11 +1,11 @@
 ---
-title: "Venom Spawn"
+title: "Огненный демон"
 permalink: /units/Venom Spawn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы."
 unitID: 509
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Venom Spawn"
+ref: "Огненный демон"
 toc: true
 ---
 **Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 187.5 | 16.0 | 10012.5 |
+  | Зеленый | 187.5 | 16.0 | 10012.5 |
   | Синий | 375.0 | 32.0 | 20025.0 |
-  | Blue +1 | 562.5 | 48.0 | 30037.5 |
+  | Синий +1 | 562.5 | 48.0 | 30037.5 |
   | Синий +2 | 787.5 | 67.2 | 42052.5 |
   | Фиолетовый | 1012.5 | 86.4 | 54067.5 |
   | Фиолетовый +1 | 1237.5 | 105.6 | 66082.5 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 2025.0 | 172.8 | 108135.0 |
   | Оранжевый +1 | 2325.0 | 198.4 | 124155.0 |
   | Оранжевый +2 | 2625.0 | 224.0 | 140175.0 |
-  | Orange +3 | 2925.0 | 249.6 | 156195.0 |
+  | Оранжевый +3 | 2925.0 | 249.6 | 156195.0 |
   | Оранжевый +4 | 3225.0 | 275.2 | 172215.0 |
-  | Orange +5 | 3675.0 | 313.6 | 196245.0 |
-  | Red | 4275.0 | 364.8 | 228285.0 |
+  | Оранжевый +5 | 3675.0 | 313.6 | 196245.0 |
+  | Красный | 4275.0 | 364.8 | 228285.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **ОЗ** | **DEF** | 
-  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **АТК** | **DEF** | 
-  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **ОЗ** | **DEF** | 
+  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -91,23 +91,23 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Toad Mountain's Fury
+### Совершенное умение: Гнев жабьей горы
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 20 сек. огненный демон создает вокруг себя озеро лавы, наносящее целям урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК, а также формирует обширный лавовый ландшафт. Он существует </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Оказавшиеся на лавовом ландшафте враги каждую секунду получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ, у них на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> снижается уклонение, на них действует длительное </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Оказавшиеся на лавовом ландшафте союзники (кроме отрядов Замка) каждые 2 сек. получают лечение в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, у них на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается уклонение. У бойцов Инферно дополнительно на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается сопротивление урону и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> - стойкость.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда здоровье огненного демона падает ниже 30%, один раз срабатывает &lt;Гнев жабьей горы&gt;.</span><span style="color: black">
 
 ### Обычное умение 1 : Щит кармы
  **Описание:** <span style="color: #645252;font-size:20px">Присутствие огненного демона снижает скорость атаки всех врагов на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, для стрелков эффект удваивается.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Присутствие огненного демона повышает базовую ману союзников на 15.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда огненного демона атакует боец ближнего боя, при каждом ударе отрядный урон атакующего снижается на 2 сек. на 1%, эффект суммируется до 20 раз.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый присутствующий в бою отряд Инферно дает огненному демону +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Если огненный демон сражается с отрядами Замка, его сопротивление урону повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а урон отряда - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Огненный демон игнорирует часть одиночного урона выше 10% его макс. ОЗ.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">У огненного демона иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению, горению, чуме и болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 2 : Scorched Spirit
+### Обычное умение 2 : Пылающие души
  **Описание:** <span style="color: #645252;font-size:20px">Каждые 8 сек. огненный демон поражает </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горящих&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> бойцов огнем кармы, на 10 сек. накладывая </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;пожар&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. У бойцов в статусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;пожара&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> снижается стойкость, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - атака и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - защита, они каждые 2 сек. получают урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АТК огненного демона.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">После гибели любого отряда (вражеского или союзного) огненный демон получает жемчужину души. Каждый раз, когда огненный демон получает жемчужину души, у союзных отрядов Инферно на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается урон отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - сопротивление урону. Эффект жемчужины души суммируется до 4 раз (сколько бы отрядов ни погибло, каждую секунду образуется 1 жемчужина души).</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Огненный демон получает жемчужину души каждые 20 сек., а также по одной дополнительной жемчужине, когда его здоровье впервые падает ниже 80%, 60%, 40% и 20%.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда накапливается 4 жемчужины души, огненный демон расходует их все и получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Гнев пламени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, при этом эффект жемчужин не исчезает.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда огненный демон получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Гнев пламени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, у него восстанавливается </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается урон отряда, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str21"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - сопротивление урону, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str22"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> - пробивание, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - крит. урон и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - скорость атаки. Эффект длится 5 сек., перезарядка 6 сек.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При входящем крит. ударе у огненного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается отражение урона. Эффект длится 10 сек. и суммируется до 7 раз. Перезарядка 2 сек.</span><span style="color: black">
 
-### Обычное умение 3 : Darkhell Summon
+### Обычное умение 3 : Призыв из острога
  **Описание:** <span style="color: #645252;font-size:20px">При получении статуса </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Гнев пламени&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> огненный демон призывает палача огненной крови. Перезарядка 6 сек. Параметры палача огненной крови: атака </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, здоровье </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str27"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, крит. удар </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str28"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, урон отряда </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str29"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, сопротивление урону </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str30"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, защита </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str31"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, он существует 15 сек.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">На </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str32"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. после появления палача защита огненного демона дополнительно повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str33"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а у союзных отрядов Инферно на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str34"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается урон отряда, на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str35"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - сопротивление урону и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str36"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - скорость атаки.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Палач огненной крови каждые 7 сек. поражает всех врагов &lt;Ликвидацией&gt;, нанося урон в 50% от АТК, цели в статусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;пожара&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> получают дополнительный урон в 25% от АТК, а цели в статусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Печать Инферно&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дополнительно на 3 сек. </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушаются&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Если палач огненной крови убивает отряд, у вражеских героев скорость восстановления маны снижается на 1. Эффект активируется всего 3 раза, вражеские отряды (кроме отрядов Инферно) получают одну </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Печать Инферно&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Печать Инферно&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> действует 5 сек.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">У палача огненной крови иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушению, горению, окаменению, низкому боевому духу, болезни, ослеплению, чуме, кровотечению и немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Палач огненной крови дает союзникам фракции Инферно иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str37"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str38"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str39"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str39"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
 ### Обычное умение 6 : Сумерки богов
  **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Инферно повышает защиту огненного демона на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str40"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а стойкость - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str41"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В первые 5 сек. боя существует область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Сумерек богов&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Действует 15 сек., далее запускается с интервалом 30 сек.</span><span style="color: black">
@@ -213,19 +213,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -243,17 +243,17 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высших паладинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы победить в 1 бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Казнь без страха
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. Охрана святилища увеличивает защиту высших паладинов на 15% за каждого смотрителя святилища на поле боя. Святилище восстанавливает 10% ОЗ в течение первых 3 призывов</span>
 
-### 2nd Skill (or 1st): Sanctuary's Glory
+### 2nd Skill (or 1st): Слава святилища
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. При первых 3 призывах урон и сопротивление урону для ваших отрядов будут увеличены на 10% на 30 сек. Высший паладин призывает смотрителя святилища, выйдя на поле боя</span>
 
-### 3rd Skill (or 4th): Loyalty and Belief
+### 3rd Skill (or 4th): Вера и верность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: паладины получают 22% к сопротивлению отряда урону. Высокий боевой дух не влияет на эффект</span>
 
 ### 4th Skill (or 3rd): Неукротимая вера
@@ -262,7 +262,7 @@ toc: true
 ### 5th Skill (or 6th): Упорство
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. КРИТ. УРН повышается на 50%, а стойкость - на 150. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Ловкое парирование
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. Стойкость всех отрядов в зоне действия повышается на 150, а урон - на 15%. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
 ## Technical info

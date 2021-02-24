@@ -1,16 +1,16 @@
 ---
-title: "Crag Hack"
+title: "Крэг Хак"
 permalink: /heroes/Crag Hack/
-excerpt: "Эра хаоса Crag Hack. Crag Hack. Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
+excerpt: "Эра хаоса Крэг Хак. Крэг Хак. До приезда в Эрафию Крэг Хак был неизвестен. Но в этих диких землях он нашел лучшее применением своим умениям."
 heroID: 60602
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Crag Hack"
 toc: true
 ---
- **Описание:** Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use.
+ **Описание:** До приезда в Эрафию Крэг Хак был неизвестен. Но в этих диких землях он нашел лучшее применением своим умениям.
 ## Details
- **Profession:** Barbarian
+ **Profession:** Варвар
 
  **Race:** Цитадель
 
@@ -32,13 +32,13 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Зыбучие пески
  **Описание:** Создает зыбучие пески в определенном месте, которые наносят урон всем отрядам в размере 2% от их максимального ОЗ каждую секунду. Вражеские отряды получат двойной урон. Снижает сопротивление урону для противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Убийца
- **Описание:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Описание:** Повышает атаку союзных отрядов в большой области на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">. Эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Длительность действия для отрядов численностью 9 увеличена на 5 сек.
 
 ### 4 Spell: Жажда убийства
  **Описание:** Дает всем союзным отрядам ближнего боя +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
@@ -57,7 +57,7 @@ toc: true
  **Описание:** <span style="color: #ffffff;font-size:20px">Слава означает славную гибель на поле боя; битва - есть лучшая награда. </span>
 
 
-### Skin 2: **Golden Duke**
+### Skin 2: **Золотой герцог**
 
  **Описание:** <span style="color: #ffffff;font-size:20px">Разграбив золотые прииски Эрафии, Крэг Хак стал повелителем Крулода. С каждым днем жажда золота росла в нем, толкая на войну со все новыми противниками. </span>
 
@@ -79,7 +79,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Магия Огня
-   - Scouting
-   - Resistance
+   - Разведка
+   - Сопротивление

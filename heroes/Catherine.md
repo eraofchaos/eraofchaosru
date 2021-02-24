@@ -1,9 +1,9 @@
 ---
-title: "Catherine"
+title: "Катерина"
 permalink: /heroes/Catherine/
-excerpt: "Эра хаоса Catherine. Catherine. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
+excerpt: "Эра хаоса Катерина. Катерина. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Catherine"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** Iron Crusader
+ **Specialty:** Железные крестоносцы
 
  **Specialty Desc:** Под предводительством Катерины мечники получают улучшение до железных крестоносцев. Их боевые умения значительно улучшаются, а шанс выживания увеличивается.
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Радость
  **Описание:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
- **Описание:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Описание:** Повышает атаку союзных отрядов в большой области на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">. Эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Длительность действия для отрядов численностью 9 увеличена на 5 сек.
 
 ### 4 Spell: Буран
- **Описание:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
+ **Описание:** Призывает буран, который наносит урон Водой противникам в большой области 5 раз, <span style="color: #e07c44;font-size:20px">замедляя</span><span style="color: black"> их на 8 сек. Общее количество наносимого урона равно <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>.
 
 
 ## HERO Biography
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Королевская свадьба**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">I hope our union will bring peace to the nation and happiness to our people. </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир стране и счастье нашему народу.</span>
 
  **Skin features:** 
 
@@ -92,7 +92,7 @@ toc: true
 
    - Щедрый хозяин
    - Новейший дизайн героя
-   - Unique avatar
+   - Уникальный аватар
 
 ### Skin 5: **Союз Правосудия**
 
@@ -106,7 +106,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Магия Воды
    - Тактика
-   - Resistance
+   - Сопротивление

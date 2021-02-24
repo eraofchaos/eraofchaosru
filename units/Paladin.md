@@ -1,15 +1,15 @@
 ---
 title: "Паладин"
 permalink: /units/Paladin/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности."
 unitID: 108
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Паладин"
 toc: true
 ---
 ## General information
- **Описание:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
+ **Описание:** Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 64.0 | 13.5 | 1941.75 |
+  | Зеленый | 64.0 | 13.5 | 1941.75 |
   | Синий | 128.0 | 27.0 | 3883.5 |
-  | Blue +1 | 192.0 | 40.5 | 5825.25 |
+  | Синий +1 | 192.0 | 40.5 | 5825.25 |
   | Синий +2 | 268.8 | 56.7 | 8155.35 |
   | Фиолетовый | 345.6 | 72.9 | 10485.45 |
   | Фиолетовый +1 | 422.4 | 89.1 | 12815.55 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 691.2 | 145.8 | 20970.9 |
   | Оранжевый +1 | 793.6 | 167.4 | 24077.7 |
   | Оранжевый +2 | 896.0 | 189.0 | 27184.5 |
-  | Orange +3 | 998.4 | 210.6 | 30291.3 |
+  | Оранжевый +3 | 998.4 | 210.6 | 30291.3 |
   | Оранжевый +4 | 1100.8 | 232.2 | 33398.1 |
-  | Orange +5 | 1254.4 | 264.6 | 38058.3 |
-  | Red | 1459.2 | 307.8 | 44271.9 |
+  | Оранжевый +5 | 1254.4 | 264.6 | 38058.3 |
+  | Красный | 1459.2 | 307.8 | 44271.9 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Judgment Sword](/equipment/Judgment Sword/) | **АТК** | **DEF** | 
-  | [Vow Helmet](/equipment/Vow Helmet/) | **ОЗ** | **DEF** | 
-  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **АТК** | **DEF** | 
-  | [Forged Bracers](/equipment/Forged Bracers/) | **ОЗ** | **DEF** | 
+  | [Меч правосудия](/equipment/Меч правосудия/) | **АТК** | **ЗЩТ** | 
+  | [Шлем клятвы](/equipment/Шлем клятвы/) | **ОЗ** | **ЗЩТ** | 
+  | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
+  | [Кованые браслеты](/equipment/Кованые браслеты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,18 +97,18 @@ toc: true
  **Описание:** 
 
 ### Обычное умение 1 : Лидерство
- **Описание:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Паладины получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Побуждение
- **Описание:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Low Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У паладинов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкому боевому духу</span><span style="color: black"><span style="color: #645252;font-size:20px">. Паладины наделяют себя и союзные отряды в широком радиусе </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> и 500 ед. критического удара на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
 
-### Обычное умение 3 : Innocent Domain
- **Описание:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
+### Обычное умение 3 : Чистая область
+ **Описание:** <span style="color: #645252;font-size:20px">У паладинов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">болезни</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда паладины на поле боя, все союзные отряды получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -141,10 +141,10 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -152,7 +152,7 @@ toc: true
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -170,17 +170,17 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ высших паладинов на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Paladin and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle Units and win 1 Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте паладинов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы победить в 1 бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Казнь без страха
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. Охрана святилища увеличивает защиту высших паладинов на 15% за каждого смотрителя святилища на поле боя. Святилище восстанавливает 10% ОЗ в течение первых 3 призывов</span>
 
-### 2nd Skill (or 1st): Sanctuary's Glory
+### 2nd Skill (or 1st): Слава святилища
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подкрепление отважного&gt;</span><span style="color: #645252;font-size:18px">: смотрителю святилища предоставляется охрана святилища. При первых 3 призывах урон и сопротивление урону для ваших отрядов будут увеличены на 10% на 30 сек. Высший паладин призывает смотрителя святилища, выйдя на поле боя</span>
 
-### 3rd Skill (or 4th): Loyalty and Belief
+### 3rd Skill (or 4th): Вера и верность
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: паладины получают 22% к сопротивлению отряда урону. Высокий боевой дух не влияет на эффект</span>
 
 ### 4th Skill (or 3rd): Неукротимая вера
@@ -189,7 +189,7 @@ toc: true
 ### 5th Skill (or 6th): Упорство
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. КРИТ. УРН повышается на 50%, а стойкость - на 150. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
-### 6th Skill (or 5th): Agile Riposte
+### 6th Skill (or 5th): Ловкое парирование
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Побуждение&gt;</span><span style="color: #645252;font-size:18px">: действует на все союзные отряды. Стойкость всех отрядов в зоне действия повышается на 150, а урон - на 15%. Состояние высокого боевого духа продлевается на 10 сек.</span>
 
 ## Technical info

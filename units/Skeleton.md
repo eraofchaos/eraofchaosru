@@ -1,11 +1,11 @@
 ---
-title: "Skeleton"
+title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Skeleton"
+ref: "Скелет"
 toc: true
 ---
 ## General information
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -27,7 +27,7 @@ toc: true
 
  **Unit description:** Костяной щит: усиливает сопротивление урону, когда запас здоровья ниже 50%.
 
- **Short description:** Damage reflection. Immune from bleeding effects
+ **Short description:** Отражение урона. Неуязвим к эффекту кровотечения.
 
  **Position :** Обладает невосприимчивостью к кровотечению, отражает урон, обладает высоким сопротивлением к атакам дальнего боя.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 28.95 | 8.75 | 868.5 |
+  | Зеленый | 28.95 | 8.75 | 868.5 |
   | Синий | 57.9 | 17.5 | 1737.0 |
-  | Blue +1 | 86.85 | 26.25 | 2605.5 |
+  | Синий +1 | 86.85 | 26.25 | 2605.5 |
   | Синий +2 | 121.59 | 36.75 | 3647.7 |
   | Фиолетовый | 156.33 | 47.25 | 4689.9 |
   | Фиолетовый +1 | 191.07 | 57.75 | 5732.1 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 312.66 | 94.5 | 9379.8 |
   | Оранжевый +1 | 358.98 | 108.5 | 10769.4 |
   | Оранжевый +2 | 405.3 | 122.5 | 12159.0 |
-  | Orange +3 | 451.62 | 136.5 | 13548.6 |
+  | Оранжевый +3 | 451.62 | 136.5 | 13548.6 |
   | Оранжевый +4 | 497.94 | 150.5 | 14938.2 |
-  | Orange +5 | 567.42 | 171.5 | 17022.6 |
-  | Red | 660.06 | 199.5 | 19801.8 |
+  | Оранжевый +5 | 567.42 | 171.5 | 17022.6 |
+  | Красный | 660.06 | 199.5 | 19801.8 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Сабля нечестивца](/equipment/Сабля нечестивца/) | **АТК** | **DEF** | 
-  | [Ржавый шлем](/equipment/Ржавый шлем/) | **ОЗ** | **DEF** | 
-  | [Щит нечестивца](/equipment/Щит нечестивца/) | **АТК** | **DEF** | 
-  | [Ржавые наплечники](/equipment/Ржавые наплечники/) | **ОЗ** | **DEF** | 
+  | [Сабля нечестивца](/equipment/Сабля нечестивца/) | **АТК** | **ЗЩТ** | 
+  | [Ржавый шлем](/equipment/Ржавый шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит нечестивца](/equipment/Щит нечестивца/) | **АТК** | **ЗЩТ** | 
+  | [Ржавые наплечники](/equipment/Ржавые наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -146,27 +146,27 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Vidomina](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Skeleton Warrior
+ **Awaking Name:** Скелет-воин
 
  **Awaking Описание:** В давние времена жил мудрый и великий король, которого погубил страх смерти. Теперь он пришел во главе армии мертвых, чтобы вернуть себе свое королевство.
 
@@ -188,10 +188,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Каркас&gt;<span style="color: #645252;font-size:18px">: ЗЩТ увеличивается на 30%. Эффект удваивается, если отряд врага, который вас атакует, обладает низким боевым духом</span>
 
 ### 3rd Skill (or 4th): Темное питание
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases DEF by 30% for every hostile unit's death throughout the entire battle, up to 3 stacks</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стать камнем&gt;</span><span style="color: #645252;font-size:18px">: ЗЩТ повышается на 30% за каждый погибший вражеский отряд на поле боя. Суммируется до 3 раз</span>
 
 ### 4th Skill (or 3rd): Мания нежити
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Turn to Stone&gt;</span><span style="color: #645252;font-size:18px">Increases Magic resistance and DEF by 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стать камнем&gt;</span><span style="color: #645252;font-size:18px">: сопротивление магии и ЗЩТ увеличиваются на 30%</span>
 
 ### 5th Skill (or 6th): Вооружены до зубов
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Костяной щит&gt;</span><span style="color: #645252;font-size:18px">: эффект длится в течение всего боя</span>

@@ -1,11 +1,11 @@
 ---
-title: "Pikeman"
+title: "Копейщик"
 permalink: /units/Pikeman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Pikeman"
+ref: "Копейщик"
 toc: true
 ---
 ## General information
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 42.2 | 8.75 | 483.75 |
+  | Зеленый | 42.2 | 8.75 | 483.75 |
   | Синий | 84.4 | 17.5 | 967.5 |
-  | Blue +1 | 126.6 | 26.25 | 1451.25 |
+  | Синий +1 | 126.6 | 26.25 | 1451.25 |
   | Синий +2 | 177.24 | 36.75 | 2031.75 |
   | Фиолетовый | 227.88 | 47.25 | 2612.25 |
   | Фиолетовый +1 | 278.52 | 57.75 | 3192.75 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 455.76 | 94.5 | 5224.5 |
   | Оранжевый +1 | 523.28 | 108.5 | 5998.5 |
   | Оранжевый +2 | 590.8 | 122.5 | 6772.5 |
-  | Orange +3 | 658.32 | 136.5 | 7546.5 |
+  | Оранжевый +3 | 658.32 | 136.5 | 7546.5 |
   | Оранжевый +4 | 725.84 | 150.5 | 8320.5 |
-  | Orange +5 | 827.12 | 171.5 | 9481.5 |
-  | Red | 962.16 | 199.5 | 11029.5 |
+  | Оранжевый +5 | 827.12 | 171.5 | 9481.5 |
+  | Красный | 962.16 | 199.5 | 11029.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,16 +71,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Голубое копье](/equipment/Голубое копье/) | **АТК** | **DEF** | 
-  | [Plate Helmet](/equipment/Plate Helmet/) | **ОЗ** | **DEF** | 
-  | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **АТК** | **DEF** | 
-  | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **ОЗ** | **DEF** | 
+  | [Голубое копье](/equipment/Голубое копье/) | **АТК** | **ЗЩТ** | 
+  | [Латный шлем](/equipment/Латный шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит часового](/equipment/Щит часового/) | **АТК** | **ЗЩТ** | 
+  | [Латные наплечники](/equipment/Латные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
 * [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -95,7 +95,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Spear Array
+### Совершенное умение: Лес копий
  **Описание:** <span style="color: #645252;font-size:20px">Копейщики наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Железные доспехи
@@ -107,10 +107,10 @@ toc: true
 ### Обычное умение 3 : Воодушевление
  **Описание:** <span style="color: #645252;font-size:20px">Копейщики получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -147,18 +147,18 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -167,12 +167,12 @@ toc: true
 
  **Awaking Name:** Алебардщик
 
- **Awaking Описание:** When the weak are unfairly treated, it is my duty to punish the wicked and help the good. When righteousness is trampled, it is my vow to impose justice. In the face of danger and sacrifice, I remember that sacrifice is loyalty, and honor is my destiny.
+ **Awaking Описание:** Когда слабые страдают от рук сильных и жестоких, мой долг карать зло и жестокость, а также помогать добру. Когда справедливость растоптана, я клянусь отстаивать ее даже ценой моей жизни. Когда впереди меня ждет лишь опасность и жертвы, я помню о том, что в жертвенности кроется высшая верность, и нет опасности превыше чести.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
@@ -184,18 +184,18 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
 
 ### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
 
 ### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
 
 ### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Стратегия проникновения
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
 
-### 6th Skill (or 5th): Fatigue Attack
+### 6th Skill (or 5th): Атака усталостью
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
 
 ## Technical info

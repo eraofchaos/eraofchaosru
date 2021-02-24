@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /units/Swordsman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Мечник"
 toc: true
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Божественная защита снижает получаемый урон.
 
- **Short description:** Shield absorbs damage. Can self heal
+ **Short description:** Щит поглощает урон. Самоисцеление.
 
  **Position :** В начале игры наносит огромный урон. Наносит двойной удар и может исцеляться.
 
- **Recommend:** Deals extra damage to any slowed enemies.
+ **Recommend:** Наносит дополнительный урон все замедленным врагам.
 
 ## Базовые параметры
  **Base HP: 1324.0**
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 27.3 | 13.25 | 993.0 |
+  | Зеленый | 27.3 | 13.25 | 993.0 |
   | Синий | 54.6 | 26.5 | 1986.0 |
-  | Blue +1 | 81.9 | 39.75 | 2979.0 |
+  | Синий +1 | 81.9 | 39.75 | 2979.0 |
   | Синий +2 | 114.66 | 55.65 | 4170.6 |
   | Фиолетовый | 147.42 | 71.55 | 5362.2 |
   | Фиолетовый +1 | 180.18 | 87.45 | 6553.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 294.84 | 143.1 | 10724.4 |
   | Оранжевый +1 | 338.52 | 164.3 | 12313.2 |
   | Оранжевый +2 | 382.2 | 185.5 | 13902.0 |
-  | Orange +3 | 425.88 | 206.7 | 15490.8 |
+  | Оранжевый +3 | 425.88 | 206.7 | 15490.8 |
   | Оранжевый +4 | 469.56 | 227.9 | 17079.6 |
-  | Orange +5 | 535.08 | 259.7 | 19462.8 |
-  | Red | 622.44 | 302.1 | 22640.4 |
+  | Оранжевый +5 | 535.08 | 259.7 | 19462.8 |
+  | Красный | 622.44 | 302.1 | 22640.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Empire's Sword](/equipment/Empire's Sword/) | **АТК** | **DEF** | 
-  | [Officer's Helmet](/equipment/Officer's Helmet/) | **ОЗ** | **DEF** | 
-  | [Empire's Shield](/equipment/Empire's Shield/) | **АТК** | **DEF** | 
-  | [Empire's Pauldrons](/equipment/Empire's Pauldrons/) | **ОЗ** | **DEF** | 
+  | [Меч империи](/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
+  | [Шлем офицера](/equipment/Шлем офицера/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит империи](/equipment/Щит империи/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники империи](/equipment/Наплечники империи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -99,18 +99,18 @@ toc: true
  **Описание:** 
 
 ### Обычное умение 1 : Воодушевление
- **Описание:** <span style="color: #645252;font-size:20px">The Swordsmen's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles under </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Мечники получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Эффект удваивается в состоянии </span><span style="color: black"><span style="color: #48b946;font-size:20px">высокого боевого духа</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Обычное умение 2 : Double Strike
+### Обычное умение 2 : Двойной удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать цель 2 раза. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
-### Обычное умение 3 : Salvation
- **Описание:** <span style="color: #645252;font-size:20px">The Swordsmen's normal attack has a high chance of restoring HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+### Обычное умение 3 : Спасение
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у мечников есть высокий шанс восстановить ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Siege Combat
+### Эксклюзивное умение фракции I : Осадный бой
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Defense Resonance
+### Эксклюзивное умение фракции II : Резонанс защиты
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -145,11 +145,11 @@ toc: true
 ### Связь дозора
 
 * **Замок**  (Дозор отрядов Замка)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
-* [Catherine](/heroes/Catherine/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Катерина](/heroes/Catherine/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -157,7 +157,7 @@ toc: true
 * Атака
 * ОЗ
 * Защита
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
@@ -169,9 +169,9 @@ toc: true
  **Awaking Описание:** Герой, в тот миг, когда ты поднимаешь меч, ты становишься величайшей угрозой для врагов. Несокрушимая вера в твоем сердце - твое самое могучее оружие. Яркий символ щита в руке - несокрушимая сила.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Swordsman with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте мечников и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Замка, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ крестоносцев на уровнях 15-2 и 15-4 в Подземелье.</span>
 
@@ -188,13 +188,13 @@ toc: true
 ### 3rd Skill (or 4th): Вдохновение отважного
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: иммунитет к состоянию низкого боевого духа. Эффект усиливается до 150% от эффекта предыдущего умения.</span>
 
-### 4th Skill (or 3rd): Raise Me Up
+### 4th Skill (or 3rd): Подними меня
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: союзные отряды в большой области получают иммунитет к снижению боевого духа и получают высокий боевой дух, а их сопротивление урону повышается на 10%. Эффект длится 10 сек.</span>
 
 ### 5th Skill (or 6th): Свет спасения
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: ОЗ восстанавливаются в размере 200% от базового значения умения</span>
 
-### 6th Skill (or 5th): A Mighty Heart
+### 6th Skill (or 5th): Могучее сердце
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Спасение&gt;</span><span style="color: #645252;font-size:18px">: мечник получает иммунитет к немоте, оглушению и окаменению</span>
 
 ## Technical info
@@ -234,9 +234,9 @@ toc: true
 
  **posclass:** 2
 
- **talk1:** That was just the warmup! When does the battle begin?
+ **talk1:** Это только начало! А когда бой начнется?
 
- **talk2:** Come to me, my brothers!
+ **talk2:** Ко мне, братья!
 
  **talk3:** Щитом и мечом я положу конец твоему безумию!
 

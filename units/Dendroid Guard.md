@@ -1,21 +1,21 @@
 ---
 title: "Дендроид-страж"
 permalink: /units/Dendroid Guard/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Дендроид-страж"
 toc: true
 ---
 ## General information
- **Описание:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
+ **Описание:** Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Бес
 
@@ -27,7 +27,7 @@ toc: true
 
  **Unit description:** Связывание: Снижает скорость атаки врага, вызывает замедление.
 
- **Short description:** Shields and causes slowdowns.
+ **Short description:** Укрывает щитом и причиняет замедление.
 
  **Position :** Обладает невосприимчивостью к кровотечению, отражает урон и улучшает защиту.
 
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 198.0 | 13.25 | 7636.5 |
+  | Зеленый | 198.0 | 13.25 | 7636.5 |
   | Синий | 396.0 | 26.5 | 15273.0 |
-  | Blue +1 | 594.0 | 39.75 | 22909.5 |
+  | Синий +1 | 594.0 | 39.75 | 22909.5 |
   | Синий +2 | 831.6 | 55.65 | 32073.3 |
   | Фиолетовый | 1069.2 | 71.55 | 41237.1 |
   | Фиолетовый +1 | 1306.8 | 87.45 | 50400.9 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 2138.4 | 143.1 | 82474.2 |
   | Оранжевый +1 | 2455.2 | 164.3 | 94692.6 |
   | Оранжевый +2 | 2772.0 | 185.5 | 106911.0 |
-  | Orange +3 | 3088.8 | 206.7 | 119129.4 |
+  | Оранжевый +3 | 3088.8 | 206.7 | 119129.4 |
   | Оранжевый +4 | 3405.6 | 227.9 | 131347.8 |
-  | Orange +5 | 3880.8 | 259.7 | 149675.4 |
-  | Red | 4514.4 | 302.1 | 174112.2 |
+  | Оранжевый +5 | 3880.8 | 259.7 | 149675.4 |
+  | Красный | 4514.4 | 302.1 | 174112.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -72,10 +72,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ветвь живучести](/equipment/Ветвь живучести/) | **АТК** | **DEF** | 
-  | [Корона изобилия](/equipment/Корона изобилия/) | **ОЗ** | **DEF** | 
-  | [Вечнозеленая руна](/equipment/Вечнозеленая руна/) | **АТК** | **DEF** | 
-  | [Доспех лозы](/equipment/Доспех лозы/) | **ОЗ** | **DEF** | 
+  | [Ветвь живучести](/equipment/Ветвь живучести/) | **АТК** | **ЗЩТ** | 
+  | [Корона изобилия](/equipment/Корона изобилия/) | **ОЗ** | **ЗЩТ** | 
+  | [Вечнозеленая руна](/equipment/Вечнозеленая руна/) | **АТК** | **ЗЩТ** | 
+  | [Доспех лозы](/equipment/Доспех лозы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -87,7 +87,7 @@ toc: true
 
 * [Замедление](/combination/Замедление/) 
 * [Кровотечение](/combination/Кровотечение/) 
-* [Shield](/combination/Shield/) 
+* [Щит](/combination/Щит/) 
 
 
 ## Skills
@@ -98,19 +98,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Bind
+### Совершенное умение: Привязать
  **Описание:** <span style="color: #645252;font-size:20px">Дендроиды-стражи </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедляют</span><span style="color: black"><span style="color: #645252;font-size:20px"> окружающие вражеские отряды в широком радиусе и снижают их скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Стремительный перекат
- **Описание:** <span style="color: #645252;font-size:20px">The Dendroid Guard's normal attack has a great chance to create a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself to absorb damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у дендроидов-стражей есть шанс создать для себя </span><span style="color: black"><span style="color: #48b946;font-size:20px">щит</span><span style="color: black"><span style="color: #645252;font-size:20px">, поглощающий урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ.</span><span style="color: black">
 
 ### Обычное умение 2 : Доспехи из окам. дерева
  **Описание:** <span style="color: #645252;font-size:20px">У дендроидов-стражей иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. </span><span style="color: black">
 
 ### Обычное умение 3 : Деревянный кол
- **Описание:** <span style="color: #645252;font-size:20px">When a Dendroid Guard is under attack, it will reflect damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK, making the attacker </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда дендроиды-стражи подвергаются атаке, они отражают урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК, причиняя напавшему </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечение</span><span style="color: black"><span style="color: #645252;font-size:20px"> в течение 6 сек.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -148,7 +148,7 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Риланд](/heroes/Ryland/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -159,7 +159,7 @@ toc: true
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -175,9 +175,9 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Dendroid Soldier souls in the Underground: 15-2 and 15-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ дендроидов-воинов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Dendroid Guard and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте дендроидов-стражей, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
@@ -185,7 +185,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: скорость атаки отрядов на большом расстоянии повышается на 20% на 10 сек.</span>
 
 ### 2nd Skill (or 1st): Защита леса
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Bind&gt;</span><span style="color: #645252;font-size:18px">Creates a shield for friendly units within a large range that absorbs damage equal to 6% of Max HP when Bind is cast</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Оковы&gt;</span><span style="color: #645252;font-size:18px">: для союзных отрядов создается щит, поглощающий урон в размере 6% от макс. ОЗ.</span>
 
 ### 3rd Skill (or 4th): Окоченение
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Доспехи из окаменевшего дерева&gt;</span><span style="color: #645252;font-size:18px">: сопротивление урону отряда дендроидов-страж-повышается на 20%. Против кровоточащих врагов эффект удваивается</span>

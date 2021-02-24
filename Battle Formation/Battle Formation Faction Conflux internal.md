@@ -1,8 +1,8 @@
 ---
-title: "Боевое построение Conflux"
+title: "Боевое построение Гармония"
 permalink: /Battle Formation/Battle Formation Faction Conflux internal
-excerpt: "Боевое построение Conflux"
-last_modified_at: 2021-02-22
+excerpt: "Боевое построение Гармония"
+last_modified_at: 2021-02-24
 locale: ru
 ref: "BattleFormationFactionConflux"
 toc: false
@@ -11,42 +11,42 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
- [Замок](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+ [Замок](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Бастион](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Некрополь](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Инферно](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Подземелье](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Гармония](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Убежище](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
-  **Fraction:** [Conflux](/units/Faction Conflux)
+  **Fraction:** [Гармония](/units/Faction Conflux)
 
   **Описание:** Небо и земля едины, оба мира переплетены.
 
-**Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Conflux** 
+**Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Гармония** 
 {: .notice--danger}
 
 ## Боевое построение Bonus:
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Conflux Units receive an increase of 5% unit damage when against burning enemy units** |
+  | **2** | **Сражаясь с горящими вражескими отрядами, отряды Гармонии получают +5% к урону отряда** |
   | **3** | **Увеличивает ОЗ всех отрядов Гармонии на 8%** |
   | **4** | **Усиливает ЗЩТ всех отрядов Гармонии на 8%** |
-  | **5** | **Conflux Units will receive an increase of 12% CRIT DMG when against frozen units** |
-  | **6** | **Increases 10% ATK for all Conflux Units** |
-  | **7** | **Increases 10% unit Magic resistance for all Conflux Units** |
-  | **8** | **Conflux Units will receive an increase of 80 Critical Hit when against stunned units** |
+  | **5** | **Сражаясь с замерзшими отрядами, отряды Гармонии получают +12% к КРИТ. УРН** |
+  | **6** | **Усиливает АТК всех отрядов Гармонии на 10%** |
+  | **7** | **Повышает сопротивление магии всех отрядов Гармонии на 10%** |
+  | **8** | **Сражаясь с оглушенными отрядами, отряды Гармонии получают +80 к критическому удару** |
   | **9** | **Ускоряет атаку всех отрядов Гармонии на 4%** |
   | **10** | **Усиливает АТК всех отрядов Гармонии на 15%** |
-  | **11** | **Increases 17% HP for all Conflux Units** |
-  | **12** | **When Conflux Units are against burning and silenced units, 4% unit damage reduction will be increased for them per effect** |
+  | **11** | **Увеличивает ОЗ всех отрядов Гармонии на 17%** |
+  | **12** | **Отряды Гармонии, сражаясь с горящими и немыми отрядами, получают +4% к сопротивлению урону за эффект** |
 
 ## Боевое построение Circle 1:
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Фея](/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | УРН отряда + **0.3** % | 150 |  **10** x [Фея](/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Conflux - A Strike Hit | Accuracy + **6**  | 150 |  **10** x [Фея](/units/Sprite) |
+  | 3 | Conflux - A Strike Hit | Удар по цели + **6**  | 150 |  **10** x [Фея](/units/Sprite) |
   | 4 | Conflux - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Conflux - Ingeniousness | Dodge + **6**  | 150 |  **10** x [Фея](/units/Sprite) |
+  | 5 | Conflux - Ingeniousness | Уклонение + **6**  | 150 |  **10** x [Фея](/units/Sprite) |
   | 6 | Conflux - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Conflux - Shield Practice | Unit DMG Reduction + **0.3** % | 150 |  **10** x [Фея](/units/Sprite) |
+  | 7 | Conflux - Shield Practice | Сокращение УРН отряда + **0.3** % | 150 |  **10** x [Фея](/units/Sprite) |
   | 8 | Conflux - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 9 | Conflux - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Фея](/units/Sprite) |
   | 10 | Conflux - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
@@ -59,16 +59,16 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Фея](/units/Sprite) |
+  | 1 | Conflux - Damage Amplification | УРН отряда + **0.4** % | 160 |  **10** x [Фея](/units/Sprite) |
   | 2 | Conflux - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Conflux - A Strike Hit | Accuracy + **6**  | 160 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
+  | 4 | Conflux - A Strike Hit | Удар по цели + **6**  | 160 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
   | 5 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Conflux - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 7 | Conflux - Ingeniousness | Dodge + **6**  | 160 |  **10** x [Ice Elemental](/units/Ice Elemental) |
+  | 7 | Conflux - Ingeniousness | Уклонение + **6**  | 160 |  **10** x [Элементаль Льда](/units/Ice Elemental) |
   | 8 | Conflux - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 9 | Conflux - Physical Trials | ОЗ + **1** % | 80 |   |
-  | 10 | Conflux - Shield Practice | Unit DMG Reduction + **0.4** % | 160 |  **10** x [Ice Elemental](/units/Ice Elemental) |
+  | 10 | Conflux - Shield Practice | Сокращение УРН отряда + **0.4** % | 160 |  **10** x [Элементаль Льда](/units/Ice Elemental) |
   | 11 | Conflux - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Conflux - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 13 | Conflux - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
@@ -84,19 +84,19 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Ice Elemental](/units/Ice Elemental) |
+  | 1 | Conflux - Damage Amplification | УРН отряда + **0.4** % | 180 |  **10** x [Элементаль Льда](/units/Ice Elemental) |
   | 2 | Conflux - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 3 | Conflux - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 4 | Conflux - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
-  | 5 | Conflux - A Strike Hit | Accuracy + **7**  | 180 |  **10** x [Фея](/units/Sprite) |
+  | 5 | Conflux - A Strike Hit | Удар по цели + **7**  | 180 |  **10** x [Фея](/units/Sprite) |
   | 6 | Conflux - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
   | 7 | Conflux - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
   | 8 | Conflux - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
-  | 9 | Conflux - Ingeniousness | Dodge + **7**  | 180 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
+  | 9 | Conflux - Ingeniousness | Уклонение + **7**  | 180 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
   | 10 | Conflux - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
   | 11 | Conflux - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 12 | Conflux - Physical Trials | ОЗ + **1.2** % | 90 |   |
-  | 13 | Conflux - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
+  | 13 | Conflux - Shield Practice | Сокращение УРН отряда + **0.4** % | 180 |  **10** x [Элементаль Шторма](/units/Storm Elemental) |
   | 14 | Conflux - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 15 | Conflux - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 16 | Conflux - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
@@ -104,7 +104,7 @@ classes: wide
   | 18 | Conflux - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
   | 19 | Conflux - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
   | 20 | Conflux - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
-  | 21 | Conflux - Blaster | Критический удар + **6**  | 180 |  **10** x [Ice Elemental](/units/Ice Elemental) |
+  | 21 | Conflux - Blaster | Критический удар + **6**  | 180 |  **10** x [Элементаль Льда](/units/Ice Elemental) |
   | 22 | Conflux - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
   | 23 | Conflux - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 24 | Conflux - Storm Assaulter | АТК + **1.2** % | 90 |   |
@@ -115,27 +115,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Conflux - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Элементаль Шторма](/units/Storm Elemental) |
+  | 1 | Conflux - Damage Amplification | УРН отряда + **0.5** % | 190 |  **20** x [Элементаль Шторма](/units/Storm Elemental) |
   | 2 | Conflux - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 3 | Conflux - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 4 | Conflux - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 5 | Conflux - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
-  | 6 | Conflux - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Ice Elemental](/units/Ice Elemental) |
+  | 6 | Conflux - A Strike Hit | Удар по цели + **8**  | 190 |  **20** x [Элементаль Льда](/units/Ice Elemental) |
   | 7 | Conflux - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 8 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 9 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 10 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
-  | 11 | Conflux - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Ice Elemental](/units/Ice Elemental) |
+  | 11 | Conflux - Ingeniousness | Уклонение + **8**  | 190 |  **20** x [Элементаль Льда](/units/Ice Elemental) |
   | 12 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 13 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 14 | Conflux - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 15 | Conflux - Physical Trials | ОЗ + **1.4** % | 100 |   |
-  | 16 | Conflux - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Ice Elemental](/units/Ice Elemental) |
+  | 16 | Conflux - Shield Practice | Сокращение УРН отряда + **0.5** % | 190 |  **20** x [Элементаль Льда](/units/Ice Elemental) |
   | 17 | Conflux - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 18 | Conflux - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 19 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 20 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
-  | 21 | Conflux - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Ice Elemental](/units/Ice Elemental) |
+  | 21 | Conflux - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Элементаль Льда](/units/Ice Elemental) |
   | 22 | Conflux - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 23 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 24 | Conflux - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |

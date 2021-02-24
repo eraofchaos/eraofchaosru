@@ -3,7 +3,7 @@ title: "Великан Тор"
 permalink: /units/Troll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Великан Тор"
 toc: true
@@ -28,9 +28,9 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Short description:** Single-target assault. Burst damage.
+ **Short description:** Одиночная атака, выход ярости
 
- **Position :** Single-target assault. Burst damage.
+ **Position :** Одиночная атака, выход ярости
 
 ## Базовые параметры
  **Base HP: 9051.0**
@@ -41,9 +41,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 509.15 | 7.5 | 6788.25 |
+  | Зеленый | 509.15 | 7.5 | 6788.25 |
   | Синий | 1018.3 | 15.0 | 13576.5 |
-  | Blue +1 | 1527.45 | 22.5 | 20364.75 |
+  | Синий +1 | 1527.45 | 22.5 | 20364.75 |
   | Синий +2 | 2138.43 | 31.5 | 28510.65 |
   | Фиолетовый | 2749.41 | 40.5 | 36656.55 |
   | Фиолетовый +1 | 3360.39 | 49.5 | 44802.45 |
@@ -52,10 +52,10 @@ toc: true
   | Оранжевый | 5498.82 | 81.0 | 73313.1 |
   | Оранжевый +1 | 6313.46 | 93.0 | 84174.3 |
   | Оранжевый +2 | 7128.1 | 105.0 | 95035.5 |
-  | Orange +3 | 7942.74 | 117.0 | 105896.7 |
+  | Оранжевый +3 | 7942.74 | 117.0 | 105896.7 |
   | Оранжевый +4 | 8757.38 | 129.0 | 116757.9 |
-  | Orange +5 | 9979.34 | 147.0 | 133049.7 |
-  | Red | 11608.62 | 171.0 | 154772.1 |
+  | Оранжевый +5 | 9979.34 | 147.0 | 133049.7 |
+  | Красный | 11608.62 | 171.0 | 154772.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -68,10 +68,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Цепь из камней](/equipment/Цепь из камней/) | **АТК** | **DEF** | 
-  | [Мощь владыки](/equipment/Мощь владыки/) | **ОЗ** | **DEF** | 
-  | [Доспех павшего врага](/equipment/Доспех павшего врага/) | **АТК** | **DEF** | 
-  | [Сапоги дозорного](/equipment/Сапоги дозорного/) | **ОЗ** | **DEF** | 
+  | [Цепь из камней](/equipment/Цепь из камней/) | **АТК** | **ЗЩТ** | 
+  | [Мощь владыки](/equipment/Мощь владыки/) | **ОЗ** | **ЗЩТ** | 
+  | [Доспех павшего врага](/equipment/Доспех павшего врага/) | **АТК** | **ЗЩТ** | 
+  | [Сапоги дозорного](/equipment/Сапоги дозорного/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -98,7 +98,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">На Тора не действует </span><span style="color: black"><span style="color: #48b946;font-size:20px">сдерживание, истощение и низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, его здоровье повышено на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а сопротивление урону - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Эффект исцеления Тора снижен на 100%, но каждые 2 сек. у него восстанавливается здоровье на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимального.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда Тора атакуют вражеские отряды ближнего боя, на 2 сек. накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">упадок сил</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><span style="color: #48b946;font-size:20px">Упадок сил</span><span style="color: black"><span style="color: #645252;font-size:20px"> активируется раз в 7 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Буйство
- **Описание:** <span style="color: #645252;font-size:20px">Troll increases Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and this effect is doubled when HP drops below 50%. Rampage is triggered the first time the Troll's HP drops below 60% or 4 friendly units are destroyed. After the rampage, Troll upgrades to Troll Warlord and &lt;Meteor's Might&gt; upgrades to &lt;Meteor Burst&gt;.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">&lt;Meteor Burst&gt;: </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the target unit's Max HP to the target unit.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Deals damage equal to 15% of own ATK to 3 random enemy units.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">&lt;Meteor Burst&gt; is cast at a steady rate of once per second and is not affected by Attack Speed bonuses, crowd control skills, or range.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У Тора на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается крит. удар, при снижении здоровья до 50% эффект усиливается вдвое. Когда здоровье первый раз падает ниже 60% или погибают 4 союзных отряда, срабатывает буйство, Тор превращается в бога, &lt;Мощь метеоритов&gt; - в &lt;Бешенные метеориты&gt;.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">&lt;Бешеные метеориты&gt;: </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Целям наносится урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от собственной атаки +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> их макс. ОЗ.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">3 случайным вражеским отрядам наносится урон в 15% собственной атаки.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Умение &lt;Бешеные метеориты&gt; срабатывает каждую секунду, на него не влияют бонус скорости атаки, умения контроля и дальность действия.</span><span style="color: black">
 
 ### Обычное умение 3 : Паника бога войны
  **Описание:** <span style="color: #645252;font-size:20px">У Тора на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> повышается атака и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> - урон отряда. Если у его цели </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;упадок сил&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, она получает на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> больше урона отряда и на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> больше крит. урона. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При каждой атаке Тора на его текущие цели на 0,1 сек. накладывается </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;окаменение&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, также игнорируется </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> защиты целей. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Каждый размещенный отряд Цитадели повышает отрядный урон Тора на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -109,8 +109,8 @@ toc: true
 ### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели хорошо разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
-### Обычное умение 6 : Lord of the Wilderness
- **Описание:** <span style="color: #645252;font-size:20px">When 3 Stronghold units are deployed, increases own Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">6s after the battle starts, the Troll forms a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Wilderness Deathtrap&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain, which expands as the skill levels up. The domain exists for 15s. The domain forms once every 30s after that.</span><span style="color: black">
+### Обычное умение 6 : Владыка дебрей
+ **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Цитадели дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к крит. урону. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">В первые 6 сек. великан Тор вызывает область </span><span style="color: black"><span style="color: #F0F000;font-size:20px">Гибельной пустоши</span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Длительность 15 сек. Далее область появляется каждые 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -175,16 +175,16 @@ toc: true
 * **Стрелок**  (Дозор стрелковых отрядов)
 
 ### Бонус героя
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking

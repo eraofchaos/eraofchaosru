@@ -3,7 +3,7 @@ title: "Эцио"
 permalink: /heroes/Ezio/
 excerpt: "Эра хаоса Эцио. Эцио. Даже находясь в другом мире, Эцио не отказался от своего кредо: действовать во тьме, служа свету."
 heroID: 61901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ezio"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 ## Details
  **Profession:** 
 
- **Race:** Neutral Army
+ **Race:** Нейтральная армия
 
  **Rate:** R+
 
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Беззвучие
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в большой области и накладывает на них <span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black">, которая длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
-### 4 Spell: Eagle Vision
+### 4 Spell: Орлиное зрение
  **Описание:** Все союзные отряды получают <span style="color: #e07c44;font-size:20px">орлиное зрение</span><span style="color: black">, дающее +900 к критическому удару и меткости на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
@@ -63,7 +63,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Магия Воздуха
    - Тактика
-   - Resistance
+   - Сопротивление

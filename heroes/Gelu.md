@@ -1,18 +1,18 @@
 ---
 title: "Джелу"
 permalink: /heroes/Gelu/
-excerpt: "Эра хаоса Джелу. Джелу. Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
+excerpt: "Эра хаоса Джелу. Джелу. Джелу - полуэльф и самый известный воин в Эрафии. Когда он служил королеве Катерине, генерал Морган Кендал заметил и возвысил его."
 heroID: 60301
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Gelu"
 toc: true
 ---
- **Описание:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
+ **Описание:** Джелу - полуэльф и самый известный воин в Эрафии. Когда он служил королеве Катерине, генерал Морган Кендал заметил и возвысил его.
 ## Details
- **Profession:** Ranger
+ **Profession:** Лесничий
 
- **Race:** Rampart
+ **Race:** Бастион
 
  **Rate:** SR+
 
@@ -37,7 +37,7 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Каменная кожа
- **Описание:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Описание:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
 
 ### 3 Spell: Меткость
  **Описание:** Дает союзным отрядам в радиусе действия 100% шанс крит. удара на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
@@ -54,7 +54,7 @@ toc: true
    - Знания о Джелу 5
 
 ## HERO Skins
-### Skin 1: **Classic**
+### Skin 1: **Классический**
 
  **Описание:** <span style="color: #ffffff;font-size:20px">Прошлое Джелу окутано мраком тайны. Наверняка известно только то, что он полуэльф, и возможно, родственник Вори по эльфийской линии.</span>
 
@@ -64,7 +64,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 2: **Scout Team**
+### Skin 2: **Команда разведчиков**
 
  **Описание:** <span style="color: #ffffff;font-size:20px">Снайперы под началом Джелу вселяют страх в сердца врагов. Без счета вражеских офицеров сразили стрелы невидимых стрелков. </span>
 
@@ -106,7 +106,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Мистицизм
    - Стрельба
-   - Resistance
+   - Сопротивление

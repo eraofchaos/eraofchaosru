@@ -3,7 +3,7 @@ title: "Кассандра"
 permalink: /heroes/Kassandra/
 excerpt: "Эра хаоса Кассандра. Кассандра. С малых лет Кассандра воспитывалась как воин Спарты, поэтому ее боевые навыки значительно превосходят навыки простых людей. Когда ее оставили умирать на горе Тайгет, она стала наемницей."
 heroID: 62001
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Kassandra"
 toc: true
@@ -12,7 +12,7 @@ toc: true
 ## Details
  **Profession:** 
 
- **Race:** Neutral Army
+ **Race:** Нейтральная армия
 
  **Rate:** R
 
@@ -63,7 +63,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Wisdom
+   - Мудрость
    - Магия Огня
    - Тактика
-   - Resistance
+   - Сопротивление

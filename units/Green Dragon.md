@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /units/Green Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -13,9 +13,9 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Rampart](/units/Faction Rampart/)
+ **Фракция: ** [Бастион](/units/Faction Rampart/)
 
  **Race:** Дракон
 
@@ -27,11 +27,11 @@ toc: true
 
  **Unit description:** Подкрепление с Небес: наносит огромный урон 3 вражеским отрядам на задней линии.
 
- **Short description:** Water damage. Water resistance
+ **Short description:** Урон Водой. Сопротивление Воде.
 
  **Position :** Атакует войска в заднем ряду, нанося большой урон от магии Воды по области.
 
- **Unit extra description:** Green Dragons attack with added damage over time.
+ **Unit extra description:** Атака зеленых драконов наносит дополнительный периодический урон.
 
  **Recommend:** Магия Воды может нанести дополнительный урон за счет эффекта «Кровотечение».
 
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 509.1 | 4.5 | 3393.75 |
+  | Зеленый | 509.1 | 4.5 | 3393.75 |
   | Синий | 1018.2 | 9.0 | 6787.5 |
-  | Blue +1 | 1527.3 | 13.5 | 10181.25 |
+  | Синий +1 | 1527.3 | 13.5 | 10181.25 |
   | Синий +2 | 2138.22 | 18.9 | 14253.75 |
   | Фиолетовый | 2749.14 | 24.3 | 18326.25 |
   | Фиолетовый +1 | 3360.06 | 29.7 | 22398.75 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 5498.28 | 48.6 | 36652.5 |
   | Оранжевый +1 | 6312.84 | 55.8 | 42082.5 |
   | Оранжевый +2 | 7127.4 | 63.0 | 47512.5 |
-  | Orange +3 | 7941.96 | 70.2 | 52942.5 |
+  | Оранжевый +3 | 7941.96 | 70.2 | 52942.5 |
   | Оранжевый +4 | 8756.52 | 77.4 | 58372.5 |
-  | Orange +5 | 9978.36 | 88.2 | 66517.5 |
-  | Red | 11607.48 | 102.6 | 77377.5 |
+  | Оранжевый +5 | 9978.36 | 88.2 | 66517.5 |
+  | Красный | 11607.48 | 102.6 | 77377.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядовитый рог](/equipment/Ядовитый рог/) | **АТК** | **DEF** | 
-  | [Доспех черного дракона](/equipment/Доспех черного дракона/) | **ОЗ** | **DEF** | 
-  | [Когти распада](/equipment/Когти распада/) | **АТК** | **DEF** | 
-  | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **DEF** | 
+  | [Ядовитый рог](/equipment/Ядовитый рог/) | **АТК** | **ЗЩТ** | 
+  | [Доспех черного дракона](/equipment/Доспех черного дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти распада](/equipment/Когти распада/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -99,15 +99,15 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы плюются перед собой ядом в широком радиусе каждые 30 сек., нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона нелетающим вражеским отрядам в пределах досягаемости. Наносят на 50% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 1 : Ядовитое дыхание
- **Описание:** <span style="color: #645252;font-size:20px">When fighting against a 9-man unit, a normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 targets.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">В бою против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 целям.</span><span style="color: black">
 
 ### Обычное умение 2 : Чешуя Зеленого дракона
- **Описание:** <span style="color: #645252;font-size:20px">The Green Dragon is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and all friendly units' damage reduction to water spells is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Green Dragon gets &lt;Shield&gt;, it will increase attack speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, this effect will last for 15s. For each flying unit deployed, Green Dragon will increase unit's damage by 3%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">У зеленых драконов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px">, а сопротивление урону от заклинаний Воды у всех союзных отрядов повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Щит дает им </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки на 15 сек. Когда союзный летающий отряд в бою, зеленые драконы получают +3% к урону отряда.</span><span style="color: black">
 
 ### Обычное умение 3 : Подкрепление с небес
  **Описание:** <span style="color: #645252;font-size:20px">Зеленые драконы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 врагам в заднем ряду. Наносят на 30% больший урон целям с </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечением</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Calm Proliferation
+### Эксклюзивное умение фракции I : Спокойное распространение
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Бастиона мастерски ведут войну на поле боя. Длительность оглушения и окаменения, от которых они страдают, сокращается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Отметка ненависти
@@ -147,11 +147,11 @@ toc: true
 ### Связь дозора
 
 * **Бастион**  (Дозор отрядов Бастиона)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -159,7 +159,7 @@ toc: true
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -177,7 +177,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых драконов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Green Dragon to win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя зеленых драконов.</span>
 
 ## Awaken Skills
 
@@ -242,9 +242,9 @@ toc: true
 
  **posclass:** 5
 
- **talk1:** Do you really think you can bargain with a dragon?
+ **talk1:** О, думаешь, что можешь торговаться с драконом?
 
- **talk2:** Look into my eyes. Can you feel my power? Unwise mortal, you should feel more fear.
+ **talk2:** Загляни в мои глаза. Чувствуешь мою силу? Вам, глупым смертным, неведом настоящий страх.
 
  **talk3:** Смерть, бедствия и разрушения. Вот ради чего я существую.
 

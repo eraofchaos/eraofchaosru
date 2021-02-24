@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /units/Firebird/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Жар-птица"
 toc: true
@@ -13,9 +13,9 @@ toc: true
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Единорог
 
@@ -33,7 +33,7 @@ toc: true
 
  **Unit extra description:** Жар-птицы особенно сильны, когда атакуют группой. Они могут возрождаться.
 
- **Recommend:** High burst damage, high attack damage and enhancement of fire skills.
+ **Recommend:** Высокий урон от взрыва, высокий урон и усиление умений огня.
 
 ## Базовые параметры
  **Base HP: 4525.0**
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 424.25 | 3.75 | 3393.75 |
+  | Зеленый | 424.25 | 3.75 | 3393.75 |
   | Синий | 848.5 | 7.5 | 6787.5 |
-  | Blue +1 | 1272.75 | 11.25 | 10181.25 |
+  | Синий +1 | 1272.75 | 11.25 | 10181.25 |
   | Синий +2 | 1781.85 | 15.75 | 14253.75 |
   | Фиолетовый | 2290.95 | 20.25 | 18326.25 |
   | Фиолетовый +1 | 2800.05 | 24.75 | 22398.75 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 4581.9 | 40.5 | 36652.5 |
   | Оранжевый +1 | 5260.7 | 46.5 | 42082.5 |
   | Оранжевый +2 | 5939.5 | 52.5 | 47512.5 |
-  | Orange +3 | 6618.3 | 58.5 | 52942.5 |
+  | Оранжевый +3 | 6618.3 | 58.5 | 52942.5 |
   | Оранжевый +4 | 7297.1 | 64.5 | 58372.5 |
-  | Orange +5 | 8315.3 | 73.5 | 66517.5 |
-  | Red | 9672.9 | 85.5 | 77377.5 |
+  | Оранжевый +5 | 8315.3 | 73.5 | 66517.5 |
+  | Красный | 9672.9 | 85.5 | 77377.5 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Клюв неистового пламени](/equipment/Клюв неистового пламени/) | **АТК** | **DEF** | 
-  | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **ОЗ** | **DEF** | 
-  | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **АТК** | **DEF** | 
-  | [Радужные оперенные крылья](/equipment/Радужные оперенные крылья/) | **ОЗ** | **DEF** | 
+  | [Клюв неистового пламени](/equipment/Клюв неистового пламени/) | **АТК** | **ЗЩТ** | 
+  | [Руна воскрешения](/equipment/Руна воскрешения/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти неистового пламени](/equipment/Когти неистового пламени/) | **АТК** | **ЗЩТ** | 
+  | [Радужные оперенные крылья](/equipment/Радужные оперенные крылья/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -102,12 +102,12 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">В бою жар-птиц против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
 ### Обычное умение 2 : Воскрешение
- **Описание:** <span style="color: #645252;font-size:20px">Firebird revives 5s after its first death, restoring </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its HP.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Жар-птицы возрождаются спустя 5 сек. после первой смерти, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ.</span><span style="color: black">
 
 ### Обычное умение 3 : Огненное усиление
  **Описание:** <span style="color: #645252;font-size:20px">У жар-птиц иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">горению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к КРИТ. УРН.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -145,10 +145,10 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
-* [Luna](/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Луна](/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
@@ -156,7 +156,7 @@ toc: true
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Феникс
 
- **Awaking Описание:** The wheel of time rolls forward without stopping. The fire of life goes out and rekindles. Death breeds new life. You shall witness the birth of a new life in the fiery flames. The flames of its rebirth will turn all evil to ashes!
+ **Awaking Описание:** Колесо времени катится вперед без остановки. Огонь жизни гаснет и зажигается вновь. Смерть несет с собой новую жизнь. Вы увидите рождение новой жизни в жарком пламени. И пламя ее перерождения обратит все зло в пепел!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте жар-птиц и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов-магов, чтобы победить </span><span style="color: #1ca216;font-size:18px">14</span><span style="color: #3c2a1e;font-size:18px"> волн зомби в Склепе. (Набег не учитывается при выполнении этого задания).</span>
@@ -187,7 +187,7 @@ toc: true
 ### 3rd Skill (or 4th): Взрывной крест
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: врагам, стоящим в одном ряду с целью, наносится дополнительный урон (целям на пересечении - двойной урон)</span>
 
-### 4th Skill (or 3rd): Lava Breath
+### 4th Skill (or 3rd): Дыхание лавы
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огненное дыхание&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 200%</span>
 
 ### 5th Skill (or 6th): Бескрайняя ярость

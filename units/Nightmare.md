@@ -1,11 +1,11 @@
 ---
-title: "Nightmare"
+title: "Кошмар"
 permalink: /units/Nightmare/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Nightmare"
+ref: "Кошмар"
 toc: true
 ---
 ## General information
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 42.05 | 12.5 | 2018.25 |
+  | Зеленый | 42.05 | 12.5 | 2018.25 |
   | Синий | 84.1 | 25.0 | 4036.5 |
-  | Blue +1 | 126.15 | 37.5 | 6054.75 |
+  | Синий +1 | 126.15 | 37.5 | 6054.75 |
   | Синий +2 | 176.61 | 52.5 | 8476.65 |
   | Фиолетовый | 227.07 | 67.5 | 10898.55 |
   | Фиолетовый +1 | 277.53 | 82.5 | 13320.45 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 454.14 | 135.0 | 21797.1 |
   | Оранжевый +1 | 521.42 | 155.0 | 25026.3 |
   | Оранжевый +2 | 588.7 | 175.0 | 28255.5 |
-  | Orange +3 | 655.98 | 195.0 | 31484.7 |
+  | Оранжевый +3 | 655.98 | 195.0 | 31484.7 |
   | Оранжевый +4 | 723.26 | 215.0 | 34713.9 |
-  | Orange +5 | 824.18 | 245.0 | 39557.7 |
-  | Red | 958.74 | 285.0 | 46016.1 |
+  | Оранжевый +5 | 824.18 | 245.0 | 39557.7 |
+  | Красный | 958.74 | 285.0 | 46016.1 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Nightmare Pupil](/equipment/Nightmare Pupil/) | **АТК** | **DEF** | 
-  | [Огонь в бездне](/equipment/Огонь в бездне/) | **ОЗ** | **DEF** | 
-  | [Подкова пепла](/equipment/Подкова пепла/) | **АТК** | **DEF** | 
-  | [Конский волос пламени](/equipment/Конский волос пламени/) | **ОЗ** | **DEF** | 
+  | [Зрачок кошмара](/equipment/Зрачок кошмара/) | **АТК** | **ЗЩТ** | 
+  | [Огонь в бездне](/equipment/Огонь в бездне/) | **ОЗ** | **ЗЩТ** | 
+  | [Подкова пепла](/equipment/Подкова пепла/) | **АТК** | **ЗЩТ** | 
+  | [Конский волос пламени](/equipment/Конский волос пламени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -100,11 +100,11 @@ toc: true
 ### Обычное умение 3 : null
  **Описание:** 
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски владеют групповой обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -139,19 +139,19 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -160,7 +160,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Описание:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
+ **Awaking Описание:** Существо из мира сновидений, которое вошло в наш мир, перебравшись через реку лавы. Окутан аурой ужаса и изрыгает сжигающее все вокруг яростное пламя. Когда он идет в атаку, даже самые храбрые воины опускают мечи.
 
 ### Awaking Tasks
  1. 

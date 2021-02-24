@@ -1,19 +1,19 @@
 ---
-title: "Roc"
+title: "Рух"
 permalink: /units/Roc/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Roc"
+ref: "Рух"
 toc: true
 ---
 ## General information
- **Описание:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
+ **Описание:** Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов.
 
  **Класс:** [Заклинатель](/units/Unit Class Caster/)
 
- **Класс Описание:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
  **Фракция: ** [Цитадель](/units/Faction Stronghold/)
 
@@ -25,13 +25,13 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
+ **Unit description:** Гром: наносит чудовищный урон всем вражеским врагам на пути.
 
  **Short description:** Огромный урон по воздушным врагам. Всегда критический удар.
 
  **Position :** Наносит высокий магический урон большому количеству вражеских отрядов.
 
- **Unit extra description:** Griffins can attack multiple units.
+ **Unit extra description:** Грифоны могут атаковать сразу несколько отрядов.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -44,9 +44,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 396.0 | 3.0 | 3733.5 |
+  | Зеленый | 396.0 | 3.0 | 3733.5 |
   | Синий | 792.0 | 6.0 | 7467.0 |
-  | Blue +1 | 1188.0 | 9.0 | 11200.5 |
+  | Синий +1 | 1188.0 | 9.0 | 11200.5 |
   | Синий +2 | 1663.2 | 12.6 | 15680.7 |
   | Фиолетовый | 2138.4 | 16.2 | 20160.9 |
   | Фиолетовый +1 | 2613.6 | 19.8 | 24641.1 |
@@ -55,10 +55,10 @@ toc: true
   | Оранжевый | 4276.8 | 32.4 | 40321.8 |
   | Оранжевый +1 | 4910.4 | 37.2 | 46295.4 |
   | Оранжевый +2 | 5544.0 | 42.0 | 52269.0 |
-  | Orange +3 | 6177.6 | 46.8 | 58242.6 |
+  | Оранжевый +3 | 6177.6 | 46.8 | 58242.6 |
   | Оранжевый +4 | 6811.2 | 51.6 | 64216.2 |
-  | Orange +5 | 7761.6 | 58.8 | 73176.6 |
-  | Red | 9028.8 | 68.4 | 85123.8 |
+  | Оранжевый +5 | 7761.6 | 58.8 | 73176.6 |
+  | Красный | 9028.8 | 68.4 | 85123.8 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -72,15 +72,15 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Клюв грома](/equipment/Клюв грома/) | **АТК** | **DEF** | 
-  | [Крылья разряда молнии](/equipment/Крылья разряда молнии/) | **ОЗ** | **DEF** | 
-  | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **DEF** | 
-  | [Lightning's armor](/equipment/Lightning's armor/) | **ОЗ** | **DEF** | 
+  | [Клюв грома](/equipment/Клюв грома/) | **АТК** | **ЗЩТ** | 
+  | [Крылья разряда молнии](/equipment/Крылья разряда молнии/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **ЗЩТ** | 
+  | [Доспех молнии](/equipment/Доспех молнии/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 * [Гордыня](/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
@@ -101,11 +101,11 @@ toc: true
 ### Обычное умение 1 : Удар шаровой молнии
  **Описание:** <span style="color: #645252;font-size:20px">В бою птиц Рух против отряда из 9 бойцов при обычной атаке наносится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона по области по 3 вражеским целям.</span><span style="color: black">
 
-### Обычное умение 2 : Rampage
+### Обычное умение 2 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">Рух получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при ОЗ менее 35% и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Обычное умение 3 : Hurricane Barrier
- **Описание:** <span style="color: #645252;font-size:20px">When Roc is on the battlefield, all hostile units' Accuracy decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+### Обычное умение 3 : Ураганный барьер
+ **Описание:** <span style="color: #645252;font-size:20px">При появлении Рух на поле боя все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от удара. </span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
@@ -147,19 +147,19 @@ toc: true
 ### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
-* **Caster**  (Дозор отрядов заклинателей)
+* **Заклинатель**  (Дозор отрядов заклинателей)
 
 ### Бонус героя
 * [Шива](/heroes/Shiva/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Критический удар отряда
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -193,7 +193,7 @@ toc: true
 ### 4th Skill (or 3rd): Природная быстрота
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический урон Рух повышается на 15% (при &lt;Буйстве&gt; удваивается)</span>
 
-### 5th Skill (or 6th): Implosion
+### 5th Skill (or 6th): Взрыв
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ураганный барьер&gt;</span><span style="color: #645252;font-size:18px">: каждые 10 секунд вызывает молнию, наносящую урон в размере 8% от макс. ОЗ случайному вражескому отряду</span>
 
 ### 6th Skill (or 5th): Электрошок
@@ -244,7 +244,7 @@ toc: true
 
  **talk1:** Чик-чирик!
 
- **talk2:** I will fill the skies above us with thunder and lightning!
+ **talk2:** Я заполню небеса громами и молниями!
 
- **talk3:** Perish as the lightning strikes!
+ **talk3:** Удар молнии принесет всем смерть!
 

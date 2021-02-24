@@ -1,22 +1,22 @@
 ---
-title: "Dragon Mutare"
+title: "Дракон Мутара"
 permalink: /heroes/Dragon Mutare/
-excerpt: "Эра хаоса Dragon Mutare. Dragon Mutare. Выпив из Фиала драконьей крови, Мутара стала драконом, который сохранил сознание человека. Некоторые утверждают, что ее превращение предвещает появление Отца драконов."
+excerpt: "Эра хаоса Дракон Мутара. Дракон Мутара. Выпив из Фиала драконьей крови, Мутара стала драконом, который сохранил сознание человека. Некоторые утверждают, что ее превращение предвещает появление Отца драконов."
 heroID: 61302
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Dragon Mutare"
 toc: true
 ---
  **Описание:** Выпив из Фиала драконьей крови, Мутара стала драконом, который сохранил сознание человека. Некоторые утверждают, что ее превращение предвещает появление Отца драконов.
 ## Details
- **Profession:** Overlord
+ **Profession:** Владыка Подземелья
 
- **Race:** Dungeon
+ **Race:** Подземелье
 
  **Rate:** SSR
 
- **Specialty:** Dragon Awakes
+ **Specialty:** Пробуждение дракона
 
  **Mana base:** 20
 
@@ -38,7 +38,7 @@ toc: true
  **Описание:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 3 Spell: Убийца
- **Описание:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
+ **Описание:** Повышает атаку союзных отрядов в большой области на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">. Эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Длительность действия для отрядов численностью 9 увеличена на 5 сек.
 
 ### 4 Spell: Рев дракона
  **Описание:** Накладывает <span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"> на всех противников, которое наносит урон в размере <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> от их максимального ОЗ каждые 2 сек. в течение 16 сек., а также <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 6 сек. Некоторые отряды могут получить иммунитет к урону от <span style="color: #e07c44;font-size:20px">кровотечения</span><span style="color: black">; исцеление <span style="color: #e07c44;font-size:20px">кровоточащих</span><span style="color: black"> отрядов снизится.
@@ -77,4 +77,4 @@ toc: true
    - Наступление
    - Волшебство
    - Ученый
-   - Pathfinding
+   - Поиск пути

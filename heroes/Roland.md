@@ -1,9 +1,9 @@
 ---
-title: "Roland"
+title: "Роланд"
 permalink: /heroes/Roland/
-excerpt: "Эра хаоса Roland. Roland. Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
+excerpt: "Эра хаоса Роланд. Роланд. Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
 heroID: 60103
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Roland"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** SR+
 
- **Specialty:** Heightened Morale
+ **Specialty:** Повышение боевого духа
 
  **Mana base:** 16
 
@@ -62,7 +62,7 @@ toc: true
    - Новейший дизайн героя
    - Уникальный аватар
 
-### Skin 3: **Royal Wedding**
+### Skin 3: **Королевская свадьба**
 
  **Описание:** <span style="color: #ffffff;font-size:20px">Я надеюсь, что наш союз принесет мир Энроту и счастье нашему народу.</span>
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 4: **Ночь урожая**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">When the festival comes, we should stay with our family to enjoy food and each other's company.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Когда начнется праздник, я предлагаю провести его с семьей за доброй едой и беседой.</span>
 
  **Skin features:** 
 
@@ -84,7 +84,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Resistance
+   - Сопротивление
    - Наступление
    - Доспехи
    - Ученый

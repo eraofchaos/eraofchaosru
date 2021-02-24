@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /units/Fire Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Элементаль Огня"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 97.5 | 4.5 | 1261.5 |
+  | Зеленый | 97.5 | 4.5 | 1261.5 |
   | Синий | 195.0 | 9.0 | 2523.0 |
-  | Blue +1 | 292.5 | 13.5 | 3784.5 |
+  | Синий +1 | 292.5 | 13.5 | 3784.5 |
   | Синий +2 | 409.5 | 18.9 | 5298.3 |
   | Фиолетовый | 526.5 | 24.3 | 6812.1 |
   | Фиолетовый +1 | 643.5 | 29.7 | 8325.9 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 1053.0 | 48.6 | 13624.2 |
   | Оранжевый +1 | 1209.0 | 55.8 | 15642.6 |
   | Оранжевый +2 | 1365.0 | 63.0 | 17661.0 |
-  | Orange +3 | 1521.0 | 70.2 | 19679.4 |
+  | Оранжевый +3 | 1521.0 | 70.2 | 19679.4 |
   | Оранжевый +4 | 1677.0 | 77.4 | 21697.8 |
-  | Orange +5 | 1911.0 | 88.2 | 24725.4 |
-  | Red | 2223.0 | 102.6 | 28762.2 |
+  | Оранжевый +5 | 1911.0 | 88.2 | 24725.4 |
+  | Красный | 2223.0 | 102.6 | 28762.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -66,10 +66,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядро Огня](/equipment/Ядро Огня/) | **АТК** | **DEF** | 
-  | [Boiling Shield](/equipment/Boiling Shield/) | **ОЗ** | **DEF** | 
-  | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **АТК** | **DEF** | 
-  | [Темно-синий острый коготь](/equipment/Темно-синий острый коготь/) | **ОЗ** | **DEF** | 
+  | [Ядро Огня](/equipment/Ядро Огня/) | **АТК** | **ЗЩТ** | 
+  | [Кипящий щит](/equipment/Кипящий щит/) | **ОЗ** | **ЗЩТ** | 
+  | [Око сапфира](/equipment/Око сапфира/) | **АТК** | **ЗЩТ** | 
+  | [Темно-синий острый коготь](/equipment/Темно-синий острый коготь/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -102,7 +102,7 @@ toc: true
 ### Обычное умение 3 : Проводник энергии Огня
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Огня восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ при убийстве вражеского отряда и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Эффект длится в течение всего боя. Суммируется до 3 раз.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -144,12 +144,12 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Fiur](/heroes/Fiur/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Фиур](/heroes/Fiur/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -174,21 +174,21 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ элементалей Энергии на уровнях 17-2 и 17-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Fire Elemental and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Огня, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Небесное пламя
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Небесный огонь&gt;</span><span style="color: #645252;font-size:18px">: урон умения повышается до 200% от урона предыдущего умения</span>
 
-### 2nd Skill (or 1st): Running Fire
+### 2nd Skill (or 1st): Бегущий огонь
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Небесный огонь&gt;</span><span style="color: #645252;font-size:18px">: наносит урон двум случайным отрядам врага</span>
 
 ### 3rd Skill (or 4th): Внедрение элементалей
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила элементалей&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет заклинание Огня, ATK двух случайных атакующих отрядов повышается на 50%, а высасывание жизни - на 10% в течение 10 сек.</span>
 
 ### 4th Skill (or 3rd): Бешенство элементалей
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash &lt;Heavenly Fire&gt; on 1 random hostile unit when the friendly hero casts a fire spell</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Сила элементалей&gt;</span><span style="color: #645252;font-size:18px">: когда союзный герой применяет заклинание Огня, &lt;Сила элементалей&gt; с шансом 30% воздействует на случайный вражеский отряд</span>
 
 ### 5th Skill (or 6th): Проклятие неистового пламени
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Проводник энергии огня&gt;</span><span style="color: #645252;font-size:18px">: Бонусы удваиваются. Количество экземпляров эффекта остается тем же</span>

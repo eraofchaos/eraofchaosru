@@ -1,15 +1,15 @@
 ---
 title: "Виверна"
 permalink: /units/Wyvern/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
 unitID: 806
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Виверна"
 toc: true
 ---
 ## General information
- **Описание:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
+ **Описание:** Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа.
 
  **Класс:** [Наступление](/units/Unit Class Offense/)
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 250.0 | 7.5 | 4158.0 |
+  | Зеленый | 250.0 | 7.5 | 4158.0 |
   | Синий | 500.0 | 15.0 | 8316.0 |
-  | Blue +1 | 750.0 | 22.5 | 12474.0 |
+  | Синий +1 | 750.0 | 22.5 | 12474.0 |
   | Синий +2 | 1050.0 | 31.5 | 17463.6 |
   | Фиолетовый | 1350.0 | 40.5 | 22453.2 |
   | Фиолетовый +1 | 1650.0 | 49.5 | 27442.8 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 2700.0 | 81.0 | 44906.4 |
   | Оранжевый +1 | 3100.0 | 93.0 | 51559.2 |
   | Оранжевый +2 | 3500.0 | 105.0 | 58212.0 |
-  | Orange +3 | 3900.0 | 117.0 | 64864.8 |
+  | Оранжевый +3 | 3900.0 | 117.0 | 64864.8 |
   | Оранжевый +4 | 4300.0 | 129.0 | 71517.6 |
-  | Orange +5 | 4900.0 | 147.0 | 81496.8 |
-  | Red | 5700.0 | 171.0 | 94802.4 |
+  | Оранжевый +5 | 4900.0 | 147.0 | 81496.8 |
+  | Красный | 5700.0 | 171.0 | 94802.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Когти дракона](/equipment/Когти дракона/) | **АТК** | **DEF** | 
-  | [Чумной клык](/equipment/Чумной клык/) | **ОЗ** | **DEF** | 
-  | [Спинные шипы беса](/equipment/Спинные шипы беса/) | **АТК** | **DEF** | 
-  | [Крылья дракона](/equipment/Крылья дракона/) | **ОЗ** | **DEF** | 
+  | [Когти дракона](/equipment/Когти дракона/) | **АТК** | **ЗЩТ** | 
+  | [Чумной клык](/equipment/Чумной клык/) | **ОЗ** | **ЗЩТ** | 
+  | [Спинные шипы беса](/equipment/Спинные шипы беса/) | **АТК** | **ЗЩТ** | 
+  | [Крылья дракона](/equipment/Крылья дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -91,22 +91,22 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Venomous Spurt
- **Описание:** <span style="color: #645252;font-size:20px">Every 21s, Wyvern spits venom at the target, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within a certain range and inflicts them with <span style="color: #48b946;font-size:20px">Plague</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s. (</span><span style="color: black"><span style="color: #48b946;font-size:20px">Plague</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage dealt by Wyvern increased)</span><span style="color: black">
+### Совершенное умение: Ядовитая струя
+ **Описание:** <span style="color: #645252;font-size:20px">Через каждую 21 секунду виверны выпускают в цель струю яда, нанося </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона вражеским отрядам в определенном радиусе и вызывая у них <span style="color: #48b946;font-size:20px">чуму</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 6 сек. </span><span style="color: black"><span style="color: #48b946;font-size:20px">Чума</span><span style="color: black"><span style="color: #645252;font-size:20px">, вызванная у врага вивернами, усилена.</span><span style="color: black">
 
 ### Обычное умение 1 : null
  **Описание:** 
 
-### Обычное умение 2 : Plague Symbiosis
- **Описание:** <span style="color: #645252;font-size:20px">The Wyvern's unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, which is increased by an extra 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+### Обычное умение 2 : Чумной симбиоз
+ **Описание:** <span style="color: #645252;font-size:20px">Виверны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда, который дополнительно повышается на 5% за каждое ослабление у цели. Эффект суммируется до 5 раз.</span><span style="color: black">
 
 ### Обычное умение 3 : Дикие миазмы
- **Описание:** <span style="color: #645252;font-size:20px">Wyvern's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Every 20s, Wyvern makes all hostile units suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases their healing by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">  over the next 10s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Виверны получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК. Виверны вызывают у всех вражеских отрядов </span><span style="color: black"><span style="color: #48b946;font-size:20px">чуму</span><span style="color: black"><span style="color: #645252;font-size:20px"> и снижают их исцеление на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> каждые 20 сек. в течение следующих 10 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Чумной удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости хорошо умеют распространять чуму и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда в бою против отрядов, страдающих от чумы.</span><span style="color: black">
 
-### Эксклюзивное умение фракции II : Rise of Vitality
+### Эксклюзивное умение фракции II : Рост живучести
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Крепости прекрасно разбираются в лечении на поле боя, восстанавливая </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ каждые 3 сек. и получив </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к высасыванию жизни.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -143,18 +143,18 @@ toc: true
 ### Связь дозора
 
 * **Крепость**  (Дозор отрядов Крепости)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -163,35 +163,35 @@ toc: true
 
  **Awaking Name:** Виверна-монарх
 
- **Awaking Описание:** Even in the swamps full of poisons, the plague Wyvern Monarch filled with toxins is also the king of poison.
+ **Awaking Описание:** Даже в болотах, полных ядовитых тварей, жуткая виверна-монарх остается самой ядовитой.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте виверн и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Крепости, чтобы добиться уровня «Мастер» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Plague Wyvern Monarch souls in the Underground: 16-2 and 16-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ чумных виверн-монархов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wyvern to win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз, используя виверн.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Caustic Acid Poison
- **Описание:** <span style="color: #48b946;font-size:18px">Venomous Spurt</span><span style="color: #645252;font-size:18px"> will be triggered once every 13s and deal additional damage equal to 5% of the target's Max HP.</span>
+### 1st Skill (or 2nd): Жгучий яд
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитые брызги&gt;</span><span style="color: #645252;font-size:18px">: срабатывают каждые 13 сек. и наносят цели урон в размере 5% от макс. ОЗ</span>
 
 ### 2nd Skill (or 1st): Хитрый яд
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитые брызги&gt;</span><span style="color: #645252;font-size:18px">: срабатывают каждые 17 сек. и наносят цели урон в размере 10% от макс. ОЗ</span>
 
-### 3rd Skill (or 4th): Touch of Venom
+### 3rd Skill (or 4th): Касание яда
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 10%. При обычной атаке у цели начинается кровотечение</span>
 
-### 4th Skill (or 3rd): Envoy of Poison
+### 4th Skill (or 3rd): Посланник яда
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Хитрый коготь&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление вражеских отрядов урону на 15%. Каждая обычная атака наносит цели урон в размере 20% от ATK и вызывает кровотечение</span>
 
-### 5th Skill (or 6th): Wild Miasma
+### 5th Skill (or 6th): Дикие миазмы
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Эффект чумы удваивается на 15 сек. Исцеление снижается еще в 1,5 раза</span>
 
-### 6th Skill (or 5th): Pestilent Toxin
+### 6th Skill (or 5th): Чумной яд
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дикие миазмы&gt;</span><span style="color: #645252;font-size:18px">: каждые 20 сек. насылает чуму на все вражеские отряды. Длится 22 сек., складывается до 2 раз.</span>
 
 ## Technical info

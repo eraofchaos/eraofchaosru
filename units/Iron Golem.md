@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
+ **Unit description:** Резонанс металла: создает щит, укрывающий союзные отряды
 
  **Short description:** Высокое сопротивление магии.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 67.5 | 12.5 | 1917.0 |
+  | Зеленый | 67.5 | 12.5 | 1917.0 |
   | Синий | 135.0 | 25.0 | 3834.0 |
-  | Blue +1 | 202.5 | 37.5 | 5751.0 |
+  | Синий +1 | 202.5 | 37.5 | 5751.0 |
   | Синий +2 | 283.5 | 52.5 | 8051.4 |
   | Фиолетовый | 364.5 | 67.5 | 10351.8 |
   | Фиолетовый +1 | 445.5 | 82.5 | 12652.2 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 729.0 | 135.0 | 20703.6 |
   | Оранжевый +1 | 837.0 | 155.0 | 23770.8 |
   | Оранжевый +2 | 945.0 | 175.0 | 26838.0 |
-  | Orange +3 | 1053.0 | 195.0 | 29905.2 |
+  | Оранжевый +3 | 1053.0 | 195.0 | 29905.2 |
   | Оранжевый +4 | 1161.0 | 215.0 | 32972.4 |
-  | Orange +5 | 1323.0 | 245.0 | 37573.2 |
-  | Red | 1539.0 | 285.0 | 43707.6 |
+  | Оранжевый +5 | 1323.0 | 245.0 | 37573.2 |
+  | Красный | 1539.0 | 285.0 | 43707.6 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -70,10 +70,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Iron Gauntlets](/equipment/Iron Gauntlets/) | **АТК** | **DEF** | 
-  | [Шипастые наплечники](/equipment/Шипастые наплечники/) | **ОЗ** | **DEF** | 
-  | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **DEF** | 
-  | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **DEF** | 
+  | [Железные рукавицы](/equipment/Железные рукавицы/) | **АТК** | **ЗЩТ** | 
+  | [Шипастые наплечники](/equipment/Шипастые наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **ЗЩТ** | 
+  | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -146,33 +146,33 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Tower**  (Дозор отрядов Башни)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Башня**  (Дозор отрядов Башни)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit DMG Reduction
-* Magic resistance
+* Снижение УРН отряда
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Gold Golem
+ **Awaking Name:** Золотой голем
 
  **Awaking Описание:** Таинственный волшебный сплав делает золотых големов неразрушимыми, и они, похоже, способны противостоять любым атакам. Они преданно охраняют Башню, и этот барьер не преодолеть ни одному врагу.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Iron Golem with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте железных големов и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Башни, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ золотых големов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
@@ -181,10 +181,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Защита сородичей
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. Tower units receive an increase of 10% unit's damage reduction</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Резонанс металла&gt;</span><span style="color: #645252;font-size:18px">: гарантированно применяется во время боя. Отряды Башни получают +10% к сопротивлению отряда урону.</span>
 
 ### 2nd Skill (or 1st): Защита воинов
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Metal Resonance&gt;</span><span style="color: #645252;font-size:18px">Guaranteed to cast when engaged. The effect also works on all friendly Offensive units</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Резонанс металла&gt;</span><span style="color: #645252;font-size:18px">: гарантированно применяется во время боя. Эффект также применяется ко всем союзным атакующим отрядам.</span>
 
 ### 3rd Skill (or 4th): Тело против магии
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Железное тело&gt;</span><span style="color: #645252;font-size:18px">: когда железные големы получают урон от заклинаний героя, они получают +30% к ЗЩТ на 10 сек.</span>
@@ -193,7 +193,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Железное тело&gt;</span><span style="color: #645252;font-size:18px">: железные големы получают +20% к ЗЩТ.</span>
 
 ### 5th Skill (or 6th): Мощное пробуждение
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Regeneration caused by Magic Awakening increased by 30%, and stacked unit's damage reduction increased by 30%</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: восстановление, вызванное Магическим пробуждением, повышается на 30%, а суммируемое сопротивление урону - на 30%.</span>
 
 ### 6th Skill (or 5th): Пробуждение сородичей
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Магическое пробуждение&gt;</span><span style="color: #645252;font-size:18px">: ваши отряды Башни получают +5% к ЗЩТ. Эффект может суммироваться до 3 раз.</span>
@@ -239,5 +239,5 @@ toc: true
 
  **talk2:** Хочешь испытать прочность моих когтей?
 
- **talk3:** You'll never catch me!
+ **talk3:** Меня не поймать!
 

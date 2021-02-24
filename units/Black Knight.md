@@ -1,11 +1,11 @@
 ---
-title: "Black Knight"
+title: "Черный рыцарь"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Black Knight"
+ref: "Черный рыцарь"
 toc: true
 ---
 ## General information
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Сильный урон. Улучшенное обезглавливание.
 
- **Position :** The top Charging unit. Has high burst skills and becomes more and more powerful in battle.
+ **Position :** Лучший штурмовой отряд. Обладает могущественными взрывными умениями и становится сильнее по ходу битвы.
 
  **Recommend:** Существа с низким здоровьем и высокой атакой. Они будут чрезвычайно эффективны, если не забывать их вовремя лечить.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 57.9 | 6.25 | 682.5 |
+  | Зеленый | 57.9 | 6.25 | 682.5 |
   | Синий | 115.8 | 12.5 | 1365.0 |
-  | Blue +1 | 173.7 | 18.75 | 2047.5 |
+  | Синий +1 | 173.7 | 18.75 | 2047.5 |
   | Синий +2 | 243.18 | 26.25 | 2866.5 |
   | Фиолетовый | 312.66 | 33.75 | 3685.5 |
   | Фиолетовый +1 | 382.14 | 41.25 | 4504.5 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 625.32 | 67.5 | 7371.0 |
   | Оранжевый +1 | 717.96 | 77.5 | 8463.0 |
   | Оранжевый +2 | 810.6 | 87.5 | 9555.0 |
-  | Orange +3 | 903.24 | 97.5 | 10647.0 |
+  | Оранжевый +3 | 903.24 | 97.5 | 10647.0 |
   | Оранжевый +4 | 995.88 | 107.5 | 11739.0 |
-  | Orange +5 | 1134.84 | 122.5 | 13377.0 |
-  | Red | 1320.12 | 142.5 | 15561.0 |
+  | Оранжевый +5 | 1134.84 | 122.5 | 13377.0 |
+  | Красный | 1320.12 | 142.5 | 15561.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Проклятый меч](/equipment/Проклятый меч/) | **АТК** | **DEF** | 
-  | [Щиток мертвого](/equipment/Щиток мертвого/) | **ОЗ** | **DEF** | 
-  | [Браслеты кошмара](/equipment/Браслеты кошмара/) | **АТК** | **DEF** | 
-  | [Наплечники кошмара](/equipment/Наплечники кошмара/) | **ОЗ** | **DEF** | 
+  | [Проклятый меч](/equipment/Проклятый меч/) | **АТК** | **ЗЩТ** | 
+  | [Щиток мертвого](/equipment/Щиток мертвого/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты кошмара](/equipment/Браслеты кошмара/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники кошмара](/equipment/Наплечники кошмара/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -97,13 +97,13 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Черные рыцари наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона своей цели и накладывают </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 10 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Смертельный штурм
- **Описание:** <span style="color: #645252;font-size:20px">If the target is downed, the Black Knight's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit value is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. It works throughout the battle, up to 5 stacks.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Если цель погибает, черные рыцари получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК, </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект длится в течение всего боя. Суммируется до 5 раз. </span><span style="color: black">
 
-### Обычное умение 2 : Knight Abilities
+### Обычное умение 2 : Умения рыцаря
  **Описание:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону.</span><span style="color: black">
 
 ### Обычное умение 3 : Ужасающее подавление
- **Описание:** <span style="color: #645252;font-size:20px">Black Knight's Critical Hit is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical DMG is increased by 50%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Черные рыцари получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару и +50% к КРИТ. УРН.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
@@ -149,13 +149,13 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Lord Haart](/heroes/Lord Haart/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Лорд Хаарт](/heroes/Lord Haart/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -169,18 +169,18 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Dread Knight
+ **Awaking Name:** Зловещий рыцарь
 
  **Awaking Описание:** Я вижу угольно-черные небеса и луну, красную, как кровь. Тьма поглотила свет. Страх - вот слово, что призывает Тьму. В руках он сжимает кровавый клинок, и даже мертвые идут за ним. За громогласной поступью Владыки Ужаса никто не услышит плача агнцев.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Black Knight with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте черных рыцарей, и не менее </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз достичь уровня «Безжалостный» в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ зловещих рыцарей на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Black Knights to win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battles.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> черных рыцарей, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников. </span>
 
 ## Awaken Skills
 

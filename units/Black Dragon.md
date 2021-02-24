@@ -1,21 +1,21 @@
 ---
-title: "Black Dragon"
+title: "Черный дракон"
 permalink: /units/Black Dragon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
-ref: "Black Dragon"
+ref: "Черный дракон"
 toc: true
 ---
 ## General information
- **Описание:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
+ **Описание:** Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Dungeon](/units/Faction Dungeon/)
+ **Фракция: ** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+ **Unit description:** Дыхание дракона: атакует врагов в большом радиусе и поджигает их
 
  **Short description:** Сбалансированный с магической атакой и защитой.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 215.0 | 14.5 | 6534.0 |
+  | Зеленый | 215.0 | 14.5 | 6534.0 |
   | Синий | 430.0 | 29.0 | 13068.0 |
-  | Blue +1 | 645.0 | 43.5 | 19602.0 |
+  | Синий +1 | 645.0 | 43.5 | 19602.0 |
   | Синий +2 | 903.0 | 60.9 | 27442.8 |
   | Фиолетовый | 1161.0 | 78.3 | 35283.6 |
   | Фиолетовый +1 | 1419.0 | 95.7 | 43124.4 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 2322.0 | 156.6 | 70567.2 |
   | Оранжевый +1 | 2666.0 | 179.8 | 81021.6 |
   | Оранжевый +2 | 3010.0 | 203.0 | 91476.0 |
-  | Orange +3 | 3354.0 | 226.2 | 101930.4 |
+  | Оранжевый +3 | 3354.0 | 226.2 | 101930.4 |
   | Оранжевый +4 | 3698.0 | 249.4 | 112384.8 |
-  | Orange +5 | 4214.0 | 284.2 | 128066.4 |
-  | Red | 4902.0 | 330.6 | 148975.2 |
+  | Оранжевый +5 | 4214.0 | 284.2 | 128066.4 |
+  | Красный | 4902.0 | 330.6 | 148975.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -69,10 +69,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Когти магического дракона](/equipment/Когти магического дракона/) | **АТК** | **DEF** | 
-  | [Опустошающий огонь](/equipment/Опустошающий огонь/) | **ОЗ** | **DEF** | 
-  | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **DEF** | 
-  | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **DEF** | 
+  | [Когти магического дракона](/equipment/Когти магического дракона/) | **АТК** | **ЗЩТ** | 
+  | [Опустошающий огонь](/equipment/Опустошающий огонь/) | **ОЗ** | **ЗЩТ** | 
+  | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **ЗЩТ** | 
+  | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -106,7 +106,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Черные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ. В бою против <span style="color: #48b946;font-size:20px">горящих</span><span style="color: black"><span style="color: #645252;font-size:20px"> отрядов эффект сопротивления урону удваивается. Против отрядов Башни черные драконы получают +50% к урону отряда и +50% сопротивления урону.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -144,19 +144,19 @@ toc: true
 ### Связь дозора
 
 * **Подземелье**  (Дозор отрядов Подземелья)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* unit DMG Reduction
+* Урон отряда
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -179,16 +179,16 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Магнитные чешуйки
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Иммунитет к магии&gt;</span><span style="color: #645252;font-size:18px">: при каждом применении &lt;Дыхания дракона&gt; черный дракон получает 1 усиление (суммируется до 6 раз). Этот эффект не может быть рассеян.</span>
 
 ### 2nd Skill (or 1st): Расплавленная броня дракона
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Иммунитет к магии&gt;</span><span style="color: #645252;font-size:18px">: при каждом применении &lt;Дыхания дракона&gt; черный дракон получает двойное усиление (суммируется до 4 раз). Этот эффект не может быть рассеян.</span>
 
 ### 3rd Skill (or 4th): Распределенное питание
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Restores additional 2% HP when hit by a Crit Hit. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Чешуя черного дракона&gt;</span><span style="color: #645252;font-size:18px">: восстанавливает 2% ОЗ при получении критического удара. Получая урон в одиночку, черный дракон получает иммунитет к урону более 10% от своих макс. ОЗ</span>
 
 ### 4th Skill (or 3rd): Вулканический блок
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Black Dragon Scale&gt;</span><span style="color: #645252;font-size:18px">Black Dragon's healing amount increased by 10%. When taking single damage, the Black Dragon will be immune to the damage that exceeds 10% of its Max HP</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Чешуя черного дракона&gt;</span><span style="color: #645252;font-size:18px">: черный дракон получает +10% к исцелению. Получая урон в одиночку, черный дракон получает иммунитет к урону более 10% от своих макс. ОЗ</span>
 
 ### 5th Skill (or 6th): null
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Дыхание дракона&gt;</span><span style="color: #645252;font-size:18px">: урон от &lt;Дыхания дракона&gt; повышен до 200% от урона предыдущего умения. Если вражеский герой применяет заклинание, черный дракон 1 раз использует &lt;Дыхание дракона&gt; (невозможно запустить умения разрушителя магии, потому что это не умение разрушителя магии). Восстановление: 15 сек.</span>

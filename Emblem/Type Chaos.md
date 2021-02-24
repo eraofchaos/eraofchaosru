@@ -2,7 +2,7 @@
 title: "Эмблема святости - Хаос"
 permalink: /Emblem/Type Chaos/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Хаос. Эра хаоса Хаос"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "typeХаос.md"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Похоть](/Emblem/Lust/) | Хаос | Подходит оборонительным отрядам | 
-  | 2 | [Гордыня](/Emblem/Arrogance/) | Хаос | Recommended to inlay for units with DPS | 
+  | 2 | [Гордыня](/Emblem/Arrogance/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 3 | [Алчность](/Emblem/Greed/) | Хаос | Подходит оборонительным отрядам | 
-  | 4 | [Jealousy](/Emblem/Jealousy/) | Хаос | Recommended to inlay for units with DPS | 
+  | 4 | [Ревность](/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 5 | [Гнев](/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 

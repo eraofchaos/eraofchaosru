@@ -1,8 +1,8 @@
 ---
-title: "Боевое построение Rampart"
+title: "Боевое построение Бастион"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
-excerpt: "Боевое построение Rampart"
-last_modified_at: 2021-02-22
+excerpt: "Боевое построение Бастион"
+last_modified_at: 2021-02-24
 locale: ru
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -11,42 +11,42 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
- [Замок](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+ [Замок](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Бастион](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Некрополь](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Инферно](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Подземелье](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Гармония](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Убежище](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
-  **Fraction:** [Rampart](/units/Faction Rampart)
+  **Fraction:** [Бастион](/units/Faction Rampart)
 
   **Описание:** Мы танцуем в ритме мира.
 
-**Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Rampart** 
+**Info** You can find this feature under **Арсенал** -> **Боевое построение** -> **Бастион** 
 {: .notice--danger}
 
 ## Боевое построение Bonus:
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **When Rampart units are against bleeding and slowed units, 40 Accuracy will be increased for them per effect active** |
-  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **2** | **Отряды Бастиона, сражаясь с кровоточащими и замедленными отрядами, получают +40 ОЗ за активный эффект** |
+  | **3** | **Увеличивает ОЗ всех отрядов Бастиона на 8%** |
   | **4** | **Усиливает ЗЩТ всех отрядов Бастиона на 8%** |
   | **5** | **Отряды Бастиона, сражаясь с кровоточащими и замедленными отрядами, получают +25 к критическому удару за эффект** |
   | **6** | **Усиливает АТК всех отрядов Бастиона на 10%** |
-  | **7** | **Increases 10% unit Magic resistance for all Rampart Units** |
+  | **7** | **Повышает сопротивление магии всех отрядов Бастиона на 10%** |
   | **8** | **Отряды Бастиона, сражаясь с кровоточащими и замедленными отрядами, получают 4% усиление ЗЩТ за активный эффект** |
   | **9** | **Ускоряет атаку всех отрядов Бастиона на 4%** |
   | **10** | **Усиливает АТК всех отрядов Бастиона на 15%** |
   | **11** | **Увеличивает ОЗ всех отрядов Бастиона на 17%** |
-  | **12** | **When Rampart Units are against bleeding and slowed units, 2.5% unit damage will be increased for them per effect** |
+  | **12** | **Отряды Бастиона, сражаясь с кровоточащими и замедленными отрядами, получают +2,5% к урону на эффект** |
 
 ## Боевое построение Circle 1:
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Кентавр](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | УРН отряда + **0.3** % | 150 |  **10** x [Кентавр](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Rampart - A Strike Hit | Accuracy + **6**  | 150 |  **10** x [Кентавр](/units/Centaur) |
+  | 3 | Rampart - A Strike Hit | Удар по цели + **6**  | 150 |  **10** x [Кентавр](/units/Centaur) |
   | 4 | Rampart - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Rampart - Ingeniousness | Dodge + **6**  | 150 |  **10** x [Кентавр](/units/Centaur) |
+  | 5 | Rampart - Ingeniousness | Уклонение + **6**  | 150 |  **10** x [Кентавр](/units/Centaur) |
   | 6 | Rampart - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Rampart - Shield Practice | Unit DMG Reduction + **0.3** % | 150 |  **10** x [Лесной эльф](/units/Wood Elf) |
+  | 7 | Rampart - Shield Practice | Сокращение УРН отряда + **0.3** % | 150 |  **10** x [Лесной эльф](/units/Wood Elf) |
   | 8 | Rampart - Physical Trials | ОЗ + **0.9** % | 70 |   |
   | 9 | Rampart - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Лесной эльф](/units/Wood Elf) |
   | 10 | Rampart - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
@@ -59,16 +59,16 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Кентавр](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | УРН отряда + **0.4** % | 160 |  **10** x [Кентавр](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Rampart - A Strike Hit | Accuracy + **6**  | 160 |  **10** x [Единорог](/units/Unicorn) |
+  | 4 | Rampart - A Strike Hit | Удар по цели + **6**  | 160 |  **10** x [Единорог](/units/Unicorn) |
   | 5 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Rampart - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 7 | Rampart - Ingeniousness | Dodge + **6**  | 160 |  **10** x [Гном](/units/Dwarf) |
+  | 7 | Rampart - Ingeniousness | Уклонение + **6**  | 160 |  **10** x [Гном](/units/Dwarf) |
   | 8 | Rampart - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 9 | Rampart - Physical Trials | ОЗ + **1** % | 80 |   |
-  | 10 | Rampart - Shield Practice | Unit DMG Reduction + **0.4** % | 160 |  **10** x [Единорог](/units/Unicorn) |
+  | 10 | Rampart - Shield Practice | Сокращение УРН отряда + **0.4** % | 160 |  **10** x [Единорог](/units/Unicorn) |
   | 11 | Rampart - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Rampart - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 13 | Rampart - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Гном](/units/Dwarf) |
@@ -84,19 +84,19 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Кентавр](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | УРН отряда + **0.4** % | 180 |  **10** x [Кентавр](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 3 | Rampart - Storm Assaulter | АТК + **1.2** % | 90 |   |
   | 4 | Rampart - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
-  | 5 | Rampart - A Strike Hit | Accuracy + **7**  | 180 |  **10** x [Гном](/units/Dwarf) |
+  | 5 | Rampart - A Strike Hit | Удар по цели + **7**  | 180 |  **10** x [Гном](/units/Dwarf) |
   | 6 | Rampart - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
   | 7 | Rampart - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
   | 8 | Rampart - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
-  | 9 | Rampart - Ingeniousness | Dodge + **7**  | 180 |  **10** x [Единорог](/units/Unicorn) |
+  | 9 | Rampart - Ingeniousness | Уклонение + **7**  | 180 |  **10** x [Единорог](/units/Unicorn) |
   | 10 | Rampart - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
   | 11 | Rampart - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 12 | Rampart - Physical Trials | ОЗ + **1.2** % | 90 |   |
-  | 13 | Rampart - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Гном](/units/Dwarf) |
+  | 13 | Rampart - Shield Practice | Сокращение УРН отряда + **0.4** % | 180 |  **10** x [Гном](/units/Dwarf) |
   | 14 | Rampart - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 15 | Rampart - Physical Trials | ОЗ + **1.2** % | 90 |   |
   | 16 | Rampart - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
@@ -115,27 +115,27 @@ classes: wide
 
   |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Dendroid Guard](/units/Dendroid Guard) |
+  | 1 | Rampart - Damage Amplification | УРН отряда + **0.5** % | 190 |  **20** x [Дендроид-страж](/units/Dendroid Guard) |
   | 2 | Rampart - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 3 | Rampart - Storm Assaulter | АТК + **1.4** % | 100 |   |
   | 4 | Rampart - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 5 | Rampart - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
-  | 6 | Rampart - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Пегас](/units/Pegasus) |
+  | 6 | Rampart - A Strike Hit | Удар по цели + **8**  | 190 |  **20** x [Пегас](/units/Pegasus) |
   | 7 | Rampart - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
   | 8 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 9 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 10 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
-  | 11 | Rampart - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Dendroid Guard](/units/Dendroid Guard) |
+  | 11 | Rampart - Ingeniousness | Уклонение + **8**  | 190 |  **20** x [Дендроид-страж](/units/Dendroid Guard) |
   | 12 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 13 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 14 | Rampart - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 15 | Rampart - Physical Trials | ОЗ + **1.4** % | 100 |   |
-  | 16 | Rampart - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Пегас](/units/Pegasus) |
+  | 16 | Rampart - Shield Practice | Сокращение УРН отряда + **0.5** % | 190 |  **20** x [Пегас](/units/Pegasus) |
   | 17 | Rampart - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 18 | Rampart - Physical Trials | ОЗ + **1.4** % | 100 |   |
   | 19 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 20 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
-  | 21 | Rampart - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Dendroid Guard](/units/Dendroid Guard) |
+  | 21 | Rampart - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Дендроид-страж](/units/Dendroid Guard) |
   | 22 | Rampart - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
   | 23 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
   | 24 | Rampart - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |

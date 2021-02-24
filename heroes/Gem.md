@@ -1,22 +1,22 @@
 ---
 title: "Джем"
 permalink: /heroes/Gem/
-excerpt: "Эра хаоса Джем. Джем. Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
+excerpt: "Эра хаоса Джем. Джем. Джем - величайшая из ведьм Энрота. В обеих войнах она сражалась на стороне Роланда Айронфиста. После того, как Роланд стал королем, Джем переехала в Эрафию и обрела там новый дом."
 heroID: 60304
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Gem"
 toc: true
 ---
- **Описание:** Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there.
+ **Описание:** Джем - величайшая из ведьм Энрота. В обеих войнах она сражалась на стороне Роланда Айронфиста. После того, как Роланд стал королем, Джем переехала в Эрафию и обрела там новый дом.
 ## Details
- **Profession:** Druid
+ **Profession:** Друид
 
- **Race:** Rampart
+ **Race:** Бастион
 
  **Rate:** SSR
 
- **Specialty:** Natural Healing
+ **Specialty:** Природное исцеление
 
  **Mana base:** 45
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Холода
- **Описание:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
 
 ### 2 Spell: Каменная кожа
- **Описание:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+ **Описание:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
 
 ### 3 Spell: Лечение
  **Описание:** Восстанавливает <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в радиусе действия
 
 ### 4 Spell: Успокаивающий дождь
- **Описание:** Restores HP of friendly units equal to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> and 1% of their Max HP for 6s.
+ **Описание:** Восстанавливает союзным отрядам <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ + 1% от макс. ОЗ в течение 6 сек.
 
 
 ## HERO Biography
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Лунное свечение**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">The small building is suitable enough to keep a monarch safe. The numerous lights and the bright moon illuminate the swallows' return. Someone leans against the fence and enjoys the breeze. Who are those bright eyes and smile intended for?</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Теплыми весенними вечерами так хорошо предаваться мечтам в залитой лунным светом беседке!  </span>
 
  **Skin features:** 
 
@@ -74,7 +74,7 @@ toc: true
 
 
 ## Initial Mastery
-   - Resistance
+   - Сопротивление
    - Наступление
    - Волшебство
    - Ученый

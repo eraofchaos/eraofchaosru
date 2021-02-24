@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Necropolis](/units/Faction Necropolis/)
+ **Фракция: ** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 58.85 | 11.25 | 2068.5 |
+  | Зеленый | 58.85 | 11.25 | 2068.5 |
   | Синий | 117.7 | 22.5 | 4137.0 |
-  | Blue +1 | 176.55 | 33.75 | 6205.5 |
+  | Синий +1 | 176.55 | 33.75 | 6205.5 |
   | Синий +2 | 247.17 | 47.25 | 8687.7 |
   | Фиолетовый | 317.79 | 60.75 | 11169.9 |
   | Фиолетовый +1 | 388.41 | 74.25 | 13652.1 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 635.58 | 121.5 | 22339.8 |
   | Оранжевый +1 | 729.74 | 139.5 | 25649.4 |
   | Оранжевый +2 | 823.9 | 157.5 | 28959.0 |
-  | Orange +3 | 918.06 | 175.5 | 32268.6 |
+  | Оранжевый +3 | 918.06 | 175.5 | 32268.6 |
   | Оранжевый +4 | 1012.22 | 193.5 | 35578.2 |
-  | Orange +5 | 1153.46 | 220.5 | 40542.6 |
-  | Red | 1341.78 | 256.5 | 47161.8 |
+  | Оранжевый +5 | 1153.46 | 220.5 | 40542.6 |
+  | Красный | 1341.78 | 256.5 | 47161.8 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Окровавленное мачете](/equipment/Окровавленное мачете/) | **АТК** | **DEF** | 
-  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **DEF** | 
-  | [Закаленные стальные браслеты](/equipment/Закаленные стальные браслеты/) | **АТК** | **DEF** | 
-  | [Штаны распада](/equipment/Штаны распада/) | **ОЗ** | **DEF** | 
+  | [Окровавленное мачете](/equipment/Окровавленное мачете/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
+  | [Закаленные стальные браслеты](/equipment/Закаленные стальные браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Штаны распада](/equipment/Штаны распада/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -147,19 +147,19 @@ toc: true
 ### Связь дозора
 
 * **Некрополь**  (Дозор отрядов Некрополя)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Human Sandro](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
@@ -168,21 +168,21 @@ toc: true
 
  **Awaking Name:** Зомби
 
- **Awaking Описание:** Bloodlust dominates its soul and it is full of hatred towards the living. The Walking Dead feed on all living things, and their blood and saliva often carry disease.
+ **Awaking Описание:** Его душу поглотила жажда крови, и она полна ненависти к живым. Ходячие мертвецы питаются всеми живыми существами, а их кровь и слюна несет страшные болезни.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Necropolis units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте ходячих мертвецов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отряда Некрополя, чтобы </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз добиться уровня «Безжалостный» или выше в Утопии драконов. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ ходячих мертвецов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Walking Dead and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Используйте ходячих мертвецов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Disease Outbreak
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+### 1st Skill (or 2nd): Начало болезни
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитый газ&gt;</span><span style="color: #645252;font-size:18px">: наносит дополнительный урон в размере 2% от макс. ОЗ</span>
 
 ### 2nd Skill (or 1st): Заразная болезнь
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ядовитый газ&gt;</span><span style="color: #645252;font-size:18px">: в начале боя эффект &lt;Ядовитого газа&gt; накладывается на все союзные отряды Некрополя ближнего боя. Эффект длится все время боя. Урон может суммироваться до 6 раз.</span>
@@ -194,10 +194,10 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Инфекция&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону отрядов еще на 10%.</span>
 
 ### 5th Skill (or 6th): Ужасный барьер
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Завал из трупов&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения</span>
 
 ### 6th Skill (or 5th): Пир смерти
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Barricade of Corpses&gt;</span><span style="color: #645252;font-size:18px">Restores HP of Walking Dead equal to 10% of Max HP every time 1 hostile unit is downed</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Завал из трупов&gt;</span><span style="color: #645252;font-size:18px">: восстанавливает 10% ОЗ ходячего мертвеца при уничтожении вражеского отряда</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -38,9 +38,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 106.0 | 5.0 | 1311.75 |
+  | Зеленый | 106.0 | 5.0 | 1311.75 |
   | Синий | 212.0 | 10.0 | 2623.5 |
-  | Blue +1 | 318.0 | 15.0 | 3935.25 |
+  | Синий +1 | 318.0 | 15.0 | 3935.25 |
   | Синий +2 | 445.2 | 21.0 | 5509.35 |
   | Фиолетовый | 572.4 | 27.0 | 7083.45 |
   | Фиолетовый +1 | 699.6 | 33.0 | 8657.55 |
@@ -49,10 +49,10 @@ toc: true
   | Оранжевый | 1144.8 | 54.0 | 14166.9 |
   | Оранжевый +1 | 1314.4 | 62.0 | 16265.7 |
   | Оранжевый +2 | 1484.0 | 70.0 | 18364.5 |
-  | Orange +3 | 1653.6 | 78.0 | 20463.3 |
+  | Оранжевый +3 | 1653.6 | 78.0 | 20463.3 |
   | Оранжевый +4 | 1823.2 | 86.0 | 22562.1 |
-  | Orange +5 | 2077.6 | 98.0 | 25710.3 |
-  | Red | 2416.8 | 114.0 | 29907.9 |
+  | Оранжевый +5 | 2077.6 | 98.0 | 25710.3 |
+  | Красный | 2416.8 | 114.0 | 29907.9 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -65,10 +65,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Core of the Pole Star](/equipment/Core of the Pole Star/) | **АТК** | **DEF** | 
-  | [Heavenly Star](/equipment/Heavenly Star/) | **ОЗ** | **DEF** | 
-  | [Корона духа звезды](/equipment/Корона духа звезды/) | **АТК** | **DEF** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **ОЗ** | **DEF** | 
+  | [Ядро Полярной звезды](/equipment/Ядро Полярной звезды/) | **АТК** | **ЗЩТ** | 
+  | [Небесная звезда](/equipment/Небесная звезда/) | **ОЗ** | **ЗЩТ** | 
+  | [Корона духа звезды](/equipment/Корона духа звезды/) | **АТК** | **ЗЩТ** | 
+  | [Могущественные наручи](/equipment/Могущественные наручи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -89,19 +89,19 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Совершенное умение: Energy Blast
+### Совершенное умение: Энергетический взрыв
  **Описание:** <span style="color: #645252;font-size:20px">У элементалей Мысли иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">немоте</span><span style="color: black"><span style="color: #645252;font-size:20px">. Каждый элементаль Мысли атакует 3 вражеских существ из выбранного отряда каждые 4 сек., нанося урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от его АТК.</span><span style="color: black">
 
-### Обычное умение 1 : Earth
+### Обычное умение 1 : Земля
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушить</span><span style="color: black"><span style="color: #645252;font-size:20px"> цель на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 2 : Огонь
- **Описание:** <span style="color: #645252;font-size:20px">Psychic Elemental unit damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burn&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 6s.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. &lt;Энергетический взрыв&gt; элементаля Мысли имеет шанс 30% вызвать </span><span style="color: black"><span style="color: #48b946;font-size:20px">горение</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 6 сек.</span><span style="color: black">
 
 ### Обычное умение 3 : Владыка стихии
  **Описание:** <span style="color: #645252;font-size:20px">Элементали Мысли получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда. Когда погибает элементаль Мысли, мана вражеских героев снижается на 20.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -141,19 +141,19 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Offensive**  (Дозор атакующих отрядов)
+* **Наступление**  (Дозор атакующих отрядов)
 
 ### Бонус героя
-* [Monere](/heroes/Monere/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Монер](/heroes/Monere/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Скорость атаки
-* unit Damage
+* Урон отряда
 
 
 ## Awaking
@@ -162,14 +162,14 @@ toc: true
 
  **Awaking Name:** Элементаль Магии
 
- **Awaking Описание:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+ **Awaking Описание:** Это скрыто в самом дальнем уголке сердца, и его существование отражает радости и печали всех вещей в этом мире. Это средоточие бескрайнего и неограниченного мира, и оно всегда уникально.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Мысли, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за один раз. (Набег не учитывается при выполнении этого задания).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Захватите город в подземелье Похода гильдии </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> раз.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Magic Elemental souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ элементалей Магии на уровнях 17-2 и 17-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте элементалей Мысли, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> бою Дуэли заступников.</span>
 
@@ -191,7 +191,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огонь&gt;</span><span style="color: #645252;font-size:18px">: урон отряда утраивается. Шанс срабатывания повышается на 10%. Множество врагов поджигается.</span>
 
 ### 6th Skill (or 5th): Зажжено!
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Fire&gt;</span><span style="color: #645252;font-size:18px"> Unit's damage reduction triples. Trigger chance increased by 10%. Burn duration increased to 12s</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Огонь&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону утраивается. Шанс срабатывания повышается на 10%. Длительность горения увеличена до 12 сек.</span>
 
 ## Technical info
  **runart:** 1

@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Conflux](/units/Faction Conflux/)
+ **Фракция: ** [Гармония](/units/Faction Conflux/)
 
  **Race:** Единорог
 
@@ -40,9 +40,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 67.25 | 15.0 | 2371.5 |
+  | Зеленый | 67.25 | 15.0 | 2371.5 |
   | Синий | 134.5 | 30.0 | 4743.0 |
-  | Blue +1 | 201.75 | 45.0 | 7114.5 |
+  | Синий +1 | 201.75 | 45.0 | 7114.5 |
   | Синий +2 | 282.45 | 63.0 | 9960.3 |
   | Фиолетовый | 363.15 | 81.0 | 12806.1 |
   | Фиолетовый +1 | 443.85 | 99.0 | 15651.9 |
@@ -51,10 +51,10 @@ toc: true
   | Оранжевый | 726.3 | 162.0 | 25612.2 |
   | Оранжевый +1 | 833.9 | 186.0 | 29406.6 |
   | Оранжевый +2 | 941.5 | 210.0 | 33201.0 |
-  | Orange +3 | 1049.1 | 234.0 | 36995.4 |
+  | Оранжевый +3 | 1049.1 | 234.0 | 36995.4 |
   | Оранжевый +4 | 1156.7 | 258.0 | 40789.8 |
-  | Orange +5 | 1318.1 | 294.0 | 46481.4 |
-  | Red | 1533.3 | 342.0 | 54070.2 |
+  | Оранжевый +5 | 1318.1 | 294.0 | 46481.4 |
+  | Красный | 1533.3 | 342.0 | 54070.2 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -67,10 +67,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Luckyblessings](/equipment/Luckyblessings/) | **АТК** | **DEF** | 
-  | [Источниксилы](/equipment/Источниксилы/) | **ОЗ** | **DEF** | 
-  | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **DEF** | 
-  | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **ОЗ** | **DEF** | 
+  | [Luckyblessings](/equipment/Luckyblessings/) | **АТК** | **ЗЩТ** | 
+  | [Источниксилы](/equipment/Источниксилы/) | **ОЗ** | **ЗЩТ** | 
+  | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **ЗЩТ** | 
+  | [Легкостьветра](/equipment/Легкостьветра/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -91,9 +91,9 @@ toc: true
   <p id="log"></p>
   </form>
 ### Совершенное умение: Прямой удар
- **Описание:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Каждые 5 сек. лепреконы наносят выбранному отряду </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> его. Одновременно с этим один случайный отряд ближнего боя и стрелковый отряд теряют </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> пробивания и получают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона. Эффект длится 6 сек. и суммируется до 3 раз. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">При каждом срабатывании умения урон отряда и скорость атаки лепреконов повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Эффект длится 15 сек. и суммируется до 40 раз. </span><span style="color: black">
 
-### Обычное умение 1 : Fortune
+### Обычное умение 1 : Фортуна
  **Описание:** <span style="color: #645252;font-size:20px">Лепреконы каждые 10 сек. наделяют все союзные отряды Фортуной и дают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению, +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к стойкости и +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к защите. Эффект длится 5 сек. Для отрядов из 4 существ эффект навыка повышается в 2 раза, для отрядов из 9 и 16 существ - в 4 раза. Для самих лепреконов эффект навыка может повышаться в 3-10 раз. При повышении в 8 раз и выше дополнительно срабатывает «Прямой удар».</span><span style="color: black">
 
 ### Обычное умение 2 : Сила элементалей
@@ -102,7 +102,7 @@ toc: true
 ### Обычное умение 3 : Тактический блок
  **Описание:** <span style="color: #645252;font-size:20px">Когда лепреконам наносят критический удар, это повышает их блокирование на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и активирует «Прямой удар». Эффект длится 10 сек. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает уклонение, они получают +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к макс. здоровью. Перезарядка 5 сек. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Когда у лепреконов срабатывает блок, немедленно активируется «Прямой удар». Перезарядка 2 сек. </span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Elemental Affinity
+### Эксклюзивное умение фракции I : Близость к элементалям
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Гармонии мастерски владеют таинственной магией Гармонии и повышают сопротивление магии у героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Конфликт с элементалями
@@ -162,25 +162,25 @@ toc: true
 ### Связь дозора
 
 * **Гармония**  (Дозор отрядов Гармонии)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Защита
-* unit DMG Reduction
+* Снижение УРН отряда
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Sacred Tree Guardian Spirit
+ **Awaking Name:** Хранитель древа
 
  **Awaking Описание:** В краю элементалей есть волшебное и древнее Мировое древо. К нему устремлены взоры искателей приключений, хотя путь к нему непрост. А все потому, что Древо охраняют свирепые стражи, убивающие любого. Немало странников отправлялось к Мировому древу, но вот назад никто пока не возвращался.
 
@@ -198,8 +198,8 @@ toc: true
 ### 1st Skill (or 2nd): Удар кулаком
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у горящих целей также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
-### 2nd Skill (or 1st): Direct Blow
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
+### 2nd Skill (or 1st): Удар кулаком
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у целей с эффектом заморозки также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
 ### 3rd Skill (or 4th): Счастливое число
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Фортуна&gt;</span><span style="color: #645252;font-size:18px">: число возможных экземпляров умений лепреконов увеличивается до 5-12.</span>

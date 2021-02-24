@@ -1,21 +1,21 @@
 ---
 title: "Бес"
 permalink: /units/Imp/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
+excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Бес"
 toc: true
 ---
 ## General information
- **Описание:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
+ **Описание:** Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас.
 
  **Класс:** [Защита](/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Inferno](/units/Faction Inferno/)
+ **Фракция: ** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 25.65 | 11.0 | 918.0 |
+  | Зеленый | 25.65 | 11.0 | 918.0 |
   | Синий | 51.3 | 22.0 | 1836.0 |
-  | Blue +1 | 76.95 | 33.0 | 2754.0 |
+  | Синий +1 | 76.95 | 33.0 | 2754.0 |
   | Синий +2 | 107.73 | 46.2 | 3855.6 |
   | Фиолетовый | 138.51 | 59.4 | 4957.2 |
   | Фиолетовый +1 | 169.29 | 72.6 | 6058.8 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 277.02 | 118.8 | 9914.4 |
   | Оранжевый +1 | 318.06 | 136.4 | 11383.2 |
   | Оранжевый +2 | 359.1 | 154.0 | 12852.0 |
-  | Orange +3 | 400.14 | 171.6 | 14320.8 |
+  | Оранжевый +3 | 400.14 | 171.6 | 14320.8 |
   | Оранжевый +4 | 441.18 | 189.2 | 15789.6 |
-  | Orange +5 | 502.74 | 215.6 | 17992.8 |
-  | Red | 584.82 | 250.8 | 20930.4 |
+  | Оранжевый +5 | 502.74 | 215.6 | 17992.8 |
+  | Красный | 584.82 | 250.8 | 20930.4 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,10 +71,10 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sinister Claws](/equipment/Sinister Claws/) | **АТК** | **DEF** | 
-  | [Sinister Katar](/equipment/Sinister Katar/) | **ОЗ** | **DEF** | 
-  | [Зловещие крылья](/equipment/Зловещие крылья/) | **АТК** | **DEF** | 
-  | [Зловещая легкая броня](/equipment/Зловещая легкая броня/) | **ОЗ** | **DEF** | 
+  | [Зловещие когти](/equipment/Зловещие когти/) | **АТК** | **ЗЩТ** | 
+  | [Зловещий катар](/equipment/Зловещий катар/) | **ОЗ** | **ЗЩТ** | 
+  | [Зловещие крылья](/equipment/Зловещие крылья/) | **АТК** | **ЗЩТ** | 
+  | [Зловещая легкая броня](/equipment/Зловещая легкая броня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
@@ -101,13 +101,13 @@ toc: true
 ### Обычное умение 1 : Карающий удар
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у бесов есть шанс нанести цели </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и вызвать </span><span style="color: black"><span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 2 сек.</span><span style="color: black">
 
-### Обычное умение 2 : Agility
- **Описание:** <span style="color: #645252;font-size:20px">Imp's dodge is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. When Imp dodges an attack, it has 20% chance to reduce mana of the enemy hero by 5, this skill has 5s cooldown </span><span style="color: black">
+### Обычное умение 2 : Проворство
+ **Описание:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к уклонению. Когда бесы уклоняются от урона врага, они с вероятностью 20% снижают ману вражеского героя на 5. Перезарядка этого умения - 5 сек. </span><span style="color: black">
 
-### Обычное умение 3 : Inferno Minion
+### Обычное умение 3 : Слуга Инферно
  **Описание:** <span style="color: #645252;font-size:20px">Бесы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 30%.</span><span style="color: black">
 
-### Эксклюзивное умение фракции I : Broiling Strike
+### Эксклюзивное умение фракции I : Обжигающий удар
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Инферно мастерски контролируют огонь, повышая критический удар на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и КРИТ. УРН на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против горящих отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс антимагии
@@ -146,33 +146,33 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Inferno**  (Inferno Roster)
-* **Defensive**  (Дозор оборонительных отрядов)
+* **Инферно**  (Дозор отрядов Инферно)
+* **Защита**  (Дозор оборонительных отрядов)
 
 ### Бонус героя
 * [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
 * Уклонение отряда
-* Magic resistance
+* Сопротивление магии
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Familiar
+ **Awaking Name:** Черти
 
  **Awaking Описание:** Это преданная и самоотверженная прислужница ада, она готова добиваться победы любой ценой, и одной силой мысли призывает ужасных демонов.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Imp with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Inferno units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте бесов и хотя бы </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> отрядов Башни, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ чертей на уровнях 15-2 и 15-4 в Подземелье.</span>
 
@@ -186,14 +186,14 @@ toc: true
 ### 2nd Skill (or 1st): Долгое тепло
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Импульс&gt;</span><span style="color: #645252;font-size:18px">: шанс воскрешения беса повышается до 200% от предыдущего умения. При гибели беса восстанавливается 2 ед. маны союзным героям</span>
 
-### 3rd Skill (or 4th): Evil Wisdom
+### 3rd Skill (or 4th): Злая мудрость
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ловкость&gt;</span><span style="color: #645252;font-size:18px"> В течение 20 секунд после вступления в битву уклонение беса повышено на 2000 единиц.</span>
 
 ### 4th Skill (or 3rd): Правила Инферно
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Agility&gt;</span><span style="color: #645252;font-size:18px">Imp increases dodge by 200 for friendly units within a certain range. For Inferno Faction units, the effect doubles</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ловкость&gt;</span><span style="color: #645252;font-size:18px">: при наличии на поле боя беса уклонение отрядов вокруг него повышается на 200. Для отрядов фракции Инферно эффект удваивается.</span>
 
 ### 5th Skill (or 6th): Глубинное убежище
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Inferno Minion&gt;</span><span style="color: #645252;font-size:18px">Imp's unit defense increased by 15%, and by 4% further for every Inferno unit deployed</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: защита отряда бесов повышается на 15%, а затем на 4% при вступлении в бой каждого следующего отряда Инферно</span>
 
 ### 6th Skill (or 5th): Агитация Инферно
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: за каждого погибшего защита бесов повышается на 15%. Эффект длится в течение всего боя, складывается до 5 раз</span>

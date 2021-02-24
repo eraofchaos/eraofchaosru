@@ -3,7 +3,7 @@ title: "Наездник на волке"
 permalink: /units/Wolf Rider/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов."
 unitID: 402
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: ru
 ref: "Наездник на волке"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
+ **Unit description:** Ручной зверь: после смерти отряда призывает на поле боя волков.
 
  **Short description:** Призыв волка, способного высасывать жизнь при критическом ударе.
 
@@ -42,9 +42,9 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 36.4 | 5.5 | 645.0 |
+  | Зеленый | 36.4 | 5.5 | 645.0 |
   | Синий | 72.8 | 11.0 | 1290.0 |
-  | Blue +1 | 109.2 | 16.5 | 1935.0 |
+  | Синий +1 | 109.2 | 16.5 | 1935.0 |
   | Синий +2 | 152.88 | 23.1 | 2709.0 |
   | Фиолетовый | 196.56 | 29.7 | 3483.0 |
   | Фиолетовый +1 | 240.24 | 36.3 | 4257.0 |
@@ -53,10 +53,10 @@ toc: true
   | Оранжевый | 393.12 | 59.4 | 6966.0 |
   | Оранжевый +1 | 451.36 | 68.2 | 7998.0 |
   | Оранжевый +2 | 509.6 | 77.0 | 9030.0 |
-  | Orange +3 | 567.84 | 85.8 | 10062.0 |
+  | Оранжевый +3 | 567.84 | 85.8 | 10062.0 |
   | Оранжевый +4 | 626.08 | 94.6 | 11094.0 |
-  | Orange +5 | 713.44 | 107.8 | 12642.0 |
-  | Red | 829.92 | 125.4 | 14706.0 |
+  | Оранжевый +5 | 713.44 | 107.8 | 12642.0 |
+  | Красный | 829.92 | 125.4 | 14706.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
@@ -71,16 +71,16 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Бритвенно острая сабля](/equipment/Бритвенно острая сабля/) | **АТК** | **DEF** | 
-  | [Могущественный пояс](/equipment/Могущественный пояс/) | **ОЗ** | **DEF** | 
-  | [Bracer of the Wolf](/equipment/Bracer of the Wolf/) | **АТК** | **DEF** | 
-  | [Наплечники языка волка](/equipment/Наплечники языка волка/) | **ОЗ** | **DEF** | 
+  | [Бритвенно острая сабля](/equipment/Бритвенно острая сабля/) | **АТК** | **ЗЩТ** | 
+  | [Могущественный пояс](/equipment/Могущественный пояс/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты волка](/equipment/Браслеты волка/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники языка волка](/equipment/Наплечники языка волка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Рекомендуемые эмблемы святости
 
 * [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
 * [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Jealousy](/Emblem/Jealousy/) (Хаос)
+* [Ревность](/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -99,13 +99,13 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">После своей смерти наездник на волке вызывает 1 варга. У варгов </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ, они сохраняются в течение всего боя.</span><span style="color: black">
 
 ### Обычное умение 1 : Двойной удар
- **Описание:** <span style="color: #645252;font-size:20px">The Wolf Rider has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to attack twice under normal attack. The 2nd attack causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке у наездников на волке есть шанс </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> атаковать 2 раза подряд. 2-я атака наносит </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона цели. В бою с </span><span style="color: black"><span style="color: #48b946;font-size:20px">замедленными</span><span style="color: black"><span style="color: #645252;font-size:20px"> целями шанс активировать &lt;Двойной удар&gt; возрастает до 100%.</span><span style="color: black">
 
 ### Обычное умение 2 : Буйство
  **Описание:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к критическому удару. Эффект удваивается при менее 35% ОЗ и продолжает действовать при восстановлении ОЗ.</span><span style="color: black">
 
-### Обычное умение 3 : Bloodlust
- **Описание:** <span style="color: #645252;font-size:20px">Wolf Rider's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit.</span><span style="color: black">
+### Обычное умение 3 : Жажда крови
+ **Описание:** <span style="color: #645252;font-size:20px">Наездники на волке получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. За каждый критический удар восстанавливается 2% ОЗ.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Фанатик сражений
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Цитадели умеют сражаться в свирепых длительных боях. Их скорость атаки будет увеличена на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> за каждые 15% потерянных ОЗ.</span><span style="color: black">
@@ -151,19 +151,19 @@ toc: true
 ### Связь дозора
 
 * **Цитадель**  (Дозор отрядов Цитадели)
-* **Charging**  (Дозор штурмовых отрядов)
+* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Mullich](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
 * Атака
 * ОЗ
-* unit Damage
-* Magic resistance
+* Урон отряда
+* Сопротивление магии
 
 
 ## Awaking
@@ -177,18 +177,18 @@ toc: true
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Используйте наездников на волках, и хотя бы 3 отряда Цитадели, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов за раз в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> Resources in Guild Adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> ресурсов в Походе гильдии.</span>
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ разбойников на волках на уровнях 16-2 и 16-4 в Подземелье.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wolf Rider and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Arena battles. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите на Ристалище </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> раза, используя наездников на волках. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Наследство зверя
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ручной зверь&gt;</span><span style="color: #645252;font-size:18px">: повышает критический удар призванных варгов на 400. Наездник на волке призывает еще одного варга в случае уничтожения его цели</span>
 
-### 2nd Skill (or 1st): Living With Wolves
+### 2nd Skill (or 1st): С волками жить
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ручной зверь&gt;</span><span style="color: #645252;font-size:18px">: призывает варга, который увеличивает урон отряда на 10%. В начале боя призывается 9 варгов</span>
 
 ### 3rd Skill (or 4th): Энтузиазм
@@ -197,11 +197,11 @@ toc: true
 ### 4th Skill (or 3rd): Буйство жажды крови
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: критический удар наездника на волке повышается на 400 (действует при восстановленных ОЗ)</span>
 
-### 5th Skill (or 6th): Beast Instinct
+### 5th Skill (or 6th): Инстинкт зверя
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: при критическом ударе восстановление ОЗ повышается на 5%</span>
 
 ### 6th Skill (or 5th): Увеличение разрыва
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Bloodlust&gt;</span><span style="color: #645252;font-size:18px">Each Crit Hit grants 30 extra Crit Hit</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Жажда крови&gt;</span><span style="color: #645252;font-size:18px">: каждый критический увеличивает критический урон на 30</span>
 
 ## Technical info
  **runart:** 1
