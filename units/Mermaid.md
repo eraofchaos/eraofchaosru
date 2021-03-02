@@ -3,7 +3,7 @@ title: "Русалка"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана."
 unitID: 9905
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Русалка"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 185.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Сережки водяного](/equipment/Сережки водяного/) | **ОЗ** | **ЗЩТ** | 
   | [Гибкий рыбий хвост](/equipment/Гибкий рыбий хвост/) | **АТК** | **ЗЩТ** | 
   | [Защита океана](/equipment/Защита океана/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Прилив](/Exclusive/Mermaid Night Tides/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

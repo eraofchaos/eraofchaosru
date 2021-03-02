@@ -3,7 +3,7 @@ title: "Регнанский пират"
 permalink: /units/Regnan Pirates/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Регнанский пират"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 99.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Рубашка моряка](/equipment/Рубашка моряка/) | **ОЗ** | **ЗЩТ** | 
   | [Праведная бандана](/equipment/Праведная бандана/) | **АТК** | **ЗЩТ** | 
   | [Штаны моряка](/equipment/Штаны моряка/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Regnan Pirates Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

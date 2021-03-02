@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /units/Fire Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Огня"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 195.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Кипящий щит](/equipment/Кипящий щит/) | **ОЗ** | **ЗЩТ** | 
   | [Око сапфира](/equipment/Око сапфира/) | **АТК** | **ЗЩТ** | 
   | [Темно-синий острый коготь](/equipment/Темно-синий острый коготь/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Энергия Огня](/Exclusive/Fire Elemental Fire Energy/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

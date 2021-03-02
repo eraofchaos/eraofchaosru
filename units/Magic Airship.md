@@ -3,7 +3,7 @@ title: "Магический корабль"
 permalink: /units/Magic Airship/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Магический корабль"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 208.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Система управления](/equipment/Система управления/) | **ОЗ** | **ЗЩТ** | 
   | [Главная вышка управления](/equipment/Главная вышка управления/) | **АТК** | **ЗЩТ** | 
   | [Палуба наблюдения](/equipment/Палуба наблюдения/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Путеводная звезда](/Exclusive/Magic Airship Polaris/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

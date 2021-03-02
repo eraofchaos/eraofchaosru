@@ -1,0 +1,63 @@
+---
+title: "Эксклюзив - Лук медузы"
+permalink: /Exclusive/Medusa Medusa's bow/
+excerpt: "Эра хаоса Лук медузы. Лук медузы. Эра хаоса Эксклюзив Лук медузы. Медуза Эксклюзив."
+last_modified_at: 2021-03-02
+locale: ru
+ref: "Medusa Лук медузы.md"
+toc: false
+classes: wide
+---
+ [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+
+## Details
+ **Name: Лук медузы** 
+
+ **Эксклюзив for Unit:** [Медуза](/units/Medusa/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
+ **Type:** Стрелковый
+
+ **Open:** -
+
+ **Power:** 1610
+
+## Повысить ранг 
+
+  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | ? | У медузы есть шанс в 50% применить <Яд змеи> к случайному отряду при каждой атаке. Эффект длится в течение всего боя. Суммируется до 10 раз. Когда медуза нападает на любый отряд, имеющий 10 зарядов <Яда змеи>, она получает +30% к урону. <Яд змеи> наносит урон в 5% ATK медузы в секунду. |
+  | **1x** <i class="fas fa-star"/> | ? | Медуза получает +300 к критическому удару. |
+  | **2x** <i class="fas fa-star"/> | ? | Медуза получает +20% к ATK и скорости атаки. |
+  | **3x** <i class="fas fa-star"/> | ? | <Топь>: Медуза раз в 10 сек. снимает с себя все отрицательные эффекты. |
+  | **4x** <i class="fas fa-star"/> | ? | Медуза получает +20% к урону. |
+  | **5x** <i class="fas fa-star"/> | ? | Медуза получает 10% высасывания жизни. |
+  | **6x** <i class="fas fa-star"/> | ? | <Перекрытая глотка>: атака медузы с шансом 3% наносит урон в 200% ATK, цель теряет 20% ЗЩТ, 10% скорости атаки и 500 уклонения. Эффект длится 5 сек. |
+
+
+## Новый ур.
+ **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | АТК: +5.0%, ОЗ: +3.0% |
+  | 2 | Lv.**40** | АТК: +10.0%, ОЗ: +5.0% |
+  | 3 | Lv.**60** | АТК: +10.0%, ОЗ: +5.0% |
+  | 4 | Lv.**80** | Скорость атаки: +3.0 |
+  | 5 | Lv.**100** | АТК: +15.0%, ОЗ: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 242 | 33.97 | 192.4 |
+  | 2 | 274 | 40.77 | 230.88 |
+  | 3 | 306 | 47.56 | 269.36 |
+  | 4 | 338 | 54.36 | 307.84 |
+  | 5 | 370 | 61.15 | 346.31 |
+  | 6 | 403 | 67.94 | 384.79 |
+  | 7 | 435 | 74.74 | 423.27 |
+
+

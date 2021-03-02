@@ -3,7 +3,7 @@ title: "Элементаль Шторма"
 permalink: /units/Storm Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством."
 unitID: 902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Шторма"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 99.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Ядро грома](/equipment/Ядро грома/) | **ОЗ** | **ЗЩТ** | 
   | [Волшебный коготь](/equipment/Волшебный коготь/) | **АТК** | **ЗЩТ** | 
   | [Око молнии](/equipment/Око молнии/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

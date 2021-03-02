@@ -3,7 +3,7 @@ title: "Мумия"
 permalink: /units/Mummy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят."
 unitID: 308
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Мумия"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 141.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Древний бинт](/equipment/Древний бинт/) | **ОЗ** | **ЗЩТ** | 
   | [Ученик покойного](/equipment/Ученик покойного/) | **АТК** | **ЗЩТ** | 
   | [Дыхание смерти](/equipment/Дыхание смерти/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Бинты мумии](/Exclusive/Mummy Gauze/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Архимаг"
 permalink: /units/Arch Mage/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Архимаг"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Кристаллическая корона волшебства](/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **ЗЩТ** | 
   | [Волшебная сфера маны](/equipment/Волшебная сфера маны/) | **АТК** | **ЗЩТ** | 
   | [Мантия мага](/equipment/Мантия мага/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Arch Mage Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

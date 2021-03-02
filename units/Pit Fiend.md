@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Порождение зла"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Заколдованная легкая броня](/equipment/Заколдованная легкая броня/) | **ОЗ** | **ЗЩТ** | 
   | [Заколдованный рожок](/equipment/Заколдованный рожок/) | **АТК** | **ЗЩТ** | 
   | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Pit Fiend Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

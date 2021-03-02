@@ -3,7 +3,7 @@ title: "Гоблин"
 permalink: /units/Goblin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гоблин"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Кожаный пояс](/equipment/Кожаный пояс/) | **ОЗ** | **ЗЩТ** | 
   | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **АТК** | **ЗЩТ** | 
   | [Кожаные наплечники](/equipment/Кожаные наплечники/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Goblin Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

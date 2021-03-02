@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /units/Green Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Дракон
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 1018.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Доспех черного дракона](/equipment/Доспех черного дракона/) | **ОЗ** | **ЗЩТ** | 
   | [Когти распада](/equipment/Когти распада/) | **АТК** | **ЗЩТ** | 
   | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Сияющие крылья](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

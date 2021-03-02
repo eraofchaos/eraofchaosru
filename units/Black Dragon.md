@@ -3,7 +3,7 @@ title: "Черный дракон"
 permalink: /units/Black Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Черный дракон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Опустошающий огонь](/equipment/Опустошающий огонь/) | **ОЗ** | **ЗЩТ** | 
   | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **ЗЩТ** | 
   | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Чешуя черного дракона](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

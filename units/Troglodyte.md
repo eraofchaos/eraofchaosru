@@ -3,7 +3,7 @@ title: "Троглодит"
 permalink: /units/Troglodyte/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Троглодит"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 86.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Череп хозяина](/equipment/Череп хозяина/) | **ОЗ** | **ЗЩТ** | 
   | [Ломающий хребет удар](/equipment/Ломающий хребет удар/) | **АТК** | **ЗЩТ** | 
   | [Кровь сильной кислоты](/equipment/Кровь сильной кислоты/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Troglodyte Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

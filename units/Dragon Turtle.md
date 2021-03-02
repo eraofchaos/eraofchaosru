@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Панцирный дракон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 362.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Панцирь шипастой черепахи](/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **ЗЩТ** | 
   | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **ЗЩТ** | 
   | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Послушание](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

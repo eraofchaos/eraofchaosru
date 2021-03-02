@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /units/Spartan Warriors/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!"
 unitID: 9702
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Спартанец"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Нейтральная армия](/units/Faction Neutral Army/)
+ **Фракция:** [Нейтральная армия](/units/Faction Neutral Army/)
 
  **Race:** Орден Ассасинов
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 216.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Стальной щит](/equipment/Стальной щит/) | **ОЗ** | **ЗЩТ** | 
   | [Длинное копье](/equipment/Длинное копье/) | **АТК** | **ЗЩТ** | 
   | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

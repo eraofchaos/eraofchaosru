@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Эра хаоса Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Faction Necropolis"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Faction Necropolis)
 
- [Гармония](/units/Faction Conflux){: .btn .btn--primary} [Инферно](/units/Faction Inferno){: .btn .btn--success} [Подземелье](/units/Faction Dungeon){: .btn .btn--warning} [Крепость](/units/Faction Fortress){: .btn .btn--danger} [Бастион](/units/Faction Rampart){: .btn .btn--info} [Замок](/units/Faction Castle){: .btn .btn--primary} [Башня](/units/Faction Tower){: .btn .btn--success} [Цитадель](/units/Faction Stronghold){: .btn .btn--warning} [Убежище](/units/Faction Cove){: .btn .btn--danger} [Нейтральная армия](/units/Faction Neutral Army){: .btn .btn--info} [Некрополь](/units/Faction Necropolis){: .btn .btn--primary} 
+ [Гармония](/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/units/Faction Rampart/){: .btn .btn--info} [Замок](/units/Faction Castle/){: .btn .btn--primary} [Башня](/units/Faction Tower/){: .btn .btn--success} [Цитадель](/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

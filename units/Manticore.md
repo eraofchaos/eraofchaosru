@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /units/Manticore/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет."
 unitID: 706
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Мантикора"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Клык со смертельным ядом](/equipment/Клык со смертельным ядом/) | **ОЗ** | **ЗЩТ** | 
   | [Ядовитый хвост](/equipment/Ядовитый хвост/) | **АТК** | **ЗЩТ** | 
   | [Крылья мантикоры](/equipment/Крылья мантикоры/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Хвост скорпиона](/Exclusive/Manticore Scorpion tail/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

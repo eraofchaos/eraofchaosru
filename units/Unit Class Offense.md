@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Эра хаоса Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Unit Class Offense"
 toc: false
 classes: wide
 ---
- [Стрелковый](/units/Unit Class Ranged){: .btn .btn--primary} [Штурм](/units/Unit Class Charging){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster){: .btn .btn--warning} [Наступление](/units/Unit Class Offense){: .btn .btn--danger} [Защита](/units/Unit Class Defense){: .btn .btn--info} 
+ [Стрелковый](/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/units/Unit Class Defense/){: .btn .btn--info} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

@@ -3,12 +3,12 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Злая ведьма"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 633.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
   | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
   | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Единорог"
 permalink: /units/Unicorn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Единорог"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Камни мечтателя](/equipment/Камни мечтателя/) | **ОЗ** | **ЗЩТ** | 
   | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **ЗЩТ** | 
   | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Unicorn Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

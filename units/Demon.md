@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /units/Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Демон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 114.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Стальное ожерелье](/equipment/Стальное ожерелье/) | **ОЗ** | **ЗЩТ** | 
   | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
   | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Demon Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

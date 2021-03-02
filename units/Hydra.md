@@ -3,7 +3,7 @@ title: "Гидра"
 permalink: /units/Hydra/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
 unitID: 807
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гидра"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Единорог
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Сережки правителя](/equipment/Сережки правителя/) | **ОЗ** | **ЗЩТ** | 
   | [Коготь чумного дракона](/equipment/Коготь чумного дракона/) | **АТК** | **ЗЩТ** | 
   | [Острые спинные шипы](/equipment/Острые спинные шипы/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Многоглавый змей](/Exclusive/Hydra Hydra's Head/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

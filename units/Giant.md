@@ -3,7 +3,7 @@ title: "Гигант"
 permalink: /units/Giant/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира."
 unitID: 607
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гигант"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Наплечники из чистого золота](/equipment/Наплечники из чистого золота/) | **ОЗ** | **ЗЩТ** | 
   | [Громовой шлем](/equipment/Громовой шлем/) | **АТК** | **ЗЩТ** | 
   | [Нагрудник молнии](/equipment/Нагрудник молнии/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Громада](/Exclusive/Giant Thousand Ton/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

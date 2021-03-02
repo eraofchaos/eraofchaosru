@@ -2,21 +2,21 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Фракция: [Гармония](/units/Faction Conflux){: .btn .btn--primary} [Инферно](/units/Faction Inferno){: .btn .btn--success} [Подземелье](/units/Faction Dungeon){: .btn .btn--warning} [Крепость](/units/Faction Fortress){: .btn .btn--danger} [Бастион](/units/Faction Rampart){: .btn .btn--info} [Замок](/units/Faction Castle){: .btn .btn--primary} [Башня](/units/Faction Tower){: .btn .btn--success} [Цитадель](/units/Faction Stronghold){: .btn .btn--warning} [Убежище](/units/Faction Cove){: .btn .btn--danger} [Нейтральная армия](/units/Faction Neutral Army){: .btn .btn--info} [Некрополь](/units/Faction Necropolis){: .btn .btn--primary} 
+  by Фракция: [Гармония](/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/units/Faction Rampart/){: .btn .btn--info} [Замок](/units/Faction Castle/){: .btn .btn--primary} [Башня](/units/Faction Tower/){: .btn .btn--success} [Цитадель](/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [Стрелковый](/units/Unit Class Ranged){: .btn .btn--primary} [Штурм](/units/Unit Class Charging){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster){: .btn .btn--warning} [Наступление](/units/Unit Class Offense){: .btn .btn--danger} [Защита](/units/Unit Class Defense){: .btn .btn--info} 
+  by Class: [Стрелковый](/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/units/Unit Rank R){: .btn .btn--primary} [SSR](/units/Unit Rank SSR){: .btn .btn--success} [Командующий](/units/Unit Rank Commander){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
+  by Rank: [R](/units/Unit Rank R/){: .btn .btn--primary} [SSR](/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  by Members: [x9](/units/Unit Member x9){: .btn .btn--primary} [x1](/units/Unit Member x1){: .btn .btn--success} [x4](/units/Unit Member x4){: .btn .btn--warning} 
+  by Members: [x9](/units/Unit Member x9/){: .btn .btn--primary} [x1](/units/Unit Member x1/){: .btn .btn--success} [x4](/units/Unit Member x4/){: .btn .btn--warning} 
 
-  by Stars: [<i class="fas fa-star"/>](/units/Star 1){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2){: .btn .btn--warning} 
+  by Stars: [<i class="fas fa-star"/>](/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/){: .btn .btn--warning} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |  Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:--------------|

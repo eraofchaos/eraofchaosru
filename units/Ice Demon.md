@@ -3,12 +3,12 @@ title: "Ледяной демон"
 permalink: /units/Ice Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
 unitID: 908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Ледяной демон"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Ледяное прикосновение](/equipment/Ледяное прикосновение/) | **ОЗ** | **ЗЩТ** | 
   | [Венец стужи](/equipment/Венец стужи/) | **АТК** | **ЗЩТ** | 
   | [Ледяной трон](/equipment/Ледяной трон/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

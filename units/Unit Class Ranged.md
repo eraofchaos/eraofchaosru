@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Эра хаоса Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Unit Class Ranged"
 toc: false
 classes: wide
 ---
- [Стрелковый](/units/Unit Class Ranged){: .btn .btn--primary} [Штурм](/units/Unit Class Charging){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster){: .btn .btn--warning} [Наступление](/units/Unit Class Offense){: .btn .btn--danger} [Защита](/units/Unit Class Defense){: .btn .btn--info} 
+ [Стрелковый](/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/units/Unit Class Defense/){: .btn .btn--info} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

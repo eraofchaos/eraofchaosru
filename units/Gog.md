@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гог"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Огненный рог](/equipment/Огненный рог/) | **ОЗ** | **ЗЩТ** | 
   | [Хвост пламени](/equipment/Хвост пламени/) | **АТК** | **ЗЩТ** | 
   | [Ошпаривающие браслеты](/equipment/Ошпаривающие браслеты/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Gog Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

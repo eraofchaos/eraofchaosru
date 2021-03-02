@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /units/Cavalier/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Всадники"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -77,6 +77,15 @@ toc: true
   | [Щиток защиты](/equipment/Щиток защиты/) | **ОЗ** | **ЗЩТ** | 
   | [Щит защиты](/equipment/Щит защиты/) | **АТК** | **ЗЩТ** | 
   | [Наплечники паладина](/equipment/Наплечники паладина/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Cavalier Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

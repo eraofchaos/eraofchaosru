@@ -3,7 +3,7 @@ title: "Берсерк"
 permalink: /units/Berserker/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Берсерк"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
   | [Шлем из звериных костей](/equipment/Шлем из звериных костей/) | **АТК** | **ЗЩТ** | 
   | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Безумный убийца](/Exclusive/Berserker Berserker's Axe/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

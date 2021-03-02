@@ -3,7 +3,7 @@ title: "Рух"
 permalink: /units/Roc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Рух"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Единорог
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Крылья разряда молнии](/equipment/Крылья разряда молнии/) | **ОЗ** | **ЗЩТ** | 
   | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **ЗЩТ** | 
   | [Доспех молнии](/equipment/Доспех молнии/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Roc Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

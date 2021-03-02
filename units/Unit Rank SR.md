@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Эра хаоса Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Unit Rank SR"
 toc: false
 classes: wide
 ---
- [R](/units/Unit Rank R){: .btn .btn--primary} [SSR](/units/Unit Rank SSR){: .btn .btn--success} [Командующий](/units/Unit Rank Commander){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
+ [R](/units/Unit Rank R/){: .btn .btn--primary} [SSR](/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/units/Unit Rank SR/){: .btn .btn--danger} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

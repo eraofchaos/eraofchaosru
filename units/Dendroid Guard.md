@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /units/Dendroid Guard/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Дендроид-страж"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Бес
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 396.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Корона изобилия](/equipment/Корона изобилия/) | **ОЗ** | **ЗЩТ** | 
   | [Вечнозеленая руна](/equipment/Вечнозеленая руна/) | **АТК** | **ЗЩТ** | 
   | [Доспех лозы](/equipment/Доспех лозы/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

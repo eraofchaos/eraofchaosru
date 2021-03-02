@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лепреконы в изумрудно-зеленых камзолах. Раньше они жили под защитой Мирового древа, не зная забот и печали. Но сейчас, когда Эрафия протрубила в рог войны, пришла пора им самим защищать его. И они готовы биться до последнего."
 unitID: 909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Единорог
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 134.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Источниксилы](/equipment/Источниксилы/) | **ОЗ** | **ЗЩТ** | 
   | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **ЗЩТ** | 
   | [Легкостьветра](/equipment/Легкостьветра/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Фея"
 permalink: /units/Sprite/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал."
 unitID: 901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Фея"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 69.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Платье Луны и звезд](/equipment/Платье Луны и звезд/) | **ОЗ** | **ЗЩТ** | 
   | [Фосфоресцирующие крылья бабочки](/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **ЗЩТ** | 
   | [Изумрудное обручье](/equipment/Изумрудное обручье/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Sprite Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

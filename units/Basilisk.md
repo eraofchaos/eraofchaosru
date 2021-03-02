@@ -3,7 +3,7 @@ title: "Василиск"
 permalink: /units/Basilisk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети."
 unitID: 804
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Василиск"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Адамантовая чешуя](/equipment/Адамантовая чешуя/) | **ОЗ** | **ЗЩТ** | 
   | [Отравленный коготь](/equipment/Отравленный коготь/) | **АТК** | **ЗЩТ** | 
   | [Клык окаменения](/equipment/Клык окаменения/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Энергия огня](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

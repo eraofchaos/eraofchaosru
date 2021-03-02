@@ -3,7 +3,7 @@ title: "Гном"
 permalink: /units/Dwarf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гном"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Рогатый шлем](/equipment/Рогатый шлем/) | **ОЗ** | **ЗЩТ** | 
   | [Рукавицы печного огня](/equipment/Рукавицы печного огня/) | **АТК** | **ЗЩТ** | 
   | [Наплечники печного огня](/equipment/Наплечники печного огня/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Dwarf Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Вампир"
 permalink: /units/Vampire/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Вампир"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Злой дух
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 74.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Легкая броня кровожадности](/equipment/Легкая броня кровожадности/) | **ОЗ** | **ЗЩТ** | 
   | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **ЗЩТ** | 
   | [Плащ тени](/equipment/Плащ тени/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Vampire Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

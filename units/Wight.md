@@ -3,7 +3,7 @@ title: "Призрак"
 permalink: /units/Wight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Призраки жаждут лишь одного - жизни. Они вытянут из окружающих столько энергии, сколько смогут. Некроманты используют призраков, чтобы собирать души живых."
 unitID: 303
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Призрак"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Легкая броня реквиема](/equipment/Легкая броня реквиема/) | **ОЗ** | **ЗЩТ** | 
   | [Проклятая душа](/equipment/Проклятая душа/) | **АТК** | **ЗЩТ** | 
   | [Платье реквиема](/equipment/Платье реквиема/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Wight Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

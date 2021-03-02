@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /units/Monk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Монах"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Шляпа мистика](/equipment/Шляпа мистика/) | **ОЗ** | **ЗЩТ** | 
   | [Руна ритуала](/equipment/Руна ритуала/) | **АТК** | **ЗЩТ** | 
   | [Базовая легкая броня](/equipment/Базовая легкая броня/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Monk Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

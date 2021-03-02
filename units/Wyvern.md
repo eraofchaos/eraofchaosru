@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /units/Wyvern/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
 unitID: 806
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Виверна"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 500.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Чумной клык](/equipment/Чумной клык/) | **ОЗ** | **ЗЩТ** | 
   | [Спинные шипы беса](/equipment/Спинные шипы беса/) | **АТК** | **ЗЩТ** | 
   | [Крылья дракона](/equipment/Крылья дракона/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Хвост гадюки](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

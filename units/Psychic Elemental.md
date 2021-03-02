@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 212.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Небесная звезда](/equipment/Небесная звезда/) | **ОЗ** | **ЗЩТ** | 
   | [Корона духа звезды](/equipment/Корона духа звезды/) | **АТК** | **ЗЩТ** | 
   | [Могущественные наручи](/equipment/Могущественные наручи/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Колесо вечности](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

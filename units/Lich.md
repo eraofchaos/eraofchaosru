@@ -3,7 +3,7 @@ title: "Лич"
 permalink: /units/Lich/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Лич"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 228.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Корона мертвечины](/equipment/Корона мертвечины/) | **ОЗ** | **ЗЩТ** | 
   | [Пояс души](/equipment/Пояс души/) | **АТК** | **ЗЩТ** | 
   | [Легкая броня Преисподней](/equipment/Легкая броня Преисподней/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Дань смерти](/Exclusive/Lich Death Tribute/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

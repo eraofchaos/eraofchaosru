@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /units/Angel/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Ангел"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Ангел
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Легкая боевая броня](/equipment/Легкая боевая броня/) | **ОЗ** | **ЗЩТ** | 
   | [Легкие рукавицы](/equipment/Легкие рукавицы/) | **АТК** | **ЗЩТ** | 
   | [Наплечники легкости](/equipment/Наплечники легкости/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч Дюрандаль](/Exclusive/Angel Durandel/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

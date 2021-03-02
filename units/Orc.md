@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /units/Orc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Орк"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Орк
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Пояс ограничения](/equipment/Пояс ограничения/) | **ОЗ** | **ЗЩТ** | 
   | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
   | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Orc Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

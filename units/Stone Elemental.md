@@ -3,7 +3,7 @@ title: "Элементаль Камня"
 permalink: /units/Stone Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться."
 unitID: 905
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Камня"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 121.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Взрыв магмы](/equipment/Взрыв магмы/) | **ОЗ** | **ЗЩТ** | 
   | [Камень сумерек](/equipment/Камень сумерек/) | **АТК** | **ЗЩТ** | 
   | [Корона из камня](/equipment/Корона из камня/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Ядро энергии](/Exclusive/Stone Elemental Energy Core/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

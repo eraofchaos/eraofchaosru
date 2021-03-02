@@ -3,12 +3,12 @@ title: "Огненный демон"
 permalink: /units/Venom Spawn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы."
 unitID: 509
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Огненный демон"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 375.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **ОЗ** | **ЗЩТ** | 
   | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **АТК** | **ЗЩТ** | 
   | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

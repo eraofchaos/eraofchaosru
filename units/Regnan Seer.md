@@ -3,12 +3,12 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1006.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Ожерелье души Посейдона](/equipment/Ожерелье души Посейдона/) | **ОЗ** | **ЗЩТ** | 
   | [Бандана сияния](/equipment/Бандана сияния/) | **АТК** | **ЗЩТ** | 
   | [Благородный браслет](/equipment/Благородный браслет/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [](/Exclusive/Regnan Seer /) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

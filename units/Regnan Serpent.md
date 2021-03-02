@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
 unitID: 9904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Регнанский змей"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Рожок из ракушки](/equipment/Рожок из ракушки/) | **ОЗ** | **ЗЩТ** | 
   | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **ЗЩТ** | 
   | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Волна гнева](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

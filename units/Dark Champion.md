@@ -3,12 +3,12 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1029.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Тяжелый шлем преджизни](/equipment/Тяжелый шлем преджизни/) | **ОЗ** | **ЗЩТ** | 
   | [Огонь спасения Инферно](/equipment/Огонь спасения Инферно/) | **АТК** | **ЗЩТ** | 
   | [Лопатка Аида](/equipment/Лопатка Аида/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

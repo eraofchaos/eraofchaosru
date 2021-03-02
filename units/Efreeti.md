@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /units/Efreeti/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Злой дух
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 225.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Легкая броня пламени](/equipment/Легкая броня пламени/) | **ОЗ** | **ЗЩТ** | 
   | [Браслеты пламени](/equipment/Браслеты пламени/) | **АТК** | **ЗЩТ** | 
   | [Наплечники пламени](/equipment/Наплечники пламени/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

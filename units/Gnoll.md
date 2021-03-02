@@ -3,7 +3,7 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Хозяин зверей
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Квадратный щит оборотня](/equipment/Квадратный щит оборотня/) | **ОЗ** | **ЗЩТ** | 
   | [Цепь оборотня](/equipment/Цепь оборотня/) | **АТК** | **ЗЩТ** | 
   | [Рукавицы оборотня](/equipment/Рукавицы оборотня/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Gnoll Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

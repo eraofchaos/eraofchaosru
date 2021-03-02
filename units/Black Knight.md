@@ -3,7 +3,7 @@ title: "Черный рыцарь"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Черный рыцарь"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Щиток мертвого](/equipment/Щиток мертвого/) | **ОЗ** | **ЗЩТ** | 
   | [Браслеты кошмара](/equipment/Браслеты кошмара/) | **АТК** | **ЗЩТ** | 
   | [Наплечники кошмара](/equipment/Наплечники кошмара/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Загробная сабля](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

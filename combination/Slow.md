@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Замедление"
 permalink: /combination/Slow/
 excerpt: "Информация о комбинации - Замедление. Units and Heroes Formation."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Замедление.md"
 toc: false

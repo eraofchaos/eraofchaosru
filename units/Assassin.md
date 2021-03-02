@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Нейтральная армия](/units/Faction Neutral Army/)
+ **Фракция:** [Нейтральная армия](/units/Faction Neutral Army/)
 
  **Race:** Орден Ассасинов
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 269.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Скрытый клинок](/equipment/Скрытый клинок/) | **ОЗ** | **ЗЩТ** | 
   | [Защитный пояс](/equipment/Защитный пояс/) | **АТК** | **ЗЩТ** | 
   | [Кожаные сапоги](/equipment/Кожаные сапоги/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

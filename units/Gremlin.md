@@ -3,7 +3,7 @@ title: "Гремлин"
 permalink: /units/Gremlin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы."
 unitID: 601
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гремлин"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Зачарованный капюшон](/equipment/Зачарованный капюшон/) | **ОЗ** | **ЗЩТ** | 
   | [Зачарованные перчатки](/equipment/Зачарованные перчатки/) | **АТК** | **ЗЩТ** | 
   | [Ветрозащитный плащ](/equipment/Ветрозащитный плащ/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Gremlin Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

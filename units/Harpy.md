@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Гарпия"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 74.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Мистическая броня](/equipment/Мистическая броня/) | **ОЗ** | **ЗЩТ** | 
   | [Когтистый убийца](/equipment/Когтистый убийца/) | **АТК** | **ЗЩТ** | 
   | [Наплечники чаровницы](/equipment/Наплечники чаровницы/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Harpy Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Друид"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Друид"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Древний посох](/equipment/Древний посох/) | **ОЗ** | **ЗЩТ** | 
   | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **ЗЩТ** | 
   | [Высокие сапоги леса](/equipment/Высокие сапоги леса/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Расцвет природы](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

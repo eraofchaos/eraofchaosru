@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 1267.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Ледяной плавник](/equipment/Ледяной плавник/) | **ОЗ** | **ЗЩТ** | 
   | [Хвост чудовища](/equipment/Хвост чудовища/) | **АТК** | **ЗЩТ** | 
   | [Мерзкие щупальца](/equipment/Мерзкие щупальца/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Чудище"
 permalink: /units/Behemoth/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов."
 unitID: 407
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Чудище"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Единорог
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 407.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Бронированная кожа](/equipment/Бронированная кожа/) | **ОЗ** | **ЗЩТ** | 
   | [Свирепые клыки](/equipment/Свирепые клыки/) | **АТК** | **ЗЩТ** | 
   | [Толстая меховая шкура](/equipment/Толстая меховая шкура/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Кровожадный дух](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

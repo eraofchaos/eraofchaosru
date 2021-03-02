@@ -3,7 +3,7 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Джинн"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Странное кристаллическое украшение](/equipment/Странное кристаллическое украшение/) | **ОЗ** | **ЗЩТ** | 
   | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **ЗЩТ** | 
   | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Созвездие Лиры](/Exclusive/Genie Lyra/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

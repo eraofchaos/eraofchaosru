@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Головной убор приливов](/equipment/Головной убор приливов/) | **ОЗ** | **ЗЩТ** | 
   | [Метка океана](/equipment/Метка океана/) | **АТК** | **ЗЩТ** | 
   | [Одежда русалки](/equipment/Одежда русалки/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

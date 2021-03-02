@@ -3,7 +3,7 @@ title: "Паладин"
 permalink: /units/Paladin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности."
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Паладин"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 128.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Шлем клятвы](/equipment/Шлем клятвы/) | **ОЗ** | **ЗЩТ** | 
   | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
   | [Кованые браслеты](/equipment/Кованые браслеты/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [](/Exclusive/Paladin /) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

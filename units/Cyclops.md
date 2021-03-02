@@ -3,7 +3,7 @@ title: "Циклоп"
 permalink: /units/Cyclops/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов."
 unitID: 406
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Циклоп"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Варвар
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Оковы войны](/equipment/Оковы войны/) | **ОЗ** | **ЗЩТ** | 
   | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **АТК** | **ЗЩТ** | 
   | [Кожаные брюки](/equipment/Кожаные брюки/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Cyclops Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

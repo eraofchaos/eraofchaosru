@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Элементаль Моря"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Подводное царство
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 201.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Ядро элементаля Воды](/equipment/Ядро элементаля Воды/) | **ОЗ** | **ЗЩТ** | 
   | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **ЗЩТ** | 
   | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,12 +3,12 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Богомол"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Единорог
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1140.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
   | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
   | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

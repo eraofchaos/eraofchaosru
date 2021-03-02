@@ -3,12 +3,12 @@ title: "Белый тигр"
 permalink: /units/White Tiger/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Белый тигр"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Единорог
 
@@ -33,7 +33,7 @@ toc: true
 
  **Base ATK: 1078.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -68,6 +68,9 @@ toc: true
   | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **ОЗ** | **ЗЩТ** | 
   | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **АТК** | **ЗЩТ** | 
   | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

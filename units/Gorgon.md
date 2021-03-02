@@ -3,7 +3,7 @@ title: "Горгона"
 permalink: /units/Gorgon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Горгона"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Варварская броня для спины](/equipment/Варварская броня для спины/) | **ОЗ** | **ЗЩТ** | 
   | [Смертельный рог быка](/equipment/Смертельный рог быка/) | **АТК** | **ЗЩТ** | 
   | [Магическое копыто быка](/equipment/Магическое копыто быка/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Чешуя горгоны](/Exclusive/Gorgon Gorgon's Horn/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

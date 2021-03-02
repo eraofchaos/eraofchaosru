@@ -3,7 +3,7 @@ title: "Дьявол"
 permalink: /units/Devil/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дьявол - властитель Инферно. Он всегда рвется в бой и способен даже телепортироваться, атакуя врагов в задних рядах."
 unitID: 507
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Дьявол"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/units/Faction Inferno/)
 
  **Race:** Одержимый
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Расплавленная пентаграмма](/equipment/Расплавленная пентаграмма/) | **ОЗ** | **ЗЩТ** | 
   | [Рукавицы лавы](/equipment/Рукавицы лавы/) | **АТК** | **ЗЩТ** | 
   | [Наплечники лавы](/equipment/Наплечники лавы/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Коса дьявола](/Exclusive/Devil Devil Scythe/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

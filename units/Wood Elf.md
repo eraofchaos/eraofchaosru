@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 92.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Венец из древесных листьев](/equipment/Венец из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
   | [Стрелы из нефрита](/equipment/Стрелы из нефрита/) | **АТК** | **ЗЩТ** | 
   | [Короткая мантия из древесных листьев](/equipment/Короткая мантия из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Wood Elf Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

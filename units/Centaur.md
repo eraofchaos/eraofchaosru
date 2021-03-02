@@ -3,7 +3,7 @@ title: "Кентавр"
 permalink: /units/Centaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Кентавр"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Шлем дикой природы](/equipment/Шлем дикой природы/) | **ОЗ** | **ЗЩТ** | 
   | [Рукавицы дикой природы](/equipment/Рукавицы дикой природы/) | **АТК** | **ЗЩТ** | 
   | [Наплечники дикой природы](/equipment/Наплечники дикой природы/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Centaur Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

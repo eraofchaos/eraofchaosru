@@ -3,12 +3,12 @@ title: "Великан Тор"
 permalink: /units/Troll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Великан Тор"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Хозяин зверей
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1018.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Мощь владыки](/equipment/Мощь владыки/) | **ОЗ** | **ЗЩТ** | 
   | [Доспех павшего врага](/equipment/Доспех павшего врага/) | **АТК** | **ЗЩТ** | 
   | [Сапоги дозорного](/equipment/Сапоги дозорного/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

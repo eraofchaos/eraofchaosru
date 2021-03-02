@@ -3,7 +3,7 @@ title: "Костяной дракон"
 permalink: /units/Bone Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Костяной дракон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Дракон
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 758.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Драконий череп](/equipment/Драконий череп/) | **ОЗ** | **ЗЩТ** | 
   | [Пронзающие когти](/equipment/Пронзающие когти/) | **АТК** | **ЗЩТ** | 
   | [Духовный самоцвет](/equipment/Духовный самоцвет/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Кость бессмертного дракона](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

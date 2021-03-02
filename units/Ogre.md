@@ -3,7 +3,7 @@ title: "Огр"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Огр"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/units/Faction Stronghold/)
 
  **Race:** Варвар
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Пояс ритуала](/equipment/Пояс ритуала/) | **ОЗ** | **ЗЩТ** | 
   | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **ЗЩТ** | 
   | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Ogre Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

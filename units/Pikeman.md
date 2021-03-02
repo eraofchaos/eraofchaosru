@@ -3,7 +3,7 @@ title: "Копейщик"
 permalink: /units/Pikeman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Копейщик"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Латный шлем](/equipment/Латный шлем/) | **ОЗ** | **ЗЩТ** | 
   | [Щит часового](/equipment/Щит часового/) | **АТК** | **ЗЩТ** | 
   | [Латные наплечники](/equipment/Латные наплечники/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч](/Exclusive/Pikeman Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

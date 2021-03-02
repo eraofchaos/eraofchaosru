@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 108.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Наплечники горгоны](/equipment/Наплечники горгоны/) | **ОЗ** | **ЗЩТ** | 
   | [Ленты горгоны](/equipment/Ленты горгоны/) | **АТК** | **ЗЩТ** | 
   | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Minotaur Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

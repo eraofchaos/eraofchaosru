@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /units/Griffin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
 unitID: 103
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Грифон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Зверь
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Головной доспех скорости](/equipment/Головной доспех скорости/) | **ОЗ** | **ЗЩТ** | 
   | [Перо архигрифона](/equipment/Перо архигрифона/) | **АТК** | **ЗЩТ** | 
   | [Эмблема империи](/equipment/Эмблема империи/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Почетный штурм](/Exclusive/Griffin Knight Pike/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /units/Marksman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Лучник"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 85.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Стальной шлем](/equipment/Стальной шлем/) | **ОЗ** | **ЗЩТ** | 
   | [Пронзающие стрелы](/equipment/Пронзающие стрелы/) | **АТК** | **ЗЩТ** | 
   | [Кожаные перчатки](/equipment/Кожаные перчатки/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Marksman Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

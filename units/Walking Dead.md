@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/units/Faction Necropolis/)
 
  **Race:** Нежить
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 117.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
   | [Закаленные стальные браслеты](/equipment/Закаленные стальные браслеты/) | **АТК** | **ЗЩТ** | 
   | [Штаны распада](/equipment/Штаны распада/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Walking Dead Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

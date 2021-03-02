@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Нага"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Наплечники морехода](/equipment/Наплечники морехода/) | **ОЗ** | **ЗЩТ** | 
   | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **ЗЩТ** | 
   | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Меч нага](/Exclusive/Naga Naga Sword/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

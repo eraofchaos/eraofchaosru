@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /units/Red Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Красный дракон"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Дракон
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Древние крылья](/equipment/Древние крылья/) | **ОЗ** | **ЗЩТ** | 
   | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
   | [Неистовый хвост дракона](/equipment/Неистовый хвост дракона/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

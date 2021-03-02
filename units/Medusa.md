@@ -3,7 +3,7 @@ title: "Медуза"
 permalink: /units/Medusa/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
 unitID: 704
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Медуза"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 202.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Волосы из извивающихся змей](/equipment/Волосы из извивающихся змей/) | **ОЗ** | **ЗЩТ** | 
   | [Корона королевы](/equipment/Корона королевы/) | **АТК** | **ЗЩТ** | 
   | [Броня Бездны](/equipment/Броня Бездны/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Лук медузы](/Exclusive/Medusa Medusa's bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

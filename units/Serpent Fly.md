@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 178.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Смертельная челюсть](/equipment/Смертельная челюсть/) | **ОЗ** | **ЗЩТ** | 
   | [Холодный зубец](/equipment/Холодный зубец/) | **АТК** | **ЗЩТ** | 
   | [Ядовитый клык](/equipment/Ядовитый клык/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Таинственное пение](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

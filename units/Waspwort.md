@@ -3,7 +3,7 @@ title: "Росянка"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Росянка"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/units/Faction Fortress/)
 
  **Race:** Зверь
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 950.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Ядовитый шип](/equipment/Ядовитый шип/) | **ОЗ** | **ЗЩТ** | 
   | [Повелитель цветов](/equipment/Повелитель цветов/) | **АТК** | **ЗЩТ** | 
   | [Пчела-убийца](/equipment/Пчела-убийца/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

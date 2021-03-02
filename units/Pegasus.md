@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /units/Pegasus/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель."
 unitID: 204
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Пегас"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/units/Faction Rampart/)
 
  **Race:** Лес
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 195.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Вечнозеленый венец](/equipment/Вечнозеленый венец/) | **ОЗ** | **ЗЩТ** | 
   | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **ЗЩТ** | 
   | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Длинный лук](/Exclusive/Pegasus Long Bow/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

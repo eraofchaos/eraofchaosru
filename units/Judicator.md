@@ -3,7 +3,7 @@ title: "Вершитель"
 permalink: /units/Judicator/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
 unitID: 109
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Вершитель"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция: ** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/units/Faction Castle/)
 
  **Race:** Человек
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Капюшон небесного блаженства](/equipment/Капюшон небесного блаженства/) | **ОЗ** | **ЗЩТ** | 
   | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **ЗЩТ** | 
   | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [](/Exclusive/Judicator /) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

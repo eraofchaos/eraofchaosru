@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Человек
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Шипастые наплечники](/equipment/Шипастые наплечники/) | **ОЗ** | **ЗЩТ** | 
   | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **ЗЩТ** | 
   | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
+ **Name:** [Славный щит](/Exclusive/Iron Golem Iris Shield/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

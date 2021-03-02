@@ -3,12 +3,12 @@ title: "Драконий голем"
 permalink: /units/Dragon Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Драконий голем"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция: ** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/units/Faction Tower/)
 
  **Race:** Дракон
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 396.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Голова дракона из титана](/equipment/Голова дракона из титана/) | **ОЗ** | **ЗЩТ** | 
   | [Главный рычаг управления](/equipment/Главный рычаг управления/) | **АТК** | **ЗЩТ** | 
   | [Броня из сплава](/equipment/Броня из сплава/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 

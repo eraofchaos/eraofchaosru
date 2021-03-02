@@ -3,7 +3,7 @@ title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Регнанский лучник"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция: ** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/units/Faction Cove/)
 
  **Race:** Пират
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 235.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Накидка престижа](/equipment/Накидка престижа/) | **ОЗ** | **ЗЩТ** | 
   | [Стальная стрела](/equipment/Стальная стрела/) | **АТК** | **ЗЩТ** | 
   | [Одежда охотника](/equipment/Одежда охотника/) | **ОЗ** | **ЗЩТ** | 
+
+## Эксклюзив
+
 
 ## Рекомендуемые эмблемы святости
 
