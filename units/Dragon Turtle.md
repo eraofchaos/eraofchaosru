@@ -167,7 +167,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Древний панцирный дракон
 
  **Awaking Описание:** 
 

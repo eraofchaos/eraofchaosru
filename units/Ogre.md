@@ -202,7 +202,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; эффект удваивается</span>
 
 ### 4th Skill (or 3rd): Душевная боевая песнь
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; урон повышается до 200% от базового для умения.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Буйство&gt;</span><span style="color: #645252;font-size:18px">: огры получают +20% к сопротивлению урону. В состоянии &lt;Буйства&gt; урон повышается до 200% от базового умения.</span>
 
 ### 5th Skill (or 6th): Древний поток
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Исцеление от яда&gt;</span><span style="color: #645252;font-size:18px">: эффект умения усиливается до 150% от эффекта предыдущего умения.</span>

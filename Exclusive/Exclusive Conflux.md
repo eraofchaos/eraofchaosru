@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Фея](/units/Sprite/) | [Почетный штурм](/Exclusive/Sprite Knight Pike/) | - | Заряд | - | - |
+  | 1  | [Фея](/units/Sprite/) | [Копье рыцаря](/Exclusive/Sprite Knight Pike/) | - | Заряд | - | - |
   | 2  | [Элементаль Шторма](/units/Storm Elemental/) | [Длинный лук](/Exclusive/Storm Elemental Long Bow/) | - | Заряд | - | - |
   | 3  | [Элементаль Льда](/units/Ice Elemental/) | [Таинственное пение](/Exclusive/Ice Elemental Arcane Chant/) | - | Заряд | - | - |
   | 4  | [Элементаль Огня](/units/Fire Elemental/) | [Энергия Огня](/Exclusive/Fire Elemental Fire Energy/) | - | Стрелковый | - | - |
   | 5  | [Элементаль Камня](/units/Stone Elemental/) | [Ядро энергии](/Exclusive/Stone Elemental Energy Core/) | - | Стрелковый | - | - |
   | 6  | [Элементаль Мысли](/units/Psychic Elemental/) | [Колесо вечности](/Exclusive/Psychic Elemental Spirit Core/) | - | Поддержка | - | - |
-  | 7  | [Жар-птица](/units/Firebird/) | [Вечный огонь](/Exclusive/Firebird Eternal Flame/) | - | Стрелковый | - | - |
+  | 7  | [Жар-птица](/units/Firebird/) | [Вечный огонь](/Exclusive/Firebird Eternal Flame/) | + | Стрелковый | - | - |
   | 8  | [Ледяной демон](/units/Ice Demon/) | - | - | - | none | none |
-  | 9  | [Лепрекон](/units/Leprechaun/) | - | - | - | none | none |
+  | 9  | [Лепрекон](/units/Leprechaun/) | [Терновник](/Exclusive/Leprechaun Thorns/) | - | Поддержка | - | - |

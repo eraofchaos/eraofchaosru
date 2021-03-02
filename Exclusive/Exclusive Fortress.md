@@ -19,10 +19,10 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Гнолл](/units/Gnoll/) | [Меч](/Exclusive/Gnoll Sword/) | - | Заряд | - | - |
   | 2  | [Ящер](/units/Lizardman/) | [Длинный лук](/Exclusive/Lizardman Long Bow/) | - | Заряд | - | - |
-  | 3  | [Летучий змей](/units/Serpent Fly/) | [Таинственное пение](/Exclusive/Serpent Fly Arcane Chant/) | - | Заряд | - | - |
+  | 3  | [Летучий змей](/units/Serpent Fly/) | [Таинственное пение](/Exclusive/Serpent Fly Arcane Chant/) | + | Заряд | - | - |
   | 4  | [Василиск](/units/Basilisk/) | [Энергия огня](/Exclusive/Basilisk Basilisk's Tail/) | - | Стрелковый | - | - |
   | 5  | [Горгона](/units/Gorgon/) | [Чешуя горгоны](/Exclusive/Gorgon Gorgon's Horn/) | - | Поддержка | - | - |
   | 6  | [Виверна](/units/Wyvern/) | [Хвост гадюки](/Exclusive/Wyvern Wyvern's Tail/) | - | Стрелковый | - | - |
   | 7  | [Гидра](/units/Hydra/) | [Многоглавый змей](/Exclusive/Hydra Hydra's Head/) | - | Поддержка | - | - |
-  | 8  | [Росянка](/units/Waspwort/) | - | - | - | none | none |
+  | 8  | [Росянка](/units/Waspwort/) | [Вечерняя звезда](/Exclusive/Waspwort Waspwort Leaf/) | - | Стрелковый | - | - |
   | 9  | [Белый тигр](/units/White Tiger/) | - | - | - | none | none |

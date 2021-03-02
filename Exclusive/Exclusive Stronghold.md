@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Гоблин](/units/Goblin/) | [Меч](/Exclusive/Goblin Sword/) | - | Заряд | - | - |
-  | 2  | [Наездник на волке](/units/Wolf Rider/) | [Почетный штурм](/Exclusive/Wolf Rider Knight Pike/) | - | Заряд | - | - |
+  | 2  | [Наездник на волке](/units/Wolf Rider/) | [Копье рыцаря](/Exclusive/Wolf Rider Knight Pike/) | - | Заряд | - | - |
   | 3  | [Орк](/units/Orc/) | [Длинный лук](/Exclusive/Orc Long Bow/) | - | Заряд | - | - |
   | 4  | [Огр](/units/Ogre/) | [Славный щит](/Exclusive/Ogre Iris Shield/) | - | Заряд | - | - |
   | 5  | [Рух](/units/Roc/) | [Таинственное пение](/Exclusive/Roc Arcane Chant/) | - | Заряд | - | - |
-  | 6  | [Циклоп](/units/Cyclops/) | [Длинный лук](/Exclusive/Cyclops Long Bow/) | - | Заряд | - | - |
+  | 6  | [Циклоп](/units/Cyclops/) | [Длинный лук](/Exclusive/Cyclops Long Bow/) | + | Заряд | - | - |
   | 7  | [Чудище](/units/Behemoth/) | [Кровожадный дух](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Поддержка | - | - |
   | 8  | [Берсерк](/units/Berserker/) | [Безумный убийца](/Exclusive/Berserker Berserker's Axe/) | - | Поддержка | - | - |
   | 9  | [Великан Тор](/units/Troll/) | - | - | - | none | none |

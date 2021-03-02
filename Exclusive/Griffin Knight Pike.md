@@ -1,17 +1,17 @@
 ---
-title: "Эксклюзив - Почетный штурм"
+title: "Эксклюзив - Копье рыцаря"
 permalink: /Exclusive/Griffin Knight Pike/
-excerpt: "Эра хаоса Почетный штурм. Почетный штурм. Эра хаоса Эксклюзив Почетный штурм. Грифон Эксклюзив."
+excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Грифон Эксклюзив."
 last_modified_at: 2021-03-02
 locale: ru
-ref: "Griffin Почетный штурм.md"
+ref: "Griffin Копье рыцаря.md"
 toc: false
 classes: wide
 ---
  [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Почетный штурм** 
+ **Name: Копье рыцаря** 
 
  **Эксклюзив for Unit:** [Грифон](/units/Griffin/) 
 

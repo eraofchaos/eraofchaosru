@@ -77,7 +77,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Почетный штурм](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Копье рыцаря](/Exclusive/Vampire Knight Pike/) 
 
  **Item to Повысить ранг :** -
 

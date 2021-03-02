@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Копейщик](/units/Pikeman/) | [Меч](/Exclusive/Pikeman Sword/) | - | Заряд | - | - |
-  | 2  | [Лучник](/units/Marksman/) | [Длинный лук](/Exclusive/Marksman Long Bow/) | + | Заряд | - | - |
-  | 3  | [Грифон](/units/Griffin/) | [Почетный штурм](/Exclusive/Griffin Knight Pike/) | - | Заряд | - | - |
+  | 2  | [Лучник](/units/Marksman/) | [Длинный лук](/Exclusive/Marksman Long Bow/) | - | Заряд | - | - |
+  | 3  | [Грифон](/units/Griffin/) | [Копье рыцаря](/Exclusive/Griffin Knight Pike/) | - | Заряд | - | - |
   | 4  | [Мечник](/units/Swordsman/) | [Славный щит](/Exclusive/Swordsman Iris Shield/) | - | Заряд | - | - |
-  | 5  | [Монах](/units/Monk/) | [Таинственное пение](/Exclusive/Monk Arcane Chant/) | + | Заряд | - | - |
-  | 6  | [Всадники](/units/Cavalier/) | [Почетный штурм](/Exclusive/Cavalier Knight Pike/) | + | Заряд | - | - |
-  | 7  | [Ангел](/units/Angel/) | [Меч Дюрандаль](/Exclusive/Angel Durandel/) | + | Поддержка | - | - |
+  | 5  | [Монах](/units/Monk/) | [Таинственное пение](/Exclusive/Monk Arcane Chant/) | - | Заряд | - | - |
+  | 6  | [Всадники](/units/Cavalier/) | [Копье рыцаря](/Exclusive/Cavalier Knight Pike/) | + | Заряд | - | - |
+  | 7  | [Ангел](/units/Angel/) | [Меч Дюрандаль](/Exclusive/Angel Durandel/) | - | Поддержка | - | - |
   | 8  | [Паладин](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Поддержка | - | - |
   | 9  | [Вершитель](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Столица | - | - |

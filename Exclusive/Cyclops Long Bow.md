@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Заряд
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

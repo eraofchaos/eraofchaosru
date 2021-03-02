@@ -80,7 +80,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Почетный штурм](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Копье рыцаря](/Exclusive/Cavalier Knight Pike/) 
 
  **Item to Повысить ранг :** -
 

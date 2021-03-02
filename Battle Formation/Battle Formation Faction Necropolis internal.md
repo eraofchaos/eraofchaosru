@@ -2,7 +2,7 @@
 title: "Боевое построение Некрополь"
 permalink: /Battle Formation/Battle Formation Faction Necropolis internal
 excerpt: "Боевое построение Некрополь"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "BattleFormationFactionNecropolis"
 toc: false

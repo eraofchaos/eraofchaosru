@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Регнанский пират](/units/Regnan Pirates/) | [Меч](/Exclusive/Regnan Pirates Sword/) | - | Заряд | - | - |
-  | 2  | [Регнанский лучник](/units/Regnan Archer/) | - | - | - | none | none |
+  | 1  | [Регнанский пират](/units/Regnan Pirates/) | [Меч](/Exclusive/Regnan Pirates Sword/) | + | Заряд | - | - |
+  | 2  | [Регнанский лучник](/units/Regnan Archer/) | [Чудо](/Exclusive/Regnan Archer Miracle/) | - | Поддержка | - | - |
   | 3  | [Элементаль Моря](/units/Sea Elemental/) | [Таинственное пение](/Exclusive/Sea Elemental Arcane Chant/) | - | Заряд | - | - |
   | 4  | [Регнанский змей](/units/Regnan Serpent/) | [Волна гнева](/Exclusive/Regnan Serpent Day Tides/) | - | Стрелковый | - | - |
   | 5  | [Русалка](/units/Mermaid/) | [Прилив](/Exclusive/Mermaid Night Tides/) | - | Стрелковый | - | - |
   | 6  | [Панцирный дракон](/units/Dragon Turtle/) | [Послушание](/Exclusive/Dragon Turtle Obedience/) | - | Поддержка | - | - |
   | 7  | [Регнанская прорицательница](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Столица | - | - |
-  | 8  | [Левиафан](/units/Revyaratan/) | - | - | - | none | none |
-  | 9  | [Повелитель акул](/units/Shark Trainer/) | - | - | - | none | none |
+  | 8  | [Левиафан](/units/Revyaratan/) | [Темные волны](/Exclusive/Revyaratan Gloom Tides/) | - | Стрелковый | - | - |
+  | 9  | [Повелитель акул](/units/Shark Trainer/) | [Рассекающий волны](/Exclusive/Shark Trainer Break Waves/) | - | Поддержка | - | - |

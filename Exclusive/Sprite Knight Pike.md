@@ -1,17 +1,17 @@
 ---
-title: "Эксклюзив - Почетный штурм"
+title: "Эксклюзив - Копье рыцаря"
 permalink: /Exclusive/Sprite Knight Pike/
-excerpt: "Эра хаоса Почетный штурм. Почетный штурм. Эра хаоса Эксклюзив Почетный штурм. Фея Эксклюзив."
+excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Фея Эксклюзив."
 last_modified_at: 2021-03-02
 locale: ru
-ref: "Sprite Почетный штурм.md"
+ref: "Sprite Копье рыцаря.md"
 toc: false
 classes: wide
 ---
  [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Почетный штурм** 
+ **Name: Копье рыцаря** 
 
  **Эксклюзив for Unit:** [Фея](/units/Sprite/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1440
 
 ## Повысить ранг 
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 11.69 | 167.0 |
-  | 2 | 265 | 14.03 | 200.4 |
-  | 3 | 296 | 16.36 | 233.8 |
-  | 4 | 328 | 18.7 | 267.2 |
-  | 5 | 359 | 21.04 | 300.6 |
-  | 6 | 390 | 23.38 | 334.0 |
-  | 7 | 421 | 25.71 | 367.4 |
+  | 1 | 216 | 11.69 | 167.0 |
+  | 2 | 245 | 14.03 | 200.4 |
+  | 3 | 274 | 16.36 | 233.8 |
+  | 4 | 302 | 18.7 | 267.2 |
+  | 5 | 331 | 21.04 | 300.6 |
+  | 6 | 360 | 23.38 | 334.0 |
+  | 7 | 389 | 25.71 | 367.4 |
 
 

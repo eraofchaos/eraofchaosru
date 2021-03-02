@@ -78,7 +78,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Почетный штурм](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Копье рыцаря](/Exclusive/Wolf Rider Knight Pike/) 
 
  **Item to Повысить ранг :** -
 

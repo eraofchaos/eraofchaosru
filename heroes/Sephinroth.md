@@ -3,7 +3,7 @@ title: "Сефинрот"
 permalink: /heroes/Sephinroth/
 excerpt: "Эра хаоса Сефинрот. Сефинрот. Говорят, что Сефинрот, единственная известная колдунья Антагрича, является незаконнорожденной дочерью короля Грифонхарта."
 heroID: 61402
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Sephinroth"
 toc: true
@@ -51,6 +51,16 @@ toc: true
 
  **Описание:** <span style="color: #ffffff;font-size:20px">Я принцесса, упомянутая в пророчестве!</span>
 
+
+### Skin 2: **Чемпион-боец**
+
+ **Описание:** <span style="color: #ffffff;font-size:20px">Герой из героев и чемпион Ристалища!</span>
+
+ **Skin features:** 
+
+   - Чемпион Ристалища
+   - Новейший боевой образ
+   - Уникальный аватар
 
 
 ## Initial Mastery

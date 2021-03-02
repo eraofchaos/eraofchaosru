@@ -37,7 +37,7 @@ classes: wide
   | 15 | [Гарпия](/units/Harpy/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 16 | [Гигант](/units/Giant/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Вестник грома  |
   | 17 | [Гидра](/units/Hydra/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  Гидра хаоса  |
-  | 18 | [Гнолл](/units/Gnoll/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 18 | [Гнолл](/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Гнолл-воин  |
   | 19 | [Гном](/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 20 | [Гоблин](/units/Goblin/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Хобгоблин  |
   | 21 | [Гог](/units/Gog/) | Заклинатель | + | R | x9 | <i class="fas fa-star"/> | 102.6 | 629 |  Магог  |
@@ -83,7 +83,7 @@ classes: wide
   | 61 | [Огр](/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  Огр-маг  |
   | 62 | [Орк](/units/Orc/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  Главарь орков  |
   | 63 | [Паладин](/units/Paladin/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Высший паладин  |
-  | 64 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 64 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Древний панцирный дракон  |
   | 65 | [Пегас](/units/Pegasus/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Серебряный пегас  |
   | 66 | [Повелитель акул](/units/Shark Trainer/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Разбойники на акулах  |
   | 67 | [Порождение зла](/units/Pit Fiend/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Владыка бездны  |

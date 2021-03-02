@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Стрелковый
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 

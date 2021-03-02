@@ -2,7 +2,7 @@
 title: "Боевое построение Башня"
 permalink: /Battle Formation/Battle Formation Faction Tower internal
 excerpt: "Боевое построение Башня"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "BattleFormationFactionTower"
 toc: false

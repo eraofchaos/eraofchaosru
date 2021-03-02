@@ -21,21 +21,21 @@ classes: wide
 
  **Type:** Поддержка
 
- **Open:** -
+ **Open:** +
 
- **Power:** 1510
+ **Power:** 1660
 
 ## Повысить ранг 
 
   |     Stars    |  Required to Up | Эксклюзивный эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Неумолимая воля>: когда нага страдает от оглушения, окаменения или немоты, она становится неуязвимой к большинству отрицательных эффектов (в т.ч. заморозке, немоте, замедлению, окаменению, оглушению, низкому боевому духу, сдерживанию и эффекту <Остановки времени>) на 7 сек. Перезарядка - 15 сек. (Вступает в силу, если применить эмблему святости). |
+  |  Initial  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
   | **1x** <i class="fas fa-star"/> | ? | Длительность оглушения, окаменения, замедления, заморозки, низкого боевого духа и немоты сокращается на 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Нага получает +20% к ATK и урону. |
-  | **3x** <i class="fas fa-star"/> | ? | <Мечи нага>: когда ОЗ впервые падает до 25%, нага призывает Мечи нага. Союзные отряды в большой области каждую секунду получают +20 к пробиванию. Суммируется до 10 раз. (Эффект остается, даже когда нага побежден) |
+  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
   | **4x** <i class="fas fa-star"/> | ? | Нага получает +20% к высасыванию жизни и сопротивлению урону. |
   | **5x** <i class="fas fa-star"/> | ? | Нага неуязвима к оглушению. |
-  | **6x** <i class="fas fa-star"/> | ? | <Луч меча нага> каждые 20 сек. наносит урон в 300% ATK всем вражеским отрядам, стоящим в том же ряду, что и цель. Враги теряют 20% ЗЩТ и сопротивления урону, нага получает +1000 к критическому удару на следующие 5 сек. |
+  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
 
 
 ## Новый ур.
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 227 | 37.84 | 299.86 |
-  | 2 | 257 | 45.41 | 359.84 |
-  | 3 | 287 | 52.98 | 419.81 |
-  | 4 | 317 | 60.54 | 479.78 |
-  | 5 | 347 | 68.11 | 539.75 |
-  | 6 | 378 | 75.68 | 599.73 |
-  | 7 | 408 | 83.25 | 659.7 |
+  | 1 | 249 | 37.84 | 299.86 |
+  | 2 | 282 | 45.41 | 359.84 |
+  | 3 | 315 | 52.98 | 419.81 |
+  | 4 | 349 | 60.54 | 479.78 |
+  | 5 | 382 | 68.11 | 539.75 |
+  | 6 | 415 | 75.68 | 599.73 |
+  | 7 | 448 | 83.25 | 659.7 |
 
 

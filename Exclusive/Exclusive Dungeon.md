@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Троглодит](/units/Troglodyte/) | [Меч](/Exclusive/Troglodyte Sword/) | - | Заряд | - | - |
-  | 2  | [Гарпия](/units/Harpy/) | [Почетный штурм](/Exclusive/Harpy Knight Pike/) | - | Заряд | - | - |
+  | 2  | [Гарпия](/units/Harpy/) | [Копье рыцаря](/Exclusive/Harpy Knight Pike/) | - | Заряд | - | - |
   | 3  | [Бехолдер](/units/Beholder/) | [Опасный взгляд](/Exclusive/Beholder Dark Gaze/) | - | Стрелковый | - | - |
-  | 4  | [Медуза](/units/Medusa/) | [Лук медузы](/Exclusive/Medusa Medusa's bow/) | - | Стрелковый | - | - |
+  | 4  | [Медуза](/units/Medusa/) | [Лук медузы](/Exclusive/Medusa Medusa's Bow/) | - | Стрелковый | - | - |
   | 5  | [Минотавр](/units/Minotaur/) | [Славный щит](/Exclusive/Minotaur Iris Shield/) | - | Заряд | - | - |
-  | 6  | [Мантикора](/units/Manticore/) | [Хвост скорпиона](/Exclusive/Manticore Scorpion tail/) | - | Стрелковый | - | - |
+  | 6  | [Мантикора](/units/Manticore/) | [Хвост скорпиона](/Exclusive/Manticore Scorpion Tail/) | + | Стрелковый | - | - |
   | 7  | [Черный дракон](/units/Black Dragon/) | [Чешуя черного дракона](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Поддержка | - | - |
-  | 8  | [Красный дракон](/units/Red Dragon/) | - | - | - | none | none |
+  | 8  | [Красный дракон](/units/Red Dragon/) | [Уничтожитель](/Exclusive/Red Dragon Annihilation/) | - | Поддержка | - | - |
   | 9  | [Злая ведьма](/units/Evil Sorceress/) | - | - | - | none | none |

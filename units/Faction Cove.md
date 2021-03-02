@@ -24,5 +24,5 @@ classes: wide
   | 5 | [Элементаль Моря](/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Элементаль Приливов  |
   | 6 | [Регнанский змей](/units/Regnan Serpent/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 7 | [Русалка](/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |   -   |
-  | 8 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 8 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Древний панцирный дракон  |
   | 9 | [Регнанский пират](/units/Regnan Pirates/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Боцман-пират  |

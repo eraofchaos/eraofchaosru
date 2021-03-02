@@ -18,10 +18,10 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Скелет](/units/Skeleton/) | [Славный щит](/Exclusive/Skeleton Iris Shield/) | - | Заряд | - | - |
-  | 2  | [Ходячий мертвец](/units/Walking Dead/) | [Славный щит](/Exclusive/Walking Dead Iris Shield/) | + | Заряд | - | - |
+  | 2  | [Ходячий мертвец](/units/Walking Dead/) | [Славный щит](/Exclusive/Walking Dead Iris Shield/) | - | Заряд | - | - |
   | 3  | [Призрак](/units/Wight/) | [Таинственное пение](/Exclusive/Wight Arcane Chant/) | - | Заряд | - | - |
-  | 4  | [Вампир](/units/Vampire/) | [Почетный штурм](/Exclusive/Vampire Knight Pike/) | - | Заряд | - | - |
-  | 5  | [Лич](/units/Lich/) | [Дань смерти](/Exclusive/Lich Death Tribute/) | + | Стрелковый | - | - |
+  | 4  | [Вампир](/units/Vampire/) | [Копье рыцаря](/Exclusive/Vampire Knight Pike/) | - | Заряд | - | - |
+  | 5  | [Лич](/units/Lich/) | [Дань смерти](/Exclusive/Lich Death Tribute/) | - | Стрелковый | - | - |
   | 6  | [Черный рыцарь](/units/Black Knight/) | [Загробная сабля](/Exclusive/Black Knight Nether Sabre/) | + | Поддержка | - | - |
   | 7  | [Костяной дракон](/units/Bone Dragon/) | [Кость бессмертного дракона](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Поддержка | - | - |
   | 8  | [Мумия](/units/Mummy/) | [Бинты мумии](/Exclusive/Mummy Gauze/) | - | Стрелковый | - | - |

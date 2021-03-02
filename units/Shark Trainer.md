@@ -75,6 +75,12 @@ toc: true
 
 ## Эксклюзив
 
+ **Name:** [Рассекающий волны](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

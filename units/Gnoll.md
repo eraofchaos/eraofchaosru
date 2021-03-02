@@ -171,40 +171,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Гнолл-воин
 
- **Awaking Описание:** null
+ **Awaking Описание:** В лунном свете кожа этих лучших воинов из племени гноллов отливает синевой.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте гноллов и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отрядов Крепости, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #876741;font-size:18px"> гномов за раз в Сокровищнице гномов. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ гноллов-воинов на уровнях 14-2 и 14-4 в Подземелье. </span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. <span style="color: #876741;font-size:18px">Используйте гноллов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Удар цепом
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Удар цепом&gt;</span><span style="color: #645252;font-size:18px">: выбранный отряд дополнительно получает урон в 400% от АТК.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): Избиение цепом
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Удар цепом&gt;</span><span style="color: #645252;font-size:18px"> продлевает действие оглушения от умения на 5 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): Зов природы
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Первобытная дикость&gt;</span><span style="color: #645252;font-size:18px"> дает +100 к пробиванию. Против оглушенных врагов эффект удваивается.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): Дикий клич
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Первобытная дикость&gt;</span><span style="color: #645252;font-size:18px"> дает +15% к крит. удару. Против чумных врагов эффект удваивается.</span>
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): Неизбежная смерть
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:18px">: в бою против врага с менее 60% ОЗ вы получаете +250 к крит. удару.</span>
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Прорыв
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Казнь&gt;</span><span style="color: #645252;font-size:18px">: в бою против врага с менее 60% ОЗ вы получаете +20% к урону отряда.</span>
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Эмблема святости - Добро"
 permalink: /Emblem/Type Goodness/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Добро. Эра хаоса Добро"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "typeДобро.md"
 toc: false

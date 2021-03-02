@@ -26,7 +26,7 @@ classes: wide
   | 12 | [Грифон](/units/Griffin/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 13 | [Бехолдер](/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Злобоглаз  |
   | 14 | [Кентавр](/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Капитан кентавров  |
-  | 15 | [Гнолл](/units/Gnoll/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 15 | [Гнолл](/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Гнолл-воин  |
   | 16 | [Гном](/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 17 | [Лесной эльф](/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Высокий эльф  |
   | 18 | [Скелет](/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Скелет-воин  |

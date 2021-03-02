@@ -77,7 +77,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Почетный штурм](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Копье рыцаря](/Exclusive/Unicorn Knight Pike/) 
 
  **Item to Повысить ранг :** -
 

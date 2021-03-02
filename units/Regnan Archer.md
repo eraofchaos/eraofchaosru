@@ -72,6 +72,12 @@ toc: true
 
 ## Эксклюзив
 
+ **Name:** [Чудо](/Exclusive/Regnan Archer Miracle/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

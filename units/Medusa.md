@@ -76,7 +76,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Лук медузы](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Лук медузы](/Exclusive/Medusa Medusa's Bow/) 
 
  **Item to Повысить ранг :** -
 

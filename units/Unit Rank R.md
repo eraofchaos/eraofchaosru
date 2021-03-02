@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Лучник](/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Опытный лучник  |
   | 7 | [Троглодит](/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Темный троглодит  |
   | 8 | [Кентавр](/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Капитан кентавров  |
-  | 9 | [Гнолл](/units/Gnoll/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Гнолл](/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Гнолл-воин  |
   | 10 | [Скелет](/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Скелет-воин  |
   | 11 | [Фея](/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 12 | [Ходячий мертвец](/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Зомби  |

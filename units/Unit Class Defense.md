@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Кошмар](/units/Nightmare/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
   | 10 | [Огненный демон](/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 11 | [Мечник](/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Крестоносец  |
-  | 12 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 12 | [Панцирный дракон](/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Древний панцирный дракон  |
   | 13 | [Кентавр](/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Капитан кентавров  |
   | 14 | [Гном](/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Минотавр](/units/Minotaur/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Король минотавров  |

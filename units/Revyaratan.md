@@ -74,6 +74,12 @@ toc: true
 
 ## Эксклюзив
 
+ **Name:** [Темные волны](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

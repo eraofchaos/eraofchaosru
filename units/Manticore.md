@@ -74,7 +74,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Хвост скорпиона](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Хвост скорпиона](/Exclusive/Manticore Scorpion Tail/) 
 
  **Item to Повысить ранг :** -
 

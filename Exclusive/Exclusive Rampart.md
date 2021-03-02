@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Кентавр](/units/Centaur/) | [Славный щит](/Exclusive/Centaur Iris Shield/) | + | Заряд | - | - |
+  | 1  | [Кентавр](/units/Centaur/) | [Славный щит](/Exclusive/Centaur Iris Shield/) | - | Заряд | - | - |
   | 2  | [Гном](/units/Dwarf/) | [Славный щит](/Exclusive/Dwarf Iris Shield/) | - | Заряд | - | - |
-  | 3  | [Лесной эльф](/units/Wood Elf/) | [Длинный лук](/Exclusive/Wood Elf Long Bow/) | + | Заряд | - | - |
+  | 3  | [Лесной эльф](/units/Wood Elf/) | [Длинный лук](/Exclusive/Wood Elf Long Bow/) | - | Заряд | - | - |
   | 4  | [Пегас](/units/Pegasus/) | [Длинный лук](/Exclusive/Pegasus Long Bow/) | + | Заряд | - | - |
   | 5  | [Дендроид-страж](/units/Dendroid Guard/) | [Славный щит](/Exclusive/Dendroid Guard Iris Shield/) | - | Заряд | - | - |
-  | 6  | [Единорог](/units/Unicorn/) | [Почетный штурм](/Exclusive/Unicorn Knight Pike/) | - | Заряд | - | - |
-  | 7  | [Зеленый дракон](/units/Green Dragon/) | [Сияющие крылья](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Поддержка | - | - |
-  | 8  | [Друид](/units/Druid/) | [Расцвет природы](/Exclusive/Druid Staff of Regrowth/) | + | Стрелковый | - | - |
+  | 6  | [Единорог](/units/Unicorn/) | [Копье рыцаря](/Exclusive/Unicorn Knight Pike/) | - | Заряд | - | - |
+  | 7  | [Зеленый дракон](/units/Green Dragon/) | [Сияющие крылья](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Поддержка | - | - |
+  | 8  | [Друид](/units/Druid/) | [Расцвет природы](/Exclusive/Druid Staff of Regrowth/) | - | Стрелковый | - | - |
   | 9  | [Богомол](/units/Mantis/) | - | - | - | none | none |

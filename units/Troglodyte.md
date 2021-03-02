@@ -179,7 +179,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
- 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ троглодитов на уровнях 14-2 и 14-4 в Подземелье. </span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ темных троглодитов на уровнях 14-2 и 14-4 в Подземелье. </span>
 
  4. <span style="color: #876741;font-size:18px">Используйте троглодитов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Подземелья, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 

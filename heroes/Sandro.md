@@ -3,7 +3,7 @@ title: "Сандро"
 permalink: /heroes/Sandro/
 excerpt: "Эра хаоса Сандро. Сандро. Сандро - некромант, который повидал многое как в Энроте, так и в Эрафии. Сейчас же он служит Финнеасу Вильмару, лидеру некромантов Дейи."
 heroID: 60501
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: ru
 ref: "Sandro"
 toc: true

@@ -19,8 +19,8 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Бес](/units/Imp/) | [Славный щит](/Exclusive/Imp Iris Shield/) | - | Заряд | - | - |
   | 2  | [Гог](/units/Gog/) | [Таинственное пение](/Exclusive/Gog Arcane Chant/) | - | Заряд | - | - |
-  | 3  | [Гончая ада](/units/Hell Hound/) | [Почетный штурм](/Exclusive/Hell Hound Knight Pike/) | - | Заряд | - | - |
-  | 4  | [Демон](/units/Demon/) | [Славный щит](/Exclusive/Demon Iris Shield/) | - | Заряд | - | - |
+  | 3  | [Гончая ада](/units/Hell Hound/) | [Копье рыцаря](/Exclusive/Hell Hound Knight Pike/) | - | Заряд | - | - |
+  | 4  | [Демон](/units/Demon/) | [Славный щит](/Exclusive/Demon Iris Shield/) | + | Заряд | - | - |
   | 5  | [Порождение зла](/units/Pit Fiend/) | [Меч](/Exclusive/Pit Fiend Sword/) | - | Заряд | - | - |
   | 6  | [Ифрит](/units/Efreeti/) | [Таинственное пение](/Exclusive/Efreeti Arcane Chant/) | - | Заряд | - | - |
   | 7  | [Дьявол](/units/Devil/) | [Коса дьявола](/Exclusive/Devil Devil Scythe/) | - | Поддержка | - | - |

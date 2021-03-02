@@ -77,7 +77,7 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Почетный штурм](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Копье рыцаря](/Exclusive/Griffin Knight Pike/) 
 
  **Item to Повысить ранг :** -
 
@@ -186,7 +186,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы победить в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников.</span>
+ 4. null
 
 ## Awaken Skills
 

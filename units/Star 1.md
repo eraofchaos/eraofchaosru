@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Лучник](/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Опытный лучник  |
   | 7 | [Троглодит](/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Темный троглодит  |
   | 8 | [Кентавр](/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Капитан кентавров  |
-  | 9 | [Гнолл](/units/Gnoll/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Гнолл](/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Гнолл-воин  |
   | 10 | [Монах](/units/Monk/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Жрец  |
   | 11 | [Всадники](/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Рыцари-чемпионы  |
   | 12 | [Скелет](/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Скелет-воин  |

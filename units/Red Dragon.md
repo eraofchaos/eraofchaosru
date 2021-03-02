@@ -72,6 +72,12 @@ toc: true
 
 ## Эксклюзив
 
+ **Name:** [Уничтожитель](/Exclusive/Red Dragon Annihilation/) 
+
+ **Item to Повысить ранг :** -
+
+ **Skin:** -
+
 
 ## Рекомендуемые эмблемы святости
 

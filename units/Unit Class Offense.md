@@ -22,7 +22,7 @@ classes: wide
   | 8 | [Дьявол](/units/Devil/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Архидьявол  |
   | 9 | [Троглодит](/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Темный троглодит  |
   | 10 | [Нага](/units/Naga/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Королева нага  |
-  | 11 | [Гнолл](/units/Gnoll/) | Наступление | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 11 | [Гнолл](/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Гнолл-воин  |
   | 12 | [Ангел](/units/Angel/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Архангел  |
   | 13 | [Регнанский пират](/units/Regnan Pirates/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Боцман-пират  |
   | 14 | [Красный дракон](/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |
