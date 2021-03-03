@@ -1,4 +1,4 @@
-﻿# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -19,8 +19,9 @@ email:
 description: "Герои Магии и Меча Era Of Chaos полная информация о мобильной игре"
 keywords:           EraOfChaos Эра Хаоса Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "ru" 
-url:                "https://eraofchaos.github.io/ru/"
-logo: "https://eraofchaos.github.io/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
+locale:             "ru"
+url:                "https://eraofchaos.github.io"
+logo:               "https://eraofchaos.github.io/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
 
@@ -28,7 +29,7 @@ minimal_mistakes_skin: default
 search: true
 search_provider: google
 google:
-  search_engine_id     :  "7ff39373b784e9f4b"
+  search_engine_id     : "7ff39373b784e9f4b"
   instant_search       : true  
 
 # Build settings
@@ -87,7 +88,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://eraofchaos.github.io/"
+      url: "https://eraofchaos.github.io/ru/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/mmheoc/"
