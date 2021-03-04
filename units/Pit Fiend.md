@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Порождение зла"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч](/Exclusive/Pit Fiend Sword/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

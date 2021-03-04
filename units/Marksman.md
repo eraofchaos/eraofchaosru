@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /units/Marksman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Лучник"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Длинный лук](/Exclusive/Marksman Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

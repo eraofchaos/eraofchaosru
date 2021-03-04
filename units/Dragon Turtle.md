@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Панцирный дракон"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Послушание](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

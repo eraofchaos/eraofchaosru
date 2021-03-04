@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Гарпия"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Копье рыцаря](/Exclusive/Harpy Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Колесо вечности](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

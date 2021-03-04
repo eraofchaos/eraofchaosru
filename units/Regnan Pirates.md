@@ -3,7 +3,7 @@ title: "Регнанский пират"
 permalink: /units/Regnan Pirates/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Регнанский пират"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч](/Exclusive/Regnan Pirates Sword/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

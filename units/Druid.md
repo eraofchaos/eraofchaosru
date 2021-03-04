@@ -3,7 +3,7 @@ title: "Друид"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Друид"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Расцвет природы](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

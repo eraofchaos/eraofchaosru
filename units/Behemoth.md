@@ -3,7 +3,7 @@ title: "Чудище"
 permalink: /units/Behemoth/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов."
 unitID: 407
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Чудище"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Кровожадный дух](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

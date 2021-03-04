@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /units/Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Демон"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Demon Iris Shield/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

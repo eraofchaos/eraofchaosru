@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /units/Pegasus/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель."
 unitID: 204
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Пегас"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Длинный лук](/Exclusive/Pegasus Long Bow/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

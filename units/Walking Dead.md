@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Walking Dead Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

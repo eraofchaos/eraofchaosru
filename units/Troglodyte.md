@@ -3,7 +3,7 @@ title: "Троглодит"
 permalink: /units/Troglodyte/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Троглодит"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч](/Exclusive/Troglodyte Sword/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

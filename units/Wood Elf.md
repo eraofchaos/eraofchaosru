@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Длинный лук](/Exclusive/Wood Elf Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

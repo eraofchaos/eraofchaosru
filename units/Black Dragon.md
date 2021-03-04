@@ -3,7 +3,7 @@ title: "Черный дракон"
 permalink: /units/Black Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Черный дракон"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Чешуя черного дракона](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

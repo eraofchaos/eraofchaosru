@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /units/Manticore/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет."
 unitID: 706
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Мантикора"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Хвост скорпиона](/Exclusive/Manticore Scorpion Tail/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

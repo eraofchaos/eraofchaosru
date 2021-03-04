@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Нага"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч нага](/Exclusive/Naga Naga Sword/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

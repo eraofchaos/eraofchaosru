@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /units/Cavalier/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Всадники"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Копье рыцаря](/Exclusive/Cavalier Knight Pike/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

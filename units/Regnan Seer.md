@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [](/Exclusive/Regnan Seer /) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

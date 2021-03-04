@@ -3,7 +3,7 @@ title: "Черный рыцарь"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Черный рыцарь"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Загробная сабля](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

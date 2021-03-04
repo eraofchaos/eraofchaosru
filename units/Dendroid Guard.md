@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /units/Dendroid Guard/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Дендроид-страж"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /units/Wyvern/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
 unitID: 806
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Виверна"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Хвост гадюки](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

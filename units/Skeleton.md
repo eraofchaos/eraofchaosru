@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Скелет"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Skeleton Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

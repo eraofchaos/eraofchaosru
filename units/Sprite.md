@@ -3,7 +3,7 @@ title: "Фея"
 permalink: /units/Sprite/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал."
 unitID: 901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Фея"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Копье рыцаря](/Exclusive/Sprite Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

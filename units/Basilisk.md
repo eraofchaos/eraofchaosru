@@ -3,7 +3,7 @@ title: "Василиск"
 permalink: /units/Basilisk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети."
 unitID: 804
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Василиск"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Энергия огня](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

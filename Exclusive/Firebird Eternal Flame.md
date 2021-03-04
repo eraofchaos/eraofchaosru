@@ -2,7 +2,7 @@
 title: "Эксклюзив - Вечный огонь"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Эра хаоса Вечный огонь. Вечный огонь. Эра хаоса Эксклюзив Вечный огонь. Жар-птица Эксклюзив."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Firebird Вечный огонь.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Эксклюзивный эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Горящая земля>: жар-птица наносит урон вражеским отрядам в своем ряду 3 раз каждые 10 сек., и они горят 8 сек. |
+  |  Пробуждение  | ? | <Горящая земля>: жар-птица наносит урон вражеским отрядам в своем ряду 3 раз каждые 10 сек., и они горят 8 сек. |
   | **1x** <i class="fas fa-star"/> | ? | Жар-птица неуязвима к урону от заклинаний Огня. |
   | **2x** <i class="fas fa-star"/> | ? | Жар-птица получает +10% к урону и +20% к скорости атаки. |
   | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |

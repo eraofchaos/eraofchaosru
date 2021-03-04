@@ -3,7 +3,7 @@ title: "Циклоп"
 permalink: /units/Cyclops/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов."
 unitID: 406
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Циклоп"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Длинный лук](/Exclusive/Cyclops Long Bow/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

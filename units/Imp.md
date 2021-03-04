@@ -3,7 +3,7 @@ title: "Бес"
 permalink: /units/Imp/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Бес"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Imp Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

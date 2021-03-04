@@ -3,7 +3,7 @@ title: "Паладин"
 permalink: /units/Paladin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности."
 unitID: 108
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Паладин"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [](/Exclusive/Paladin /) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

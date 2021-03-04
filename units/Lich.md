@@ -3,7 +3,7 @@ title: "Лич"
 permalink: /units/Lich/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Лич"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Дань смерти](/Exclusive/Lich Death Tribute/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

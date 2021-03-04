@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /units/Efreeti/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

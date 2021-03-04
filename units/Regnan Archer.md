@@ -3,7 +3,7 @@ title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Регнанский лучник"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Чудо](/Exclusive/Regnan Archer Miracle/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

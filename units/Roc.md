@@ -3,7 +3,7 @@ title: "Рух"
 permalink: /units/Roc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Рух"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Roc Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

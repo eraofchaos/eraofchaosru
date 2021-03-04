@@ -2,7 +2,7 @@
 title: "Эксклюзив - "
 permalink: /Exclusive/Judicator /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Вершитель Эксклюзив."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Judicator .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Эксклюзивный эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? |  |
+  |  Пробуждение  | ? |  |
   | **1x** <i class="fas fa-star"/> | ? |  |
   | **2x** <i class="fas fa-star"/> | ? |  |
   | **3x** <i class="fas fa-star"/> | ? |  |

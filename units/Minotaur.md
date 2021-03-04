@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Minotaur Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

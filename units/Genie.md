@@ -3,7 +3,7 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Джинн"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Созвездие Лиры](/Exclusive/Genie Lyra/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Элементаль Моря"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

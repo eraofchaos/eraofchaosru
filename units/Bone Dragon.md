@@ -3,7 +3,7 @@ title: "Костяной дракон"
 permalink: /units/Bone Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Костяной дракон"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Кость бессмертного дракона](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

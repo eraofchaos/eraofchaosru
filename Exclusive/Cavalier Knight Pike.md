@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Всадники Эксклюзив."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Cavalier Копье рыцаря.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Эксклюзивный эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Пробуждение  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | Всадники получают +25% к сопротивлению урону, когда их атакуют стрелки |
   | **2x** <i class="fas fa-star"/> | ? | Всадники получают +20% к ATK и +10% к урону |
   | **3x** <i class="fas fa-star"/> | ? | Всадники получают +10% к ЗЩТ. В начале боя все союзные отряды Замка получают +300 к пробиванию. Этот эффект не может быть рассеян |

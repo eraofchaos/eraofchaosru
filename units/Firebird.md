@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /units/Firebird/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Жар-птица"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Вечный огонь](/Exclusive/Firebird Eternal Flame/) 
+
+ **Is Open:** + 
 
  **Item to Повысить ранг :** -
 

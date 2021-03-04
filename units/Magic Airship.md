@@ -3,7 +3,7 @@ title: "Магический корабль"
 permalink: /units/Magic Airship/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Магический корабль"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Путеводная звезда](/Exclusive/Magic Airship Polaris/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

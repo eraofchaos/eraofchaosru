@@ -3,7 +3,7 @@ title: "Кошмар"
 permalink: /units/Nightmare/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Кошмар"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [](/Exclusive/Nightmare /) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

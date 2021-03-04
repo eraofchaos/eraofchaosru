@@ -3,7 +3,7 @@ title: "Гоблин"
 permalink: /units/Goblin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Гоблин"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч](/Exclusive/Goblin Sword/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Славный щит](/Exclusive/Iron Golem Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

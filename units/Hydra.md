@@ -3,7 +3,7 @@ title: "Гидра"
 permalink: /units/Hydra/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
 unitID: 807
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Гидра"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Многоглавый змей](/Exclusive/Hydra Hydra's Head/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

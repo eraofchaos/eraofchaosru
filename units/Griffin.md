@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /units/Griffin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
 unitID: 103
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Грифон"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Копье рыцаря](/Exclusive/Griffin Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

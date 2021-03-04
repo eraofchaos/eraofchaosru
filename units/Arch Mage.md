@@ -3,7 +3,7 @@ title: "Архимаг"
 permalink: /units/Arch Mage/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Архимаг"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Arch Mage Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

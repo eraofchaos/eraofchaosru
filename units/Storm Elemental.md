@@ -3,7 +3,7 @@ title: "Элементаль Шторма"
 permalink: /units/Storm Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством."
 unitID: 902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Элементаль Шторма"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Длинный лук](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

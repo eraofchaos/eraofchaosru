@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Гог"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Таинственное пение](/Exclusive/Gog Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 

@@ -3,7 +3,7 @@ title: "Каменная горгулья"
 permalink: /units/Stone Gargoyle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
 unitID: 602
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: ru
 ref: "Каменная горгулья"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Эксклюзив
 
  **Name:** [Меч](/Exclusive/Stone Gargoyle Sword/) 
+
+ **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
