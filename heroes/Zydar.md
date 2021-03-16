@@ -3,12 +3,12 @@ title: "Зидар"
 permalink: /heroes/Zydar/
 excerpt: "Эра хаоса Зидар. Зидар. Зидар посвятил большую часть жизни улучшению своих заклинаний. Он стал великим заклинателем задолго до того, как стал полководцем. И на него можно положиться куда лучше, чем на любого из его сородичей-демонов."
 heroID: 60901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: ru
 ref: "Zydar"
 toc: true
 ---
- **Описание:** Зидар посвятил большую часть жизни улучшению своих заклинаний. Он стал великим заклинателем задолго до того, как стал полководцем. И на него можно положиться куда лучше, чем на любого из его сородичей-демонов.
+ **Description:** Зидар посвятил большую часть жизни улучшению своих заклинаний. Он стал великим заклинателем задолго до того, как стал полководцем. И на него можно положиться куда лучше, чем на любого из его сородичей-демонов.
 ## Details
  **Profession:** Еретик
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Огня
- **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 ### 2 Spell: Стена огня
- **Описание:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
+ **Description:** Создает стену огня, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> продолжительного урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {($olast11+$olast12)/1000} сек.
 
 ### 3 Spell: Элементаль Огня
- **Описание:** Призывает 9 элементалей Огня <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в выбранной области. Элементали Огня остаются до конца битвы, имеют <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> АТК и <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13> ОЗ.
+ **Description:** Призывает 9 элементалей Огня <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в выбранной области. Элементали Огня остаются до конца битвы, имеют <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> АТК и <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13> ОЗ.
 
 ### 4 Spell: Огненные врата
- **Описание:** Создает огненные врата в выбранной области и призывает 3 отряда бесов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. Бесы остаются 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
+ **Description:** Создает огненные врата в выбранной области и призывает 3 отряда бесов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. Бесы остаются 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">Ад пуст, и все дьяволы здесь! </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Ад пуст, и все дьяволы здесь! </span>
 
 
 

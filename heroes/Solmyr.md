@@ -3,12 +3,12 @@ title: "Сольмир"
 permalink: /heroes/Solmyr/
 excerpt: "Эра хаоса Сольмир. Сольмир. Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность."
 heroID: 61201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: ru
 ref: "Solmyr"
 toc: true
 ---
- **Описание:** Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность.
+ **Description:** Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность.
 ## Details
  **Profession:** Боевой маг
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Молния
- **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
+ **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем противникам в области действия.
 
 ### 3 Spell: Стена Ветра
- **Описание:** Создает стену ветра, которая дает проходящим через нее союзным отрядам + {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> к уклонению и +{$buffaddattr22+$buffaddattr23*($sklevel-1)} к скорости движения на {$olast11/1000} сек.
+ **Description:** Создает стену ветра, которая дает проходящим через нее союзным отрядам + {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> к уклонению и +{$buffaddattr22+$buffaddattr23*($sklevel-1)} к скорости движения на {$olast11/1000} сек.
 
 ### 4 Spell: Цепь молний
- **Описание:** Призывает разряд молнии, который перескакивает на новую цель 5 раз. Каждый удар наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> урона Воздухом
+ **Description:** Призывает разряд молнии, который перескакивает на новую цель 5 раз. Каждый удар наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> урона Воздухом
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">Я присягаю на верность только королю Бракады, освободившему меня из моей стеклянной тюрьмы! </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Я присягаю на верность только королю Бракады, освободившему меня из моей стеклянной тюрьмы! </span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Дьявол в бутылке**
 
- **Описание:** <span style="color: #ffffff;font-size:20px">Спустя четыре столетия после того, как его бросили в морскую пучину, дьявол из бутылки поклялся убить того, кто освободит его из заточения. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Спустя четыре столетия после того, как его бросили в морскую пучину, дьявол из бутылки поклялся убить того, кто освободит его из заточения. </span>
 
  **Skin features:** 
 
