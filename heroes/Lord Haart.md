@@ -3,12 +3,12 @@ title: "Лорд Хаарт"
 permalink: /heroes/Lord Haart/
 excerpt: "Эра хаоса Лорд Хаарт. Лорд Хаарт. Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
 heroID: 60401
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Lord Haart"
 toc: true
 ---
- **Description:** Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни.
+ **Описание:** Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни.
 ## Details
  **Profession:** Рыцарь Смерти
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Печаль
- **Description:** Дает всем противникам в большой области <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black"> и снижает их скорость атаки на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>%; эффект действует <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Не влияет на отряды Некрополя
+ **Описание:** Дает всем противникам в большой области <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black"> и снижает их скорость атаки на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>%; эффект действует <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Не влияет на отряды Некрополя
 
 ### 3 Spell: Дрожь смерти
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей всем отрядам. Отряды с низким боевым духом получат на 50% больше урона. Не действует на отряды Некрополя.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей всем отрядам. Отряды с низким боевым духом получат на 50% больше урона. Не действует на отряды Некрополя.
 
 ### 4 Spell: Приказ на убийство
- **Description:** Приказывает рыцарям смерти использовать <span style="color: #48b946;font-size:20px">Критическую схватку</span><span style="color: black"> один раз. Повышает урон от этого раза на 20%. Снижает ЗЩТ цели на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>; эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
+ **Описание:** Приказывает рыцарям смерти использовать <span style="color: #48b946;font-size:20px">Критическую схватку</span><span style="color: black"> один раз. Повышает урон от этого раза на 20%. Снижает ЗЩТ цели на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>; эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Вся жизнь есть проклятие! Смерть - это благословение, которого тебе не постичь. </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Вся жизнь есть проклятие! Смерть - это благословение, которого тебе не постичь. </span>
 
  **Skin features:** 
 
@@ -61,7 +61,7 @@ toc: true
 
 ### Skin 2: **Смерть Дейи**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Приверженцы истины не боятся принять смерть!</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Приверженцы истины не боятся принять смерть!</span>
 
  **Skin features:** 
 

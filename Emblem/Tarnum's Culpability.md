@@ -2,7 +2,7 @@
 title: "Эмблема святости - Вина Тарнума"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Эра хаоса Вина Тарнума. Вина Тарнума. Эра хаоса Эмблема святости Вина Тарнума. Эра хаоса Нейтральный Вина Тарнума"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Tarnum's Culpability.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Вина Тарнума
 
- **Type:** [Нейтральный](/Emblem/Type Neutral/)
+ **Type:** [Нейтральный](/ru/Emblem/Type Neutral/)
 
-  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Вина Тарнума](/Emblem/Tarnum's Culpability/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 4% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 
-  | [Вина Тарнума](/Emblem/Tarnum's Culpability/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 1% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
-  | [Вина Тарнума](/Emblem/Tarnum's Culpability/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 2% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
-  | [Вина Тарнума](/Emblem/Tarnum's Culpability/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 3% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
+  | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 4% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 
+  | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 1% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
+  | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 2% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 
+  | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 3% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
 
   |         Описание            | 
   |:-------------------------------|

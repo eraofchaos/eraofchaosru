@@ -3,12 +3,12 @@ title: "Джем"
 permalink: /heroes/Gem/
 excerpt: "Эра хаоса Джем. Джем. Джем - величайшая из ведьм Энрота. В обеих войнах она сражалась на стороне Роланда Айронфиста. После того, как Роланд стал королем, Джем переехала в Эрафию и обрела там новый дом."
 heroID: 60304
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Gem"
 toc: true
 ---
- **Description:** Джем - величайшая из ведьм Энрота. В обеих войнах она сражалась на стороне Роланда Айронфиста. После того, как Роланд стал королем, Джем переехала в Эрафию и обрела там новый дом.
+ **Описание:** Джем - величайшая из ведьм Энрота. В обеих войнах она сражалась на стороне Роланда Айронфиста. После того, как Роланд стал королем, Джем переехала в Эрафию и обрела там новый дом.
 ## Details
  **Profession:** Друид
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Холода
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
 
 ### 2 Spell: Каменная кожа
- **Description:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
+ **Описание:** Дает союзным отрядам в определенной области на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. <span style="color: #e07c44;font-size:20px">щит</span><span style="color: black">, который поглощает <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> урона
 
 ### 3 Spell: Лечение
- **Description:** Восстанавливает <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в радиусе действия
+ **Описание:** Восстанавливает <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в радиусе действия
 
 ### 4 Spell: Успокаивающий дождь
- **Description:** Восстанавливает союзным отрядам <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ + 1% от макс. ОЗ в течение 6 сек.
+ **Описание:** Восстанавливает союзным отрядам <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ + 1% от макс. ОЗ в течение 6 сек.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Я могу исцелить болеющие тела, но не могу исправить покалеченные души.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Я могу исцелить болеющие тела, но не могу исправить покалеченные души.</span>
 
 
 ### Skin 2: **Футболистка**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Мы - чемпионы! Мир принадлежит победителям, а не побежденным!</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Мы - чемпионы! Мир принадлежит победителям, а не побежденным!</span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Лунное свечение**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Теплыми весенними вечерами так хорошо предаваться мечтам в залитой лунным светом беседке!  </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Теплыми весенними вечерами так хорошо предаваться мечтам в залитой лунным светом беседке!  </span>
 
  **Skin features:** 
 

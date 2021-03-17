@@ -3,12 +3,12 @@ title: "Джеддит"
 permalink: /heroes/Jeddite/
 excerpt: "Эра хаоса Джеддит. Джеддит. Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит."
 heroID: 61401
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Jeddite"
 toc: true
 ---
- **Description:** Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит.
+ **Описание:** Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит.
 ## Details
  **Profession:** Алхимик
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Земли
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 ### 2 Spell: Метеоритный дождь
- **Description:** Призывает наносящие врагам урон Землей метеориты в выбранную область 6 раз. <span style="color: #48b946;font-size:20px">Оглушенные {($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2} цели получат двойной урон. Общее количество урона: </span><span style="color: black">$t$t<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>).
+ **Описание:** Призывает наносящие врагам урон Землей метеориты в выбранную область 6 раз. <span style="color: #48b946;font-size:20px">Оглушенные {($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2} цели получат двойной урон. Общее количество урона: </span><span style="color: black">$t$t<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>).
 
 ### 3 Spell: Окаменение
- **Description:** Превращает цели <span style="color: #e07c44;font-size:20px">в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек., а также наносит им <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей.
+ **Описание:** Превращает цели <span style="color: #e07c44;font-size:20px">в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек., а также наносит им <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей.
 
 ### 4 Spell: Цикл жизни
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в очень большой области раз в {$ointerval/1000} сек. и восстанавливает ОЗ союзных отрядов в размере, равном нанесенному урону. Действует {($olast11+$olast12*($sklevel-1))/1000} сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в очень большой области раз в {$ointerval/1000} сек. и восстанавливает ОЗ союзных отрядов в размере, равном нанесенному урону. Действует {($olast11+$olast12*($sklevel-1))/1000} сек.
 
 
 ## HERO Biography
@@ -49,7 +49,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">О том, что некроманты много знают о смерти, и говорить не стоит.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">О том, что некроманты много знают о смерти, и говорить не стоит.</span>
 
 
 

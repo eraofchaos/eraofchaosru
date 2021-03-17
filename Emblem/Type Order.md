@@ -2,20 +2,20 @@
 title: "Эмблема святости - Порядок"
 permalink: /Emblem/Type Order/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Порядок. Эра хаоса Порядок"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: ru
 ref: "typeПорядок.md"
 toc: false
 classes: wide
 ---
 
-  [Порядок](/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Святилище Космоса](/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
-  | 2 | [Благословение](/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
-  | 3 | [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
-  | 4 | [Древний огонь](/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
-  | 5 | [Тайна Неувядающего](/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
-  | 6 | [Крылья грифона](/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 1 | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
+  | 2 | [Благословение](/ru/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
+  | 3 | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 4 | [Древний огонь](/ru/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
+  | 5 | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
+  | 6 | [Крылья грифона](/ru/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 

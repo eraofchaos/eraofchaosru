@@ -3,12 +3,12 @@ title: "Кассанбель"
 permalink: /heroes/Cassanbel/
 excerpt: "Эра хаоса Кассанбель. Кассанбель. И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море."
 heroID: 61701
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Cassanbel"
 toc: true
 ---
- **Description:** И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море.
+ **Описание:** И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море.
 ## Details
  **Profession:** Дитя океана
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Холода
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой противникам в определенной области и <span style="color: #e07c44;font-size:20px">замедляет</span><span style="color: black"> их на 8 сек.
 
 ### 2 Spell: Благословение океана
- **Description:** Восстанавливает <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> ОЗ союзным отрядам в радиусе действия
+ **Описание:** Восстанавливает <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> ОЗ союзным отрядам в радиусе действия
 
 ### 3 Spell: Щит Льда
- **Description:** Дает иммунитет к урону Водой выбранным союзным отрядам на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. При атаке ваших отрядов с щитом противники получат <span style="color: #e07c44;font-size:20px">замедление</span><span style="color: black"> на 3 сек.
+ **Описание:** Дает иммунитет к урону Водой выбранным союзным отрядам на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. При атаке ваших отрядов с щитом противники получат <span style="color: #e07c44;font-size:20px">замедление</span><span style="color: black"> на 3 сек.
 
 ### 4 Spell: Приливные волны
- **Description:** Применяет Приливные волны, которые взрывают всех противников и наносят <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой, а также накладывают <span style="color: #e07c44;font-size:20px">сдерживание</span><span style="color: black"> на 10 сек. Кроме того, с 20% шансом может <span style="color: #e07c44;font-size:20px">заморозить</span><span style="color: black"> цели на 2 сек.
+ **Описание:** Применяет Приливные волны, которые взрывают всех противников и наносят <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой, а также накладывают <span style="color: #e07c44;font-size:20px">сдерживание</span><span style="color: black"> на 10 сек. Кроме того, с 20% шансом может <span style="color: #e07c44;font-size:20px">заморозить</span><span style="color: black"> цели на 2 сек.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Я защищу жалкое Подводное царство и истреблю несносных пиратов!</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Я защищу жалкое Подводное царство и истреблю несносных пиратов!</span>
 
 
 ### Skin 2: **Сладкое лето**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Даже самым жарким летом - я наполню этот мир сладостями! </span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Даже самым жарким летом - я наполню этот мир сладостями! </span>
 
  **Skin features:** 
 

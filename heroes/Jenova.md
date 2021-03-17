@@ -3,12 +3,12 @@ title: "Янова"
 permalink: /heroes/Jenova/
 excerpt: "Эра хаоса Янова. Янова. Еще ребенком она попала в плен к темным эльфам. Только помощь мстительного единорога позволила Янове обрести свободу. С тех пор она начала поклоняться этим таинственным созданиям лесов и решила жить рядом с ними. Никто не знает единорогов лучше Яновы, мастерски использующей их скорость и мощь в бою"
 heroID: 60202
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: ru
 ref: "Jenova"
 toc: true
 ---
- **Description:** Еще ребенком она попала в плен к темным эльфам. Только помощь мстительного единорога позволила Янове обрести свободу. С тех пор она начала поклоняться этим таинственным созданиям лесов и решила жить рядом с ними. Никто не знает единорогов лучше Яновы, мастерски использующей их скорость и мощь в бою
+ **Описание:** Еще ребенком она попала в плен к темным эльфам. Только помощь мстительного единорога позволила Янове обрести свободу. С тех пор она начала поклоняться этим таинственным созданиям лесов и решила жить рядом с ними. Никто не знает единорогов лучше Яновы, мастерски использующей их скорость и мощь в бою
 ## Details
  **Profession:** Лесничий
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Стрела Воздуха
- **Description:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
+ **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом противникам в определенной области действия и снижает точность целей на 30%; эффект длится 8 сек.
 
 ### 2 Spell: Стена Ветра
- **Description:** Создает стену ветра, которая дает проходящим через нее союзным отрядам + {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> к уклонению и +{$buffaddattr22+$buffaddattr23*($sklevel-1)} к скорости движения на {$olast11/1000} сек.
+ **Описание:** Создает стену ветра, которая дает проходящим через нее союзным отрядам + {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> к уклонению и +{$buffaddattr22+$buffaddattr23*($sklevel-1)} к скорости движения на {$olast11/1000} сек.
 
 ### 3 Spell: Щит Воздуха
- **Description:** Повышает уклонение союзных отрядов в определенной области на {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% и дает им иммунитет к заклинаниям Воздуха на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
+ **Описание:** Повышает уклонение союзных отрядов в определенной области на {($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% и дает им иммунитет к заклинаниям Воздуха на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 ### 4 Spell: Сердце чистоты
- **Description:** Призывает 4 королей единорогов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в указанное место. Единороги остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black"> ОЗ.
+ **Описание:** Призывает 4 королей единорогов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в указанное место. Единороги остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black"> ОЗ.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Классический**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Никто не понимает единорогов лучше меня. Потому что у меня нет никого ближе.</span>
+ **Описание:** <span style="color: #ffffff;font-size:20px">Никто не понимает единорогов лучше меня. Потому что у меня нет никого ближе.</span>
 
 
 
