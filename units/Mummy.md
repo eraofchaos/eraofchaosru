@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Мумия](/ru/Items/unt_215/)
+
  **Unit description:** Гнилостное проклятие: сильно затрудняет лечение противника.
 
  **Short description:** Болезнь сокращает ОЗ и исцеление врага.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Бинты мумии](/ru/Exclusive/Mummy Gauze/) 
+ **Имя:** [Бинты мумии](/ru/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Бинтов мумии](/ru/Items/con_981/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Бинты мумии](/ru/Items/con_649/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Король мумий

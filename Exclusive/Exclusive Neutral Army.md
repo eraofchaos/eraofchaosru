@@ -15,7 +15,7 @@ classes: wide
 
  **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Ассасин](/ru/units/Assassin/) | - | - | - | none | none |
   | 2  | [Спартанец](/ru/units/Spartan Warriors/) | - | - | - | none | none |

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Регнанский пират](/ru/Items/unt_273/)
+
  **Short description:** Храбрость, существенно повышающая УРН.
 
  **Position :** В начале боя устраивает буйство. Большой УВС. Снижает ЗЩТ врагов.
@@ -75,13 +77,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Regnan Pirates Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,9 +171,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Боцман-пират

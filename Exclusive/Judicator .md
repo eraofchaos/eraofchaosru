@@ -10,14 +10,14 @@ classes: wide
 ---
  [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: ?** 
+### Подробности
+ **Имя: ?** 
 
  **Эксклюзив for Unit:** [Вершитель](/ru/units/Judicator/) 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Знамя Священного света](/ru/Items/con_975/)
 
- **Skin:** -
+ **Облик:** [Tool_210909](/ru/Items/con_643/)
 
  **Type:** Столица
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | ? |  |
-  | **1x** <i class="fas fa-star"/> | ? |  |
-  | **2x** <i class="fas fa-star"/> | ? |  |
-  | **3x** <i class="fas fa-star"/> | ? |  |
-  | **4x** <i class="fas fa-star"/> | ? |  |
-  | **5x** <i class="fas fa-star"/> | ? |  |
-  | **6x** <i class="fas fa-star"/> | ? |  |
+  |  Пробуждение  | **100x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Знамя Священного света](/ru/Items/con_975/) |  |
 
 
 ## Новый ур.

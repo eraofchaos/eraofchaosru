@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Гоблин](/ru/Items/unt_217/)
+
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
  **Short description:** Стрелковая контратака. Высасывание жизни при критическом ударе.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Goblin Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Хобгоблин

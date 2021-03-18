@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Русалка](/ru/Items/unt_277/)
+
  **Short description:** Групповое исцеление. Сильные положительные эффекты.
 
  **Position :** Сильный целитель. В начале боя дает значительное усиление.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Прилив](/ru/Exclusive/Mermaid Night Tides/) 
+ **Имя:** [Прилив](/ru/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Прилива](/ru/Items/con_1004/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Прилив](/ru/Items/con_672/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -168,9 +170,11 @@ toc: true
 * Скорость атаки
 * Исцеление
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

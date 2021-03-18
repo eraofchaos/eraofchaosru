@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Друид](/ru/Items/unt_206/)
+
  **Unit description:** Лесная хроносфера: отряды в волшебном кругу становятся невосприимчивы к магическому урону
 
  **Short description:** Снимает щит. Повышает критический удар.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) 
+ **Имя:** [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Расцвета природы](/ru/Items/con_977/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Расцвет природы](/ru/Items/con_645/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Великий друид

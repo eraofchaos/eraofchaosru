@@ -2,20 +2,20 @@
 title: "Эмблема святости - Алчность"
 permalink: /Emblem/Greed/
 excerpt: "Эра хаоса Алчность. Алчность. Эра хаоса Эмблема святости Алчность. Эра хаоса Хаос Алчность"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Greed.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Алчность
+ **Имя:** Алчность
 
  **Type:** [Хаос](/ru/Emblem/Type Chaos/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0.1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 5 сек. восстанавливается 1% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +0.2%, эмблема святости ЗЩТ +6</span> | 
   | [Алчность](/ru/Emblem/Greed/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда ОЗ впервые падает до 35%, каждую секунду в течение 15 сек. восстанавливается 2% макс. ОЗ</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 

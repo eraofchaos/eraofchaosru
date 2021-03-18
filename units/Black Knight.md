@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Черный рыцарь](/ru/Items/unt_213/)
+
  **Unit description:** Критическая схватка: наносит огромный урон и снижает боевой дух.
 
  **Short description:** Сильный урон. Улучшенное обезглавливание.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Загробная сабля](/ru/Exclusive/Black Knight Nether Sabre/) 
+ **Имя:** [Загробная сабля](/ru/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон загробной сабли](/ru/Items/con_979/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Загробная сабля](/ru/Items/con_647/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -176,9 +178,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Зловещий рыцарь

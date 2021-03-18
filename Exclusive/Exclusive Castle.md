@@ -15,14 +15,14 @@ classes: wide
 
  **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Копейщик](/ru/units/Pikeman/) | [Меч](/ru/Exclusive/Pikeman Sword/) | - | Заряд | - | - |
-  | 2  | [Лучник](/ru/units/Marksman/) | [Длинный лук](/ru/Exclusive/Marksman Long Bow/) | - | Заряд | - | - |
-  | 3  | [Грифон](/ru/units/Griffin/) | [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) | - | Заряд | - | - |
-  | 4  | [Мечник](/ru/units/Swordsman/) | [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) | - | Заряд | - | - |
-  | 5  | [Монах](/ru/units/Monk/) | [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) | - | Заряд | - | - |
-  | 6  | [Всадники](/ru/units/Cavalier/) | [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) | + | Заряд | - | - |
-  | 7  | [Ангел](/ru/units/Angel/) | [Меч Дюрандаль](/ru/Exclusive/Angel Durandel/) | - | Поддержка | - | - |
-  | 8  | [Паладин](/ru/units/Paladin/) | [](/ru/Exclusive/Paladin /) | - | Поддержка | - | - |
-  | 9  | [Вершитель](/ru/units/Judicator/) | [](/ru/Exclusive/Judicator /) | - | Столица | - | - |
+  | 1  | [Копейщик](/ru/units/Pikeman/) | [Меч](/ru/Exclusive/Pikeman Sword/) | - | Заряд | [Жетон меча](/ru/Items/con_912/) | - |
+  | 2  | [Лучник](/ru/units/Marksman/) | [Длинный лук](/ru/Exclusive/Marksman Long Bow/) | - | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 3  | [Грифон](/ru/units/Griffin/) | [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
+  | 4  | [Мечник](/ru/units/Swordsman/) | [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
+  | 5  | [Монах](/ru/units/Monk/) | [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
+  | 6  | [Всадники](/ru/units/Cavalier/) | [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) | + | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
+  | 7  | [Ангел](/ru/units/Angel/) | [Меч Дюрандаль](/ru/Exclusive/Angel Durandel/) | - | Поддержка | [Жетон Меча Дюрандаль](/ru/Items/con_973/) | [Особый облик: меч Дюрандаль](/ru/Items/con_641/) |
+  | 8  | [Паладин](/ru/units/Paladin/) | [](/ru/Exclusive/Paladin /) | - | Поддержка | [Жетон Бесстрашия](/ru/Items/con_974/) | [Особый облик: Бесстрашие](/ru/Items/con_642/) |
+  | 9  | [Вершитель](/ru/units/Judicator/) | [](/ru/Exclusive/Judicator /) | - | Столица | [Знамя Священного света](/ru/Items/con_975/) | [Tool_210909](/ru/Items/con_643/) |

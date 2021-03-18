@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Зеленый дракон](/ru/Items/unt_205/)
+
  **Unit description:** Подкрепление с Небес: наносит огромный урон 3 вражеским отрядам на задней линии.
 
  **Short description:** Урон Водой. Сопротивление Воде.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Имя:** [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Сияющих крыльев](/ru/Items/con_976/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Сияющие крылья](/ru/Items/con_644/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Золотой дракон

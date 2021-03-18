@@ -2,20 +2,20 @@
 title: "Эмблема святости - Древний огонь"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Эра хаоса Древний огонь. Древний огонь. Эра хаоса Эмблема святости Древний огонь. Эра хаоса Порядок Древний огонь"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ancient Fire.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Древний огонь
+ **Имя:** Древний огонь
 
  **Type:** [Порядок](/ru/Emblem/Type Order/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Древний огонь](/ru/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ОЗ +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке наземных целей урон отряда увеличивается на 4%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ОЗ +7%</span> | 
   | [Древний огонь](/ru/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ОЗ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке наземных целей урон отряда увеличивается на 2%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ОЗ +2%</span> | 

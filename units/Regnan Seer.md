@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Регнанская прорицательница](/ru/Items/unt_279/)
+
  **Short description:** Лидер Убежища. Сильный контроль.
 
  **Position :** Основа фракции Убежище. Наносит взрывной урон по области.
@@ -75,13 +77,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [](/ru/Exclusive/Regnan Seer /) 
+ **Имя:** [](/ru/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Знамя Морского города](/ru/Items/con_1006/)
 
- **Skin:** -
+ **Облик:** [Tool_2990709](/ru/Items/con_674/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -176,9 +178,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Элементаль Приливов

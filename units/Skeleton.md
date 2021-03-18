@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Скелет](/ru/Items/unt_208/)
+
  **Unit description:** Костяной щит: усиливает сопротивление урону, когда запас здоровья ниже 50%.
 
  **Short description:** Отражение урона. Неуязвим к эффекту кровотечения.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Защита
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Скелет-воин

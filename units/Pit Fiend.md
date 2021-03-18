@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Порождение зла](/ru/Items/unt_230/)
+
  **Unit description:** Огненный источник: постоянно излечивает союзные отряды на своем пути.
 
  **Short description:** Призывает демона-целителя.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Pit Fiend Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Исцеление
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Владыка бездны

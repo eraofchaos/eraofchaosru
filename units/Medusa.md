@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Медуза](/ru/Items/unt_247/)
+
  **Unit description:** Каменный взгляд: превращает врага в камень и снижает сопротивление урону отряда
 
  **Short description:** Превращает в камень. Большой УВС
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Лук медузы](/ru/Exclusive/Medusa Medusa's Bow/) 
+ **Имя:** [Лук медузы](/ru/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон лука медузы](/ru/Items/con_991/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Лук медузы](/ru/Items/con_659/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -168,9 +170,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Королевская медуза

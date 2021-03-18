@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Tool_3709](/ru/Items/unt_252/)
+
  **Short description:** Отражение заклинаний, усиление по области
 
  **Position :** Отражение заклинаний, усиление по области
@@ -176,9 +178,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Лучник](/ru/Items/unt_191/)
+
  **Unit description:** Взрывная стрела: наносит значительный урон вражеским отрядам.
 
  **Short description:** Наносит удар дважды. Эффективен против больших существ.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Marksman Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Критический удар отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Опытный лучник

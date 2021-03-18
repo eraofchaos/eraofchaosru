@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Мечник](/ru/Items/unt_193/)
+
  **Unit description:** Божественная защита снижает получаемый урон.
 
  **Short description:** Щит поглощает урон. Самоисцеление.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Защита
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Крестоносец

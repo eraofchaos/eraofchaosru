@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Бес](/ru/Items/unt_226/)
+
  **Unit description:** Импульс: отряд получает шанс после смерти воскреснуть с полным запасом здоровья.
 
  **Short description:** Имеет щит. Способен возрождаться и сдерживать толпу.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Imp Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Уклонение отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Черти

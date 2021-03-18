@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Гном](/ru/Items/unt_200/)
+
  **Unit description:** Гномий вой: увеличивает максимум здоровья отряда в начале боя.
 
  **Short description:** Значительно повышает здоровье. Волшебный щит.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -177,9 +179,11 @@ toc: true
 * Защита
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

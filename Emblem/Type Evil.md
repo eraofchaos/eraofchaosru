@@ -2,7 +2,7 @@
 title: "Эмблема святости - Злой"
 permalink: /Emblem/Type Evil/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Злой. Эра хаоса Злой"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "typeЗлой.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Имя            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Зловещий знак](/ru/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
   | 2 | [Просвещение тьмой](/ru/Emblem/Darkness Enlightenment/) | Злой | Больше всего подходит отрядам из 4/9/16 существ | 

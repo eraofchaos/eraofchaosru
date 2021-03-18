@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Костяной дракон](/ru/Items/unt_214/)
+
  **Unit description:** Страх: резко ослабляет защиту врага, снижает боевой дух.
 
  **Short description:** Держит врага на расстоянии и наносит дополнительный урон.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Кость бессмертного дракона](/ru/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Имя:** [Кость бессмертного дракона](/ru/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон кости бессмертного дракона](/ru/Items/con_980/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Кость бессмертного дракона](/ru/Items/con_648/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Призрачный дракон

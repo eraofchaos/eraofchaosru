@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Ассасин](/ru/Items/unt_271/)
+
  **Short description:** Смертельный урон, подавление регенерации
 
  **Position :** Смертельный урон, подавление регенерации, метание ножей и немота.
@@ -163,9 +165,11 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -2,20 +2,20 @@
 title: "Эмблема святости - Ум"
 permalink: /Emblem/Witness/
 excerpt: "Эра хаоса Ум. Ум. Эра хаоса Эмблема святости Ум. Эра хаоса Добро Ум"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Witness.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Ум
+ **Имя:** Ум
 
  **Type:** [Добро](/ru/Emblem/Type Goodness/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Ум](/ru/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +20, ОЗ +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 5%. После уничтожения цели скорость АТК увеличивается на 15% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +55, ОЗ +20%</span> | 
   | [Ум](/ru/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ОЗ +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает скорость АТК отряда на 4%. После уничтожения цели скорость АТК увеличивается на 10% до конца боя.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ОЗ +15%</span> | 

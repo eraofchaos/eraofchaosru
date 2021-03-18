@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Маг](/ru/Items/unt_238/)
+
  **Unit description:** Пробивание заклинания: урон отдельным отрядам становится все больше
 
  **Short description:** Магический отряд.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/ru/Exclusive/Arch Mage Arcane Chant/) 
+ **Имя:** [Таинственное пение](/ru/Exclusive/Arch Mage Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,9 +171,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Архимаг

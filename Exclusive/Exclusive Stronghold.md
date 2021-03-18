@@ -15,14 +15,14 @@ classes: wide
 
  **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Гоблин](/ru/units/Goblin/) | [Меч](/ru/Exclusive/Goblin Sword/) | - | Заряд | - | - |
-  | 2  | [Наездник на волке](/ru/units/Wolf Rider/) | [Копье рыцаря](/ru/Exclusive/Wolf Rider Knight Pike/) | - | Заряд | - | - |
-  | 3  | [Орк](/ru/units/Orc/) | [Длинный лук](/ru/Exclusive/Orc Long Bow/) | - | Заряд | - | - |
-  | 4  | [Огр](/ru/units/Ogre/) | [Славный щит](/ru/Exclusive/Ogre Iris Shield/) | - | Заряд | - | - |
-  | 5  | [Рух](/ru/units/Roc/) | [Таинственное пение](/ru/Exclusive/Roc Arcane Chant/) | - | Заряд | - | - |
-  | 6  | [Циклоп](/ru/units/Cyclops/) | [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) | + | Заряд | - | - |
-  | 7  | [Чудище](/ru/units/Behemoth/) | [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Поддержка | - | - |
-  | 8  | [Берсерк](/ru/units/Berserker/) | [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) | - | Поддержка | - | - |
+  | 1  | [Гоблин](/ru/units/Goblin/) | [Меч](/ru/Exclusive/Goblin Sword/) | - | Заряд | [Жетон меча](/ru/Items/con_912/) | - |
+  | 2  | [Наездник на волке](/ru/units/Wolf Rider/) | [Копье рыцаря](/ru/Exclusive/Wolf Rider Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
+  | 3  | [Орк](/ru/units/Orc/) | [Длинный лук](/ru/Exclusive/Orc Long Bow/) | - | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 4  | [Огр](/ru/units/Ogre/) | [Славный щит](/ru/Exclusive/Ogre Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
+  | 5  | [Рух](/ru/units/Roc/) | [Таинственное пение](/ru/Exclusive/Roc Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
+  | 6  | [Циклоп](/ru/units/Cyclops/) | [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) | + | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 7  | [Чудище](/ru/units/Behemoth/) | [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Поддержка | [Жетон Кровожадного духа](/ru/Items/con_982/) | [Особый облик: Кровожадный дух](/ru/Items/con_650/) |
+  | 8  | [Берсерк](/ru/units/Berserker/) | [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) | - | Поддержка | [Безумный убийца](/ru/Items/con_983/) | [Особый облик: Безумный убийца](/ru/Items/con_651/) |
   | 9  | [Великан Тор](/ru/units/Troll/) | - | - | - | none | none |

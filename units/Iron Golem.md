@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Железный голем](/ru/Items/unt_237/)
+
  **Unit description:** Резонанс металла: создает щит, укрывающий союзные отряды
 
  **Short description:** Высокое сопротивление магии.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Iron Golem Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Снижение УРН отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Золотой голем

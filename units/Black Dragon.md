@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Черный дракон](/ru/Items/unt_250/)
+
  **Unit description:** Дыхание дракона: атакует врагов в большом радиусе и поджигает их
 
  **Short description:** Сбалансированный с магической атакой и защитой.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Чешуя черного дракона](/ru/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Имя:** [Чешуя черного дракона](/ru/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон чешуи черного дракона](/ru/Items/con_993/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Чешуя черного дракона](/ru/Items/con_661/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Король черных драконов

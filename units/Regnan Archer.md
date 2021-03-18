@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Регнанский лучник](/ru/Items/unt_274/)
+
  **Short description:** Наносит критический удар и пробивает.
 
  **Position :** Критические удары и пробивание. Боевой жнец.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Чудо](/ru/Exclusive/Regnan Archer Miracle/) 
+ **Имя:** [Чудо](/ru/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -175,9 +177,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

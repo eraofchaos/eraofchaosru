@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Панцирный дракон](/ru/Items/unt_278/)
+
  **Short description:** Танк. Восстанавливает ОЗ.
 
  **Position :** Могущественный защитник. После смерти восстанавливает ОЗ.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Послушание](/ru/Exclusive/Dragon Turtle Obedience/) 
+ **Имя:** [Послушание](/ru/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Послушания](/ru/Items/con_1005/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Послушание](/ru/Items/con_673/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -165,9 +167,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Древний панцирный дракон

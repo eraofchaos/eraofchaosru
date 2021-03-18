@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Грифон](/ru/Items/unt_192/)
+
  **Unit description:** Пикирование: во время атаки наносит урон 3 противника.
 
  **Short description:** Летающее существо Неограниченные контратаки.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) 
+ **Имя:** [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Копья рыцаря](/ru/Items/con_916/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Священный грифон

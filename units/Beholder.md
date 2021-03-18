@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Бехолдер](/ru/Items/unt_246/)
+
  **Unit description:** Управление разумом: обездвиживает врага и заставляет его постепенно терять здоровье
 
  **Short description:** Сильный взрыв в начале. Управление разумом.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Опасный взгляд](/ru/Exclusive/Beholder Dark Gaze/) 
+ **Имя:** [Опасный взгляд](/ru/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Опасный взгляд](/ru/Items/con_990/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Опасный взгляд](/ru/Items/con_658/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -163,9 +165,11 @@ toc: true
 * Урон отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Злобоглаз

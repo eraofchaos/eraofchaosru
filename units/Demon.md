@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Демон](/ru/Items/unt_229/)
+
  **Unit description:** Ошпаривающий удар: наносит огромный урон вражеским войскам.
 
  **Short description:** Щит, усиливающий уклонение. Восстанавливает здоровье.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Demon Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Защита
 * Уклонение отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Стражник Инферно

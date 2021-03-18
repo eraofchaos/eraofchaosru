@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Левиафан](/ru/Items/unt_280/)
+
  **Short description:** Глубоководный Кракен. Не может возродиться.
 
  **Position :** Всегда наносит огромный урон, сдерживает врага и пожирает тела для восстановления ОЗ.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Темные волны](/ru/Exclusive/Revyaratan Gloom Tides/) 
+ **Имя:** [Темные волны](/ru/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -178,9 +180,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Демон бездны

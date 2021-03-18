@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Дьявол](/ru/Items/unt_232/)
+
  **Unit description:** Жестокий жнец: наносит большой урон вашим врагам, вызывая оглушение.
 
  **Short description:** Огромный УРН от атаки и аура УРН.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Коса дьявола](/ru/Exclusive/Devil Devil Scythe/) 
+ **Имя:** [Коса дьявола](/ru/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон косы дьявола](/ru/Items/con_984/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Коса дьявола](/ru/Items/con_652/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Архидьявол

@@ -2,20 +2,20 @@
 title: "Эмблема святости - Зеленый пророк"
 permalink: /Emblem/Green Prophet/
 excerpt: "Эра хаоса Зеленый пророк. Зеленый пророк. Эра хаоса Эмблема святости Зеленый пророк. Эра хаоса Добро Зеленый пророк"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Green Prophet.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Зеленый пророк
+ **Имя:** Зеленый пророк
 
  **Type:** [Добро](/ru/Emblem/Type Goodness/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Зеленый пророк](/ru/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +1%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 35% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +2%, эмблема святости ЗЩТ +55</span> | 
   | [Зеленый пророк](/ru/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; скорость АТК +0,5%, эмблема святости ЗЩТ +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; С шансом 25% отряды получают невосприимчивость к окаменению, оглушению и заморозке</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; скорость АТК +1,5%, эмблема святости ЗЩТ +30</span> | 

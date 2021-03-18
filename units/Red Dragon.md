@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Красный дракон](/ru/Items/unt_251/)
+
  **Short description:** Дракон-владыка с сильным ревом.
 
  **Position :** Рев дракона дает неуязвимость к эффектам контроля. Истинная кровь дракона взаимодействует с кровью его сородичей
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Уничтожитель](/ru/Exclusive/Red Dragon Annihilation/) 
+ **Имя:** [Уничтожитель](/ru/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -176,9 +178,11 @@ toc: true
 * Урон отряда
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

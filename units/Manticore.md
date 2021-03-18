@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Мантикора](/ru/Items/unt_249/)
+
  **Short description:** Большой УВС и выносливость.
 
  **Position :** Штурмовая поддержка. Увеличивает УВС союзных отрядов и ослабляет оборону врага.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Хвост скорпиона](/ru/Exclusive/Manticore Scorpion Tail/) 
+ **Имя:** [Хвост скорпиона](/ru/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон хвоста скорпиона](/ru/Items/con_992/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Хвост скорпиона](/ru/Items/con_660/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -162,9 +164,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Скорпикора

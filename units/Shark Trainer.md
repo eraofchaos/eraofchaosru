@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Повелитель акул](/ru/Items/unt_281/)
+
  **Short description:** Призыв гигантских акул, добивание
 
  **Position :** Призыв гигантских акул, набор сил и добивание
@@ -75,13 +77,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Рассекающий волны](/ru/Exclusive/Shark Trainer Break Waves/) 
+ **Имя:** [Рассекающий волны](/ru/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -210,9 +212,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Разбойники на акулах

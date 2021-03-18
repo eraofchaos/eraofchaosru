@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Ифрит](/ru/Items/unt_231/)
+
  **Unit description:** Огненный шар: наносит огромный урон врагам, поджигая их.
 
  **Short description:** Щит отражает урон. Вызывает горение.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) 
+ **Имя:** [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -175,9 +177,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Султан ифритов

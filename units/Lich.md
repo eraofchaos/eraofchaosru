@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Лич](/ru/Items/unt_212/)
+
  **Unit description:** Жертвоприношение: призывает банду скелетов.
 
  **Short description:** Призывает скелетов. Усиленная магия кости.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Дань смерти](/ru/Exclusive/Lich Death Tribute/) 
+ **Имя:** [Дань смерти](/ru/Exclusive/Lich Death Tribute/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон дани смерти](/ru/Items/con_978/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Дань смерти](/ru/Items/con_646/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Могучий лич

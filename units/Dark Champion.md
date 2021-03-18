@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Чемпион Тьмы](/ru/Items/unt_216/)
+
  **Short description:** Казнь. Непобедимость в собственном царстве.
 
  **Position :** Снижает боевой дух врага. Наносит высокий урон и моментально уничтожает отряды. Делает все союзные отряды в области действия неуязвимыми.
@@ -173,9 +175,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -2,20 +2,20 @@
 title: "Эмблема святости - Похоть"
 permalink: /Emblem/Lust/
 excerpt: "Эра хаоса Похоть. Похоть. Эра хаоса Эмблема святости Похоть. Эра хаоса Хаос Похоть"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Lust.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Похоть
+ **Имя:** Похоть
 
  **Type:** [Хаос](/ru/Emblem/Type Chaos/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +9, эмблема святости ЗЩТ +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает исцеление отрядов на 10%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +22,5, эмблема святости ЗЩТ +22,5</span> | 
   | [Похоть](/ru/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Увеличивает исцеление отрядов на 15%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 

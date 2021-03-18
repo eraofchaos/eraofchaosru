@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Всадники](/ru/Items/unt_195/)
+
  **Unit description:** Бой на копьях: наносит большой урон, при первой атаке оглушает.
 
  **Short description:** УРН от взрыва в начале. Мощный штурм.
@@ -80,13 +82,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) 
+ **Имя:** [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Копья рыцаря](/ru/Items/con_916/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,9 +171,11 @@ toc: true
 
 * ?!? 
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Рыцари-чемпионы

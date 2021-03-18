@@ -2,7 +2,7 @@
 title: "Эмблема святости - Нейтральный"
 permalink: /Emblem/Type Neutral/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Нейтральный. Эра хаоса Нейтральный"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "typeНейтральный.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Имя            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 
   | 2 | [Жетон Аксо](/ru/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 

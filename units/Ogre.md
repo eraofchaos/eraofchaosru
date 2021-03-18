@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Огр](/ru/Items/unt_220/)
+
  **Unit description:** Бассейн крови: усиливает высасывание жизни ближайших отрядов.
 
  **Short description:** Имеет щит и исцеляющую ауру.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/ru/Exclusive/Ogre Iris Shield/) 
+ **Имя:** [Славный щит](/ru/Exclusive/Ogre Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -175,9 +177,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Огр-маг

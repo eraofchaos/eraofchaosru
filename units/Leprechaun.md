@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Лепреконы](/ru/Items/unt_270/)
+
  **Short description:** Блок уклонения, усиление контрудара
 
  **Position :** Экспертный блок, коллективная защита и Щит Гармонии
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Терновник](/ru/Exclusive/Leprechaun Thorns/) 
+ **Имя:** [Терновник](/ru/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -187,9 +189,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Хранитель древа

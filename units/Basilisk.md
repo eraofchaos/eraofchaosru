@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Василиск](/ru/Items/unt_256/)
+
  **Short description:** Контроль танков. Окаменение.
 
  **Position :** Танк, мастерски владеющий эффектами контроля. В момент гибели превращает всех окружающих врагов в камень.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Энергия огня](/ru/Exclusive/Basilisk Basilisk's Tail/) 
+ **Имя:** [Энергия огня](/ru/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Энергии огня](/ru/Items/con_994/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Энергия Огня](/ru/Items/con_662/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Снижение УРН отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

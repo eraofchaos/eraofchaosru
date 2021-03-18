@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Элементаль Огня](/ru/Items/unt_265/)
+
  **Short description:** Обжигает. Взрыв по всему полю.
 
  **Position :** Вызывает ожоги, взрывает все поле боя, при уничтожении врагов становится сильнее
@@ -73,13 +75,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Энергия Огня](/ru/Exclusive/Fire Elemental Fire Energy/) 
+ **Имя:** [Энергия Огня](/ru/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон энергии Огня](/ru/Items/con_998/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Энергия Огня](/ru/Items/con_666/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Скорость атаки
 * Уклонение отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Элементаль Энергии

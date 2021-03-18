@@ -15,14 +15,14 @@ classes: wide
 
  **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Фея](/ru/units/Sprite/) | [Копье рыцаря](/ru/Exclusive/Sprite Knight Pike/) | - | Заряд | - | - |
-  | 2  | [Элементаль Шторма](/ru/units/Storm Elemental/) | [Длинный лук](/ru/Exclusive/Storm Elemental Long Bow/) | - | Заряд | - | - |
-  | 3  | [Элементаль Льда](/ru/units/Ice Elemental/) | [Таинственное пение](/ru/Exclusive/Ice Elemental Arcane Chant/) | - | Заряд | - | - |
-  | 4  | [Элементаль Огня](/ru/units/Fire Elemental/) | [Энергия Огня](/ru/Exclusive/Fire Elemental Fire Energy/) | - | Стрелковый | - | - |
-  | 5  | [Элементаль Камня](/ru/units/Stone Elemental/) | [Ядро энергии](/ru/Exclusive/Stone Elemental Energy Core/) | - | Стрелковый | - | - |
-  | 6  | [Элементаль Мысли](/ru/units/Psychic Elemental/) | [Колесо вечности](/ru/Exclusive/Psychic Elemental Spirit Core/) | - | Поддержка | - | - |
-  | 7  | [Жар-птица](/ru/units/Firebird/) | [Вечный огонь](/ru/Exclusive/Firebird Eternal Flame/) | + | Стрелковый | - | - |
+  | 1  | [Фея](/ru/units/Sprite/) | [Копье рыцаря](/ru/Exclusive/Sprite Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
+  | 2  | [Элементаль Шторма](/ru/units/Storm Elemental/) | [Длинный лук](/ru/Exclusive/Storm Elemental Long Bow/) | - | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 3  | [Элементаль Льда](/ru/units/Ice Elemental/) | [Таинственное пение](/ru/Exclusive/Ice Elemental Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
+  | 4  | [Элементаль Огня](/ru/units/Fire Elemental/) | [Энергия Огня](/ru/Exclusive/Fire Elemental Fire Energy/) | - | Стрелковый | [Жетон энергии Огня](/ru/Items/con_998/) | [Особый облик: Энергия Огня](/ru/Items/con_666/) |
+  | 5  | [Элементаль Камня](/ru/units/Stone Elemental/) | [Ядро энергии](/ru/Exclusive/Stone Elemental Energy Core/) | - | Стрелковый | [Жетон ядра энергии](/ru/Items/con_999/) | [Особый облик: Ядро энергии](/ru/Items/con_667/) |
+  | 6  | [Элементаль Мысли](/ru/units/Psychic Elemental/) | [Колесо вечности](/ru/Exclusive/Psychic Elemental Spirit Core/) | - | Поддержка | [Жетон Колеса вечности](/ru/Items/con_1000/) | [Особый облик: Колесо вечности](/ru/Items/con_668/) |
+  | 7  | [Жар-птица](/ru/units/Firebird/) | [Вечный огонь](/ru/Exclusive/Firebird Eternal Flame/) | + | Стрелковый | [Жетон вечного пламени](/ru/Items/con_1001/) | [Особый облик: Вечное пламя](/ru/Items/con_669/) |
   | 8  | [Ледяной демон](/ru/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [Лепрекон](/ru/units/Leprechaun/) | [Терновник](/ru/Exclusive/Leprechaun Thorns/) | - | Поддержка | - | - |

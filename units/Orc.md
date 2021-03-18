@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Орк](/ru/Items/unt_219/)
+
  **Unit description:** Казнь: наносит дополнительный урон врагам, у которых запас здоровья меньше 30%.
 
  **Short description:** Причиняет кровотечение. Эффективен против отрядов с низким здоровьем.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Orc Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -176,9 +178,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Главарь орков

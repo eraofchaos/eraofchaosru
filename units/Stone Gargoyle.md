@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Каменная горгулья](/ru/Items/unt_236/)
+
  **Unit description:** Каменное обличье: усиливает атаку и скорость атаки.
 
  **Short description:** Высокая АТК, сопротивление магии, проникновение.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Stone Gargoyle Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -174,9 +176,11 @@ toc: true
 * Уклонение отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** 

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Гончая ада](/ru/Items/unt_228/)
+
  **Unit description:** Буйство: каждый удар на некоторое время становится критическим.
 
  **Short description:** Сильный критический удар. Причиняет кровотечение
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) 
+ **Имя:** [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Копья рыцаря](/ru/Items/con_916/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Критический удар отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

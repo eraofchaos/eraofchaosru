@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Циклоп](/ru/Items/unt_222/)
+
  **Unit description:** Огненный камень: наносит чудовищный урон всем вражеским врагам на пути.
 
  **Short description:** Стрелок, способный сдерживать толпу.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -179,9 +181,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Осадное чудище

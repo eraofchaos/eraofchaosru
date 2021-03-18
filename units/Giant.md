@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Гигант](/ru/Items/unt_241/)
+
  **Unit description:** Бог войны: игнорирует ограничение дальности и наносит урон в зависимости от здоровья
 
  **Short description:** Бог войны. Может убить всех!
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Громада](/ru/Exclusive/Giant Thousand Ton/) 
+ **Имя:** [Громада](/ru/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Громады](/ru/Items/con_988/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Громада](/ru/Items/con_656/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -167,9 +169,11 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Вестник грома

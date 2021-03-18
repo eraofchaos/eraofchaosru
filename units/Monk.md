@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Монах](/ru/Items/unt_194/)
+
  **Unit description:** Молитва: излечивает отряд, обладающий минимальным запасом здоровья.
 
  **Short description:** Сильное исцеление. Сильные положительные эффекты.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) 
+ **Имя:** [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -163,9 +165,11 @@ toc: true
 
 * ?!? 
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Жрец

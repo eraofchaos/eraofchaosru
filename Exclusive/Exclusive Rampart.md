@@ -15,14 +15,14 @@ classes: wide
 
  **Эксклюзив Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Кентавр](/ru/units/Centaur/) | [Славный щит](/ru/Exclusive/Centaur Iris Shield/) | - | Заряд | - | - |
-  | 2  | [Гном](/ru/units/Dwarf/) | [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) | - | Заряд | - | - |
-  | 3  | [Лесной эльф](/ru/units/Wood Elf/) | [Длинный лук](/ru/Exclusive/Wood Elf Long Bow/) | - | Заряд | - | - |
-  | 4  | [Пегас](/ru/units/Pegasus/) | [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) | + | Заряд | - | - |
-  | 5  | [Дендроид-страж](/ru/units/Dendroid Guard/) | [Славный щит](/ru/Exclusive/Dendroid Guard Iris Shield/) | - | Заряд | - | - |
-  | 6  | [Единорог](/ru/units/Unicorn/) | [Копье рыцаря](/ru/Exclusive/Unicorn Knight Pike/) | - | Заряд | - | - |
-  | 7  | [Зеленый дракон](/ru/units/Green Dragon/) | [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Поддержка | - | - |
-  | 8  | [Друид](/ru/units/Druid/) | [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) | - | Стрелковый | - | - |
+  | 1  | [Кентавр](/ru/units/Centaur/) | [Славный щит](/ru/Exclusive/Centaur Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
+  | 2  | [Гном](/ru/units/Dwarf/) | [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
+  | 3  | [Лесной эльф](/ru/units/Wood Elf/) | [Длинный лук](/ru/Exclusive/Wood Elf Long Bow/) | - | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 4  | [Пегас](/ru/units/Pegasus/) | [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) | + | Заряд | [Жетон длинного лука](/ru/Items/con_914/) | - |
+  | 5  | [Дендроид-страж](/ru/units/Dendroid Guard/) | [Славный щит](/ru/Exclusive/Dendroid Guard Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
+  | 6  | [Единорог](/ru/units/Unicorn/) | [Копье рыцаря](/ru/Exclusive/Unicorn Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
+  | 7  | [Зеленый дракон](/ru/units/Green Dragon/) | [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Поддержка | [Жетон Сияющих крыльев](/ru/Items/con_976/) | [Особый облик: Сияющие крылья](/ru/Items/con_644/) |
+  | 8  | [Друид](/ru/units/Druid/) | [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) | - | Стрелковый | [Жетон Расцвета природы](/ru/Items/con_977/) | [Особый облик: Расцвет природы](/ru/Items/con_645/) |
   | 9  | [Богомол](/ru/units/Mantis/) | - | - | - | none | none |

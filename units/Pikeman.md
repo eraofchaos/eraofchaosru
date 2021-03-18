@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Копейщик](/ru/Items/unt_190/)
+
  **Unit description:** Лес копий: наносит урон вражеским отрядам, оглушая их.
 
  **Short description:** Сбалансированная атака и защита, сдерживание толпы.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Pikeman Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Критический удар отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Алебардщик

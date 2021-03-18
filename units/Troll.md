@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Великан Тор](/ru/Items/unt_225/)
+
  **Short description:** Одиночная атака, выход ярости
 
  **Position :** Одиночная атака, выход ярости
@@ -187,9 +189,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

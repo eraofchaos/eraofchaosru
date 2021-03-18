@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Троглодит](/ru/Items/unt_244/)
+
  **Unit description:** Лес копий: наносит урон в области и вызывает оглушение
 
  **Short description:** Сбалансированный, причиняет кровотечение.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Troglodyte Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -168,9 +170,11 @@ toc: true
 * Критический удар отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Темный троглодит

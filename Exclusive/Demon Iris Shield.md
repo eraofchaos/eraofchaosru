@@ -10,14 +10,14 @@ classes: wide
 ---
  [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Славный щит** 
+### Подробности
+ **Имя: Славный щит** 
 
  **Эксклюзив for Unit:** [Демон](/ru/units/Demon/) 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 
- **Skin:** -
+ **Облик:** -
 
  **Type:** Заряд
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | ? | В начале боя демон получает +1000 к уклонению на 30 сек. Отряд получает +1% к постоянному сопротивлению урону за каждое уклонение, вплоть до 30%. |
-  | **1x** <i class="fas fa-star"/> | ? | В начале боя демон получает +500 к стойкости на 30 сек. |
-  | **2x** <i class="fas fa-star"/> | ? | Демон получает + 20% к ОЗ и +10% к сопротивлению урону. |
-  | **3x** <i class="fas fa-star"/> | ? | Демон получает +10% к ЗЩТ. Когда ОЗ впервые падает до 50%, получает +100% к ЗЩТ на 10 сек. |
-  | **4x** <i class="fas fa-star"/> | ? | Демон получает +20% к ЗЩТ. |
-  | **5x** <i class="fas fa-star"/> | ? | Цель атаки демона теряет 1000 уклонения на 5 сек. |
-  | **6x** <i class="fas fa-star"/> | ? | При появлении демона на поле боя все вражеские отряды теряют 500 уклонения. |
+  |  Пробуждение  | **100x** [Жетон славного щита](/ru/Items/con_913/) | В начале боя демон получает +1000 к уклонению на 30 сек. Отряд получает +1% к постоянному сопротивлению урону за каждое уклонение, вплоть до 30%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Жетон славного щита](/ru/Items/con_913/) | В начале боя демон получает +500 к стойкости на 30 сек. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Жетон славного щита](/ru/Items/con_913/) | Демон получает + 20% к ОЗ и +10% к сопротивлению урону. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Жетон славного щита](/ru/Items/con_913/) | Демон получает +10% к ЗЩТ. Когда ОЗ впервые падает до 50%, получает +100% к ЗЩТ на 10 сек. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Жетон славного щита](/ru/Items/con_913/) | Демон получает +20% к ЗЩТ. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Жетон славного щита](/ru/Items/con_913/) | Цель атаки демона теряет 1000 уклонения на 5 сек. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Жетон славного щита](/ru/Items/con_913/) | При появлении демона на поле боя все вражеские отряды теряют 500 уклонения. |
 
 
 ## Новый ур.

@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Tool_3509](/ru/Items/unt_234/)
+
  **Short description:** От провала к победе, от смерти к жизни
 
  **Position :** От провала к победе, от смерти к жизни
@@ -231,9 +233,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

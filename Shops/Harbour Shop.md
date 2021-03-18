@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Эра хаоса Harbour Shop. Harbour Shop"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 **Info** You can find this Shop under **Cove Attack** -> **Store** 
 {: .notice--danger}
 
-  |  Nr  |      Name      |         Price        |   Maximum available      |
+  |  Nr  |      Имя      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Жизненные силы(Можно использовать, чтобы бросить вызов боссу в событии «Штурм Убежища».) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** Крылья триумфа: Катерина(Используйте, чтобы получить облик «Крылья триумфа» для Катерины) |  **2500x** Ракушки  | **1** |

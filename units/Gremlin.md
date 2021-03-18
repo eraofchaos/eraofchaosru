@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Гремлин](/ru/Items/unt_235/)
+
  **Unit description:** Магический железный шар железный шар: значительно усиливает атаку и скорость атаки.
 
  **Short description:** Усиленная магия и урон.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Gremlin Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

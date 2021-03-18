@@ -2,20 +2,20 @@
 title: "Эмблема святости - Жетон Аксо"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Эра хаоса Жетон Аксо. Жетон Аксо. Эра хаоса Эмблема святости Жетон Аксо. Эра хаоса Нейтральный Жетон Аксо"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Aksoe Token.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Жетон Аксо
+ **Имя:** Жетон Аксо
 
  **Type:** [Нейтральный](/ru/Emblem/Type Neutral/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Жетон Аксо](/ru/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Урон отряда увеличивается на 1,5%. При атаке замедленных целей урон отряда увеличивается еще на 4,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +7%, эмблема святости ЗЩТ +16</span> | 
   | [Жетон Аксо](/ru/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке замедленных целей урон отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +2%, эмблема святости ЗЩТ +6</span> | 

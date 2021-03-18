@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Гнолл](/ru/Items/unt_253/)
+
  **Short description:** Рукопашный УВС. Оглушает.
 
  **Position :** Оглушает врага и наносит значительный урон. При атаке отряда с меньшим количеством ОЗ получает дополнительную АТК.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч](/ru/Exclusive/Gnoll Sword/) 
+ **Имя:** [Меч](/ru/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Урон отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Гнолл-воин

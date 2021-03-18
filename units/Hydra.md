@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Гидра](/ru/Items/unt_259/)
+
  **Short description:** Высокая атака. Устойчивый. Сильный контроль.
 
  **Position :** Отряд с высочайшим УВС. Уничтожает врагов непрерывными атаками.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Многоглавый змей](/ru/Exclusive/Hydra Hydra's Head/) 
+ **Имя:** [Многоглавый змей](/ru/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Многоглавого змея](/ru/Items/con_997/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Ядро энергии](/ru/Items/con_665/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -167,9 +169,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Гидра хаоса

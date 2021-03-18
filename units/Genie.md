@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Джинн](/ru/Items/unt_239/)
+
  **Unit description:** Дареная энергия: превращает атаку в лечение
 
  **Short description:** Сильные положительные эффекты и исцеление.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Созвездие Лиры](/ru/Exclusive/Genie Lyra/) 
+ **Имя:** [Созвездие Лиры](/ru/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Созвездия Лиры](/ru/Items/con_986/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Созвездие Лиры](/ru/Items/con_654/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -174,9 +176,11 @@ toc: true
 * Исцеление
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Владыка джиннов

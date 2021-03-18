@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Виверна](/ru/Items/unt_258/)
+
  **Short description:** Сильный рукопашник. Ядовитый.
 
  **Position :** Спец по УВС. Распространяет чуму различными способами
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Хвост гадюки](/ru/Exclusive/Wyvern Wyvern's Tail/) 
+ **Имя:** [Хвост гадюки](/ru/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Хвоста гадюки](/ru/Items/con_996/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Хвост гадюки](/ru/Items/con_664/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -168,9 +170,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Виверна-монарх

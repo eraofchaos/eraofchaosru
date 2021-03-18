@@ -2,20 +2,20 @@
 title: "Эмблема святости - Дыхание дракона"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Эра хаоса Дыхание дракона. Дыхание дракона. Эра хаоса Эмблема святости Дыхание дракона. Эра хаоса Злой Дыхание дракона"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Dragon King's Breath.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Дыхание дракона
+ **Имя:** Дыхание дракона
 
  **Type:** [Злой](/ru/Emblem/Type Evil/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Дыхание дракона](/ru/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд находится под воздействием эффектов заморозки, оглушения или окаменения, восстанавливается 2% его здоровья. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 
   | [Дыхание дракона](/ru/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +4,5, эмблема святости ЗЩТ +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Когда отряд находится под воздействием эффектов заморозки, оглушения или окаменения, восстанавливается 4% его здоровья. Восстановление - 10 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +11,5, эмблема святости ЗЩТ +11,5</span> | 

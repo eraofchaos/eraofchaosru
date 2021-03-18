@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Элементаль Камня](/ru/Items/unt_266/)
+
  **Short description:** Смертельный плевок. Оглушает.
 
  **Position :** Оглушает всех врагов в зоне действия, разделение в случае гибели, высокая стойкость.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Ядро энергии](/ru/Exclusive/Stone Elemental Energy Core/) 
+ **Имя:** [Ядро энергии](/ru/Exclusive/Stone Elemental Energy Core/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон ядра энергии](/ru/Items/con_999/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Ядро энергии](/ru/Items/con_667/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Пегас](/ru/Items/unt_202/)
+
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 
  **Short description:** Укрывает щитом и причиняет кровотечение.
@@ -77,13 +79,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -174,9 +176,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Серебряный пегас

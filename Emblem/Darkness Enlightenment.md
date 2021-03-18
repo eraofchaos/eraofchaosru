@@ -2,20 +2,20 @@
 title: "Эмблема святости - Просвещение тьмой"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Эра хаоса Просвещение тьмой. Просвещение тьмой. Эра хаоса Эмблема святости Просвещение тьмой. Эра хаоса Злой Просвещение тьмой"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Darkness Enlightenment.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Просвещение тьмой
+ **Имя:** Просвещение тьмой
 
  **Type:** [Злой](/ru/Emblem/Type Evil/)
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Просвещение тьмой](/ru/Emblem/Darkness Enlightenment/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, АТК +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Каждая атака отряда с шансом 30% снижает у цели сопротивление урону 1%. Действие эффекта продолжается 3 сек. и суммируется до 5 раз (более качественная эмблема святости перекрывает все свойства более низких версий эмблемы святости)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, АТК +2%</span> | 
   | [Просвещение тьмой](/ru/Emblem/Darkness Enlightenment/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, АТК +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Каждая атака отряда с шансом 35% снижает у цели сопротивление урону 1%. Действие эффекта продолжается 3 сек. и суммируется до 10 раз (более качественная эмблема святости перекрывает все свойства более низких версий эмблемы святости)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, АТК +7%</span> | 

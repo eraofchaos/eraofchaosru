@@ -2,7 +2,7 @@
 title: "Эмблема святости - Порядок"
 permalink: /Emblem/Type Order/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Порядок. Эра хаоса Порядок"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "typeПорядок.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Имя            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
   | 2 | [Благословение](/ru/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 

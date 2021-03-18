@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Жар-птица](/ru/Items/unt_268/)
+
  **Unit description:** Огненное дыхание: наносит урон всем вражеским отрядам на своем пути.
 
  **Short description:** Стрелковый УРН огнем. Возрождается при смерти.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Вечный огонь](/ru/Exclusive/Firebird Eternal Flame/) 
+ **Имя:** [Вечный огонь](/ru/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон вечного пламени](/ru/Items/con_1001/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Вечное пламя](/ru/Items/con_669/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Феникс

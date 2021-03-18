@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Берсерк](/ru/Items/unt_224/)
+
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
  **Short description:** Эффективен против отдельного отряда. Усиливается при смерти.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) 
+ **Имя:** [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Безумный убийца](/ru/Items/con_983/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Безумный убийца](/ru/Items/con_651/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -179,9 +181,11 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Ревун смерти

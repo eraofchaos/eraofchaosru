@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Росянка](/ru/Items/unt_260/)
+
  **Short description:** УВС и контроль.
 
  **Position :** Высокий УВС и эффекты контроля. Вызывает монстров для уничтожения врага.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Вечерняя звезда](/ru/Exclusive/Waspwort Waspwort Leaf/) 
+ **Имя:** [Вечерняя звезда](/ru/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
  **Item to Повысить ранг :** -
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,9 +174,11 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

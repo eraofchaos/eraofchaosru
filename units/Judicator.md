@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Вершитель](/ru/Items/unt_198/)
+
  **Short description:** Круг помощи, расширенный диапазон.
 
  **Position :** Аура группы восстанавливает ОЗ. Аура защищает от урона. Святая земля усиливает ваши союзные отряды.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [](/ru/Exclusive/Judicator /) 
+ **Имя:** [](/ru/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Знамя Священного света](/ru/Items/con_975/)
 
- **Skin:** -
+ **Облик:** [Tool_210909](/ru/Items/con_643/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -171,9 +173,11 @@ toc: true
 * Исцеление
 * Урон отряда
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

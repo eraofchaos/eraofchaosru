@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Горгона](/ru/Items/unt_257/)
+
  **Short description:** Высокая атака. Устойчивый. Сильный контроль.
 
  **Position :** Могучий танк. Есть шанс моментально уничтожить врагов.
@@ -74,13 +76,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Чешуя горгоны](/ru/Exclusive/Gorgon Gorgon's Horn/) 
+ **Имя:** [Чешуя горгоны](/ru/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Чешуи горгоны](/ru/Items/con_995/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Чешуя горгоны](/ru/Items/con_663/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -182,9 +184,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Могучая горгона

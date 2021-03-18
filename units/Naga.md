@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Нага](/ru/Items/unt_240/)
+
  **Unit description:** Танец лезвия: наносит урон в области, снижает защиту от него
 
  **Short description:** Пугает. Огромный урон.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч нага](/ru/Exclusive/Naga Naga Sword/) 
+ **Имя:** [Меч нага](/ru/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон меча нага](/ru/Items/con_987/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Меч нага](/ru/Items/con_655/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -173,9 +175,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Королева нага

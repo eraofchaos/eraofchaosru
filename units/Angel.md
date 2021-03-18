@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Ангел](/ru/Items/unt_196/)
+
  **Unit description:** Порицание: наносит огромный урон 3 отрядам и оглушает их.
 
  **Short description:** Целебная аура восстанавливает союзников.
@@ -78,13 +80,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Меч Дюрандаль](/ru/Exclusive/Angel Durandel/) 
+ **Имя:** [Меч Дюрандаль](/ru/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Меча Дюрандаль](/ru/Items/con_973/)
 
- **Skin:** -
+ **Облик:** [Особый облик: меч Дюрандаль](/ru/Items/con_641/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,9 +171,11 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Архангел

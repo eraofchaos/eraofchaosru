@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Спартанец](/ru/Items/unt_272/)
+
  **Short description:** Оглушение щитом, месть
 
  **Position :** Удар щитом вызывает оглушение, смерть одного - вдохновляет соратников.
@@ -161,9 +163,11 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

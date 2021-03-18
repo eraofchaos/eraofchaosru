@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
+ **Unit Soul:** [Элементаль Шторма](/ru/Items/unt_263/)
+
  **Short description:** Помечает одну цель для высокого урона.
 
  **Position :** Помечает цель, наносит дополнительный урон, производит серию атак по одиночной цели.
@@ -73,13 +75,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/ru/Exclusive/Storm Elemental Long Bow/) 
+ **Имя:** [Длинный лук](/ru/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,9 +171,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Ураган молний

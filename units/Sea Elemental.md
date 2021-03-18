@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
+ **Unit Soul:** [Элементаль Моря](/ru/Items/unt_275/)
+
  **Short description:** Управление замедлением.
 
  **Position :** Хорошо контролирует ход боя. Постоянно ослабляет врагов.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/ru/Exclusive/Sea Elemental Arcane Chant/) 
+ **Имя:** [Таинственное пение](/ru/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
 
- **Skin:** -
+ **Облик:** -
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** Элементаль Приливов

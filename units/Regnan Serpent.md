@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Регнанский змей](/ru/Items/unt_276/)
+
  **Unit description:** Топот глубин: наносит урон в области, отбрасывает врага и предотвращает критические удары
 
  **Short description:** Сильный танк. Глубоководная стража.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Волна гнева](/ru/Exclusive/Regnan Serpent Day Tides/) 
+ **Имя:** [Волна гнева](/ru/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Волны гнева](/ru/Items/con_1003/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Волна гнева](/ru/Items/con_671/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -183,9 +185,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** 

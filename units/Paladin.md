@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Паладин](/ru/Items/unt_197/)
+
  **Unit description:** Подкрепления отважного: призовите на бой охрану святилища
 
  **Short description:** Призывает отряды на защиту.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [](/ru/Exclusive/Paladin /) 
+ **Имя:** [](/ru/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Бесстрашия](/ru/Items/con_974/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Бесстрашие](/ru/Items/con_642/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -166,9 +168,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Высший паладин

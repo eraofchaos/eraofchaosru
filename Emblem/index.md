@@ -2,7 +2,7 @@
 title: "Эмблема святости"
 permalink: /Emblem/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эмблема святости значительно усиливает отряд. Возможны разные виды и комбинации эмблем святости. Эмблема святости дает великолепные дополнительные параметры."
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "index.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-## Эмблема святости (by name):
+## Эмблема святости (by Имя):
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Имя            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Зловещий знак](/ru/Emblem/Ominous Sign/) | Злой | Подходит для любых отрядов | 
   | 2 | [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) | Нейтральный | Подходит оборонительным отрядам | 

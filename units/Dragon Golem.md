@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Драконий голем](/ru/Items/unt_243/)
+
  **Short description:** Совершенная защита.
 
  **Position :** В начале боя защищает войска, уменьшая получаемый урон. Самый лучший вариант защиты заднего ряда. Контроль дальнего боя, пугает все отряды на поле боя.
@@ -172,9 +174,11 @@ toc: true
 * Снижение УРН отряда
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null

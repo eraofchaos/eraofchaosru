@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
+  | Nr |    Имя    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Аделаида](/ru/heroes/Adelaide/) | Замок | Священник | R+ |  Кольцо холода  |
   | 2 | [Астрал](/ru/heroes/Astral/) | Башня | Боевой маг | SSR |  Увеличение магии  |

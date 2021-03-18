@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Чудище](/ru/Items/unt_223/)
+
  **Unit description:** Дикий рев: резко ослабляет атаку противника, вызывая оглушение.
 
  **Short description:** Высасывает жизнь из убитых врагов.
@@ -76,13 +78,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Имя:** [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Кровожадного духа](/ru/Items/con_982/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Кровожадный дух](/ru/Items/con_650/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -176,9 +178,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Древнее чудище

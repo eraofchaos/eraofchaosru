@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Кошмар](/ru/Items/unt_233/)
+
  **Short description:** Поддержка. Сильный начальный урон.
 
  **Position :** Поддержка защиты. Делает отряды Инферно сильнее.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [](/ru/Exclusive/Nightmare /) 
+ **Имя:** [](/ru/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Око Ужаса](/ru/Items/con_985/)
 
- **Skin:** -
+ **Облик:** [Tool_250809](/ru/Items/con_653/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -165,9 +167,11 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
+ **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** YES
 
  **Awaking Name:** Копыто дьявола

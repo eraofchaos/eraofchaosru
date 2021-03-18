@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
+ **Unit Soul:** [Магический корабль](/ru/Items/unt_242/)
+
  **Short description:** УВС задней линии, положительные эффекты.
 
  **Position :** Поддержка магов. Увеличивает АТК отряда заклинателей и замораживает атаки врага.
@@ -72,13 +74,13 @@ toc: true
 
 ## Эксклюзив
 
- **Name:** [Путеводная звезда](/ru/Exclusive/Magic Airship Polaris/) 
+ **Имя:** [Путеводная звезда](/ru/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** -
+ **Item to Повысить ранг :** [Жетон Путеводной звезды](/ru/Items/con_989/)
 
- **Skin:** -
+ **Облик:** [Особый облик: Путеводная звезда](/ru/Items/con_657/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -170,9 +172,11 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
+ **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** null
