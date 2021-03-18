@@ -2,18 +2,18 @@
 title: "Эксклюзив - Кость бессмертного дракона"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Эра хаоса Кость бессмертного дракона. Кость бессмертного дракона. Эра хаоса Эксклюзив Кость бессмертного дракона. Костяной дракон Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Bone Dragon Кость бессмертного дракона.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Кость бессмертного дракона** 
 
- **Эксклюзив for Unit:** [Костяной дракон](/units/Bone Dragon/) 
+ **Эксклюзив for Unit:** [Костяной дракон](/ru/units/Bone Dragon/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Власть дракона>: все вражеские отряды теряют 5% ЗЩТ и 30% сопротивления магии на 15 сек. Перезарядка - 12 сек. Суммируется до 5 раз. Одновременно все вражеские отряды получают немоту на 3 сек. Обязательно срабатывает однократно каждый раз, когда погибает вражеский отряд. |
   | **1x** <i class="fas fa-star"/> | ? | Когда костяной дракон находится на поле битвы, все союзные отряды Некрополя получают +200 к стойкости и +10% к ЗЩТ. |

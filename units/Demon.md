@@ -3,7 +3,7 @@ title: "Демон"
 permalink: /units/Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Демон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Ошпаривающий удар: наносит огромный урон вражеским войскам.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Рожок опаления](/equipment/Рожок опаления/) | **АТК** | **ЗЩТ** | 
-  | [Стальное ожерелье](/equipment/Стальное ожерелье/) | **ОЗ** | **ЗЩТ** | 
-  | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
-  | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **ОЗ** | **ЗЩТ** | 
+  | [Рожок опаления](/ru/equipment/Рожок опаления/) | **АТК** | **ЗЩТ** | 
+  | [Стальное ожерелье](/ru/equipment/Стальное ожерелье/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающие когти](/ru/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
+  | [Зубчатые браслеты](/ru/equipment/Зубчатые браслеты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Demon Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Алчность](/Emblem/Greed/) (Хаос)
-* [Похоть](/Emblem/Lust/) (Хаос)
-* [Зловещий знак](/Emblem/Ominous Sign/) (Злой)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
+* [Зловещий знак](/ru/Emblem/Ominous Sign/) (Злой)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -172,40 +173,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Стражник Инферно
 
- **Awaking Описание:** null
+ **Awaking Описание:** Стражи Инферно - воплощение абсолютной справедливости. Будь ты демон или душа безвинного погибшего, святой или вор, если эти существа с обагренными кровью руками и в железных масках отправили тебя во врата Инферно, тебя ждет лишь адское пламя.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте демонов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Инферно, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ стражников Инферно на уровнях 15-2 и 15-4 в Подземелье. </span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Используйте демонов, чтобы победить в </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> бою Дуэли заступников. </span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Обжигающий удар
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Обжигающий удар&gt;</span><span style="color: #645252;font-size:18px"> снижает крит. удар вражеских отрядов в выбранной области на 200 ед. Если цель находится в состоянии немоты, она дополнительно теряет 15% скорости атаки на 7 сек.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): Палящий удар
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Палящий удар&gt;</span><span style="color: #645252;font-size:18px"> снижает крит. удар вражеских отрядов в выбранной области на 200 ед. Если цель горит, она дополнительно теряет 15% скорости атаки на 7 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): Огонек
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ожоги&gt;</span><span style="color: #645252;font-size:18px"> дополнительно восстанавливают ОЗ стражников Инферно на 50% от собственной АТК.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): Магма
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ожоги&gt;</span><span style="color: #645252;font-size:18px">: эффект восстановления повышается на 50%.</span>
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): Слуга дьявола
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: демоны за каждое успешное уклонение получают +80 к стойкости. Эффект суммируется до 5 раз и действует до конца боя.</span>
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Рогатый прислужник
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слуга Инферно&gt;</span><span style="color: #645252;font-size:18px">: демоны получают +300 к стойкости.</span>
 
 ## Technical info
  **runart:** 1

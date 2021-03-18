@@ -3,7 +3,7 @@ title: "Берсерк"
 permalink: /units/Berserker/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Берсерк"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Среди всех боевых орков берсеркам нет равных. Они высокие, сильные, и их очень легко рассердить. В бою они безжалостно бросаются на любого врага и разрубают его на части своими топорами.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Секира из обсидиана](/equipment/Секира из обсидиана/) | **АТК** | **ЗЩТ** | 
-  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
-  | [Шлем из звериных костей](/equipment/Шлем из звериных костей/) | **АТК** | **ЗЩТ** | 
-  | [Кожаная лента](/equipment/Кожаная лента/) | **ОЗ** | **ЗЩТ** | 
+  | [Секира из обсидиана](/ru/equipment/Секира из обсидиана/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье из кости](/ru/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
+  | [Шлем из звериных костей](/ru/equipment/Шлем из звериных костей/) | **АТК** | **ЗЩТ** | 
+  | [Кожаная лента](/ru/equipment/Кожаная лента/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Безумный убийца](/Exclusive/Berserker Berserker's Axe/) 
+ **Name:** [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

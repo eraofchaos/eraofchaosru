@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Взрывчатка: при гибели отряда наносит урон ближайшим вражеским отрядам.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Окровавленное мачете](/equipment/Окровавленное мачете/) | **АТК** | **ЗЩТ** | 
-  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
-  | [Закаленные стальные браслеты](/equipment/Закаленные стальные браслеты/) | **АТК** | **ЗЩТ** | 
-  | [Штаны распада](/equipment/Штаны распада/) | **ОЗ** | **ЗЩТ** | 
+  | [Окровавленное мачете](/ru/equipment/Окровавленное мачете/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье из кости](/ru/equipment/Ожерелье из кости/) | **ОЗ** | **ЗЩТ** | 
+  | [Закаленные стальные браслеты](/ru/equipment/Закаленные стальные браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Штаны распада](/ru/equipment/Штаны распада/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Walking Dead Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Защита**  (Дозор оборонительных отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,7 +3,7 @@ title: "Паладин"
 permalink: /units/Paladin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности."
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Паладин"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Паладин - главный заступник фракции Замок. Он вдохновляет отряды проявлять свои скрытые способности.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Подкрепления отважного: призовите на бой охрану святилища
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Меч правосудия](/equipment/Меч правосудия/) | **АТК** | **ЗЩТ** | 
-  | [Шлем клятвы](/equipment/Шлем клятвы/) | **ОЗ** | **ЗЩТ** | 
-  | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
-  | [Кованые браслеты](/equipment/Кованые браслеты/) | **ОЗ** | **ЗЩТ** | 
+  | [Меч правосудия](/ru/equipment/Меч правосудия/) | **АТК** | **ЗЩТ** | 
+  | [Шлем клятвы](/ru/equipment/Шлем клятвы/) | **ОЗ** | **ЗЩТ** | 
+  | [Железные наплечники](/ru/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
+  | [Кованые браслеты](/ru/equipment/Кованые браслеты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [](/Exclusive/Paladin /) 
+ **Name:** [](/ru/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -168,7 +169,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Высший паладин
 

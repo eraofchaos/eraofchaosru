@@ -3,7 +3,7 @@ title: "Лучник"
 permalink: /units/Marksman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Лучник"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Лучники - опытные солдаты, ослабляющие противника перед рукопашной. Их смертоносные арбалеты вселяют настоящий ужас в сердца врагов.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Взрывная стрела: наносит значительный урон вражеским отрядам.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Легкий арбалет](/equipment/Легкий арбалет/) | **АТК** | **ЗЩТ** | 
-  | [Стальной шлем](/equipment/Стальной шлем/) | **ОЗ** | **ЗЩТ** | 
-  | [Пронзающие стрелы](/equipment/Пронзающие стрелы/) | **АТК** | **ЗЩТ** | 
-  | [Кожаные перчатки](/equipment/Кожаные перчатки/) | **ОЗ** | **ЗЩТ** | 
+  | [Легкий арбалет](/ru/equipment/Легкий арбалет/) | **АТК** | **ЗЩТ** | 
+  | [Стальной шлем](/ru/equipment/Стальной шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Пронзающие стрелы](/ru/equipment/Пронзающие стрелы/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные перчатки](/ru/equipment/Кожаные перчатки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Marksman Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ум](/Emblem/Witness/) (Добро)
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ум](/ru/Emblem/Witness/) (Добро)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

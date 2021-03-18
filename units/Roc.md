@@ -3,7 +3,7 @@ title: "Рух"
 permalink: /units/Roc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Рух"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Единорог
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Гром: наносит чудовищный урон всем вражеским врагам на пути.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Клюв грома](/equipment/Клюв грома/) | **АТК** | **ЗЩТ** | 
-  | [Крылья разряда молнии](/equipment/Крылья разряда молнии/) | **ОЗ** | **ЗЩТ** | 
-  | [Когти молнии](/equipment/Когти молнии/) | **АТК** | **ЗЩТ** | 
-  | [Доспех молнии](/equipment/Доспех молнии/) | **ОЗ** | **ЗЩТ** | 
+  | [Клюв грома](/ru/equipment/Клюв грома/) | **АТК** | **ЗЩТ** | 
+  | [Крылья разряда молнии](/ru/equipment/Крылья разряда молнии/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти молнии](/ru/equipment/Когти молнии/) | **АТК** | **ЗЩТ** | 
+  | [Доспех молнии](/ru/equipment/Доспех молнии/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Roc Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Шива](/heroes/Shiva/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Шива](/ru/heroes/Shiva/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

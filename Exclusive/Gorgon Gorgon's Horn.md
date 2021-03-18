@@ -2,18 +2,18 @@
 title: "Эксклюзив - Чешуя горгоны"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Эра хаоса Чешуя горгоны. Чешуя горгоны. Эра хаоса Эксклюзив Чешуя горгоны. Горгона Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Gorgon Чешуя горгоны.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Чешуя горгоны** 
 
- **Эксклюзив for Unit:** [Горгона](/units/Gorgon/) 
+ **Эксклюзив for Unit:** [Горгона](/ru/units/Gorgon/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Каменная броня>: горгоны облачаются в каменную броню, которая дает им +24% к защите и +20% к сопротивлению урону на 6 сек. После прекращения действия прибавок горгоны наносят вражеским отрядам в большой области урон в 150% от АТК и с шансом 30% вызывают окаменение на 3 сек. Перезарядка 18 сек. |
   | **1x** <i class="fas fa-star"/> | ? | Горгоны получают +20% к здоровью и +20% к сопротивлению урону. |

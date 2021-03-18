@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Туча стрел: ненадолго увеличивает скорость атаки на 500%.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Лесной большой лук](/equipment/Лесной большой лук/) | **АТК** | **ЗЩТ** | 
-  | [Венец из древесных листьев](/equipment/Венец из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
-  | [Стрелы из нефрита](/equipment/Стрелы из нефрита/) | **АТК** | **ЗЩТ** | 
-  | [Короткая мантия из древесных листьев](/equipment/Короткая мантия из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
+  | [Лесной большой лук](/ru/equipment/Лесной большой лук/) | **АТК** | **ЗЩТ** | 
+  | [Венец из древесных листьев](/ru/equipment/Венец из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
+  | [Стрелы из нефрита](/ru/equipment/Стрелы из нефрита/) | **АТК** | **ЗЩТ** | 
+  | [Короткая мантия из древесных листьев](/ru/equipment/Короткая мантия из древесных листьев/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Wood Elf Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,7 +3,7 @@ title: "Элементаль Камня"
 permalink: /units/Stone Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться."
 unitID: 905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Камня"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Элементали Камня возникли из сплава различных руд, образованных геологическими процессами. Разделяются на меньших элементалей Камня, продолжающих сражаться.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Смертельный плевок. Оглушает.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядро магмы](/equipment/Ядро магмы/) | **АТК** | **ЗЩТ** | 
-  | [Взрыв магмы](/equipment/Взрыв магмы/) | **ОЗ** | **ЗЩТ** | 
-  | [Камень сумерек](/equipment/Камень сумерек/) | **АТК** | **ЗЩТ** | 
-  | [Корона из камня](/equipment/Корона из камня/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядро магмы](/ru/equipment/Ядро магмы/) | **АТК** | **ЗЩТ** | 
+  | [Взрыв магмы](/ru/equipment/Взрыв магмы/) | **ОЗ** | **ЗЩТ** | 
+  | [Камень сумерек](/ru/equipment/Камень сумерек/) | **АТК** | **ЗЩТ** | 
+  | [Корона из камня](/ru/equipment/Корона из камня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Ядро энергии](/Exclusive/Stone Elemental Energy Core/) 
+ **Name:** [Ядро энергии](/ru/Exclusive/Stone Elemental Energy Core/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Эрдамон](/heroes/Erdamon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Эрдамон](/ru/heroes/Erdamon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -2,18 +2,18 @@
 title: "Эксклюзив - Опасный взгляд"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Эра хаоса Опасный взгляд. Опасный взгляд. Эра хаоса Эксклюзив Опасный взгляд. Бехолдер Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Beholder Опасный взгляд.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Опасный взгляд** 
 
- **Эксклюзив for Unit:** [Бехолдер](/units/Beholder/) 
+ **Эксклюзив for Unit:** [Бехолдер](/ru/units/Beholder/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Темный взгляд>: вражеские отряды далеко впереди получают урон в 200% от АТК и теряют 15% своего урона отряда. Против оглушенной цели эффект удваивается. Эффект длится 7 сек. Перезарядка 15 сек. |
   | **1x** <i class="fas fa-star"/> | ? | Когда вражеский герой применяет заклинание, бехолдеры получают щит на 10% от макс. ОЗ на 7 сек. |

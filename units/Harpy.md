@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гарпия"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Коготь колдуньи: может нанести урон нескольким врагам
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Пронзающий сердце кинжал](/equipment/Пронзающий сердце кинжал/) | **АТК** | **ЗЩТ** | 
-  | [Мистическая броня](/equipment/Мистическая броня/) | **ОЗ** | **ЗЩТ** | 
-  | [Когтистый убийца](/equipment/Когтистый убийца/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники чаровницы](/equipment/Наплечники чаровницы/) | **ОЗ** | **ЗЩТ** | 
+  | [Пронзающий сердце кинжал](/ru/equipment/Пронзающий сердце кинжал/) | **АТК** | **ЗЩТ** | 
+  | [Мистическая броня](/ru/equipment/Мистическая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Когтистый убийца](/ru/equipment/Когтистый убийца/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники чаровницы](/ru/equipment/Наплечники чаровницы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -151,11 +151,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

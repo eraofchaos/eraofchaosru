@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Нейтральная армия](/units/Faction Neutral Army/)
+ **Фракция:** [Нейтральная армия](/ru/units/Faction Neutral Army/)
 
  **Race:** Орден Ассасинов
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Смертельный урон, подавление регенерации
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Капюшон ассасина](/equipment/Капюшон ассасина/) | **АТК** | **ЗЩТ** | 
-  | [Скрытый клинок](/equipment/Скрытый клинок/) | **ОЗ** | **ЗЩТ** | 
-  | [Защитный пояс](/equipment/Защитный пояс/) | **АТК** | **ЗЩТ** | 
-  | [Кожаные сапоги](/equipment/Кожаные сапоги/) | **ОЗ** | **ЗЩТ** | 
+  | [Капюшон ассасина](/ru/equipment/Капюшон ассасина/) | **АТК** | **ЗЩТ** | 
+  | [Скрытый клинок](/ru/equipment/Скрытый клинок/) | **ОЗ** | **ЗЩТ** | 
+  | [Защитный пояс](/ru/equipment/Защитный пояс/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные сапоги](/ru/equipment/Кожаные сапоги/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -150,10 +150,11 @@ toc: true
 
 * **Нейтральные отряды**  (Нейтральный дозор)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Эцио](/heroes/Ezio/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Эцио](/ru/heroes/Ezio/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

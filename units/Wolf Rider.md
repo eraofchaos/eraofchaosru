@@ -3,7 +3,7 @@ title: "Наездник на волке"
 permalink: /units/Wolf Rider/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов."
 unitID: 402
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Наездник на волке"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Разбойники на волках работают сообща со своими огромными прирученными скакунами. Острые клыки и когти оседланных зверей дополнительно устрашают врагов.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Ручной зверь: после смерти отряда призывает на поле боя волков.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Бритвенно острая сабля](/equipment/Бритвенно острая сабля/) | **АТК** | **ЗЩТ** | 
-  | [Могущественный пояс](/equipment/Могущественный пояс/) | **ОЗ** | **ЗЩТ** | 
-  | [Браслеты волка](/equipment/Браслеты волка/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники языка волка](/equipment/Наплечники языка волка/) | **ОЗ** | **ЗЩТ** | 
+  | [Бритвенно острая сабля](/ru/equipment/Бритвенно острая сабля/) | **АТК** | **ЗЩТ** | 
+  | [Могущественный пояс](/ru/equipment/Могущественный пояс/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты волка](/ru/equipment/Браслеты волка/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники языка волка](/ru/equipment/Наплечники языка волка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -163,11 +163,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

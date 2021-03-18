@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /units/Red Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Красный дракон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Дракон-владыка с сильным ревом.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Рожок красного огня](/equipment/Рожок красного огня/) | **АТК** | **ЗЩТ** | 
-  | [Древние крылья](/equipment/Древние крылья/) | **ОЗ** | **ЗЩТ** | 
-  | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
-  | [Неистовый хвост дракона](/equipment/Неистовый хвост дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Рожок красного огня](/ru/equipment/Рожок красного огня/) | **АТК** | **ЗЩТ** | 
+  | [Древние крылья](/ru/equipment/Древние крылья/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающие когти](/ru/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
+  | [Неистовый хвост дракона](/ru/equipment/Неистовый хвост дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Уничтожитель](/Exclusive/Red Dragon Annihilation/) 
+ **Name:** [Уничтожитель](/ru/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

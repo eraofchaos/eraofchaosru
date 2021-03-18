@@ -3,7 +3,7 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Джинн"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Дареная энергия: превращает атаку в лечение
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мистическая золотая лампа](/equipment/Мистическая золотая лампа/) | **АТК** | **ЗЩТ** | 
-  | [Странное кристаллическое украшение](/equipment/Странное кристаллическое украшение/) | **ОЗ** | **ЗЩТ** | 
-  | [Красные медные браслеты](/equipment/Красные медные браслеты/) | **АТК** | **ЗЩТ** | 
-  | [Зачарованная броня](/equipment/Зачарованная броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Мистическая золотая лампа](/ru/equipment/Мистическая золотая лампа/) | **АТК** | **ЗЩТ** | 
+  | [Странное кристаллическое украшение](/ru/equipment/Странное кристаллическое украшение/) | **ОЗ** | **ЗЩТ** | 
+  | [Красные медные браслеты](/ru/equipment/Красные медные браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Зачарованная броня](/ru/equipment/Зачарованная броня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Созвездие Лиры](/Exclusive/Genie Lyra/) 
+ **Name:** [Созвездие Лиры](/ru/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
@@ -87,8 +87,8 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -2,18 +2,18 @@
 title: "Эксклюзив - Меч нага"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Эра хаоса Меч нага. Меч нага. Эра хаоса Эксклюзив Меч нага. Нага Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Naga Меч нага.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Меч нага** 
 
- **Эксклюзив for Unit:** [Нага](/units/Naga/) 
+ **Эксклюзив for Unit:** [Нага](/ru/units/Naga/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,15 +27,15 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Пробуждение  | ? | <Неумолимая воля>: когда нага страдает от оглушения, окаменения или немоты, она становится неуязвимой к большинству негативных эффектов (в том числе к заморозке, немоте, замедлению, окаменению, оглушению, снижению боевого духа, сдерживанию и эффекту «Остановки времени») и получает +20% к сопротивлению отряда урону на 5 сек. Перезарядка - 15 сек. (Начинает действовать после применения эмблемы святости). |
   | **1x** <i class="fas fa-star"/> | ? | Длительность оглушения, окаменения, замедления, заморозки, низкого боевого духа и немоты сокращается на 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Нага получает +20% к ATK и урону. |
-  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
+  | **3x** <i class="fas fa-star"/> | ? | <Мечи нага>: когда ОЗ впервые падает до 25%, нага призывает Мечи нага. Союзные отряды в большой области каждую секунду получают +20 к пробиванию и +2% к высасыванию жизни. Суммируется до 10 раз. (Эффект остается, даже когда нага побеждена) |
   | **4x** <i class="fas fa-star"/> | ? | Нага получает +20% к высасыванию жизни и сопротивлению урону. |
   | **5x** <i class="fas fa-star"/> | ? | Нага неуязвима к оглушению. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
+  | **6x** <i class="fas fa-star"/> | ? | <Луч меча нага> каждые 15 сек. наносит урон в 200% ATK всем вражеским отрядам, стоящим в том же ряду, что и цель. Враги теряют 30% ЗЩТ и сопротивления урону, нага получает +1000 к критическому удару и +20% к высасыванию жизни на следующие 5 сек. |
 
 
 ## Новый ур.

@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Подчиняясь зову магического амулета, к тому же дающему чудесную защиту, лепреконы проходят через портал Мирового древа в этот жестокий и коварный мир и становятся самым крепким щитом фракции Природы!"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Подчиняясь зову магического амулета, к тому же дающему чудесную защиту, лепреконы проходят через портал Мирового древа в этот жестокий и коварный мир и становятся самым крепким щитом фракции Природы!
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Блок уклонения, усиление контрудара
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Luckyblessings](/equipment/Luckyblessings/) | **АТК** | **ЗЩТ** | 
-  | [Источниксилы](/equipment/Источниксилы/) | **ОЗ** | **ЗЩТ** | 
-  | [Жизненныйохранник](/equipment/Жизненныйохранник/) | **АТК** | **ЗЩТ** | 
-  | [Легкостьветра](/equipment/Легкостьветра/) | **ОЗ** | **ЗЩТ** | 
+  | [Благословение удачи](/ru/equipment/Благословение удачи/) | **АТК** | **ЗЩТ** | 
+  | [Источник силы](/ru/equipment/Источник силы/) | **ОЗ** | **ЗЩТ** | 
+  | [Защита жизни](/ru/equipment/Защита жизни/) | **АТК** | **ЗЩТ** | 
+  | [Легкость ветра](/ru/equipment/Легкость ветра/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Терновник](/Exclusive/Leprechaun Thorns/) 
+ **Name:** [Терновник](/ru/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -174,10 +174,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -196,13 +197,13 @@ toc: true
  **Awaking Описание:** В краю элементалей есть волшебное и древнее Мировое древо. К нему устремлены взоры искателей приключений, хотя путь к нему непрост. А все потому, что Древо охраняют свирепые стражи, убивающие любого. Немало странников отправлялось к Мировому древу, но вот назад никто пока не возвращался.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Используйте лепреконов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ хранителей древа на уровнях 15-2 и 15-4 в Подземелье. </span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз, используя лепреконов. </span>
 
 ## Awaken Skills
 
@@ -210,7 +211,7 @@ toc: true
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у горящих целей также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
 ### 2nd Skill (or 1st): Удар кулаком
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у целей в статусе заморозки также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Прямой удар&gt;</span><span style="color: #645252;font-size:18px">: снижает сопротивление урону у вражеского отряда на 3%, у целей с эффектом заморозки также на 2% снижает защиту. Каждое ослабление длится 7 сек., эффект суммируется до 8 раз.</span>
 
 ### 3rd Skill (or 4th): Счастливое число
  **Описание:** <span style="color: #48b946;font-size:18px">&lt;Фортуна&gt;</span><span style="color: #645252;font-size:18px">: число возможных экземпляров умений лепреконов увеличивается до 5-12.</span>

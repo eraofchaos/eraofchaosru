@@ -3,7 +3,7 @@ title: "Костяной дракон"
 permalink: /units/Bone Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Костяной дракон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Страх: резко ослабляет защиту врага, снижает боевой дух.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Костяной шип](/equipment/Костяной шип/) | **АТК** | **ЗЩТ** | 
-  | [Драконий череп](/equipment/Драконий череп/) | **ОЗ** | **ЗЩТ** | 
-  | [Пронзающие когти](/equipment/Пронзающие когти/) | **АТК** | **ЗЩТ** | 
-  | [Духовный самоцвет](/equipment/Духовный самоцвет/) | **ОЗ** | **ЗЩТ** | 
+  | [Костяной шип](/ru/equipment/Костяной шип/) | **АТК** | **ЗЩТ** | 
+  | [Драконий череп](/ru/equipment/Драконий череп/) | **ОЗ** | **ЗЩТ** | 
+  | [Пронзающие когти](/ru/equipment/Пронзающие когти/) | **АТК** | **ЗЩТ** | 
+  | [Духовный самоцвет](/ru/equipment/Духовный самоцвет/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Кость бессмертного дракона](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Name:** [Кость бессмертного дракона](/ru/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/ru/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -2,18 +2,18 @@
 title: "Эксклюзив - Чешуя черного дракона"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Эра хаоса Чешуя черного дракона. Чешуя черного дракона. Эра хаоса Эксклюзив Чешуя черного дракона. Черный дракон Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Black Dragon Чешуя черного дракона.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Чешуя черного дракона** 
 
- **Эксклюзив for Unit:** [Черный дракон](/units/Black Dragon/) 
+ **Эксклюзив for Unit:** [Черный дракон](/ru/units/Black Dragon/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Убежище драконов>: когда ОЗ падает до 75%, 50% и 25%, черный дракон дает щит в 15% максимального уровня здоровья всем союзным отрядам в обороне (панцирный дракон, черный дракон / король черных драконов) на поле битвы и щит в 30% максимального уровня здоровья всем союзным драконам других классов (зеленый дракон/золотой дракон, костяной дракон/призрачный дракон, красный дракон, гидра или виверна). Щит действует в течение всего боя и может суммироваться. Щит черного дракона нельзя рассеять, и он дает неуязвимость к магии на 3 сек. |
   | **1x** <i class="fas fa-star"/> | ? | Когда черный дракон находится на поле битвы, союзные отряды Подземелья получают +10% к урону и сопротивлению урону. |

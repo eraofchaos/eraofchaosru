@@ -3,7 +3,7 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Short description:** Рукопашный УВС. Оглушает.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мачете оборотня](/equipment/Мачете оборотня/) | **АТК** | **ЗЩТ** | 
-  | [Квадратный щит оборотня](/equipment/Квадратный щит оборотня/) | **ОЗ** | **ЗЩТ** | 
-  | [Цепь оборотня](/equipment/Цепь оборотня/) | **АТК** | **ЗЩТ** | 
-  | [Рукавицы оборотня](/equipment/Рукавицы оборотня/) | **ОЗ** | **ЗЩТ** | 
+  | [Мачете оборотня](/ru/equipment/Мачете оборотня/) | **АТК** | **ЗЩТ** | 
+  | [Квадратный щит оборотня](/ru/equipment/Квадратный щит оборотня/) | **ОЗ** | **ЗЩТ** | 
+  | [Цепь оборотня](/ru/equipment/Цепь оборотня/) | **АТК** | **ЗЩТ** | 
+  | [Рукавицы оборотня](/ru/equipment/Рукавицы оборотня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Gnoll Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Наступление**  (Дозор атакующих отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

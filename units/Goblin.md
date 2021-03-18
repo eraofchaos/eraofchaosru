@@ -3,7 +3,7 @@ title: "Гоблин"
 permalink: /units/Goblin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гоблин"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Боевой шторм: наносит урон 3 ближайшим вражеским отрядам.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Шипованная дубина](/equipment/Шипованная дубина/) | **АТК** | **ЗЩТ** | 
-  | [Кожаный пояс](/equipment/Кожаный пояс/) | **ОЗ** | **ЗЩТ** | 
-  | [Ожерелье из кости](/equipment/Ожерелье из кости/) | **АТК** | **ЗЩТ** | 
-  | [Кожаные наплечники](/equipment/Кожаные наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Шипованная дубина](/ru/equipment/Шипованная дубина/) | **АТК** | **ЗЩТ** | 
+  | [Кожаный пояс](/ru/equipment/Кожаный пояс/) | **ОЗ** | **ЗЩТ** | 
+  | [Ожерелье из кости](/ru/equipment/Ожерелье из кости/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные наплечники](/ru/equipment/Кожаные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Goblin Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Наступление**  (Дозор атакующих отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

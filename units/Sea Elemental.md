@@ -3,7 +3,7 @@ title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Моря"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Short description:** Управление замедлением.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Вечная слеза](/equipment/Вечная слеза/) | **АТК** | **ЗЩТ** | 
-  | [Ядро элементаля Воды](/equipment/Ядро элементаля Воды/) | **ОЗ** | **ЗЩТ** | 
-  | [Волнистый поток](/equipment/Волнистый поток/) | **АТК** | **ЗЩТ** | 
-  | [Шрам вихря](/equipment/Шрам вихря/) | **ОЗ** | **ЗЩТ** | 
+  | [Вечная слеза](/ru/equipment/Вечная слеза/) | **АТК** | **ЗЩТ** | 
+  | [Ядро элементаля Воды](/ru/equipment/Ядро элементаля Воды/) | **ОЗ** | **ЗЩТ** | 
+  | [Волнистый поток](/ru/equipment/Волнистый поток/) | **АТК** | **ЗЩТ** | 
+  | [Шрам вихря](/ru/equipment/Шрам вихря/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Sea Elemental Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **R**  (R)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

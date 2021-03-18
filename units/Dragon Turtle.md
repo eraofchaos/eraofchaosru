@@ -3,7 +3,7 @@ title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Панцирный дракон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Танк. Восстанавливает ОЗ.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Острые зубы Панцирного дракона](/equipment/Острые зубы Панцирного дракона/) | **АТК** | **ЗЩТ** | 
-  | [Панцирь шипастой черепахи](/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **ЗЩТ** | 
-  | [Острый коготь Панцирного дракона](/equipment/Острый коготь Панцирного дракона/) | **АТК** | **ЗЩТ** | 
-  | [Хвост Панцирного дракона](/equipment/Хвост Панцирного дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Острые зубы Панцирного дракона](/ru/equipment/Острые зубы Панцирного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Панцирь шипастой черепахи](/ru/equipment/Панцирь шипастой черепахи/) | **ОЗ** | **ЗЩТ** | 
+  | [Острый коготь Панцирного дракона](/ru/equipment/Острый коготь Панцирного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Хвост Панцирного дракона](/ru/equipment/Хвост Панцирного дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Послушание](/Exclusive/Dragon Turtle Obedience/) 
+ **Name:** [Послушание](/ru/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Алчность](/Emblem/Greed/) (Хаос)
-* [Ядро мировой сети](/Emblem/Core of the Global Network/) (Нейтральный)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) (Нейтральный)
 
 ## Информация о комбинации
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

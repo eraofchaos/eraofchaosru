@@ -3,7 +3,7 @@ title: "Всадники"
 permalink: /units/Cavalier/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Всадники"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Облаченные в прочную броню всадники врываются на поле брани на своих благородных скакунах. Почти неуязвимые, они переломили исход многих сражений.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Бой на копьях: наносит большой урон, при первой атаке оглушает.
 
@@ -73,14 +73,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Копье всадника](/equipment/Копье всадника/) | **АТК** | **ЗЩТ** | 
-  | [Щиток защиты](/equipment/Щиток защиты/) | **ОЗ** | **ЗЩТ** | 
-  | [Щит защиты](/equipment/Щит защиты/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники паладина](/equipment/Наплечники паладина/) | **ОЗ** | **ЗЩТ** | 
+  | [Копье всадника](/ru/equipment/Копье всадника/) | **АТК** | **ЗЩТ** | 
+  | [Щиток защиты](/ru/equipment/Щиток защиты/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит защиты](/ru/equipment/Щит защиты/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники паладина](/ru/equipment/Наплечники паладина/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
@@ -91,9 +91,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -160,19 +160,14 @@ toc: true
 ## Значимость
 ### Связь дозора
 
-* **Замок**  (Дозор отрядов Замка)
-* **Штурм**  (Дозор штурмовых отрядов)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
-* Атака
-* ОЗ
-* Урон отряда
-* Снижение УРН отряда
+* ?!? 
 
 
 ## Awaking
@@ -191,26 +186,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ чемпионов на уровнях 16-2 и 16-4 в Подземелье.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Используйте всадников и победите в </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> боях Дуэли заступников под началом Мюллиха.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Умения выживания
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает ОЗ и сопротивление магии на 30%</span>
-
-### 2nd Skill (or 1st): Военные умения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Умения рыцаря&gt;</span><span style="color: #645252;font-size:18px">: увеличивает АТК и сопротивление магии на 30%</span>
-
-### 3rd Skill (or 4th): Атака легких рыцарей
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: &lt;Стремительный прорыв&gt; срабатывает при убийстве вражеского отряда (кроме призванных монстров)</span>
-
-### 4th Skill (or 3rd): Тяжелая атака
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Стремительный прорыв&gt;</span><span style="color: #645252;font-size:18px">: при следующем штурме урон повышается до 150%, а враги оглушаются на 5 сек.</span>
-
-### 5th Skill (or 6th): Фанатизм
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: сопротивление отряда урону повышается еще на 20%. Эффект удваивается в состоянии высокого боевого духа</span>
-
-### 6th Skill (or 5th): Спокойные мысли
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Копье рыцаря&gt;</span><span style="color: #645252;font-size:18px">: в бою срабатывает высокий боевой дух. Гарантированно наносит критический урон. Эффект длится 10 сек.</span>
 
 ## Technical info
  **runart:** 1

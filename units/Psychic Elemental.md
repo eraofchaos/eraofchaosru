@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Энергетический взрыв. Обжигает.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядро Полярной звезды](/equipment/Ядро Полярной звезды/) | **АТК** | **ЗЩТ** | 
-  | [Небесная звезда](/equipment/Небесная звезда/) | **ОЗ** | **ЗЩТ** | 
-  | [Корона духа звезды](/equipment/Корона духа звезды/) | **АТК** | **ЗЩТ** | 
-  | [Могущественные наручи](/equipment/Могущественные наручи/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядро Полярной звезды](/ru/equipment/Ядро Полярной звезды/) | **АТК** | **ЗЩТ** | 
+  | [Небесная звезда](/ru/equipment/Небесная звезда/) | **ОЗ** | **ЗЩТ** | 
+  | [Корона духа звезды](/ru/equipment/Корона духа звезды/) | **АТК** | **ЗЩТ** | 
+  | [Могущественные наручи](/ru/equipment/Могущественные наручи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Колесо вечности](/Exclusive/Psychic Elemental Spirit Core/) 
+ **Name:** [Колесо вечности](/ru/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -153,11 +153,12 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Монер](/heroes/Monere/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Монер](/ru/heroes/Monere/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

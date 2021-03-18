@@ -3,7 +3,7 @@ title: "Жар-птица"
 permalink: /units/Firebird/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Жар-птица"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Единорог
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Огненное дыхание: наносит урон всем вражеским отрядам на своем пути.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Клюв неистового пламени](/equipment/Клюв неистового пламени/) | **АТК** | **ЗЩТ** | 
-  | [Руна воскрешения](/equipment/Руна воскрешения/) | **ОЗ** | **ЗЩТ** | 
-  | [Когти неистового пламени](/equipment/Когти неистового пламени/) | **АТК** | **ЗЩТ** | 
-  | [Радужные оперенные крылья](/equipment/Радужные оперенные крылья/) | **ОЗ** | **ЗЩТ** | 
+  | [Клюв неистового пламени](/ru/equipment/Клюв неистового пламени/) | **АТК** | **ЗЩТ** | 
+  | [Руна воскрешения](/ru/equipment/Руна воскрешения/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти неистового пламени](/ru/equipment/Когти неистового пламени/) | **АТК** | **ЗЩТ** | 
+  | [Радужные оперенные крылья](/ru/equipment/Радужные оперенные крылья/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Вечный огонь](/Exclusive/Firebird Eternal Flame/) 
+ **Name:** [Вечный огонь](/ru/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Луна](/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Луна](/ru/heroes/Luna/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

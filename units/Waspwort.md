@@ -3,7 +3,7 @@ title: "Росянка"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Росянка"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** УВС и контроль.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Прочная цветущая ветвь](/equipment/Прочная цветущая ветвь/) | **АТК** | **ЗЩТ** | 
-  | [Ядовитый шип](/equipment/Ядовитый шип/) | **ОЗ** | **ЗЩТ** | 
-  | [Повелитель цветов](/equipment/Повелитель цветов/) | **АТК** | **ЗЩТ** | 
-  | [Пчела-убийца](/equipment/Пчела-убийца/) | **ОЗ** | **ЗЩТ** | 
+  | [Прочная цветущая ветвь](/ru/equipment/Прочная цветущая ветвь/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитый шип](/ru/equipment/Ядовитый шип/) | **ОЗ** | **ЗЩТ** | 
+  | [Повелитель цветов](/ru/equipment/Повелитель цветов/) | **АТК** | **ЗЩТ** | 
+  | [Пчела-убийца](/ru/equipment/Пчела-убийца/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Вечерняя звезда](/Exclusive/Waspwort Waspwort Leaf/) 
+ **Name:** [Вечерняя звезда](/ru/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

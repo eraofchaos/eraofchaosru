@@ -3,7 +3,7 @@ title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Регнанский лучник"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Пират
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Наносит критический удар и пробивает.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Арбалет океана](/equipment/Арбалет океана/) | **АТК** | **ЗЩТ** | 
-  | [Накидка престижа](/equipment/Накидка престижа/) | **ОЗ** | **ЗЩТ** | 
-  | [Стальная стрела](/equipment/Стальная стрела/) | **АТК** | **ЗЩТ** | 
-  | [Одежда охотника](/equipment/Одежда охотника/) | **ОЗ** | **ЗЩТ** | 
+  | [Арбалет океана](/ru/equipment/Арбалет океана/) | **АТК** | **ЗЩТ** | 
+  | [Накидка престижа](/ru/equipment/Накидка престижа/) | **ОЗ** | **ЗЩТ** | 
+  | [Стальная стрела](/ru/equipment/Стальная стрела/) | **АТК** | **ЗЩТ** | 
+  | [Одежда охотника](/ru/equipment/Одежда охотника/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Чудо](/Exclusive/Regnan Archer Miracle/) 
+ **Name:** [Чудо](/ru/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Питер Ли](/ru/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

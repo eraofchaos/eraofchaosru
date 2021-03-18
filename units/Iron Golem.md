@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Резонанс металла: создает щит, укрывающий союзные отряды
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Железные рукавицы](/equipment/Железные рукавицы/) | **АТК** | **ЗЩТ** | 
-  | [Шипастые наплечники](/equipment/Шипастые наплечники/) | **ОЗ** | **ЗЩТ** | 
-  | [Таинственное сердце](/equipment/Таинственное сердце/) | **АТК** | **ЗЩТ** | 
-  | [Укрепленный железный нагрудник](/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **ЗЩТ** | 
+  | [Железные рукавицы](/ru/equipment/Железные рукавицы/) | **АТК** | **ЗЩТ** | 
+  | [Шипастые наплечники](/ru/equipment/Шипастые наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Таинственное сердце](/ru/equipment/Таинственное сердце/) | **АТК** | **ЗЩТ** | 
+  | [Укрепленный железный нагрудник](/ru/equipment/Укрепленный железный нагрудник/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Iron Golem Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

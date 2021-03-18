@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Ослабляет и контролирует задний ряд.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Шипастый воротник беса](/equipment/Шипастый воротник беса/) | **АТК** | **ЗЩТ** | 
-  | [Смертельная челюсть](/equipment/Смертельная челюсть/) | **ОЗ** | **ЗЩТ** | 
-  | [Холодный зубец](/equipment/Холодный зубец/) | **АТК** | **ЗЩТ** | 
-  | [Ядовитый клык](/equipment/Ядовитый клык/) | **ОЗ** | **ЗЩТ** | 
+  | [Шипастый воротник беса](/ru/equipment/Шипастый воротник беса/) | **АТК** | **ЗЩТ** | 
+  | [Смертельная челюсть](/ru/equipment/Смертельная челюсть/) | **ОЗ** | **ЗЩТ** | 
+  | [Холодный зубец](/ru/equipment/Холодный зубец/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитый клык](/ru/equipment/Ядовитый клык/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Serpent Fly Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -172,11 +172,12 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Корбак](/heroes/Korbac/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Корбак](/ru/heroes/Korbac/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

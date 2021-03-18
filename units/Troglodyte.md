@@ -3,7 +3,7 @@ title: "Троглодит"
 permalink: /units/Troglodyte/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Троглодит"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Лес копий: наносит урон в области и вызывает оглушение
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Костяное копье потрошителя](/equipment/Костяное копье потрошителя/) | **АТК** | **ЗЩТ** | 
-  | [Череп хозяина](/equipment/Череп хозяина/) | **ОЗ** | **ЗЩТ** | 
-  | [Ломающий хребет удар](/equipment/Ломающий хребет удар/) | **АТК** | **ЗЩТ** | 
-  | [Кровь сильной кислоты](/equipment/Кровь сильной кислоты/) | **ОЗ** | **ЗЩТ** | 
+  | [Костяное копье потрошителя](/ru/equipment/Костяное копье потрошителя/) | **АТК** | **ЗЩТ** | 
+  | [Череп хозяина](/ru/equipment/Череп хозяина/) | **ОЗ** | **ЗЩТ** | 
+  | [Ломающий хребет удар](/ru/equipment/Ломающий хребет удар/) | **АТК** | **ЗЩТ** | 
+  | [Кровь сильной кислоты](/ru/equipment/Кровь сильной кислоты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Troglodyte Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -154,11 +154,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Наступление**  (Дозор атакующих отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

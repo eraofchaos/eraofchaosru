@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /units/Lizardman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель."
 unitID: 802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ящер"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Большой УВС.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Дорога терний](/equipment/Дорога терний/) | **АТК** | **ЗЩТ** | 
-  | [Браслеты воина](/equipment/Браслеты воина/) | **ОЗ** | **ЗЩТ** | 
-  | [Лопатка воина](/equipment/Лопатка воина/) | **АТК** | **ЗЩТ** | 
-  | [Охотничий большой лук](/equipment/Охотничий большой лук/) | **ОЗ** | **ЗЩТ** | 
+  | [Дорога терний](/ru/equipment/Дорога терний/) | **АТК** | **ЗЩТ** | 
+  | [Браслеты воина](/ru/equipment/Браслеты воина/) | **ОЗ** | **ЗЩТ** | 
+  | [Лопатка воина](/ru/equipment/Лопатка воина/) | **АТК** | **ЗЩТ** | 
+  | [Охотничий большой лук](/ru/equipment/Охотничий большой лук/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Lizardman Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Вестан](/heroes/Wystan/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Вестан](/ru/heroes/Wystan/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

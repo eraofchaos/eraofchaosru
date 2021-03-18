@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /units/Green Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Подкрепление с Небес: наносит огромный урон 3 вражеским отрядам на задней линии.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядовитый рог](/equipment/Ядовитый рог/) | **АТК** | **ЗЩТ** | 
-  | [Доспех черного дракона](/equipment/Доспех черного дракона/) | **ОЗ** | **ЗЩТ** | 
-  | [Когти распада](/equipment/Когти распада/) | **АТК** | **ЗЩТ** | 
-  | [Ядовитая кровь дракона](/equipment/Ядовитая кровь дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядовитый рог](/ru/equipment/Ядовитый рог/) | **АТК** | **ЗЩТ** | 
+  | [Доспех черного дракона](/ru/equipment/Доспех черного дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти распада](/ru/equipment/Когти распада/) | **АТК** | **ЗЩТ** | 
+  | [Ядовитая кровь дракона](/ru/equipment/Ядовитая кровь дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Сияющие крылья](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Name:** [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

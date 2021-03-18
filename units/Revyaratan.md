@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Пират
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Глубоководный Кракен. Не может возродиться.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Острые зубы](/equipment/Острые зубы/) | **АТК** | **ЗЩТ** | 
-  | [Ледяной плавник](/equipment/Ледяной плавник/) | **ОЗ** | **ЗЩТ** | 
-  | [Хвост чудовища](/equipment/Хвост чудовища/) | **АТК** | **ЗЩТ** | 
-  | [Мерзкие щупальца](/equipment/Мерзкие щупальца/) | **ОЗ** | **ЗЩТ** | 
+  | [Острые зубы](/ru/equipment/Острые зубы/) | **АТК** | **ЗЩТ** | 
+  | [Ледяной плавник](/ru/equipment/Ледяной плавник/) | **ОЗ** | **ЗЩТ** | 
+  | [Хвост чудовища](/ru/equipment/Хвост чудовища/) | **АТК** | **ЗЩТ** | 
+  | [Мерзкие щупальца](/ru/equipment/Мерзкие щупальца/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Темные волны](/Exclusive/Revyaratan Gloom Tides/) 
+ **Name:** [Темные волны](/ru/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Дыхание дракона](/Emblem/Dragon King's Breath/) (Злой)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Дыхание дракона](/ru/Emblem/Dragon King's Breath/) (Злой)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -165,10 +165,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

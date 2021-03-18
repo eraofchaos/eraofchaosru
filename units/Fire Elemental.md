@@ -3,7 +3,7 @@ title: "Элементаль Огня"
 permalink: /units/Fire Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Огня"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Обжигает. Взрыв по всему полю.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ядро Огня](/equipment/Ядро Огня/) | **АТК** | **ЗЩТ** | 
-  | [Кипящий щит](/equipment/Кипящий щит/) | **ОЗ** | **ЗЩТ** | 
-  | [Око сапфира](/equipment/Око сапфира/) | **АТК** | **ЗЩТ** | 
-  | [Темно-синий острый коготь](/equipment/Темно-синий острый коготь/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядро Огня](/ru/equipment/Ядро Огня/) | **АТК** | **ЗЩТ** | 
+  | [Кипящий щит](/ru/equipment/Кипящий щит/) | **ОЗ** | **ЗЩТ** | 
+  | [Око сапфира](/ru/equipment/Око сапфира/) | **АТК** | **ЗЩТ** | 
+  | [Темно-синий острый коготь](/ru/equipment/Темно-синий острый коготь/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Энергия Огня](/Exclusive/Fire Elemental Fire Energy/) 
+ **Name:** [Энергия Огня](/ru/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Фиур](/heroes/Fiur/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Фиур](/ru/heroes/Fiur/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,7 +3,7 @@ title: "Гидра"
 permalink: /units/Hydra/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
 unitID: 807
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гидра"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Высокая атака. Устойчивый. Сильный контроль.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Хвост чумного дракона](/equipment/Хвост чумного дракона/) | **АТК** | **ЗЩТ** | 
-  | [Сережки правителя](/equipment/Сережки правителя/) | **ОЗ** | **ЗЩТ** | 
-  | [Коготь чумного дракона](/equipment/Коготь чумного дракона/) | **АТК** | **ЗЩТ** | 
-  | [Острые спинные шипы](/equipment/Острые спинные шипы/) | **ОЗ** | **ЗЩТ** | 
+  | [Хвост чумного дракона](/ru/equipment/Хвост чумного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Сережки правителя](/ru/equipment/Сережки правителя/) | **ОЗ** | **ЗЩТ** | 
+  | [Коготь чумного дракона](/ru/equipment/Коготь чумного дракона/) | **АТК** | **ЗЩТ** | 
+  | [Острые спинные шипы](/ru/equipment/Острые спинные шипы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Многоглавый змей](/Exclusive/Hydra Hydra's Head/) 
+ **Name:** [Многоглавый змей](/ru/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
 
 ## Информация о комбинации
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

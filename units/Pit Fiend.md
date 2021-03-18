@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Порождение зла"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Огненный источник: постоянно излечивает союзные отряды на своем пути.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Адский кнут](/equipment/Адский кнут/) | **АТК** | **ЗЩТ** | 
-  | [Заколдованная легкая броня](/equipment/Заколдованная легкая броня/) | **ОЗ** | **ЗЩТ** | 
-  | [Заколдованный рожок](/equipment/Заколдованный рожок/) | **АТК** | **ЗЩТ** | 
-  | [Очаровательные наплечники](/equipment/Очаровательные наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Адский кнут](/ru/equipment/Адский кнут/) | **АТК** | **ЗЩТ** | 
+  | [Заколдованная легкая броня](/ru/equipment/Заколдованная легкая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Заколдованный рожок](/ru/equipment/Заколдованный рожок/) | **АТК** | **ЗЩТ** | 
+  | [Очаровательные наплечники](/ru/equipment/Очаровательные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Pit Fiend Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

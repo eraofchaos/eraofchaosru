@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /units/Angel/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ангел"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Ангел
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Порицание: наносит огромный урон 3 отрядам и оглушает их.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Меч империи](/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
-  | [Легкая боевая броня](/equipment/Легкая боевая броня/) | **ОЗ** | **ЗЩТ** | 
-  | [Легкие рукавицы](/equipment/Легкие рукавицы/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники легкости](/equipment/Наплечники легкости/) | **ОЗ** | **ЗЩТ** | 
+  | [Меч империи](/ru/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
+  | [Легкая боевая броня](/ru/equipment/Легкая боевая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Легкие рукавицы](/ru/equipment/Легкие рукавицы/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники легкости](/ru/equipment/Наплечники легкости/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч Дюрандаль](/Exclusive/Angel Durandel/) 
+ **Name:** [Меч Дюрандаль](/ru/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
 
 ## Информация о комбинации
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,30 +3,27 @@ title: "Ледяной демон"
 permalink: /units/Ice Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ледяной демон"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Описание:** Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Контроль стрелков, усиление союзников
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Первобытный лед](/equipment/Первобытный лед/) | **АТК** | **ЗЩТ** | 
-  | [Ледяное прикосновение](/equipment/Ледяное прикосновение/) | **ОЗ** | **ЗЩТ** | 
-  | [Венец стужи](/equipment/Венец стужи/) | **АТК** | **ЗЩТ** | 
-  | [Ледяной трон](/equipment/Ледяной трон/) | **ОЗ** | **ЗЩТ** | 
+  | [Первобытный лед](/ru/equipment/Первобытный лед/) | **АТК** | **ЗЩТ** | 
+  | [Ледяное прикосновение](/ru/equipment/Ледяное прикосновение/) | **ОЗ** | **ЗЩТ** | 
+  | [Венец стужи](/ru/equipment/Венец стужи/) | **АТК** | **ЗЩТ** | 
+  | [Ледяной трон](/ru/equipment/Ледяной трон/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -176,10 +173,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

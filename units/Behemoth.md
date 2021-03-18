@@ -3,7 +3,7 @@ title: "Чудище"
 permalink: /units/Behemoth/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Чудище"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Дикий рев: резко ослабляет атаку противника, вызывая оглушение.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Свирепые когти](/equipment/Свирепые когти/) | **АТК** | **ЗЩТ** | 
-  | [Бронированная кожа](/equipment/Бронированная кожа/) | **ОЗ** | **ЗЩТ** | 
-  | [Свирепые клыки](/equipment/Свирепые клыки/) | **АТК** | **ЗЩТ** | 
-  | [Толстая меховая шкура](/equipment/Толстая меховая шкура/) | **ОЗ** | **ЗЩТ** | 
+  | [Свирепые когти](/ru/equipment/Свирепые когти/) | **АТК** | **ЗЩТ** | 
+  | [Бронированная кожа](/ru/equipment/Бронированная кожа/) | **ОЗ** | **ЗЩТ** | 
+  | [Свирепые клыки](/ru/equipment/Свирепые клыки/) | **АТК** | **ЗЩТ** | 
+  | [Толстая меховая шкура](/ru/equipment/Толстая меховая шкура/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Кровожадный дух](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Name:** [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

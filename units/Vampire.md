@@ -3,7 +3,7 @@ title: "Вампир"
 permalink: /units/Vampire/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Вампир"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Злой дух
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Высасывание жизни: отнимает здоровье у вражеского отряда, восстанавливая свое.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Кровожадный пояс](/equipment/Кровожадный пояс/) | **АТК** | **ЗЩТ** | 
-  | [Легкая броня кровожадности](/equipment/Легкая броня кровожадности/) | **ОЗ** | **ЗЩТ** | 
-  | [Плечи тени](/equipment/Плечи тени/) | **АТК** | **ЗЩТ** | 
-  | [Плащ тени](/equipment/Плащ тени/) | **ОЗ** | **ЗЩТ** | 
+  | [Кровожадный пояс](/ru/equipment/Кровожадный пояс/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня кровожадности](/ru/equipment/Легкая броня кровожадности/) | **ОЗ** | **ЗЩТ** | 
+  | [Плечи тени](/ru/equipment/Плечи тени/) | **АТК** | **ЗЩТ** | 
+  | [Плащ тени](/ru/equipment/Плащ тени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

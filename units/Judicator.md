@@ -3,7 +3,7 @@ title: "Вершитель"
 permalink: /units/Judicator/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Вершитель"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Круг помощи, расширенный диапазон.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Посох теократии](/equipment/Посох теократии/) | **АТК** | **ЗЩТ** | 
-  | [Капюшон небесного блаженства](/equipment/Капюшон небесного блаженства/) | **ОЗ** | **ЗЩТ** | 
-  | [Легкий плащ](/equipment/Легкий плащ/) | **АТК** | **ЗЩТ** | 
-  | [Божественные наручи](/equipment/Божественные наручи/) | **ОЗ** | **ЗЩТ** | 
+  | [Посох теократии](/ru/equipment/Посох теократии/) | **АТК** | **ЗЩТ** | 
+  | [Капюшон небесного блаженства](/ru/equipment/Капюшон небесного блаженства/) | **ОЗ** | **ЗЩТ** | 
+  | [Легкий плащ](/ru/equipment/Легкий плащ/) | **АТК** | **ЗЩТ** | 
+  | [Божественные наручи](/ru/equipment/Божественные наручи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [](/Exclusive/Judicator /) 
+ **Name:** [](/ru/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

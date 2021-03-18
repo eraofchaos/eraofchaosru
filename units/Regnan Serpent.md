@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
 unitID: 9904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Регнанский змей"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Топот глубин: наносит урон в области, отбрасывает врага и предотвращает критические удары
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Трезубец](/equipment/Трезубец/) | **АТК** | **ЗЩТ** | 
-  | [Рожок из ракушки](/equipment/Рожок из ракушки/) | **ОЗ** | **ЗЩТ** | 
-  | [Когти русалки](/equipment/Когти русалки/) | **АТК** | **ЗЩТ** | 
-  | [Кобальтово-синий плавник](/equipment/Кобальтово-синий плавник/) | **ОЗ** | **ЗЩТ** | 
+  | [Трезубец](/ru/equipment/Трезубец/) | **АТК** | **ЗЩТ** | 
+  | [Рожок из ракушки](/ru/equipment/Рожок из ракушки/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти русалки](/ru/equipment/Когти русалки/) | **АТК** | **ЗЩТ** | 
+  | [Кобальтово-синий плавник](/ru/equipment/Кобальтово-синий плавник/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Волна гнева](/Exclusive/Regnan Serpent Day Tides/) 
+ **Name:** [Волна гнева](/ru/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
 
 ## Информация о комбинации
 
@@ -170,10 +170,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

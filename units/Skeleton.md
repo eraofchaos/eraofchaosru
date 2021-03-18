@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Скелет"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Костяной щит: усиливает сопротивление урону, когда запас здоровья ниже 50%.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Сабля нечестивца](/equipment/Сабля нечестивца/) | **АТК** | **ЗЩТ** | 
-  | [Ржавый шлем](/equipment/Ржавый шлем/) | **ОЗ** | **ЗЩТ** | 
-  | [Щит нечестивца](/equipment/Щит нечестивца/) | **АТК** | **ЗЩТ** | 
-  | [Ржавые наплечники](/equipment/Ржавые наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Сабля нечестивца](/ru/equipment/Сабля нечестивца/) | **АТК** | **ЗЩТ** | 
+  | [Ржавый шлем](/ru/equipment/Ржавый шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит нечестивца](/ru/equipment/Щит нечестивца/) | **АТК** | **ЗЩТ** | 
+  | [Ржавые наплечники](/ru/equipment/Ржавые наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Skeleton Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Алчность](/Emblem/Greed/) (Хаос)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Защита**  (Дозор оборонительных отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/ru/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

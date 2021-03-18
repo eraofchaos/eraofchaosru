@@ -2,18 +2,18 @@
 title: "Эксклюзив - Дань смерти"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Эра хаоса Дань смерти. Дань смерти. Эра хаоса Эксклюзив Дань смерти. Лич Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Lich Дань смерти.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Дань смерти** 
 
- **Эксклюзив for Unit:** [Лич](/units/Lich/) 
+ **Эксклюзив for Unit:** [Лич](/ru/units/Lich/) 
 
  **Item to Повысить ранг :** -
 
@@ -21,13 +21,13 @@ classes: wide
 
  **Type:** Стрелковый
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Жертва души дракона>: на 5-й и 45-й секунде боя призывает костяного дракона на 20 сек. (ATK и ОЗ костяного дракона зависят от уровня отряда. Костяной дракон получает <Страх> и <Пробивание>. Когда он на поле боя, все союзные отряды Некрополя получают +20% к урону и сопротивлению урону) |
   | **1x** <i class="fas fa-star"/> | ? | Лич получает +20% к сопротивлению урону |

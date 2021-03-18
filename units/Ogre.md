@@ -3,7 +3,7 @@ title: "Огр"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Огр"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Варвар
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Бассейн крови: усиливает высасывание жизни ближайших отрядов.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Посох с головой барана](/equipment/Посох с головой барана/) | **АТК** | **ЗЩТ** | 
-  | [Пояс ритуала](/equipment/Пояс ритуала/) | **ОЗ** | **ЗЩТ** | 
-  | [Талисман племени](/equipment/Талисман племени/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники ритуала](/equipment/Наплечники ритуала/) | **ОЗ** | **ЗЩТ** | 
+  | [Посох с головой барана](/ru/equipment/Посох с головой барана/) | **АТК** | **ЗЩТ** | 
+  | [Пояс ритуала](/ru/equipment/Пояс ритуала/) | **ОЗ** | **ЗЩТ** | 
+  | [Талисман племени](/ru/equipment/Талисман племени/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники ритуала](/ru/equipment/Наплечники ритуала/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Ogre Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Ogre Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

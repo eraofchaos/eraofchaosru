@@ -3,7 +3,7 @@ title: "Драконий голем"
 permalink: /units/Dragon Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Драконий голем"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Совершенная защита.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Коготь из сплава](/equipment/Коготь из сплава/) | **АТК** | **ЗЩТ** | 
-  | [Голова дракона из титана](/equipment/Голова дракона из титана/) | **ОЗ** | **ЗЩТ** | 
-  | [Главный рычаг управления](/equipment/Главный рычаг управления/) | **АТК** | **ЗЩТ** | 
-  | [Броня из сплава](/equipment/Броня из сплава/) | **ОЗ** | **ЗЩТ** | 
+  | [Коготь из сплава](/ru/equipment/Коготь из сплава/) | **АТК** | **ЗЩТ** | 
+  | [Голова дракона из титана](/ru/equipment/Голова дракона из титана/) | **ОЗ** | **ЗЩТ** | 
+  | [Главный рычаг управления](/ru/equipment/Главный рычаг управления/) | **АТК** | **ЗЩТ** | 
+  | [Броня из сплава](/ru/equipment/Броня из сплава/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
-* [Алчность](/Emblem/Greed/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Защита**  (Дозор оборонительных отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

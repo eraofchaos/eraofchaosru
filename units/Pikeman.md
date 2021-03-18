@@ -3,7 +3,7 @@ title: "Копейщик"
 permalink: /units/Pikeman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе."
 unitID: 101
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Копейщик"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Копейщики стоят на переднем крае обороны королевства. Эти опытные воины отважно сражались во многих битвах. Они верны короне и уважаемы в народе.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Лес копий: наносит урон вражеским отрядам, оглушая их.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Голубое копье](/equipment/Голубое копье/) | **АТК** | **ЗЩТ** | 
-  | [Латный шлем](/equipment/Латный шлем/) | **ОЗ** | **ЗЩТ** | 
-  | [Щит часового](/equipment/Щит часового/) | **АТК** | **ЗЩТ** | 
-  | [Латные наплечники](/equipment/Латные наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Голубое копье](/ru/equipment/Голубое копье/) | **АТК** | **ЗЩТ** | 
+  | [Латный шлем](/ru/equipment/Латный шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит часового](/ru/equipment/Щит часового/) | **АТК** | **ЗЩТ** | 
+  | [Латные наплечники](/ru/equipment/Латные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Pikeman Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Наступление**  (Дозор атакующих отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

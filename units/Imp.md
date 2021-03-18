@@ -3,7 +3,7 @@ title: "Бес"
 permalink: /units/Imp/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Бес"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Импульс: отряд получает шанс после смерти воскреснуть с полным запасом здоровья.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Зловещие когти](/equipment/Зловещие когти/) | **АТК** | **ЗЩТ** | 
-  | [Зловещий катар](/equipment/Зловещий катар/) | **ОЗ** | **ЗЩТ** | 
-  | [Зловещие крылья](/equipment/Зловещие крылья/) | **АТК** | **ЗЩТ** | 
-  | [Зловещая легкая броня](/equipment/Зловещая легкая броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Зловещие когти](/ru/equipment/Зловещие когти/) | **АТК** | **ЗЩТ** | 
+  | [Зловещий катар](/ru/equipment/Зловещий катар/) | **ОЗ** | **ЗЩТ** | 
+  | [Зловещие крылья](/ru/equipment/Зловещие крылья/) | **АТК** | **ЗЩТ** | 
+  | [Зловещая легкая броня](/ru/equipment/Зловещая легкая броня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Imp Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Гнев](/Emblem/Anger/) (Хаос)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Защита**  (Дозор оборонительных отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

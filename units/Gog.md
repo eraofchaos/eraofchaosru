@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гог"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Стена Огня: наносит урон всем вражеским отрядам на своем пути.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ошпаривающий шар](/equipment/Ошпаривающий шар/) | **АТК** | **ЗЩТ** | 
-  | [Огненный рог](/equipment/Огненный рог/) | **ОЗ** | **ЗЩТ** | 
-  | [Хвост пламени](/equipment/Хвост пламени/) | **АТК** | **ЗЩТ** | 
-  | [Ошпаривающие браслеты](/equipment/Ошпаривающие браслеты/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающий шар](/ru/equipment/Ошпаривающий шар/) | **АТК** | **ЗЩТ** | 
+  | [Огненный рог](/ru/equipment/Огненный рог/) | **ОЗ** | **ЗЩТ** | 
+  | [Хвост пламени](/ru/equipment/Хвост пламени/) | **АТК** | **ЗЩТ** | 
+  | [Ошпаривающие браслеты](/ru/equipment/Ошпаривающие браслеты/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Gog Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -159,9 +159,10 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **R**  (R)
 
 ### Бонус героя
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -2,18 +2,18 @@
 title: "Эксклюзив - Загробная сабля"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Эра хаоса Загробная сабля. Загробная сабля. Эра хаоса Эксклюзив Загробная сабля. Черный рыцарь Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Black Knight Загробная сабля.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Загробная сабля** 
 
- **Эксклюзив for Unit:** [Черный рыцарь](/units/Black Knight/) 
+ **Эксклюзив for Unit:** [Черный рыцарь](/ru/units/Black Knight/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,14 +27,14 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | Черный рыцарь уменьшает ЗЩТ вражеских отрядов в большом радиусе на 30%. Повышает пробивание на 500 в бою против отрядов с низким боевым духом |
   | **1x** <i class="fas fa-star"/> | ? | Черный рыцарь получает +20% к сопротивлению урону. |
   | **2x** <i class="fas fa-star"/> | ? | Черный рыцарь получает +25% к урону. |
   | **3x** <i class="fas fa-star"/> | ? | В начале боя черный рыцарь проводит штурм. В это время он неуязвим ко всем видам урона. Через 6 сек. он появляется перед вражеским отрядом, стоящим в конце линии. Если подходящей цели нет, нападает на случайный отряд в заднем ряду и использует <Критическую схватку> (Без пробуждения. Срабатывает только один раз за битву). |
-  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | ? | Черный рыцарь получает +20% к высасыванию жизни. Получает +20% к высасыванию жизни на 5 сек. после нанесения критического удара |
+  | **4x** <i class="fas fa-star"/> | ? | Нанося критический удар, черный рыцарь получает 50 ед. критического удара и 20% сопротивления магии. Эффект длится 5 сек. и суммируется до 10 раз |
+  | **5x** <i class="fas fa-star"/> | ? | Черный рыцарь получает +20% к высасыванию жизни. Получает +20% к высасыванию жизни на 5 сек. после нанесения критического удара. |
   | **6x** <i class="fas fa-star"/> | ? | <Возрождение короля>: призыв 1 черного рыцаря каждые 20 сек. 1 черного рыцаря можно призвать, как только целевой отряд будет убит. Каждый раз, когда появляется черный рыцарь, его отряд получает +100 к критическому удару и +50 к пробиванию. |
 
 

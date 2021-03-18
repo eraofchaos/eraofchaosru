@@ -3,7 +3,7 @@ title: "Регнанский пират"
 permalink: /units/Regnan Pirates/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда."
 unitID: 9901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Регнанский пират"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Они жестоки и изобретательны. Тем кораблям, что лежат сейчас на дне моря, не посчастливилось во время экспедиции натолкнуться на их суда.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Пират
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Храбрость, существенно повышающая УРН.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Упрочненное мачете](/equipment/Упрочненное мачете/) | **АТК** | **ЗЩТ** | 
-  | [Рубашка моряка](/equipment/Рубашка моряка/) | **ОЗ** | **ЗЩТ** | 
-  | [Праведная бандана](/equipment/Праведная бандана/) | **АТК** | **ЗЩТ** | 
-  | [Штаны моряка](/equipment/Штаны моряка/) | **ОЗ** | **ЗЩТ** | 
+  | [Упрочненное мачете](/ru/equipment/Упрочненное мачете/) | **АТК** | **ЗЩТ** | 
+  | [Рубашка моряка](/ru/equipment/Рубашка моряка/) | **ОЗ** | **ЗЩТ** | 
+  | [Праведная бандана](/ru/equipment/Праведная бандана/) | **АТК** | **ЗЩТ** | 
+  | [Штаны моряка](/ru/equipment/Штаны моряка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Regnan Pirates Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Дыхание дракона](/Emblem/Dragon King's Breath/) (Злой)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Дыхание дракона](/ru/Emblem/Dragon King's Breath/) (Злой)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Питер Ли](/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Питер Ли](/ru/heroes/Peter Lee/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

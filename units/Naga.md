@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Нага"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Танец лезвия: наносит урон в области, снижает защиту от него
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Изобильный клинок](/equipment/Изобильный клинок/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники морехода](/equipment/Наплечники морехода/) | **ОЗ** | **ЗЩТ** | 
-  | [Головной убор Змеиного бога](/equipment/Головной убор Змеиного бога/) | **АТК** | **ЗЩТ** | 
-  | [Прочный и гибкий латный пояс](/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **ЗЩТ** | 
+  | [Изобильный клинок](/ru/equipment/Изобильный клинок/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники морехода](/ru/equipment/Наплечники морехода/) | **ОЗ** | **ЗЩТ** | 
+  | [Головной убор Змеиного бога](/ru/equipment/Головной убор Змеиного бога/) | **АТК** | **ЗЩТ** | 
+  | [Прочный и гибкий латный пояс](/ru/equipment/Прочный и гибкий латный пояс/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч нага](/Exclusive/Naga Naga Sword/) 
+ **Name:** [Меч нага](/ru/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

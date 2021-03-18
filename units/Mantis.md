@@ -3,7 +3,7 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Богомол"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Быстрый порез, усиление по области
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_2091](/ru/equipment/UnknownEquipment_2091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_2092](/ru/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_2093](/ru/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_2094](/ru/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
 
 ## Информация о комбинации
 
@@ -166,10 +166,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Наступление**  (Дозор атакующих отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

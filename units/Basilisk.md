@@ -3,7 +3,7 @@ title: "Василиск"
 permalink: /units/Basilisk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети."
 unitID: 804
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Василиск"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Контроль танков. Окаменение.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Шипастый воротник василиска](/equipment/Шипастый воротник василиска/) | **АТК** | **ЗЩТ** | 
-  | [Адамантовая чешуя](/equipment/Адамантовая чешуя/) | **ОЗ** | **ЗЩТ** | 
-  | [Отравленный коготь](/equipment/Отравленный коготь/) | **АТК** | **ЗЩТ** | 
-  | [Клык окаменения](/equipment/Клык окаменения/) | **ОЗ** | **ЗЩТ** | 
+  | [Шипастый воротник василиска](/ru/equipment/Шипастый воротник василиска/) | **АТК** | **ЗЩТ** | 
+  | [Адамантовая чешуя](/ru/equipment/Адамантовая чешуя/) | **ОЗ** | **ЗЩТ** | 
+  | [Отравленный коготь](/ru/equipment/Отравленный коготь/) | **АТК** | **ЗЩТ** | 
+  | [Клык окаменения](/ru/equipment/Клык окаменения/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Энергия огня](/Exclusive/Basilisk Basilisk's Tail/) 
+ **Name:** [Энергия огня](/ru/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

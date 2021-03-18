@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /units/Orc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Орк"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Орк
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Казнь: наносит дополнительный урон врагам, у которых запас здоровья меньше 30%.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Метательный топор](/equipment/Метательный топор/) | **АТК** | **ЗЩТ** | 
-  | [Пояс ограничения](/equipment/Пояс ограничения/) | **ОЗ** | **ЗЩТ** | 
-  | [Железные наплечники](/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
-  | [Кровожадные наплечники](/equipment/Кровожадные наплечники/) | **ОЗ** | **ЗЩТ** | 
+  | [Метательный топор](/ru/equipment/Метательный топор/) | **АТК** | **ЗЩТ** | 
+  | [Пояс ограничения](/ru/equipment/Пояс ограничения/) | **ОЗ** | **ЗЩТ** | 
+  | [Железные наплечники](/ru/equipment/Железные наплечники/) | **АТК** | **ЗЩТ** | 
+  | [Кровожадные наплечники](/ru/equipment/Кровожадные наплечники/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Orc Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

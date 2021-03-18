@@ -3,7 +3,7 @@ title: "Мантикора"
 permalink: /units/Manticore/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Мантикора"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Чудовище с телом льва, крыльями летучей мыши и хвостом скорпиона. Тот, кого поразит его жало, до следующего рассвета уже не доживет.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Большой УВС и выносливость.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Коготь Бездны](/equipment/Коготь Бездны/) | **АТК** | **ЗЩТ** | 
-  | [Клык со смертельным ядом](/equipment/Клык со смертельным ядом/) | **ОЗ** | **ЗЩТ** | 
-  | [Ядовитый хвост](/equipment/Ядовитый хвост/) | **АТК** | **ЗЩТ** | 
-  | [Крылья мантикоры](/equipment/Крылья мантикоры/) | **ОЗ** | **ЗЩТ** | 
+  | [Коготь Бездны](/ru/equipment/Коготь Бездны/) | **АТК** | **ЗЩТ** | 
+  | [Клык со смертельным ядом](/ru/equipment/Клык со смертельным ядом/) | **ОЗ** | **ЗЩТ** | 
+  | [Ядовитый хвост](/ru/equipment/Ядовитый хвост/) | **АТК** | **ЗЩТ** | 
+  | [Крылья мантикоры](/ru/equipment/Крылья мантикоры/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Хвост скорпиона](/Exclusive/Manticore Scorpion Tail/) 
+ **Name:** [Хвост скорпиона](/ru/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -148,11 +148,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

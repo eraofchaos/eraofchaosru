@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /units/Swordsman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Мечник"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Божественная защита снижает получаемый урон.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Меч империи](/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
-  | [Шлем офицера](/equipment/Шлем офицера/) | **ОЗ** | **ЗЩТ** | 
-  | [Щит империи](/equipment/Щит империи/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники империи](/equipment/Наплечники империи/) | **ОЗ** | **ЗЩТ** | 
+  | [Меч империи](/ru/equipment/Меч империи/) | **АТК** | **ЗЩТ** | 
+  | [Шлем офицера](/ru/equipment/Шлем офицера/) | **ОЗ** | **ЗЩТ** | 
+  | [Щит империи](/ru/equipment/Щит империи/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники империи](/ru/equipment/Наплечники империи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Swordsman Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Алчность](/Emblem/Greed/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Катерина](/heroes/Catherine/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Катерина](/ru/heroes/Catherine/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Вихрь: наносит урон в области и снижает скорость атаки
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Секира горгоны](/equipment/Секира горгоны/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники горгоны](/equipment/Наплечники горгоны/) | **ОЗ** | **ЗЩТ** | 
-  | [Ленты горгоны](/equipment/Ленты горгоны/) | **АТК** | **ЗЩТ** | 
-  | [Пояс горгоны](/equipment/Пояс горгоны/) | **ОЗ** | **ЗЩТ** | 
+  | [Секира горгоны](/ru/equipment/Секира горгоны/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники горгоны](/ru/equipment/Наплечники горгоны/) | **ОЗ** | **ЗЩТ** | 
+  | [Ленты горгоны](/ru/equipment/Ленты горгоны/) | **АТК** | **ЗЩТ** | 
+  | [Пояс горгоны](/ru/equipment/Пояс горгоны/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Minotaur Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

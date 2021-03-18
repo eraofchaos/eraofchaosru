@@ -2,18 +2,18 @@
 title: "Эксклюзив - Уничтожитель"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Эра хаоса Уничтожитель. Уничтожитель. Эра хаоса Эксклюзив Уничтожитель. Красный дракон Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Red Dragon Уничтожитель.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Уничтожитель** 
 
- **Эксклюзив for Unit:** [Красный дракон](/units/Red Dragon/) 
+ **Эксклюзив for Unit:** [Красный дракон](/ru/units/Red Dragon/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | <Дух дракона>: внутри красного дракона каждые 15 сек. зарождается один дух дракона. Всего в одном драконе может быть до 4 духов. Каждый дух дает дракону +10% к урону отряда и +10% к сопротивлению урону. Когда в драконе появляется дух, срабатывает <Ярость пламени>, которая наносит выбранному отряду урон в 150% от АТК. Горящая цель получает дополнительный урон в 20% от макс. ОЗ. Перезарядка 20 сек. |
   | **1x** <i class="fas fa-star"/> | ? | За каждый размещенный отряд Подземелья красные драконы получают +50 к защите и пробиванию. |

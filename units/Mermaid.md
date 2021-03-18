@@ -3,7 +3,7 @@ title: "Русалка"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана."
 unitID: 9905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Русалка"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Групповое исцеление. Сильные положительные эффекты.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Морской орган](/equipment/Морской орган/) | **АТК** | **ЗЩТ** | 
-  | [Сережки водяного](/equipment/Сережки водяного/) | **ОЗ** | **ЗЩТ** | 
-  | [Гибкий рыбий хвост](/equipment/Гибкий рыбий хвост/) | **АТК** | **ЗЩТ** | 
-  | [Защита океана](/equipment/Защита океана/) | **ОЗ** | **ЗЩТ** | 
+  | [Морской орган](/ru/equipment/Морской орган/) | **АТК** | **ЗЩТ** | 
+  | [Сережки водяного](/ru/equipment/Сережки водяного/) | **ОЗ** | **ЗЩТ** | 
+  | [Гибкий рыбий хвост](/ru/equipment/Гибкий рыбий хвост/) | **АТК** | **ЗЩТ** | 
+  | [Защита океана](/ru/equipment/Защита океана/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Прилив](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Прилив](/ru/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Вина Тарнума](/Emblem/Tarnum's Culpability/) (Нейтральный)
-* [Принципы наследия](/Emblem/Successors' Legal Principles/) (Нейтральный)
+* [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/) (Нейтральный)
+* [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) (Нейтральный)
 
 ## Информация о комбинации
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

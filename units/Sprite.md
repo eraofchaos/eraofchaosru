@@ -3,7 +3,7 @@ title: "Фея"
 permalink: /units/Sprite/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал."
 unitID: 901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Фея"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Short description:** Накладывает немоту. Улучшает заклинание в начале боя.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ароматный венок](/equipment/Ароматный венок/) | **АТК** | **ЗЩТ** | 
-  | [Платье Луны и звезд](/equipment/Платье Луны и звезд/) | **ОЗ** | **ЗЩТ** | 
-  | [Фосфоресцирующие крылья бабочки](/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **ЗЩТ** | 
-  | [Изумрудное обручье](/equipment/Изумрудное обручье/) | **ОЗ** | **ЗЩТ** | 
+  | [Ароматный венок](/ru/equipment/Ароматный венок/) | **АТК** | **ЗЩТ** | 
+  | [Платье Луны и звезд](/ru/equipment/Платье Луны и звезд/) | **ОЗ** | **ЗЩТ** | 
+  | [Фосфоресцирующие крылья бабочки](/ru/equipment/Фосфоресцирующие крылья бабочки/) | **АТК** | **ЗЩТ** | 
+  | [Изумрудное обручье](/ru/equipment/Изумрудное обручье/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Sprite Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Sprite Knight Pike/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

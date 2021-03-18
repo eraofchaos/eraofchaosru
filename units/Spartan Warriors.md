@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /units/Spartan Warriors/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!"
 unitID: 9702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Спартанец"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Нейтральная армия](/units/Faction Neutral Army/)
+ **Фракция:** [Нейтральная армия](/ru/units/Faction Neutral Army/)
 
  **Race:** Орден Ассасинов
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Оглушение щитом, месть
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Спартанский шлем](/equipment/Спартанский шлем/) | **АТК** | **ЗЩТ** | 
-  | [Стальной щит](/equipment/Стальной щит/) | **ОЗ** | **ЗЩТ** | 
-  | [Длинное копье](/equipment/Длинное копье/) | **АТК** | **ЗЩТ** | 
-  | [Птерюгес](/equipment/Птерюгес/) | **ОЗ** | **ЗЩТ** | 
+  | [Спартанский шлем](/ru/equipment/Спартанский шлем/) | **АТК** | **ЗЩТ** | 
+  | [Стальной щит](/ru/equipment/Стальной щит/) | **ОЗ** | **ЗЩТ** | 
+  | [Длинное копье](/ru/equipment/Длинное копье/) | **АТК** | **ЗЩТ** | 
+  | [Птерюгес](/ru/equipment/Птерюгес/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -148,10 +148,11 @@ toc: true
 
 * **Нейтральные отряды**  (Нейтральный дозор)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кассандра](/heroes/Kassandra/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассандра](/ru/heroes/Kassandra/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

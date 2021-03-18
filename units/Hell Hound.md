@@ -3,7 +3,7 @@ title: "Гончая ада"
 permalink: /units/Hell Hound/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гончая ада"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Зверь
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Буйство: каждый удар на некоторое время становится критическим.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ошпаривающие зубы](/equipment/Ошпаривающие зубы/) | **АТК** | **ЗЩТ** | 
-  | [Адская броня](/equipment/Адская броня/) | **ОЗ** | **ЗЩТ** | 
-  | [Ошпаривающие когти](/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
-  | [Грива пламени](/equipment/Грива пламени/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающие зубы](/ru/equipment/Ошпаривающие зубы/) | **АТК** | **ЗЩТ** | 
+  | [Адская броня](/ru/equipment/Адская броня/) | **ОЗ** | **ЗЩТ** | 
+  | [Ошпаривающие когти](/ru/equipment/Ошпаривающие когти/) | **АТК** | **ЗЩТ** | 
+  | [Грива пламени](/ru/equipment/Грива пламени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Hell Hound Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
 
 ## Информация о комбинации
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

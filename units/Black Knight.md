@@ -3,7 +3,7 @@ title: "Черный рыцарь"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Черный рыцарь"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Критическая схватка: наносит огромный урон и снижает боевой дух.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Проклятый меч](/equipment/Проклятый меч/) | **АТК** | **ЗЩТ** | 
-  | [Щиток мертвого](/equipment/Щиток мертвого/) | **ОЗ** | **ЗЩТ** | 
-  | [Браслеты кошмара](/equipment/Браслеты кошмара/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники кошмара](/equipment/Наплечники кошмара/) | **ОЗ** | **ЗЩТ** | 
+  | [Проклятый меч](/ru/equipment/Проклятый меч/) | **АТК** | **ЗЩТ** | 
+  | [Щиток мертвого](/ru/equipment/Щиток мертвого/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты кошмара](/ru/equipment/Браслеты кошмара/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники кошмара](/ru/equipment/Наплечники кошмара/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Загробная сабля](/Exclusive/Black Knight Nether Sabre/) 
+ **Name:** [Загробная сабля](/ru/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Ум](/Emblem/Witness/) (Добро)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Ум](/ru/Emblem/Witness/) (Добро)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,12 +161,13 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Лорд Хаарт](/heroes/Lord Haart/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Лорд Хаарт](/ru/heroes/Lord Haart/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -2,18 +2,18 @@
 title: "Эксклюзив - Вечный огонь"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Эра хаоса Вечный огонь. Вечный огонь. Эра хаоса Эксклюзив Вечный огонь. Жар-птица Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Firebird Вечный огонь.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Вечный огонь** 
 
- **Эксклюзив for Unit:** [Жар-птица](/units/Firebird/) 
+ **Эксклюзив for Unit:** [Жар-птица](/ru/units/Firebird/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,12 +27,12 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | ? | <Горящая земля>: жар-птица наносит урон вражеским отрядам в своем ряду 3 раз каждые 10 сек., и они горят 8 сек. |
+  |  Пробуждение  | ? | <Горящая земля>: жар-птица наносит урон вражеским отрядам в своем ряду 3 раза каждые 10 сек., и они горят 8 сек. |
   | **1x** <i class="fas fa-star"/> | ? | Жар-птица неуязвима к урону от заклинаний Огня. |
   | **2x** <i class="fas fa-star"/> | ? | Жар-птица получает +10% к урону и +20% к скорости атаки. |
-  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
+  | **3x** <i class="fas fa-star"/> | ? | В бою против отрядов из 1 или 4 бойцов атака жар-птицы наносит урон в 20% от своего показателя атаки вражеским отрядам в пределах определенного расстояния от цели и накладывает горение. |
   | **4x** <i class="fas fa-star"/> | ? | Если цель горит, жар-птица получает +400 к пробиванию. |
   | **5x** <i class="fas fa-star"/> | ? | Когда союзный герой накладывает заклинание огня, Феникс восстанавливает 10% ОЗ. Срабатывает раз в 5 сек. |
   | **6x** <i class="fas fa-star"/> | ? | Жар-птица получает +20% к урону. Когда вражеский герой накладывает заклинание Огня, жар-птица получает +20% к урону и сопротивлению урону. Эффект длится 5 сек. |

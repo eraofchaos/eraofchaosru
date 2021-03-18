@@ -3,7 +3,7 @@ title: "Белый тигр"
 permalink: /units/White Tiger/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Белый тигр"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Единорог
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Position :** Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя.
 
@@ -66,19 +66,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_8091](/ru/equipment/UnknownEquipment_8091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_8092](/ru/equipment/UnknownEquipment_8092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_8093](/ru/equipment/UnknownEquipment_8093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_8094](/ru/equipment/UnknownEquipment_8094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Принципы наследия](/Emblem/Successors' Legal Principles/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Принципы наследия](/ru/Emblem/Successors' Legal Principles/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -168,10 +168,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

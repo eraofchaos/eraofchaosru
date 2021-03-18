@@ -3,7 +3,7 @@ title: "Каменная горгулья"
 permalink: /units/Stone Gargoyle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
 unitID: 602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Каменная горгулья"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Каменное обличье: усиливает атаку и скорость атаки.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Каменный рог](/equipment/Каменный рог/) | **АТК** | **ЗЩТ** | 
-  | [Каменные крылья](/equipment/Каменные крылья/) | **ОЗ** | **ЗЩТ** | 
-  | [Острые каменные когти](/equipment/Острые каменные когти/) | **АТК** | **ЗЩТ** | 
-  | [Зачарованный хвост](/equipment/Зачарованный хвост/) | **ОЗ** | **ЗЩТ** | 
+  | [Каменный рог](/ru/equipment/Каменный рог/) | **АТК** | **ЗЩТ** | 
+  | [Каменные крылья](/ru/equipment/Каменные крылья/) | **ОЗ** | **ЗЩТ** | 
+  | [Острые каменные когти](/ru/equipment/Острые каменные когти/) | **АТК** | **ЗЩТ** | 
+  | [Зачарованный хвост](/ru/equipment/Зачарованный хвост/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Меч](/Exclusive/Stone Gargoyle Sword/) 
+ **Name:** [Меч](/ru/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

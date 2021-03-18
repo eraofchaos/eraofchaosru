@@ -3,7 +3,7 @@ title: "Единорог"
 permalink: /units/Unicorn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами."
 unitID: 206
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Единорог"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Существование единорогов - спорная тема. Многие считают, что это лишь красивая легенда. Но их красота сравнима с их же беспощадностью в бою, делающей их легендарными воинами.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Единорог
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Ослепление: снижает вероятность попадания для целого ряда вражеских войск.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Кристаллический длинный рог](/equipment/Кристаллический длинный рог/) | **АТК** | **ЗЩТ** | 
-  | [Камни мечтателя](/equipment/Камни мечтателя/) | **ОЗ** | **ЗЩТ** | 
-  | [Кристаллические копыта](/equipment/Кристаллические копыта/) | **АТК** | **ЗЩТ** | 
-  | [Туманная грива](/equipment/Туманная грива/) | **ОЗ** | **ЗЩТ** | 
+  | [Кристаллический длинный рог](/ru/equipment/Кристаллический длинный рог/) | **АТК** | **ЗЩТ** | 
+  | [Камни мечтателя](/ru/equipment/Камни мечтателя/) | **ОЗ** | **ЗЩТ** | 
+  | [Кристаллические копыта](/ru/equipment/Кристаллические копыта/) | **АТК** | **ЗЩТ** | 
+  | [Туманная грива](/ru/equipment/Туманная грива/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Зловещий знак](/Emblem/Ominous Sign/) (Злой)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Зловещий знак](/ru/Emblem/Ominous Sign/) (Злой)
 
 ## Информация о комбинации
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

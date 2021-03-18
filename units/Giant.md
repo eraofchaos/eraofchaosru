@@ -3,7 +3,7 @@ title: "Гигант"
 permalink: /units/Giant/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира."
 unitID: 607
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гигант"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Бог войны: игнорирует ограничение дальности и наносит урон в зависимости от здоровья
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Разряд молнии](/equipment/Разряд молнии/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники из чистого золота](/equipment/Наплечники из чистого золота/) | **ОЗ** | **ЗЩТ** | 
-  | [Громовой шлем](/equipment/Громовой шлем/) | **АТК** | **ЗЩТ** | 
-  | [Нагрудник молнии](/equipment/Нагрудник молнии/) | **ОЗ** | **ЗЩТ** | 
+  | [Разряд молнии](/ru/equipment/Разряд молнии/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники из чистого золота](/ru/equipment/Наплечники из чистого золота/) | **ОЗ** | **ЗЩТ** | 
+  | [Громовой шлем](/ru/equipment/Громовой шлем/) | **АТК** | **ЗЩТ** | 
+  | [Нагрудник молнии](/ru/equipment/Нагрудник молнии/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Громада](/Exclusive/Giant Thousand Ton/) 
+ **Name:** [Громада](/ru/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

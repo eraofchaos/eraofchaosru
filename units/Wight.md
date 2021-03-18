@@ -3,7 +3,7 @@ title: "Призрак"
 permalink: /units/Wight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Призраки жаждут лишь одного - жизни. Они вытянут из окружающих столько энергии, сколько смогут. Некроманты используют призраков, чтобы собирать души живых."
 unitID: 303
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Призрак"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Призраки жаждут лишь одного - жизни. Они вытянут из окружающих столько энергии, сколько смогут. Некроманты используют призраков, чтобы собирать души живых.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Ужасающий вопль: вызывает немоту у вражеских отрядов на пути.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Призрачные когти](/equipment/Призрачные когти/) | **АТК** | **ЗЩТ** | 
-  | [Легкая броня реквиема](/equipment/Легкая броня реквиема/) | **ОЗ** | **ЗЩТ** | 
-  | [Проклятая душа](/equipment/Проклятая душа/) | **АТК** | **ЗЩТ** | 
-  | [Платье реквиема](/equipment/Платье реквиема/) | **ОЗ** | **ЗЩТ** | 
+  | [Призрачные когти](/ru/equipment/Призрачные когти/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня реквиема](/ru/equipment/Легкая броня реквиема/) | **ОЗ** | **ЗЩТ** | 
+  | [Проклятая душа](/ru/equipment/Проклятая душа/) | **АТК** | **ЗЩТ** | 
+  | [Платье реквиема](/ru/equipment/Платье реквиема/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Wight Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Зеленый пророк](/Emblem/Green Prophet/) (Добро)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Зеленый пророк](/ru/Emblem/Green Prophet/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

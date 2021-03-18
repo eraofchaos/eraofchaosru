@@ -2,7 +2,7 @@
 title: "Era of Chaos - Сфинкс questions and correct answers"
 permalink: /sphinx/
 excerpt: "Эра хаоса Сфинкс. Сфинкс. List of ALL Сфинкс questions with correct answers in Era of Chaos"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: ru
 ref: "index.md"
 toc: false

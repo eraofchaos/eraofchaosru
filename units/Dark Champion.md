@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Казнь. Непобедимость в собственном царстве.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Серп тишины](/equipment/Серп тишины/) | **АТК** | **ЗЩТ** | 
-  | [Тяжелый шлем преджизни](/equipment/Тяжелый шлем преджизни/) | **ОЗ** | **ЗЩТ** | 
-  | [Огонь спасения Инферно](/equipment/Огонь спасения Инферно/) | **АТК** | **ЗЩТ** | 
-  | [Лопатка Аида](/equipment/Лопатка Аида/) | **ОЗ** | **ЗЩТ** | 
+  | [Серп тишины](/ru/equipment/Серп тишины/) | **АТК** | **ЗЩТ** | 
+  | [Тяжелый шлем преджизни](/ru/equipment/Тяжелый шлем преджизни/) | **ОЗ** | **ЗЩТ** | 
+  | [Огонь спасения Инферно](/ru/equipment/Огонь спасения Инферно/) | **АТК** | **ЗЩТ** | 
+  | [Лопатка Аида](/ru/equipment/Лопатка Аида/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Наступление**  (Дозор атакующих отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Видомина](/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Видомина](/ru/heroes/Vidomina/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

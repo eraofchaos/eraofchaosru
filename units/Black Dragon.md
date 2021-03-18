@@ -3,7 +3,7 @@ title: "Черный дракон"
 permalink: /units/Black Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Черный дракон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Дракон
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Дыхание дракона: атакует врагов в большом радиусе и поджигает их
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Когти магического дракона](/equipment/Когти магического дракона/) | **АТК** | **ЗЩТ** | 
-  | [Опустошающий огонь](/equipment/Опустошающий огонь/) | **ОЗ** | **ЗЩТ** | 
-  | [Затмевающие небо крылья](/equipment/Затмевающие небо крылья/) | **АТК** | **ЗЩТ** | 
-  | [Бронированная чешуя](/equipment/Бронированная чешуя/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти магического дракона](/ru/equipment/Когти магического дракона/) | **АТК** | **ЗЩТ** | 
+  | [Опустошающий огонь](/ru/equipment/Опустошающий огонь/) | **ОЗ** | **ЗЩТ** | 
+  | [Затмевающие небо крылья](/ru/equipment/Затмевающие небо крылья/) | **АТК** | **ЗЩТ** | 
+  | [Бронированная чешуя](/ru/equipment/Бронированная чешуя/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Чешуя черного дракона](/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Name:** [Чешуя черного дракона](/ru/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

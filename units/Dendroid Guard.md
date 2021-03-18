@@ -3,7 +3,7 @@ title: "Дендроид-страж"
 permalink: /units/Dendroid Guard/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов."
 unitID: 205
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Дендроид-страж"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Дендроиды-стражи служат живым воплощением леса. При всей своей неповоротливости они очень сильны. И используют лесную лозу, чтобы опутать зазевавшихся врагов.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Бес
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Связывание: Снижает скорость атаки врага, вызывает замедление.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ветвь живучести](/equipment/Ветвь живучести/) | **АТК** | **ЗЩТ** | 
-  | [Корона изобилия](/equipment/Корона изобилия/) | **ОЗ** | **ЗЩТ** | 
-  | [Вечнозеленая руна](/equipment/Вечнозеленая руна/) | **АТК** | **ЗЩТ** | 
-  | [Доспех лозы](/equipment/Доспех лозы/) | **ОЗ** | **ЗЩТ** | 
+  | [Ветвь живучести](/ru/equipment/Ветвь живучести/) | **АТК** | **ЗЩТ** | 
+  | [Корона изобилия](/ru/equipment/Корона изобилия/) | **ОЗ** | **ЗЩТ** | 
+  | [Вечнозеленая руна](/ru/equipment/Вечнозеленая руна/) | **АТК** | **ЗЩТ** | 
+  | [Доспех лозы](/ru/equipment/Доспех лозы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Dendroid Guard Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Алчность](/Emblem/Greed/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Риланд](/heroes/Ryland/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Риланд](/ru/heroes/Ryland/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

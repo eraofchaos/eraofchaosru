@@ -3,7 +3,7 @@ title: "Виверна"
 permalink: /units/Wyvern/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Виверна"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Сильный рукопашник. Ядовитый.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Когти дракона](/equipment/Когти дракона/) | **АТК** | **ЗЩТ** | 
-  | [Чумной клык](/equipment/Чумной клык/) | **ОЗ** | **ЗЩТ** | 
-  | [Спинные шипы беса](/equipment/Спинные шипы беса/) | **АТК** | **ЗЩТ** | 
-  | [Крылья дракона](/equipment/Крылья дракона/) | **ОЗ** | **ЗЩТ** | 
+  | [Когти дракона](/ru/equipment/Когти дракона/) | **АТК** | **ЗЩТ** | 
+  | [Чумной клык](/ru/equipment/Чумной клык/) | **ОЗ** | **ЗЩТ** | 
+  | [Спинные шипы беса](/ru/equipment/Спинные шипы беса/) | **АТК** | **ЗЩТ** | 
+  | [Крылья дракона](/ru/equipment/Крылья дракона/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Хвост гадюки](/Exclusive/Wyvern Wyvern's Tail/) 
+ **Name:** [Хвост гадюки](/ru/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

@@ -3,7 +3,7 @@ title: "Пегас"
 permalink: /units/Pegasus/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель."
 unitID: 204
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Пегас"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Защита жизни: создает щит, укрывающий ближайшие отряды в вашей армии.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Терновый шакрам](/equipment/Терновый шакрам/) | **АТК** | **ЗЩТ** | 
-  | [Вечнозеленый венец](/equipment/Вечнозеленый венец/) | **ОЗ** | **ЗЩТ** | 
-  | [Рукавицы роз](/equipment/Рукавицы роз/) | **АТК** | **ЗЩТ** | 
-  | [Дивный доспех](/equipment/Дивный доспех/) | **ОЗ** | **ЗЩТ** | 
+  | [Терновый шакрам](/ru/equipment/Терновый шакрам/) | **АТК** | **ЗЩТ** | 
+  | [Вечнозеленый венец](/ru/equipment/Вечнозеленый венец/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы роз](/ru/equipment/Рукавицы роз/) | **АТК** | **ЗЩТ** | 
+  | [Дивный доспех](/ru/equipment/Дивный доспех/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Pegasus Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

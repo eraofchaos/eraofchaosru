@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /units/Beholder/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Бехолдер"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Злой дух
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Управление разумом: обездвиживает врага и заставляет его постепенно терять здоровье
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Глаз богохульства](/equipment/Глаз богохульства/) | **АТК** | **ЗЩТ** | 
-  | [Ученик смерти](/equipment/Ученик смерти/) | **ОЗ** | **ЗЩТ** | 
-  | [Злой бивень](/equipment/Злой бивень/) | **АТК** | **ЗЩТ** | 
-  | [Щупальца из Бездны](/equipment/Щупальца из Бездны/) | **ОЗ** | **ЗЩТ** | 
+  | [Глаз богохульства](/ru/equipment/Глаз богохульства/) | **АТК** | **ЗЩТ** | 
+  | [Ученик смерти](/ru/equipment/Ученик смерти/) | **ОЗ** | **ЗЩТ** | 
+  | [Злой бивень](/ru/equipment/Злой бивень/) | **АТК** | **ЗЩТ** | 
+  | [Щупальца из Бездны](/ru/equipment/Щупальца из Бездны/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Опасный взгляд](/Exclusive/Beholder Dark Gaze/) 
+ **Name:** [Опасный взгляд](/ru/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -149,11 +149,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

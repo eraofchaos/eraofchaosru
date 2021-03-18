@@ -3,7 +3,7 @@ title: "Магический корабль"
 permalink: /units/Magic Airship/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Магический корабль"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** УВС задней линии, положительные эффекты.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Система взлета](/equipment/Система взлета/) | **АТК** | **ЗЩТ** | 
-  | [Система управления](/equipment/Система управления/) | **ОЗ** | **ЗЩТ** | 
-  | [Главная вышка управления](/equipment/Главная вышка управления/) | **АТК** | **ЗЩТ** | 
-  | [Палуба наблюдения](/equipment/Палуба наблюдения/) | **ОЗ** | **ЗЩТ** | 
+  | [Система взлета](/ru/equipment/Система взлета/) | **АТК** | **ЗЩТ** | 
+  | [Система управления](/ru/equipment/Система управления/) | **ОЗ** | **ЗЩТ** | 
+  | [Главная вышка управления](/ru/equipment/Главная вышка управления/) | **АТК** | **ЗЩТ** | 
+  | [Палуба наблюдения](/ru/equipment/Палуба наблюдения/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Путеводная звезда](/Exclusive/Magic Airship Polaris/) 
+ **Name:** [Путеводная звезда](/ru/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

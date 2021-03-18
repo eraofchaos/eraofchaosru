@@ -3,7 +3,7 @@ title: "Дьявол"
 permalink: /units/Devil/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дьявол - властитель Инферно. Он всегда рвется в бой и способен даже телепортироваться, атакуя врагов в задних рядах."
 unitID: 507
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Дьявол"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Дьявол - властитель Инферно. Он всегда рвется в бой и способен даже телепортироваться, атакуя врагов в задних рядах.
 
- **Класс:** [Наступление](/units/Unit Class Offense/)
+ **Класс:** [Наступление](/ru/units/Unit Class Offense/)
 
  **Класс Описание:** Атакующие отряды могут ослаблять броню противников. Этот эффект не суммируется.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Одержимый
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Жестокий жнец: наносит большой урон вашим врагам, вызывая оглушение.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Коса Дьявола](/equipment/Коса Дьявола/) | **АТК** | **ЗЩТ** | 
-  | [Расплавленная пентаграмма](/equipment/Расплавленная пентаграмма/) | **ОЗ** | **ЗЩТ** | 
-  | [Рукавицы лавы](/equipment/Рукавицы лавы/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники лавы](/equipment/Наплечники лавы/) | **ОЗ** | **ЗЩТ** | 
+  | [Коса Дьявола](/ru/equipment/Коса Дьявола/) | **АТК** | **ЗЩТ** | 
+  | [Расплавленная пентаграмма](/ru/equipment/Расплавленная пентаграмма/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы лавы](/ru/equipment/Рукавицы лавы/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники лавы](/ru/equipment/Наплечники лавы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Коса дьявола](/Exclusive/Devil Devil Scythe/) 
+ **Name:** [Коса дьявола](/ru/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Наступление**  (Дозор атакующих отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Кендал](/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

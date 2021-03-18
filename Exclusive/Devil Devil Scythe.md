@@ -2,18 +2,18 @@
 title: "Эксклюзив - Коса дьявола"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Эра хаоса Коса дьявола. Коса дьявола. Эра хаоса Эксклюзив Коса дьявола. Дьявол Эксклюзив."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Devil Коса дьявола.md"
 toc: false
 classes: wide
 ---
- [Гармония](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Коса дьявола** 
 
- **Эксклюзив for Unit:** [Дьявол](/units/Devil/) 
+ **Эксклюзив for Unit:** [Дьявол](/ru/units/Devil/) 
 
  **Item to Повысить ранг :** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Повысить ранг 
 
-  |     Stars    |  Required to Up | Эксклюзивный эффект |
+  |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
   |  Пробуждение  | ? | Дьявол возрождается в точке появления через 6 сек. после первой смерти. Когда дьявол возрождается, все союзные отряды получают +10% к КРИТ. УРН, скорости атаки и сопротивлению урону на следующие 20 сек. Для отрядов фракции Инферно эффект удваивается. Возрожденный дьявол накладывает <Месть> на целевой отряд. <Месть> наносит урон в 200% ATK и «истощает» цель. Срабатывает раз в 45 сек. «Истощение» длится 5 сек. и не может быть рассеяно. «Истощенный» отряд теряет 20% сопротивления урону и 20% ЗЩТ. |
   | **1x** <i class="fas fa-star"/> | ? | Дьявол каждые 9 сек. накладывает <Метку ада> на случайный вражеский отряд. Отряд с меткой теряет 7% сопротивления урону. Суммируется до 3 раз. Как только у одной цели наберется 3 метки, они пропадут, нанеся 300% урона. Метка держится в течение всего боя и не может быть рассеяна. |

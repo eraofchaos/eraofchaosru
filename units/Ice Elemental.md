@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Ледяная аура. Стена льда.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Глубинный ледяной кристалл](/equipment/Глубинный ледяной кристалл/) | **АТК** | **ЗЩТ** | 
-  | [Головной убор приливов](/equipment/Головной убор приливов/) | **ОЗ** | **ЗЩТ** | 
-  | [Метка океана](/equipment/Метка океана/) | **АТК** | **ЗЩТ** | 
-  | [Одежда русалки](/equipment/Одежда русалки/) | **ОЗ** | **ЗЩТ** | 
+  | [Глубинный ледяной кристалл](/ru/equipment/Глубинный ледяной кристалл/) | **АТК** | **ЗЩТ** | 
+  | [Головной убор приливов](/ru/equipment/Головной убор приливов/) | **ОЗ** | **ЗЩТ** | 
+  | [Метка океана](/ru/equipment/Метка океана/) | **АТК** | **ЗЩТ** | 
+  | [Одежда русалки](/ru/equipment/Одежда русалки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Ice Elemental Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

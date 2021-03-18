@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Подводное царство
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Лидер Убежища. Сильный контроль.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Божественный трезубец души океана](/equipment/Божественный трезубец души океана/) | **АТК** | **ЗЩТ** | 
-  | [Ожерелье души Посейдона](/equipment/Ожерелье души Посейдона/) | **ОЗ** | **ЗЩТ** | 
-  | [Бандана сияния](/equipment/Бандана сияния/) | **АТК** | **ЗЩТ** | 
-  | [Благородный браслет](/equipment/Благородный браслет/) | **ОЗ** | **ЗЩТ** | 
+  | [Божественный трезубец души океана](/ru/equipment/Божественный трезубец души океана/) | **АТК** | **ЗЩТ** | 
+  | [Ожерелье души Посейдона](/ru/equipment/Ожерелье души Посейдона/) | **ОЗ** | **ЗЩТ** | 
+  | [Бандана сияния](/ru/equipment/Бандана сияния/) | **АТК** | **ЗЩТ** | 
+  | [Благородный браслет](/ru/equipment/Благородный браслет/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [](/Exclusive/Regnan Seer /) 
+ **Name:** [](/ru/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
-* [Разбитое пророчество](/Emblem/Broken Prophecy/) (Злой)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
+* [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) (Злой)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
 
 ## Информация о комбинации
 
@@ -163,10 +163,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

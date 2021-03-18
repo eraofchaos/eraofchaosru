@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /units/Shark Trainer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Повелитель акул"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Убежище](/units/Faction Cove/)
+ **Фракция:** [Убежище](/ru/units/Faction Cove/)
 
  **Race:** Пират
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Призыв гигантских акул, добивание
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Стальная сабля](/equipment/Стальная сабля/) | **АТК** | **ЗЩТ** | 
-  | [Защитные ремни](/equipment/Защитные ремни/) | **ОЗ** | **ЗЩТ** | 
-  | [Защитные перчатки](/equipment/Защитные перчатки/) | **АТК** | **ЗЩТ** | 
-  | [Акульи поводья](/equipment/Акульи поводья/) | **ОЗ** | **ЗЩТ** | 
+  | [Стальная сабля](/ru/equipment/Стальная сабля/) | **АТК** | **ЗЩТ** | 
+  | [Защитные ремни](/ru/equipment/Защитные ремни/) | **ОЗ** | **ЗЩТ** | 
+  | [Защитные перчатки](/ru/equipment/Защитные перчатки/) | **АТК** | **ЗЩТ** | 
+  | [Акульи поводья](/ru/equipment/Акульи поводья/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Рассекающий волны](/Exclusive/Shark Trainer Break Waves/) 
+ **Name:** [Рассекающий волны](/ru/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Ревность](/Emblem/Jealousy/) (Хаос)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Ревность](/ru/Emblem/Jealousy/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
 
 ## Информация о комбинации
 
@@ -197,10 +197,11 @@ toc: true
 
 * **Убежище**  (Дозор отрядов Убежища)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Кассанбель](/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Кассанбель](/ru/heroes/Cassanbel/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

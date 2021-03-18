@@ -3,7 +3,7 @@ title: "Гном"
 permalink: /units/Dwarf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гном"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Гномий вой: увеличивает максимум здоровья отряда в начале боя.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мощный молот](/equipment/Мощный молот/) | **АТК** | **ЗЩТ** | 
-  | [Рогатый шлем](/equipment/Рогатый шлем/) | **ОЗ** | **ЗЩТ** | 
-  | [Рукавицы печного огня](/equipment/Рукавицы печного огня/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники печного огня](/equipment/Наплечники печного огня/) | **ОЗ** | **ЗЩТ** | 
+  | [Мощный молот](/ru/equipment/Мощный молот/) | **АТК** | **ЗЩТ** | 
+  | [Рогатый шлем](/ru/equipment/Рогатый шлем/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы печного огня](/ru/equipment/Рукавицы печного огня/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники печного огня](/ru/equipment/Наплечники печного огня/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Dwarf Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Ангел-хранитель](/Emblem/Guardian Angel/) (Добро)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ангел-хранитель](/ru/Emblem/Guardian Angel/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -164,10 +164,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

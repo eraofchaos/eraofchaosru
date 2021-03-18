@@ -3,7 +3,7 @@ title: "Кентавр"
 permalink: /units/Centaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Кентавр"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Кентавры - прирожденные воины. Они постигают искусство боя с ранних лет. Им подвластны разные способы ведения боя, они могут устраивать налеты, сражаться и вести разведку.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Боевой топот: наносит урон ближайшему отряду, замедляя его.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Секира дикой природы](/equipment/Секира дикой природы/) | **АТК** | **ЗЩТ** | 
-  | [Шлем дикой природы](/equipment/Шлем дикой природы/) | **ОЗ** | **ЗЩТ** | 
-  | [Рукавицы дикой природы](/equipment/Рукавицы дикой природы/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники дикой природы](/equipment/Наплечники дикой природы/) | **ОЗ** | **ЗЩТ** | 
+  | [Секира дикой природы](/ru/equipment/Секира дикой природы/) | **АТК** | **ЗЩТ** | 
+  | [Шлем дикой природы](/ru/equipment/Шлем дикой природы/) | **ОЗ** | **ЗЩТ** | 
+  | [Рукавицы дикой природы](/ru/equipment/Рукавицы дикой природы/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники дикой природы](/ru/equipment/Наплечники дикой природы/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Славный щит](/Exclusive/Centaur Iris Shield/) 
+ **Name:** [Славный щит](/ru/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Ключ меча и магии](/Emblem/Stone Key to the Gates/) (Нейтральный)
-* [Жетон Аксо](/Emblem/Aksoe Token/) (Нейтральный)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) (Нейтральный)
+* [Жетон Аксо](/ru/Emblem/Aksoe Token/) (Нейтральный)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Защита**  (Дозор оборонительных отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

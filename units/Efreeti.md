@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /units/Efreeti/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Ифриты рождены в пламени Инферно. Они обладают магией Огня.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Инферно](/units/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/units/Faction Inferno/)
 
  **Race:** Злой дух
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Огненный шар: наносит огромный урон врагам, поджигая их.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Шар пламени](/equipment/Шар пламени/) | **АТК** | **ЗЩТ** | 
-  | [Легкая броня пламени](/equipment/Легкая броня пламени/) | **ОЗ** | **ЗЩТ** | 
-  | [Браслеты пламени](/equipment/Браслеты пламени/) | **АТК** | **ЗЩТ** | 
-  | [Наплечники пламени](/equipment/Наплечники пламени/) | **ОЗ** | **ЗЩТ** | 
+  | [Шар пламени](/ru/equipment/Шар пламени/) | **АТК** | **ЗЩТ** | 
+  | [Легкая броня пламени](/ru/equipment/Легкая броня пламени/) | **ОЗ** | **ЗЩТ** | 
+  | [Браслеты пламени](/ru/equipment/Браслеты пламени/) | **АТК** | **ЗЩТ** | 
+  | [Наплечники пламени](/ru/equipment/Наплечники пламени/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Efreeti Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -162,10 +162,11 @@ toc: true
 
 * **Инферно**  (Дозор отрядов Инферно)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Раска](/heroes/Rashka/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ксерон](/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Раска](/ru/heroes/Rashka/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

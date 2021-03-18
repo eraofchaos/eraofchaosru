@@ -3,7 +3,7 @@ title: "Мумия"
 permalink: /units/Mummy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят."
 unitID: 308
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Мумия"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Некрополь](/units/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/units/Faction Necropolis/)
 
  **Race:** Нежить
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Гнилостное проклятие: сильно затрудняет лечение противника.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Бессмертное касание](/equipment/Бессмертное касание/) | **АТК** | **ЗЩТ** | 
-  | [Древний бинт](/equipment/Древний бинт/) | **ОЗ** | **ЗЩТ** | 
-  | [Ученик покойного](/equipment/Ученик покойного/) | **АТК** | **ЗЩТ** | 
-  | [Дыхание смерти](/equipment/Дыхание смерти/) | **ОЗ** | **ЗЩТ** | 
+  | [Бессмертное касание](/ru/equipment/Бессмертное касание/) | **АТК** | **ЗЩТ** | 
+  | [Древний бинт](/ru/equipment/Древний бинт/) | **ОЗ** | **ЗЩТ** | 
+  | [Ученик покойного](/ru/equipment/Ученик покойного/) | **АТК** | **ЗЩТ** | 
+  | [Дыхание смерти](/ru/equipment/Дыхание смерти/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Бинты мумии](/Exclusive/Mummy Gauze/) 
+ **Name:** [Бинты мумии](/ru/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Похоть](/Emblem/Lust/) (Хаос)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Похоть](/ru/Emblem/Lust/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Некрополь**  (Дозор отрядов Некрополя)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Человек Сандро](/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сандро](/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Человек Сандро](/ru/heroes/Human Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сандро](/ru/heroes/Sandro/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

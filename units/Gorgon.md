@@ -3,7 +3,7 @@ title: "Горгона"
 permalink: /units/Gorgon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Горгона"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью.
 
- **Класс:** [Защита](/units/Unit Class Defense/)
+ **Класс:** [Защита](/ru/units/Unit Class Defense/)
 
  **Класс Описание:** Оборонительные отряды могут дольше сопротивляться атаке и несут меньший урон.
 
- **Фракция:** [Крепость](/units/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/units/Faction Fortress/)
 
  **Race:** Зверь
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/ru/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Высокая атака. Устойчивый. Сильный контроль.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Адамантовая кожа](/equipment/Адамантовая кожа/) | **АТК** | **ЗЩТ** | 
-  | [Варварская броня для спины](/equipment/Варварская броня для спины/) | **ОЗ** | **ЗЩТ** | 
-  | [Смертельный рог быка](/equipment/Смертельный рог быка/) | **АТК** | **ЗЩТ** | 
-  | [Магическое копыто быка](/equipment/Магическое копыто быка/) | **ОЗ** | **ЗЩТ** | 
+  | [Адамантовая кожа](/ru/equipment/Адамантовая кожа/) | **АТК** | **ЗЩТ** | 
+  | [Варварская броня для спины](/ru/equipment/Варварская броня для спины/) | **ОЗ** | **ЗЩТ** | 
+  | [Смертельный рог быка](/ru/equipment/Смертельный рог быка/) | **АТК** | **ЗЩТ** | 
+  | [Магическое копыто быка](/ru/equipment/Магическое копыто быка/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Чешуя горгоны](/Exclusive/Gorgon Gorgon's Horn/) 
+ **Name:** [Чешуя горгоны](/ru/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Благословение](/Emblem/Queen's Blessing/) (Порядок)
-* [Снаряжение времени](/Emblem/Gear of Time/) (Добро)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Благословение](/ru/Emblem/Queen's Blessing/) (Порядок)
+* [Снаряжение времени](/ru/Emblem/Gear of Time/) (Добро)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -169,10 +169,11 @@ toc: true
 
 * **Крепость**  (Дозор отрядов Крепости)
 * **Защита**  (Дозор оборонительных отрядов)
+* **SSR**  (SSR)
 
 ### Бонус героя
-* [Мефала](/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Тазар](/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Тазар](/ru/heroes/Tazar/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

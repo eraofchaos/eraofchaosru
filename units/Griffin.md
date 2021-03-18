@@ -3,7 +3,7 @@ title: "Грифон"
 permalink: /units/Griffin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
 unitID: 103
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Грифон"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Замок](/units/Faction Castle/)
+ **Фракция:** [Замок](/ru/units/Faction Castle/)
 
  **Race:** Зверь
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Пикирование: во время атаки наносит урон 3 противника.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Зазубренные когти](/equipment/Зазубренные когти/) | **АТК** | **ЗЩТ** | 
-  | [Головной доспех скорости](/equipment/Головной доспех скорости/) | **ОЗ** | **ЗЩТ** | 
-  | [Перо архигрифона](/equipment/Перо архигрифона/) | **АТК** | **ЗЩТ** | 
-  | [Эмблема империи](/equipment/Эмблема империи/) | **ОЗ** | **ЗЩТ** | 
+  | [Зазубренные когти](/ru/equipment/Зазубренные когти/) | **АТК** | **ЗЩТ** | 
+  | [Головной доспех скорости](/ru/equipment/Головной доспех скорости/) | **ОЗ** | **ЗЩТ** | 
+  | [Перо архигрифона](/ru/equipment/Перо архигрифона/) | **АТК** | **ЗЩТ** | 
+  | [Эмблема империи](/ru/equipment/Эмблема империи/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Копье рыцаря](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Ум](/Emblem/Witness/) (Добро)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Ум](/ru/Emblem/Witness/) (Добро)
 
 ## Информация о комбинации
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Замок**  (Дозор отрядов Замка)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Роланд](/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Роланд](/ru/heroes/Roland/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
@@ -175,40 +176,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Священный грифон
 
- **Awaking Описание:** null
+ **Awaking Описание:** Ручные грифоны семьи Эдрика стали хранителями Эрафии. Днем и ночью они летают вокруг замка, готовые разорвать когтями любого злоумышленника, который попытается к нему приблизиться.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте грифонов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Замка, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ресурсов в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ священных грифонов на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Используйте грифонов и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Замка, чтобы победить в 3 боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Турбулентный поток
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ответный удар в пикировании&gt;</span><span style="color: #645252;font-size:18px"> дополнительно снижает скорость атаки выбранного отряда на 40% на 5 сек.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): Штурмовое пике
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Ответный удар в пикировании&gt;</span><span style="color: #645252;font-size:18px"> дополнительно повышает свою скорость атаки на 40% на 5 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): Владыка святилища
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Управление башней&gt;</span><span style="color: #645252;font-size:18px">: грифоны используют силу орла, чтобы в начале боя повысить урон союзных летающих отрядов на 40% на 20 сек.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): Страж святилища
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Управление башней&gt;</span><span style="color: #645252;font-size:18px">: грифоны используют силу льва, чтобы в начале боя повысить сопротивление урону у союзных отрядов ближнего боя на 40% на 20 сек.</span>
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): Небесное братство
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Владыка неба&gt;</span><span style="color: #645252;font-size:18px">: за каждый союзный летающий отряд на поле боя грифоны повышают защиту на 5%.</span>
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Сотрясающий землю удар
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Владыка неба&gt;</span><span style="color: #645252;font-size:18px">: когда грифоны сражаются против наземных отрядов, их урон отряда повышается на 50%.</span>
 
 ## Technical info
  **runart:** 1

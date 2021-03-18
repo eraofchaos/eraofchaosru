@@ -3,7 +3,7 @@ title: "Друид"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Друид"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Бастион](/units/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/units/Faction Rampart/)
 
  **Race:** Лес
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Unit description:** Лесная хроносфера: отряды в волшебном кругу становятся невосприимчивы к магическому урону
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Корона безмятежности](/equipment/Корона безмятежности/) | **АТК** | **ЗЩТ** | 
-  | [Древний посох](/equipment/Древний посох/) | **ОЗ** | **ЗЩТ** | 
-  | [Мантия гнева шторма](/equipment/Мантия гнева шторма/) | **АТК** | **ЗЩТ** | 
-  | [Высокие сапоги леса](/equipment/Высокие сапоги леса/) | **ОЗ** | **ЗЩТ** | 
+  | [Корона безмятежности](/ru/equipment/Корона безмятежности/) | **АТК** | **ЗЩТ** | 
+  | [Древний посох](/ru/equipment/Древний посох/) | **ОЗ** | **ЗЩТ** | 
+  | [Мантия гнева шторма](/ru/equipment/Мантия гнева шторма/) | **АТК** | **ЗЩТ** | 
+  | [Высокие сапоги леса](/ru/equipment/Высокие сапоги леса/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Расцвет природы](/Exclusive/Druid Staff of Regrowth/) 
+ **Name:** [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
-* [Алчность](/Emblem/Greed/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Алчность](/ru/Emblem/Greed/) (Хаос)
 
 ## Информация о комбинации
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Бастион**  (Дозор отрядов Бастиона)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джем](/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джем](/ru/heroes/Gem/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

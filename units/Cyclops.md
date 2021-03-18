@@ -3,7 +3,7 @@ title: "Циклоп"
 permalink: /units/Cyclops/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов."
 unitID: 406
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Циклоп"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Могучее тело и всего один глаз - циклопа легко узнать и очень трудно не заметить. Они свирепы и беспощадны. Их родословную можно проследить до демонов.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Варвар
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Огненный камень: наносит чудовищный урон всем вражеским врагам на пути.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Валун](/equipment/Валун/) | **АТК** | **ЗЩТ** | 
-  | [Оковы войны](/equipment/Оковы войны/) | **ОЗ** | **ЗЩТ** | 
-  | [Зубчатые браслеты](/equipment/Зубчатые браслеты/) | **АТК** | **ЗЩТ** | 
-  | [Кожаные брюки](/equipment/Кожаные брюки/) | **ОЗ** | **ЗЩТ** | 
+  | [Валун](/ru/equipment/Валун/) | **АТК** | **ЗЩТ** | 
+  | [Оковы войны](/ru/equipment/Оковы войны/) | **ОЗ** | **ЗЩТ** | 
+  | [Зубчатые браслеты](/ru/equipment/Зубчатые браслеты/) | **АТК** | **ЗЩТ** | 
+  | [Кожаные брюки](/ru/equipment/Кожаные брюки/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Cyclops Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Йог](/heroes/Yog/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Йог](/ru/heroes/Yog/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

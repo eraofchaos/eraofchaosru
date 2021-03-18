@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Злая ведьма"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Описание:** Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью.
 
- **Класс:** [Штурм](/units/Unit Class Charging/)
+ **Класс:** [Штурм](/ru/units/Unit Class Charging/)
 
  **Класс Описание:** Штурмовые отряды атакуют задний ряд, нанося повышенный критический урон стрелковым отрядам и заклинателям.
 
- **Фракция:** [Подземелье](/units/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/units/Faction Dungeon/)
 
  **Race:** Войска Подземелья
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Отражение заклинаний, усиление по области
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_7091](/ru/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_7092](/ru/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
+  | [UnknownEquipment_7093](/ru/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
+  | [UnknownEquipment_7094](/ru/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Подземелье**  (Дозор отрядов Подземелья)
 * **Штурм**  (Дозор штурмовых отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Мюллих](/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Мутара](/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Дракон Мутара](/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мюллих](/ru/heroes/Mullich/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Мутара](/ru/heroes/Mutare/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон Мутара](/ru/heroes/Dragon Mutare/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

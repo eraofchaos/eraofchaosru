@@ -3,7 +3,7 @@ title: "Элементаль Шторма"
 permalink: /units/Storm Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Элементаль Шторма"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Энергетическое создание, рожденное в войне элементалей Воздуха. Любой, кто осмелится к нему приблизиться, будет поражен электричеством.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Гармония](/units/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Short description:** Помечает одну цель для высокого урона.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Мерцающий шар молнии](/equipment/Мерцающий шар молнии/) | **АТК** | **ЗЩТ** | 
-  | [Ядро грома](/equipment/Ядро грома/) | **ОЗ** | **ЗЩТ** | 
-  | [Волшебный коготь](/equipment/Волшебный коготь/) | **АТК** | **ЗЩТ** | 
-  | [Око молнии](/equipment/Око молнии/) | **ОЗ** | **ЗЩТ** | 
+  | [Мерцающий шар молнии](/ru/equipment/Мерцающий шар молнии/) | **АТК** | **ЗЩТ** | 
+  | [Ядро грома](/ru/equipment/Ядро грома/) | **ОЗ** | **ЗЩТ** | 
+  | [Волшебный коготь](/ru/equipment/Волшебный коготь/) | **АТК** | **ЗЩТ** | 
+  | [Око молнии](/ru/equipment/Око молнии/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Storm Elemental Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Древний огонь](/Emblem/Ancient Fire/) (Порядок)
-* [Крылья грифона](/Emblem/Griffin Wings/) (Порядок)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
+* [Древний огонь](/ru/Emblem/Ancient Fire/) (Порядок)
+* [Крылья грифона](/ru/Emblem/Griffin Wings/) (Порядок)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
 
 ## Информация о комбинации
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Гармония**  (Дозор отрядов Гармонии)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Сиэль](/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Сиэль](/ru/heroes/Ciele/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

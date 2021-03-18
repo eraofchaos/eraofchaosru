@@ -3,7 +3,7 @@ title: "Архимаг"
 permalink: /units/Arch Mage/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Архимаг"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество.
 
- **Класс:** [Заклинатель](/units/Unit Class Caster/)
+ **Класс:** [Заклинатель](/ru/units/Unit Class Caster/)
 
  **Класс Описание:** Благодаря своим тайным знаниям, отряды заклинателей обладают повышенным сопротивлением магии.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/ru/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
  **Unit description:** Пробивание заклинания: урон отдельным отрядам становится все больше
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Длинный посох мистической силы](/equipment/Длинный посох мистической силы/) | **АТК** | **ЗЩТ** | 
-  | [Кристаллическая корона волшебства](/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **ЗЩТ** | 
-  | [Волшебная сфера маны](/equipment/Волшебная сфера маны/) | **АТК** | **ЗЩТ** | 
-  | [Мантия мага](/equipment/Мантия мага/) | **ОЗ** | **ЗЩТ** | 
+  | [Длинный посох мистической силы](/ru/equipment/Длинный посох мистической силы/) | **АТК** | **ЗЩТ** | 
+  | [Кристаллическая корона волшебства](/ru/equipment/Кристаллическая корона волшебства/) | **ОЗ** | **ЗЩТ** | 
+  | [Волшебная сфера маны](/ru/equipment/Волшебная сфера маны/) | **АТК** | **ЗЩТ** | 
+  | [Мантия мага](/ru/equipment/Мантия мага/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Таинственное пение](/Exclusive/Arch Mage Arcane Chant/) 
+ **Name:** [Таинственное пение](/ru/Exclusive/Arch Mage Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Наследие Айронфиста](/Emblem/Ironfist's Legacy/) (Порядок)
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) (Порядок)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Заклинатель**  (Дозор отрядов заклинателей)
+* **SR**  (SR)
 
 ### Бонус героя
-* [Дракон](/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Дракон](/ru/heroes/Dracon/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

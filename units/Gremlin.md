@@ -3,7 +3,7 @@ title: "Гремлин"
 permalink: /units/Gremlin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы."
 unitID: 601
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Гремлин"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Описание:** Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Башня](/units/Faction Tower/)
+ **Фракция:** [Башня](/ru/units/Faction Tower/)
 
  **Race:** Человек
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/ru/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
  **Unit description:** Магический железный шар железный шар: значительно усиливает атаку и скорость атаки.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Цеп молнии](/equipment/Цеп молнии/) | **АТК** | **ЗЩТ** | 
-  | [Зачарованный капюшон](/equipment/Зачарованный капюшон/) | **ОЗ** | **ЗЩТ** | 
-  | [Зачарованные перчатки](/equipment/Зачарованные перчатки/) | **АТК** | **ЗЩТ** | 
-  | [Ветрозащитный плащ](/equipment/Ветрозащитный плащ/) | **ОЗ** | **ЗЩТ** | 
+  | [Цеп молнии](/ru/equipment/Цеп молнии/) | **АТК** | **ЗЩТ** | 
+  | [Зачарованный капюшон](/ru/equipment/Зачарованный капюшон/) | **ОЗ** | **ЗЩТ** | 
+  | [Зачарованные перчатки](/ru/equipment/Зачарованные перчатки/) | **АТК** | **ЗЩТ** | 
+  | [Ветрозащитный плащ](/ru/equipment/Ветрозащитный плащ/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
- **Name:** [Длинный лук](/Exclusive/Gremlin Long Bow/) 
+ **Name:** [Длинный лук](/ru/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Рекомендуемые эмблемы святости
 
-* [Тайна Неувядающего](/Emblem/Everlasting Secret/) (Порядок)
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Гнев](/Emblem/Anger/) (Хаос)
+* [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гнев](/ru/Emblem/Anger/) (Хаос)
 
 ## Информация о комбинации
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Башня**  (Дозор отрядов Башни)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **R**  (R)
 
 ### Бонус героя
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Астрал](/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Астрал](/ru/heroes/Astral/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

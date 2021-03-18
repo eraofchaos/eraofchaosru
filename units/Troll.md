@@ -3,30 +3,27 @@ title: "Великан Тор"
 permalink: /units/Troll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: ru
 ref: "Великан Тор"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Описание:** Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны.
 
- **Класс:** [Стрелковый](/units/Unit Class Ranged/)
+ **Класс:** [Стрелковый](/ru/units/Unit Class Ranged/)
 
  **Класс Описание:** Чем дальше стрелковый отряд от цели, тем больше наносимый ими урон.
 
- **Фракция:** [Цитадель](/units/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/units/Faction Stronghold/)
 
  **Race:** Хозяин зверей
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/units/Unit Rank Commander/)
+ **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
  **Short description:** Одиночная атака, выход ярости
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Цепь из камней](/equipment/Цепь из камней/) | **АТК** | **ЗЩТ** | 
-  | [Мощь владыки](/equipment/Мощь владыки/) | **ОЗ** | **ЗЩТ** | 
-  | [Доспех павшего врага](/equipment/Доспех павшего врага/) | **АТК** | **ЗЩТ** | 
-  | [Сапоги дозорного](/equipment/Сапоги дозорного/) | **ОЗ** | **ЗЩТ** | 
+  | [Цепь из камней](/ru/equipment/Цепь из камней/) | **АТК** | **ЗЩТ** | 
+  | [Мощь владыки](/ru/equipment/Мощь владыки/) | **ОЗ** | **ЗЩТ** | 
+  | [Доспех павшего врага](/ru/equipment/Доспех павшего врага/) | **АТК** | **ЗЩТ** | 
+  | [Сапоги дозорного](/ru/equipment/Сапоги дозорного/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
 
 ## Рекомендуемые эмблемы святости
 
-* [Суд отцов](/Emblem/The Judgment of Fathers/) (Нейтральный)
-* [Гордыня](/Emblem/Arrogance/) (Хаос)
-* [Королевская беда](/Emblem/King's Calamity/) (Злой)
+* [Суд отцов](/ru/Emblem/The Judgment of Fathers/) (Нейтральный)
+* [Гордыня](/ru/Emblem/Arrogance/) (Хаос)
+* [Королевская беда](/ru/Emblem/King's Calamity/) (Злой)
 
 ## Информация о комбинации
 
@@ -176,11 +173,12 @@ toc: true
 
 * **Цитадель**  (Дозор отрядов Цитадели)
 * **Стрелок**  (Дозор стрелковых отрядов)
+* **Командующий**  (Командующий)
 
 ### Бонус героя
-* [Килгор](/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Джелу](/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Крэг Хак](/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Килгор](/ru/heroes/Kilgor/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Джелу](/ru/heroes/Gelu/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Крэг Хак](/ru/heroes/Crag Hack/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 
