@@ -2,7 +2,7 @@
 title: "Информация о комбинации"
 permalink: /combination/
 excerpt: "Эра хаоса Информация о комбинации. Информация о комбинации. Units and Heroes Formation."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "index.md"
 toc: false

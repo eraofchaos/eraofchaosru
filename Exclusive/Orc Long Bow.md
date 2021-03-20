@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Орк Эксклюзив."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Orc Длинный лук.md"
 toc: false

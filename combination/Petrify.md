@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Окаменение"
 permalink: /combination/Petrify/
 excerpt: "Информация о комбинации - Окаменение. Units and Heroes Formation."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Окаменение.md"
 toc: false

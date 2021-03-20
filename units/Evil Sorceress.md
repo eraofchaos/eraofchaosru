@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Злая ведьма"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Снаряжение
 
-  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/ru/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_7092](/ru/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_7093](/ru/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_7094](/ru/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
+  | I | Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/ru/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/ru/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/ru/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/ru/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 

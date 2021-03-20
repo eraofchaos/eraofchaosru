@@ -3,7 +3,7 @@ title: "Огненный демон"
 permalink: /units/Venom Spawn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы."
 unitID: 509
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Огненный демон"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Снаряжение
 
-  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/ru/equipment/UnknownEquipment_5091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_5092](/ru/equipment/UnknownEquipment_5092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_5093](/ru/equipment/UnknownEquipment_5093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_5094](/ru/equipment/UnknownEquipment_5094/) | **ОЗ** | **ЗЩТ** | 
+  | I | Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/ru/equipment/UnknownEquipment_5091/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/ru/equipment/UnknownEquipment_5092/) | **ОЗ** | **ЗЩТ** | 
+  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/ru/equipment/UnknownEquipment_5093/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/ru/equipment/UnknownEquipment_5094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 

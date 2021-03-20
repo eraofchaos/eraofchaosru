@@ -2,7 +2,7 @@
 title: "Эксклюзив - Кровожадный дух"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Эра хаоса Кровожадный дух. Кровожадный дух. Эра хаоса Эксклюзив Кровожадный дух. Чудище Эксклюзив."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Behemoth Кровожадный дух.md"
 toc: false

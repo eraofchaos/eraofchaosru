@@ -3,7 +3,7 @@ title: "Белый тигр"
 permalink: /units/White Tiger/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Белый тигр"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Снаряжение
 
-  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/ru/equipment/UnknownEquipment_8091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_8092](/ru/equipment/UnknownEquipment_8092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_8093](/ru/equipment/UnknownEquipment_8093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_8094](/ru/equipment/UnknownEquipment_8094/) | **ОЗ** | **ЗЩТ** | 
+  | I | Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/ru/equipment/UnknownEquipment_8091/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/ru/equipment/UnknownEquipment_8092/) | **ОЗ** | **ЗЩТ** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/ru/equipment/UnknownEquipment_8093/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/ru/equipment/UnknownEquipment_8094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Коса дьявола"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Эра хаоса Коса дьявола. Коса дьявола. Эра хаоса Эксклюзив Коса дьявола. Дьявол Эксклюзив."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Devil Коса дьявола.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: ru
 ref: "Богомол"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Снаряжение
 
-  |  Снаряжение  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/ru/equipment/UnknownEquipment_2091/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_2092](/ru/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
-  | [UnknownEquipment_2093](/ru/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
-  | [UnknownEquipment_2094](/ru/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
+  | I | Снаряжение  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/ru/equipment/UnknownEquipment_2091/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/ru/equipment/UnknownEquipment_2092/) | **ОЗ** | **ЗЩТ** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/ru/equipment/UnknownEquipment_2093/) | **АТК** | **ЗЩТ** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/ru/equipment/UnknownEquipment_2094/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
