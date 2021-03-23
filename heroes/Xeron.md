@@ -46,6 +46,20 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Огнем противникам в определенной области и призывает 1 дьявола <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. с <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> АТК и иммунитетом к любому урону. Дьявол остается на 10 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Ксерон](/heroes/Adjutant Xeron/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Огонь души 
+
+ **Описание:** Союзные отряды Инферно, атакующие <span style="color: #e07c44;font-size:20px">горящий</span><span style="color: black"> отряд, получают +<span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black"> к урону отряда.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+
 ## HERO Biography
 
 ## HERO Skins

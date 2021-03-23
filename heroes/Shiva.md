@@ -46,6 +46,21 @@ toc: true
  **Описание:** Создает шторм в выбранной области, который наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> урона Воздухом всем отрядам в определенной области каждые 0,5 сек и снижает их скорость атаки на 15%. Эффект длится {$olast11/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Шива](/heroes/Adjutant Shiva/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Цитадели 
+
+ **Описание:** Союзные отряды Цитадели получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к АТК.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

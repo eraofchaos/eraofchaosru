@@ -44,6 +44,22 @@ toc: true
  **Описание:** Корабль Питера Ли атакует врагов и наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой всем вражеским отрядам. Оборонительные отряды получат дополнительный урон от заклинания в размере 10% от максимального ОЗ
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Питер Ли](/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Убежища 
+
+ **Описание:** Союзные отряды Убежища получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к АТК.
+
+## Информация о комбинации
+
+* [Высокий боевой дух](/combination/Высокий боевой дух/) 
+* [Замедление](/combination/Замедление/) 
+* [Сдерживание](/combination/Сдерживание/) 
+
 ## HERO Biography
 
 ## HERO Skins

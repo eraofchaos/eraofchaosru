@@ -44,6 +44,21 @@ toc: true
  **Описание:** Дает всем союзным отрядам ближнего боя +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Крэг Хак](/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Отряды 
+
+ **Умение адъютанта:**  До конца 
+
+ **Описание:** Все союзные отряды ближнего боя получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> к пробиванию.
+
+## Информация о комбинации
+
+* [Кровотечение](/combination/Кровотечение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
    - Если нет войны, то Крэг Хак плавает по морям, грабя корабли и портовые города, чтобы утолить жажду крови.
    - Это безжизненное место находится рядом с Крулодом. Много лет он оставался захвачен варварами.

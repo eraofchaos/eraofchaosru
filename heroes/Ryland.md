@@ -46,6 +46,21 @@ toc: true
  **Описание:** Восстанавливает <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ союзным отрядам в большой области. Цели с <span style="color: #e07c44;font-size:20px">щитом</span><span style="color: black"> восстанавливают вдвое больше здоровья.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Риланд](/heroes/Adjutant Ryland/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Бастиона 
+
+ **Описание:** Союзные отряды Бастиона получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к ОЗ.
+
+## Информация о комбинации
+
+* [Оглушение](/combination/Оглушение/) 
+* [Щит](/combination/Щит/) 
+
 ## HERO Biography
 
 ## HERO Skins

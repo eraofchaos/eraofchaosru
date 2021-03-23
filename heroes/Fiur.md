@@ -44,6 +44,20 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> урона Огнем противникам в большой области, а также дополнительный урон Огнем <span style="color: #e07c44;font-size:20px">горящим</span><span style="color: black"> целям в размере 35% от их максимального ОЗ
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Фиур](/heroes/Adjutant Fiur/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Ущерб интеллекту 
+
+ **Описание:** Вражеские герои теряют <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> ед. интеллекта.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+
 ## HERO Biography
 
 ## HERO Skins

@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона противникам в области действия каждые 0,8 сек. Также <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> цели на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек. Эффект длится {$olast11/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Мутара](/heroes/Adjutant Mutare/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Подземелья 
+
+ **Описание:** Союзные отряды Подземелья получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к ОЗ.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

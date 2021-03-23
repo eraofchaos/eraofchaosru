@@ -44,6 +44,20 @@ toc: true
  **Описание:** Создает огненные врата в выбранной области и призывает 3 отряда бесов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. Бесы остаются 20 сек., имеют <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> ОЗ.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Зидар](/heroes/Adjutant Zydar/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Развитие интеллекта 
+
+ **Описание:** Союзные герои получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> к интеллекту.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+
 ## HERO Biography
 
 ## HERO Skins

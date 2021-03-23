@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит урон Землей всем врагам, кроме отрядов Некрополя, в размере <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> и 5% от их максимального ОЗ, а также накладывает <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек. Кроме того, восстанавливает ОЗ союзных отрядов Некрополя на <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> и дает им <span style="color: #e07c44;font-size:20px">низкий боевой дух</span><span style="color: black">.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Сандро](/heroes/Adjutant Sandro/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Вторжение тьмы 
+
+ **Описание:** Все отряды с <span style="color: #e07c44;font-size:20px">низким боевым духом</span><span style="color: black"> дополнительно теряют <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black"> сопротивления урону.
+
+## Информация о комбинации
+
+* [Низкий боевой дух](/combination/Низкий боевой дух/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
    - Сандро решил посетить Дейю, получив Накидку Мертвого короля и Доспех проклятого...
    - Сандро наступает своим врагам на пятки. Под тенью смерти он движется все дальше...

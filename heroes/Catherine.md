@@ -46,6 +46,22 @@ toc: true
  **Описание:** Призывает буран, который наносит урон Водой противникам в большой области 5 раз, <span style="color: #e07c44;font-size:20px">замедляя</span><span style="color: black"> их на 8 сек. Общее количество наносимого урона равно <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Катерина](/heroes/Adjutant Catherine/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Замка 
+
+ **Описание:** Союзные отряды Замка получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к ОЗ.
+
+## Информация о комбинации
+
+* [Высокий боевой дух](/combination/Высокий боевой дух/) 
+* [Замедление](/combination/Замедление/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
    - Самым сложным сражением для Катерины было последнее: бой за Утес грифонов, где ее войска победили армию дьяволов. Это противостояние ознаменовало ее возвращение на трон.
    - Катерину поддерживали ее друзья. Аделаида, единственная спутница, прекрасно понимала усталость и выпавшие на долю Катерины тяготы.

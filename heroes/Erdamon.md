@@ -44,6 +44,21 @@ toc: true
  **Описание:** Создает лавовую ловушку, которая наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Землей нелетающим противникам рядом с собой каждую секунду и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 0,7 сек. Ловушка остается {$olast11/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Эрдамон](/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Гармонии 
+
+ **Описание:** Союзные отряды Гармонии получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к ОЗ.
+
+## Информация о комбинации
+
+* [Оглушение](/combination/Оглушение/) 
+* [Щит](/combination/Щит/) 
+
 ## HERO Biography
 
 ## HERO Skins

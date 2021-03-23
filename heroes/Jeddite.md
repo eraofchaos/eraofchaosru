@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в очень большой области раз в {$ointerval/1000} сек. и восстанавливает ОЗ союзных отрядов в размере, равном нанесенному урону. Действует {($olast11+$olast12*($sklevel-1))/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Джеддит](/heroes/Adjutant Jeddite/) 
+
+ **Type:**  Заклинание 
+
+ **Умение адъютанта:**  Ущерб защите 
+
+ **Описание:** Вражеские герои теряют <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> ед. защиты.
+
+## Информация о комбинации
+
+* [Окаменение](/combination/Окаменение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

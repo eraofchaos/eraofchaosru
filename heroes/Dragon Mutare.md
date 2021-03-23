@@ -44,6 +44,22 @@ toc: true
  **Описание:** Накладывает <span style="color: #e07c44;font-size:20px">кровотечение</span><span style="color: black"> на всех противников, которое наносит урон в размере <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> от их максимального ОЗ каждые 2 сек. в течение 16 сек., а также <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 6 сек. Некоторые отряды могут получить иммунитет к урону от <span style="color: #e07c44;font-size:20px">кровотечения</span><span style="color: black">; исцеление <span style="color: #e07c44;font-size:20px">кровоточащих</span><span style="color: black"> отрядов снизится.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Дракон Мутара](/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Круг дракона 
+
+ **Описание:** Когда союзный герой применяет заклинание, союзные отряды Подземелья получают +<span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> к урону. Эффект длится 5 сек. и суммируется до 5 раз.
+
+## Информация о комбинации
+
+* [Кровотечение](/combination/Кровотечение/) 
+* [Горение](/combination/Горение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

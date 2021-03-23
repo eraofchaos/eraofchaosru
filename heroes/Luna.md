@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> урона Огнем противникам в очень большой области действия, а также <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> дополнительного урона Огнем <span style="color: #e07c44;font-size:20px">горящим</span><span style="color: black"> целям
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Луна](/heroes/Adjutant Luna/) 
+
+ **Type:**  Заклинание 
+
+ **Умение адъютанта:**  Усиление Огня 
+
+ **Описание:** Союзные герои наносят на <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black"> больше урона заклинаниями Огня.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

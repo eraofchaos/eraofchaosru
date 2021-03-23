@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наделяет все союзные отряды <span style="color: #e07c44;font-size:20px">высоким боевым духом</span><span style="color: black"> и дает +50<50*($a122+$a126+$a132+$a136)>% к АТК на {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Роланд](/heroes/Adjutant Roland/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Рвение 
+
+ **Описание:** Союзные отряды Замка с <span style="color: #e07c44;font-size:20px">высоким боевым духом</span><span style="color: black"> дополнительно получают +<span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black"> к скорости атаки на 6 сек.
+
+## Информация о комбинации
+
+* [Высокий боевой дух](/combination/Высокий боевой дух/) 
+* [Горение](/combination/Горение/) 
+
 ## HERO Biography
 
 ## HERO Skins

@@ -44,6 +44,19 @@ toc: true
  **Описание:** Призывает тень на 10 сек. Тень наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в области действия каждую секунду и снижает скорость их атаки на 30%. Кроме того, повышает скорость атаки и высасывание жизни союзных отрядов Некрополя на 30%
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Человек Сандро](/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Заклинание 
+
+ **Умение адъютанта:**  Спиритизм 
+
+ **Описание:** Союзные герои получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к эффекту всех заклинаний призыва и +<span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black"> к сопротивлению отряда урону.
+
+## Информация о комбинации
+
+  none
 ## HERO Biography
 
 ## HERO Skins

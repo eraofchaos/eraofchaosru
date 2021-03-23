@@ -46,6 +46,21 @@ toc: true
  **Описание:** Призывает 4 королей единорогов <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в указанное место. Единороги остаются на 20 сек., имеют <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black"> ОЗ.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Янова](/heroes/Adjutant Jenova/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Тяга к знаниям 
+
+ **Описание:** Союзные герои получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> к знаниям.
+
+## Информация о комбинации
+
+* [Ослепление](/combination/Ослепление/) 
+* [Щит](/combination/Щит/) 
+
 ## HERO Biography
 
 ## HERO Skins

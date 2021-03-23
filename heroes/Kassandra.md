@@ -44,6 +44,19 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в большой области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black"> и <span style="color: #e07c44;font-size:20px">оглушение</span><span style="color: black">, которые длятся {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Кассандра](/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Мощь Леонида 
+
+ **Описание:** Когда вражеский герой применяет заклинание Огня, союзные нейтральные отряды получают +<span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))}%</span><span style="color: black"> к защите на 10 сек.
+
+## Информация о комбинации
+
+  none
 ## HERO Biography
 
 ## HERO Skins

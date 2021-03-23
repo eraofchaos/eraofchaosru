@@ -44,6 +44,19 @@ toc: true
  **Описание:** Обездвиживает вражеские отряды в радиусе действия на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Мелодия](/heroes/Adjutant Melodia/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Анимизм 
+
+ **Описание:** Союзные отряды Бастиона, получившие <span style="color: #e07c44;font-size:20px">щит или пузырь</span><span style="color: black">, восстанавливают здоровье в <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black"> от своей АТК. Перезарядка 4 сек.
+
+## Информация о комбинации
+
+  none
 ## HERO Biography
 
 ## HERO Skins

@@ -44,6 +44,24 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Сиэль](/heroes/Adjutant Ciele/) 
+
+ **Type:**  Заклинание 
+
+ **Умение адъютанта:**  Пламя Гармонии 
+
+ **Описание:** Все вражеские отряды теряют <span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))}%</span><span style="color: black"> сопротивления любой магии.
+
+## Информация о комбинации
+
+* [Разряд](/combination/Разряд/) 
+* [Окаменение](/combination/Окаменение/) 
+* [Замедление](/combination/Замедление/) 
+* [Горение](/combination/Горение/) 
+* [Немота](/combination/Немота/) 
+
 ## HERO Biography
 
 ## HERO Skins

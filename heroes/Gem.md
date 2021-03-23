@@ -44,6 +44,21 @@ toc: true
  **Описание:** Восстанавливает союзным отрядам <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> ОЗ + 1% от макс. ОЗ в течение 6 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Джем](/heroes/Adjutant Gem/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Защита природы 
+
+ **Описание:** Союзные отряды Бастиона под действием <span style="color: #48b946;font-size:20px">щита</span><span style="color: black"> получают +<span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black"> к блокированию.
+
+## Информация о комбинации
+
+* [Замедление](/combination/Замедление/) 
+* [Щит](/combination/Щит/) 
+
 ## HERO Biography
 
 ## HERO Skins

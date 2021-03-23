@@ -44,6 +44,21 @@ toc: true
  **Описание:** <span style="color: #e07c44;font-size:20px">Ослепляет</span><span style="color: black"> все вражеские отряды снижает точность на 1000 на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Астрал](/heroes/Adjutant Astral/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Приток магии 
+
+ **Описание:** Каждый раз, когда союзный герой применяет заклинание, он восстанавливает союзным отрядам Башни <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))}%</span><span style="color: black"> макс. ОЗ. Перезарядка 4 сек.
+
+## Информация о комбинации
+
+* [Ослепление](/combination/Ослепление/) 
+* [Немота](/combination/Немота/) 
+
 ## HERO Biography
 
 ## HERO Skins

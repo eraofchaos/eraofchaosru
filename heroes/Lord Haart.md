@@ -46,6 +46,21 @@ toc: true
  **Описание:** Приказывает рыцарям смерти использовать <span style="color: #48b946;font-size:20px">Критическую схватку</span><span style="color: black"> один раз. Повышает урон от этого раза на 20%. Снижает ЗЩТ цели на {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>; эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Лорд Хаарт](/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Дыхание ужаса 
+
+ **Описание:** Союзные отряды Некрополя получают +<span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black"> к урону отряда.
+
+## Информация о комбинации
+
+* [Низкий боевой дух](/combination/Низкий боевой дух/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

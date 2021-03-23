@@ -46,6 +46,20 @@ toc: true
  **Описание:** Копирует один союзный отряд. Копия имеет <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> АТК оригинала и получает на {($duplidmg11+$duplidmg12*($sklevel-1))}% больше урона. Действует 30 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Дракон](/heroes/Adjutant Dracon/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Усиление Башни 
+
+ **Описание:** Союзные отряды Башни получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> к АТК.
+
+## Информация о комбинации
+
+* [Замедление](/combination/Замедление/) 
+
 ## HERO Biography
 
 ## HERO Skins

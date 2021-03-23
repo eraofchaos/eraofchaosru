@@ -46,6 +46,20 @@ toc: true
  **Описание:** Повышает стойкость всех союзных отрядов на 50 и крит. урон на 10%. Дает союзным отрядам Цитадели +<span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> ОЗ раз в 3 сек. в течение <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Килгор](/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Мастер войны 
+
+ **Описание:** Союзные отряды Цитадели каждые 15 сек. получают +<span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> к урону отряда. Эффект суммируется до 4 раз.
+
+## Информация о комбинации
+
+* [Горение](/combination/Горение/) 
+
 ## HERO Biography
 
 ## HERO Skins

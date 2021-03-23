@@ -44,6 +44,19 @@ toc: true
  **Описание:** Все союзные отряды получают <span style="color: #e07c44;font-size:20px">орлиное зрение</span><span style="color: black">, дающее +900 к критическому удару и меткости на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Эцио](/heroes/Adjutant Ezio/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Все тлен 
+
+ **Описание:** Когда союзный герой применяет наносящее урон заклинание, союзные нейтральные отряды получают +<span style="color: #48b946;font-size:20px">{(9+1*($sklevel-1))}%</span><span style="color: black"> к крит. урону на 10 сек.
+
+## Информация о комбинации
+
+  none
 ## HERO Biography
 
 ## HERO Skins

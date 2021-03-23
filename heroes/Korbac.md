@@ -44,6 +44,22 @@ toc: true
  **Описание:** Призывает 1 летучего змея <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> ур. в указанное место. Существо остается на 20 сек., имеет <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> АТК и <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)} ОЗ.</span><span style="color: black">
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Корбак](/heroes/Adjutant Korbac/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Мастерство атаки 
+
+ **Описание:** Союзные герои получают +<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> к атаке.
+
+## Информация о комбинации
+
+* [Высокий боевой дух](/combination/Высокий боевой дух/) 
+* [Замедление](/combination/Замедление/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

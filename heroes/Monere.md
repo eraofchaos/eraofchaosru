@@ -46,6 +46,22 @@ toc: true
  **Описание:** Создает область таинства в выбранной области, которая наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в очень большой области и накладывает <span style="color: #e07c44;font-size:20px">немоту</span><span style="color: black"> на вражеские отряды в области действия на <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Монер](/heroes/Adjutant Monere/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Ущерб знаниям 
+
+ **Описание:** Вражеские герои теряют <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black"> ед. знаний.
+
+## Информация о комбинации
+
+* [Замедление](/combination/Замедление/) 
+* [Горение](/combination/Горение/) 
+* [Немота](/combination/Немота/) 
+
 ## HERO Biography
 
 ## HERO Skins

@@ -44,6 +44,22 @@ toc: true
  **Описание:** Применяет Приливные волны, которые взрывают всех противников и наносят <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> урона Водой, а также накладывают <span style="color: #e07c44;font-size:20px">сдерживание</span><span style="color: black"> на 10 сек. Кроме того, с 20% шансом может <span style="color: #e07c44;font-size:20px">заморозить</span><span style="color: black"> цели на 2 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Кассанбель](/heroes/Adjutant Cassanbel/) 
+
+ **Type:**  Фракция 
+
+ **Умение адъютанта:**  Хозяин морей 
+
+ **Описание:** Когда союзный герой применяет заклинание Воды, союзные отряды Убежища получают +<span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}</span><span style="color: black"> к крит. удару и +1% к крит. урону. Суммируется до 20 раз.
+
+## Информация о комбинации
+
+* [Замедление](/combination/Замедление/) 
+* [Заморозка](/combination/Заморозка/) 
+* [Сдерживание](/combination/Сдерживание/) 
+
 ## HERO Biography
 
 ## HERO Skins

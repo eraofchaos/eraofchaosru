@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей не <span style="color: #e07c44;font-size:20px">окаменевшим</span><span style="color: black"> отрядам врага в очень большой области и <span style="color: #e07c44;font-size:20px">превращает их в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек. Наносит двойной урон <span style="color: #e07c44;font-size:20px">окаменевшим</span><span style="color: black"> отрядам врага.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Сефинрот](/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Параметры 
+
+ **Умение адъютанта:**  Усиление Земли 
+
+ **Описание:** Союзные герои наносят на <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black"> больше урона заклинаниями Земли.
+
+## Информация о комбинации
+
+* [Окаменение](/combination/Окаменение/) 
+* [Оглушение](/combination/Оглушение/) 
+
 ## HERO Biography
 
 ## HERO Skins

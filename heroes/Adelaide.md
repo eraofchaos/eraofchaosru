@@ -44,6 +44,21 @@ toc: true
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> урона Водой противникам в очень большой области и <span style="color: #e07c44;font-size:20px">замораживает</span><span style="color: black"> <span style="color: #e07c44;font-size:20px">замедленные</span><span style="color: black"> цели на 5 сек.
 
 
+## Адъютант
+
+ **Адъютант:**  [Адъютант Аделаида](/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Заклинание 
+
+ **Умение адъютанта:**  Усиление Воды 
+
+ **Описание:** Союзные герои наносят на <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black"> больше урона заклинаниями Воды.
+
+## Информация о комбинации
+
+* [Замедление](/combination/Замедление/) 
+* [Заморозка](/combination/Заморозка/) 
+
 ## HERO Biography
 
 ## HERO Skins
