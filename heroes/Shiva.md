@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Шива](/heroes/Adjutant Shiva/) 
+ **Адъютант:**  [Адъютант Шива](/ru/heroes/Adjutant Shiva/) 
 
  **Type:**  Фракция 
 
@@ -58,8 +58,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Горение](/ru/combination/Горение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

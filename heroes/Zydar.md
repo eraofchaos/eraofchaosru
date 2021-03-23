@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Зидар](/heroes/Adjutant Zydar/) 
+ **Адъютант:**  [Адъютант Зидар](/ru/heroes/Adjutant Zydar/) 
 
  **Type:**  Параметры 
 
@@ -56,7 +56,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
+* [Горение](/ru/combination/Горение/) 
 
 ## HERO Biography
 

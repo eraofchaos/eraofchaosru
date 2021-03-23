@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Тазар](/heroes/Tazar/) 
+ **Hero:**  [Тазар](/ru/heroes/Tazar/) 
 
  **Type:**  Фракция 
 

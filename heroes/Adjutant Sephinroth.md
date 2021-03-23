@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Сефинрот](/heroes/Sephinroth/) 
+ **Hero:**  [Сефинрот](/ru/heroes/Sephinroth/) 
 
  **Type:**  Параметры 
 

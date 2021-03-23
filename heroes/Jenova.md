@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Янова](/heroes/Adjutant Jenova/) 
+ **Адъютант:**  [Адъютант Янова](/ru/heroes/Adjutant Jenova/) 
 
  **Type:**  Параметры 
 
@@ -58,8 +58,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Ослепление](/combination/Ослепление/) 
-* [Щит](/combination/Щит/) 
+* [Ослепление](/ru/combination/Ослепление/) 
+* [Щит](/ru/combination/Щит/) 
 
 ## HERO Biography
 

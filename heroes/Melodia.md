@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Мелодия](/heroes/Adjutant Melodia/) 
+ **Адъютант:**  [Адъютант Мелодия](/ru/heroes/Adjutant Melodia/) 
 
  **Type:**  Фракция 
 

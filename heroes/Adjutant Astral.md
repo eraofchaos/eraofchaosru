@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Астрал](/heroes/Astral/) 
+ **Hero:**  [Астрал](/ru/heroes/Astral/) 
 
  **Type:**  Фракция 
 

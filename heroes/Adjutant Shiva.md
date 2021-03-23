@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Шива](/heroes/Shiva/) 
+ **Hero:**  [Шива](/ru/heroes/Shiva/) 
 
  **Type:**  Фракция 
 

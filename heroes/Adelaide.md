@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Аделаида](/heroes/Adjutant Adelaide/) 
+ **Адъютант:**  [Адъютант Аделаида](/ru/heroes/Adjutant Adelaide/) 
 
  **Type:**  Заклинание 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Замедление](/combination/Замедление/) 
-* [Заморозка](/combination/Заморозка/) 
+* [Замедление](/ru/combination/Замедление/) 
+* [Заморозка](/ru/combination/Заморозка/) 
 
 ## HERO Biography
 

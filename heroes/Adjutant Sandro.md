@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Сандро](/heroes/Sandro/) 
+ **Hero:**  [Сандро](/ru/heroes/Sandro/) 
 
  **Type:**  Фракция 
 

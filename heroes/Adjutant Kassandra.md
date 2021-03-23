@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Кассандра](/heroes/Kassandra/) 
+ **Hero:**  [Кассандра](/ru/heroes/Kassandra/) 
 
  **Type:**  Фракция 
 

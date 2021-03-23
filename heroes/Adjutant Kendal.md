@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Кендал](/heroes/Kendal/) 
+ **Hero:**  [Кендал](/ru/heroes/Kendal/) 
 
  **Type:**  Отряды 
 

@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Вестан](/heroes/Adjutant Wystan/) 
+ **Адъютант:**  [Адъютант Вестан](/ru/heroes/Adjutant Wystan/) 
 
  **Type:**  Фракция 
 
@@ -56,10 +56,10 @@ toc: true
 
 ## Информация о комбинации
 
-* [Кровотечение](/combination/Кровотечение/) 
-* [Болезнь](/combination/Болезнь/) 
-* [Оглушение](/combination/Оглушение/) 
-* [Щит](/combination/Щит/) 
+* [Кровотечение](/ru/combination/Кровотечение/) 
+* [Болезнь](/ru/combination/Болезнь/) 
+* [Оглушение](/ru/combination/Оглушение/) 
+* [Щит](/ru/combination/Щит/) 
 
 ## HERO Biography
 

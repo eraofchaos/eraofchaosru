@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Мюллих](/heroes/Mullich/) 
+ **Hero:**  [Мюллих](/ru/heroes/Mullich/) 
 
  **Type:**  Отряды 
 

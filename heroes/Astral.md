@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Астрал](/heroes/Adjutant Astral/) 
+ **Адъютант:**  [Адъютант Астрал](/ru/heroes/Adjutant Astral/) 
 
  **Type:**  Фракция 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Ослепление](/combination/Ослепление/) 
-* [Немота](/combination/Немота/) 
+* [Ослепление](/ru/combination/Ослепление/) 
+* [Немота](/ru/combination/Немота/) 
 
 ## HERO Biography
 

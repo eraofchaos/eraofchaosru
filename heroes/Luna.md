@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Луна](/heroes/Adjutant Luna/) 
+ **Адъютант:**  [Адъютант Луна](/ru/heroes/Adjutant Luna/) 
 
  **Type:**  Заклинание 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Горение](/ru/combination/Горение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Ксерон](/heroes/Xeron/) 
+ **Hero:**  [Ксерон](/ru/heroes/Xeron/) 
 
  **Type:**  Фракция 
 

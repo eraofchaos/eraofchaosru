@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Джеддит](/heroes/Adjutant Jeddite/) 
+ **Адъютант:**  [Адъютант Джеддит](/ru/heroes/Adjutant Jeddite/) 
 
  **Type:**  Заклинание 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Окаменение](/combination/Окаменение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Окаменение](/ru/combination/Окаменение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

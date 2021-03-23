@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Риланд](/heroes/Adjutant Ryland/) 
+ **Адъютант:**  [Адъютант Риланд](/ru/heroes/Adjutant Ryland/) 
 
  **Type:**  Фракция 
 
@@ -58,8 +58,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Оглушение](/combination/Оглушение/) 
-* [Щит](/combination/Щит/) 
+* [Оглушение](/ru/combination/Оглушение/) 
+* [Щит](/ru/combination/Щит/) 
 
 ## HERO Biography
 

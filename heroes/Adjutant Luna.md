@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Луна](/heroes/Luna/) 
+ **Hero:**  [Луна](/ru/heroes/Luna/) 
 
  **Type:**  Заклинание 
 

@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Кассанбель](/heroes/Adjutant Cassanbel/) 
+ **Адъютант:**  [Адъютант Кассанбель](/ru/heroes/Adjutant Cassanbel/) 
 
  **Type:**  Фракция 
 
@@ -56,9 +56,9 @@ toc: true
 
 ## Информация о комбинации
 
-* [Замедление](/combination/Замедление/) 
-* [Заморозка](/combination/Заморозка/) 
-* [Сдерживание](/combination/Сдерживание/) 
+* [Замедление](/ru/combination/Замедление/) 
+* [Заморозка](/ru/combination/Заморозка/) 
+* [Сдерживание](/ru/combination/Сдерживание/) 
 
 ## HERO Biography
 

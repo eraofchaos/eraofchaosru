@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Дракон Мутара](/heroes/Dragon Mutare/) 
+ **Hero:**  [Дракон Мутара](/ru/heroes/Dragon Mutare/) 
 
  **Type:**  Фракция 
 

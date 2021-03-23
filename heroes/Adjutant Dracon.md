@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Дракон](/heroes/Dracon/) 
+ **Hero:**  [Дракон](/ru/heroes/Dracon/) 
 
  **Type:**  Фракция 
 

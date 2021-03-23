@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Джем](/heroes/Gem/) 
+ **Hero:**  [Джем](/ru/heroes/Gem/) 
 
  **Type:**  Фракция 
 

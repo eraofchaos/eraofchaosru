@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Мефала](/heroes/Mephala/) 
+ **Hero:**  [Мефала](/ru/heroes/Mephala/) 
 
  **Type:**  Отряды 
 

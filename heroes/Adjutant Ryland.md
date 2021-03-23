@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Риланд](/heroes/Ryland/) 
+ **Hero:**  [Риланд](/ru/heroes/Ryland/) 
 
  **Type:**  Фракция 
 

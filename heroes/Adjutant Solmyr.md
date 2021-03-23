@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Сольмир](/heroes/Solmyr/) 
+ **Hero:**  [Сольмир](/ru/heroes/Solmyr/) 
 
  **Type:**  Заклинание 
 

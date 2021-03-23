@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Мутара](/heroes/Adjutant Mutare/) 
+ **Адъютант:**  [Адъютант Мутара](/ru/heroes/Adjutant Mutare/) 
 
  **Type:**  Фракция 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Горение](/ru/combination/Горение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

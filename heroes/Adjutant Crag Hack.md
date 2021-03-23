@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Крэг Хак](/heroes/Crag Hack/) 
+ **Hero:**  [Крэг Хак](/ru/heroes/Crag Hack/) 
 
  **Type:**  Отряды 
 

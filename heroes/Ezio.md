@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Эцио](/heroes/Adjutant Ezio/) 
+ **Адъютант:**  [Адъютант Эцио](/ru/heroes/Adjutant Ezio/) 
 
  **Type:**  Фракция 
 

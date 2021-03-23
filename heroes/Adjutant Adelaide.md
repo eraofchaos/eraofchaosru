@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Аделаида](/heroes/Adelaide/) 
+ **Hero:**  [Аделаида](/ru/heroes/Adelaide/) 
 
  **Type:**  Заклинание 
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Мелодия](/heroes/Melodia/) 
+ **Hero:**  [Мелодия](/ru/heroes/Melodia/) 
 
  **Type:**  Фракция 
 

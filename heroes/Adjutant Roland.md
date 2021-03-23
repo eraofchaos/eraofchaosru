@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Роланд](/heroes/Roland/) 
+ **Hero:**  [Роланд](/ru/heroes/Roland/) 
 
  **Type:**  Фракция 
 

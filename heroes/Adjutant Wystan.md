@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Вестан](/heroes/Wystan/) 
+ **Hero:**  [Вестан](/ru/heroes/Wystan/) 
 
  **Type:**  Фракция 
 

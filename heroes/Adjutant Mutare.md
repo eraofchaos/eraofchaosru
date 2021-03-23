@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Мутара](/heroes/Mutare/) 
+ **Hero:**  [Мутара](/ru/heroes/Mutare/) 
 
  **Type:**  Фракция 
 

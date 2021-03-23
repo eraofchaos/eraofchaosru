@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Лорд Хаарт](/heroes/Lord Haart/) 
+ **Hero:**  [Лорд Хаарт](/ru/heroes/Lord Haart/) 
 
  **Type:**  Фракция 
 

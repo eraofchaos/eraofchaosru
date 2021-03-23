@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Тазар](/heroes/Adjutant Tazar/) 
+ **Адъютант:**  [Адъютант Тазар](/ru/heroes/Adjutant Tazar/) 
 
  **Type:**  Фракция 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Окаменение](/combination/Окаменение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Окаменение](/ru/combination/Окаменение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Человек Сандро](/heroes/Human Sandro/) 
+ **Hero:**  [Человек Сандро](/ru/heroes/Human Sandro/) 
 
  **Type:**  Заклинание 
 

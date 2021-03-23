@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Йог](/heroes/Yog/) 
+ **Hero:**  [Йог](/ru/heroes/Yog/) 
 
  **Type:**  Параметры 
 

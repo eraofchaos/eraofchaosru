@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Эрдамон](/heroes/Erdamon/) 
+ **Hero:**  [Эрдамон](/ru/heroes/Erdamon/) 
 
  **Type:**  Фракция 
 

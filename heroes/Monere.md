@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Монер](/heroes/Adjutant Monere/) 
+ **Адъютант:**  [Адъютант Монер](/ru/heroes/Adjutant Monere/) 
 
  **Type:**  Параметры 
 
@@ -58,9 +58,9 @@ toc: true
 
 ## Информация о комбинации
 
-* [Замедление](/combination/Замедление/) 
-* [Горение](/combination/Горение/) 
-* [Немота](/combination/Немота/) 
+* [Замедление](/ru/combination/Замедление/) 
+* [Горение](/ru/combination/Горение/) 
+* [Немота](/ru/combination/Немота/) 
 
 ## HERO Biography
 

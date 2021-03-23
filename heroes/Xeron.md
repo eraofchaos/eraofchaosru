@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Ксерон](/heroes/Adjutant Xeron/) 
+ **Адъютант:**  [Адъютант Ксерон](/ru/heroes/Adjutant Xeron/) 
 
  **Type:**  Фракция 
 
@@ -58,7 +58,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
+* [Горение](/ru/combination/Горение/) 
 
 ## HERO Biography
 

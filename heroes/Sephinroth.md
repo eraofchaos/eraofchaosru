@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Сефинрот](/heroes/Adjutant Sephinroth/) 
+ **Адъютант:**  [Адъютант Сефинрот](/ru/heroes/Adjutant Sephinroth/) 
 
  **Type:**  Параметры 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Окаменение](/combination/Окаменение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Окаменение](/ru/combination/Окаменение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

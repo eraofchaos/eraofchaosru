@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Роланд](/heroes/Adjutant Roland/) 
+ **Адъютант:**  [Адъютант Роланд](/ru/heroes/Adjutant Roland/) 
 
  **Type:**  Фракция 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Высокий боевой дух](/combination/Высокий боевой дух/) 
-* [Горение](/combination/Горение/) 
+* [Высокий боевой дух](/ru/combination/Высокий боевой дух/) 
+* [Горение](/ru/combination/Горение/) 
 
 ## HERO Biography
 

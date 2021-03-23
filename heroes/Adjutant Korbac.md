@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Корбак](/heroes/Korbac/) 
+ **Hero:**  [Корбак](/ru/heroes/Korbac/) 
 
  **Type:**  Параметры 
 

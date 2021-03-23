@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Джелу](/heroes/Gelu/) 
+ **Hero:**  [Джелу](/ru/heroes/Gelu/) 
 
  **Type:**  Отряды 
 

@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Килгор](/heroes/Adjutant Kilgor/) 
+ **Адъютант:**  [Адъютант Килгор](/ru/heroes/Adjutant Kilgor/) 
 
  **Type:**  Фракция 
 
@@ -58,7 +58,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
+* [Горение](/ru/combination/Горение/) 
 
 ## HERO Biography
 

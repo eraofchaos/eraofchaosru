@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Питер Ли](/heroes/Peter Lee/) 
+ **Hero:**  [Питер Ли](/ru/heroes/Peter Lee/) 
 
  **Type:**  Фракция 
 

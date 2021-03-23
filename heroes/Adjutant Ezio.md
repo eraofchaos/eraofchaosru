@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Эцио](/heroes/Ezio/) 
+ **Hero:**  [Эцио](/ru/heroes/Ezio/) 
 
  **Type:**  Фракция 
 

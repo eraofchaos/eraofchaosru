@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Лорд Хаарт](/heroes/Adjutant Lord Haart/) 
+ **Адъютант:**  [Адъютант Лорд Хаарт](/ru/heroes/Adjutant Lord Haart/) 
 
  **Type:**  Фракция 
 
@@ -58,8 +58,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Низкий боевой дух](/combination/Низкий боевой дух/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Низкий боевой дух](/ru/combination/Низкий боевой дух/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

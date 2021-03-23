@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Килгор](/heroes/Kilgor/) 
+ **Hero:**  [Килгор](/ru/heroes/Kilgor/) 
 
  **Type:**  Фракция 
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Видомина](/heroes/Vidomina/) 
+ **Hero:**  [Видомина](/ru/heroes/Vidomina/) 
 
  **Type:**  Фракция 
 

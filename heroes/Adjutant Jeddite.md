@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Джеддит](/heroes/Jeddite/) 
+ **Hero:**  [Джеддит](/ru/heroes/Jeddite/) 
 
  **Type:**  Заклинание 
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Кассанбель](/heroes/Cassanbel/) 
+ **Hero:**  [Кассанбель](/ru/heroes/Cassanbel/) 
 
  **Type:**  Фракция 
 

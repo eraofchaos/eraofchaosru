@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Дракон Мутара](/heroes/Adjutant Dragon Mutare/) 
+ **Адъютант:**  [Адъютант Дракон Мутара](/ru/heroes/Adjutant Dragon Mutare/) 
 
  **Type:**  Фракция 
 
@@ -56,9 +56,9 @@ toc: true
 
 ## Информация о комбинации
 
-* [Кровотечение](/combination/Кровотечение/) 
-* [Горение](/combination/Горение/) 
-* [Оглушение](/combination/Оглушение/) 
+* [Кровотечение](/ru/combination/Кровотечение/) 
+* [Горение](/ru/combination/Горение/) 
+* [Оглушение](/ru/combination/Оглушение/) 
 
 ## HERO Biography
 

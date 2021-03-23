@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Человек Сандро](/heroes/Adjutant Human Sandro/) 
+ **Адъютант:**  [Адъютант Человек Сандро](/ru/heroes/Adjutant Human Sandro/) 
 
  **Type:**  Заклинание 
 

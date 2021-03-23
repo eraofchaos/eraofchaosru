@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Монер](/heroes/Monere/) 
+ **Hero:**  [Монер](/ru/heroes/Monere/) 
 
  **Type:**  Параметры 
 

@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Джем](/heroes/Adjutant Gem/) 
+ **Адъютант:**  [Адъютант Джем](/ru/heroes/Adjutant Gem/) 
 
  **Type:**  Фракция 
 
@@ -56,8 +56,8 @@ toc: true
 
 ## Информация о комбинации
 
-* [Замедление](/combination/Замедление/) 
-* [Щит](/combination/Щит/) 
+* [Замедление](/ru/combination/Замедление/) 
+* [Щит](/ru/combination/Щит/) 
 
 ## HERO Biography
 

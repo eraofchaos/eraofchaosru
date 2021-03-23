@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Фиур](/heroes/Fiur/) 
+ **Hero:**  [Фиур](/ru/heroes/Fiur/) 
 
  **Type:**  Параметры 
 

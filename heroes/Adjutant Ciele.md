@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Сиэль](/heroes/Ciele/) 
+ **Hero:**  [Сиэль](/ru/heroes/Ciele/) 
 
  **Type:**  Заклинание 
 

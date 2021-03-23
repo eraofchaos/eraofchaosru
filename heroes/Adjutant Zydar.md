@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Зидар](/heroes/Zydar/) 
+ **Hero:**  [Зидар](/ru/heroes/Zydar/) 
 
  **Type:**  Параметры 
 

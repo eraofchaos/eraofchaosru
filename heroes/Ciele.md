@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Сиэль](/heroes/Adjutant Ciele/) 
+ **Адъютант:**  [Адъютант Сиэль](/ru/heroes/Adjutant Ciele/) 
 
  **Type:**  Заклинание 
 
@@ -56,11 +56,11 @@ toc: true
 
 ## Информация о комбинации
 
-* [Разряд](/combination/Разряд/) 
-* [Окаменение](/combination/Окаменение/) 
-* [Замедление](/combination/Замедление/) 
-* [Горение](/combination/Горение/) 
-* [Немота](/combination/Немота/) 
+* [Разряд](/ru/combination/Разряд/) 
+* [Окаменение](/ru/combination/Окаменение/) 
+* [Замедление](/ru/combination/Замедление/) 
+* [Горение](/ru/combination/Горение/) 
+* [Немота](/ru/combination/Немота/) 
 
 ## HERO Biography
 

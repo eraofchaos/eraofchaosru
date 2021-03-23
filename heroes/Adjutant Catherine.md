@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Катерина](/heroes/Catherine/) 
+ **Hero:**  [Катерина](/ru/heroes/Catherine/) 
 
  **Type:**  Фракция 
 

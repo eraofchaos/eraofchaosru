@@ -48,7 +48,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Дракон](/heroes/Adjutant Dracon/) 
+ **Адъютант:**  [Адъютант Дракон](/ru/heroes/Adjutant Dracon/) 
 
  **Type:**  Фракция 
 
@@ -58,7 +58,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Замедление](/combination/Замедление/) 
+* [Замедление](/ru/combination/Замедление/) 
 
 ## HERO Biography
 

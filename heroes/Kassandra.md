@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Кассандра](/heroes/Adjutant Kassandra/) 
+ **Адъютант:**  [Адъютант Кассандра](/ru/heroes/Adjutant Kassandra/) 
 
  **Type:**  Фракция 
 

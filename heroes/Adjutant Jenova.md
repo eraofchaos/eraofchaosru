@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Янова](/heroes/Jenova/) 
+ **Hero:**  [Янова](/ru/heroes/Jenova/) 
 
  **Type:**  Параметры 
 

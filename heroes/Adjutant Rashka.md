@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 ## Подробности
- **Hero:**  [Раска](/heroes/Rashka/) 
+ **Hero:**  [Раска](/ru/heroes/Rashka/) 
 
  **Type:**  Заклинание 
 

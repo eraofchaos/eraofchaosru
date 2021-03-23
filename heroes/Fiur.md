@@ -46,7 +46,7 @@ toc: true
 
 ## Адъютант
 
- **Адъютант:**  [Адъютант Фиур](/heroes/Adjutant Fiur/) 
+ **Адъютант:**  [Адъютант Фиур](/ru/heroes/Adjutant Fiur/) 
 
  **Type:**  Параметры 
 
@@ -56,7 +56,7 @@ toc: true
 
 ## Информация о комбинации
 
-* [Горение](/combination/Горение/) 
+* [Горение](/ru/combination/Горение/) 
 
 ## HERO Biography
 
