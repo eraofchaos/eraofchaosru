@@ -41,7 +41,7 @@ sidebar:
 * <i class="fas fa-atom"/>  [Эмблема святости](/ru/Emblem/)
 * <i class="fas fa-hand-sparkles"/>  [Артефакт](/ru/artifacts/)
 
-* <i class="fas fa-question-circle"/>  [СфинксыОтвечайте на вопросы ради одобрения и наград!](/ru/sphinx/)
+* <i class="fas fa-question-circle"/>  [Сфинксы: Отвечайте на вопросы ради одобрения и наград!](/ru/sphinx/)
 
 * <i class="fas fa-hat-cowboy-side"/>  [Подкрепления](/ru/Backup/)
 * <i class="fas fa-place-of-worship"/>  [Библиотека алхимических формул](/ru/Alchemy Workshop/)

@@ -2,13 +2,13 @@
 title: "Боевое построение Замок"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Боевое построение Замок"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: ru
 ref: "BattleFormationFactionCastle"
 toc: false
 classes: wide
 ---
- [Замок](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Бастион](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Некрополь](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Инферно](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Подземелье](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Гармония](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Убежище](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+ [Замок](/ru/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Бастион](/ru/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Цитадель](/ru/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Некрополь](/ru/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Инферно](/ru/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Башня](/ru/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Подземелье](/ru/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Крепость](/ru/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Гармония](/ru/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Убежище](/ru/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
   **Fraction:** [Замок](/units/Faction Castle)
 
@@ -32,43 +32,43 @@ classes: wide
 
 ## Боевое построение Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | УРН отряда + **0.3** % | 150 |  **10** x [Копейщик](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | УРН отряда + **0.3** % | 150 |  **10** x [Копейщик](/ru/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | АТК + **0.9** % | 70 |   |
-  | 3 | Castle - A Strike Hit | Удар по цели + **6**  | 150 |  **10** x [Копейщик](/units/Pikeman) |
+  | 3 | Castle - A Strike Hit | Удар по цели + **6**  | 150 |  **10** x [Копейщик](/ru/units/Pikeman) |
   | 4 | Castle - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 5 | Castle - Ingeniousness | Уклонение + **6**  | 150 |  **10** x [Копейщик](/units/Pikeman) |
+  | 5 | Castle - Ingeniousness | Уклонение + **6**  | 150 |  **10** x [Копейщик](/ru/units/Pikeman) |
   | 6 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 7 | Castle - Shield Practice | Сокращение УРН отряда + **0.3** % | 150 |  **10** x [Лучник](/units/Marksman) |
+  | 7 | Castle - Shield Practice | Сокращение УРН отряда + **0.3** % | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 8 | Castle - Physical Trials | ОЗ + **0.9** % | 70 |   |
-  | 9 | Castle - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Лучник](/units/Marksman) |
+  | 9 | Castle - Rocklike Skin | Выносливость + **6**  | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 10 | Castle - Storm Assaulter | АТК + **0.5** %, ОЗ + **0.5** % | 70 |   |
-  | 11 | Castle - Blaster | Критический удар + **5**  | 150 |  **10** x [Лучник](/units/Marksman) |
+  | 11 | Castle - Blaster | Критический удар + **5**  | 150 |  **10** x [Лучник](/ru/units/Marksman) |
   | 12 | Castle - Storm Assaulter | АТК + **0.9** % | 70 |   |
   
 
 
 ## Боевое построение Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Castle - Damage Amplification | УРН отряда + **0.4** % | 160 |  **10** x [Копейщик](/units/Pikeman) |
+  | 1 | Castle - Damage Amplification | УРН отряда + **0.4** % | 160 |  **10** x [Копейщик](/ru/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | АТК + **1** % | 80 |   |
   | 3 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 4 | Castle - A Strike Hit | Удар по цели + **6**  | 160 |  **10** x [Мечник](/units/Swordsman) |
+  | 4 | Castle - A Strike Hit | Удар по цели + **6**  | 160 |  **10** x [Мечник](/ru/units/Swordsman) |
   | 5 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 6 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 7 | Castle - Ingeniousness | Уклонение + **6**  | 160 |  **10** x [Монах](/units/Monk) |
+  | 7 | Castle - Ingeniousness | Уклонение + **6**  | 160 |  **10** x [Монах](/ru/units/Monk) |
   | 8 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 9 | Castle - Physical Trials | ОЗ + **1** % | 80 |   |
-  | 10 | Castle - Shield Practice | Сокращение УРН отряда + **0.4** % | 160 |  **10** x [Мечник](/units/Swordsman) |
+  | 10 | Castle - Shield Practice | Сокращение УРН отряда + **0.4** % | 160 |  **10** x [Мечник](/ru/units/Swordsman) |
   | 11 | Castle - Physical Trials | ОЗ + **1** % | 80 |   |
   | 12 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
-  | 13 | Castle - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Монах](/units/Monk) |
+  | 13 | Castle - Rocklike Skin | Выносливость + **7**  | 160 |  **10** x [Монах](/ru/units/Monk) |
   | 14 | Castle - Physical Trials | АТК + **0.3** %, ОЗ + **0.7** % | 80 |   |
   | 15 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
-  | 16 | Castle - Blaster | Критический удар + **5**  | 160 |  **10** x [Лучник](/units/Marksman) |
+  | 16 | Castle - Blaster | Критический удар + **5**  | 160 |  **10** x [Лучник](/ru/units/Marksman) |
   | 17 | Castle - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Castle - Storm Assaulter | АТК + **1** % | 80 |   |
   

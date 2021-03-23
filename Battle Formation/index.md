@@ -2,7 +2,7 @@
 title: "Боевое построение "
 permalink: /Battle Formation/
 excerpt: "Боевое построение.У каждой фракции - свои возможности и энергия. Активируйте уникальное боевое построение, чтобы активировать свои скрытые навыки."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: ru
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
 ## Боевое построение by Фракция: 
 
-  [Замок](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Бастион](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Цитадель](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Некрополь](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Инферно](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Башня](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Подземелье](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Крепость](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Гармония](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Убежище](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+  [Замок](/ru/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Бастион](/ru/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Цитадель](/ru/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Некрополь](/ru/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Инферно](/ru/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Башня](/ru/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Подземелье](/ru/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Крепость](/ru/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Гармония](/ru/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Убежище](/ru/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Правила
 
