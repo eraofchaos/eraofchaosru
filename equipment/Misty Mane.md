@@ -2,7 +2,7 @@
 title: "Туманная грива"
 permalink: /equipment/Misty Mane/
 excerpt: "Эра хаоса Туманная грива. Туманная грива"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Misty Mane.md"
 toc: false

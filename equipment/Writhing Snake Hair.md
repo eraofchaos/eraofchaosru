@@ -2,7 +2,7 @@
 title: "Волосы из извивающихся змей"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Эра хаоса Волосы из извивающихся змей. Волосы из извивающихся змей"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Writhing Snake Hair.md"
 toc: false

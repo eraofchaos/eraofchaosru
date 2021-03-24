@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Высокий боевой дух"
 permalink: /combination/High Morale/
 excerpt: "Информация о комбинации - Высокий боевой дух. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Высокий боевой дух.md"
 toc: false
@@ -16,21 +16,21 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Монах](/units/Монах/) | [Роланд](/heroes/Роланд/) |
-  | 2 | [Паладин](/units/Паладин/) | [Мюллих](/heroes/Мюллих/) |
-  | 3 | [Вершитель](/units/Вершитель/) | [Катерина](/heroes/Катерина/) |
-  | 4 | - | [Корбак](/heroes/Корбак/) |
-  | 5 | - | [Кендал](/heroes/Кендал/) |
-  | 6 | - | [Питер Ли](/heroes/Питер Ли/) |
+  | 1 | [Монах](/ru/units/Monk/) | [Роланд](/ru/heroes/Roland/) |
+  | 2 | [Паладин](/ru/units/Paladin/) | [Мюллих](/ru/heroes/Mullich/) |
+  | 3 | [Вершитель](/ru/units/Judicator/) | [Катерина](/ru/heroes/Catherine/) |
+  | 4 | - | [Корбак](/ru/heroes/Korbac/) |
+  | 5 | - | [Кендал](/ru/heroes/Kendal/) |
+  | 6 | - | [Питер Ли](/ru/heroes/Peter Lee/) |
 
 
 #### Отряды и герои с высоким боевым духом получают дополнительное усиление
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Копейщик](/units/Копейщик/) | [Роланд](/heroes/Роланд/) |
-  | 2 | [Лучник](/units/Лучник/) | [Катерина](/heroes/Катерина/) |
-  | 3 | [Грифон](/units/Грифон/) | - |
-  | 4 | [Мечник](/units/Мечник/) | - |
-  | 5 | [Всадники](/units/Всадники/) | - |
-  | 6 | [Паладин](/units/Паладин/) | - |
+  | 1 | [Копейщик](/ru/units/Pikeman/) | [Роланд](/ru/heroes/Roland/) |
+  | 2 | [Лучник](/ru/units/Marksman/) | [Катерина](/ru/heroes/Catherine/) |
+  | 3 | [Грифон](/ru/units/Griffin/) | - |
+  | 4 | [Мечник](/ru/units/Swordsman/) | - |
+  | 5 | [Всадники](/ru/units/Cavalier /) | - |
+  | 6 | [Паладин](/ru/units/Paladin/) | - |

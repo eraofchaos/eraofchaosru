@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Гнолл Эксклюзив."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Gnoll Меч.md"
 toc: false

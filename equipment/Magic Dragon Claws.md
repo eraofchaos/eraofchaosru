@@ -2,7 +2,7 @@
 title: "Когти магического дракона"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Эра хаоса Когти магического дракона. Когти магического дракона"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Magic Dragon Claws.md"
 toc: false

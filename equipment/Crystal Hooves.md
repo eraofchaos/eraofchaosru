@@ -2,7 +2,7 @@
 title: "Кристаллические копыта"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Эра хаоса Кристаллические копыта. Кристаллические копыта"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Crystal Hooves.md"
 toc: false

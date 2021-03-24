@@ -2,7 +2,7 @@
 title: "Кристаллический длинный рог"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Эра хаоса Кристаллический длинный рог. Кристаллический длинный рог"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Crystal Longhorn.md"
 toc: false

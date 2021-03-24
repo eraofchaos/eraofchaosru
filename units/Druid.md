@@ -3,7 +3,7 @@ title: "Друид"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Друид"
 toc: true

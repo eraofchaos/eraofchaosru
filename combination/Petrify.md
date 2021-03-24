@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Окаменение"
 permalink: /combination/Petrify/
 excerpt: "Информация о комбинации - Окаменение. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Окаменение.md"
 toc: false
@@ -16,15 +16,15 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Медуза](/units/Медуза/) | [Сефинрот](/heroes/Сефинрот/) |
-  | 2 | [Василиск](/units/Василиск/) | [Джеддит](/heroes/Джеддит/) |
-  | 3 | - | [Сиэль](/heroes/Сиэль/) |
-  | 4 | - | [Тазар](/heroes/Тазар/) |
+  | 1 | [Медуза](/ru/units/Medusa/) | [Сефинрот](/ru/heroes/Sephinroth/) |
+  | 2 | [Василиск](/ru/units/Basilisk/) | [Джеддит](/ru/heroes/Jeddite/) |
+  | 3 | - | [Сиэль](/ru/heroes/Ciele/) |
+  | 4 | - | [Тазар](/ru/heroes/Tazar/) |
 
 
 #### Отряды и герои получают преимущество против окаменевших врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Горгона](/units/Горгона/) | [Сефинрот](/heroes/Сефинрот/) |
-  | 2 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Горгона](/ru/units/Gorgon/) | [Сефинрот](/ru/heroes/Sephinroth/) |
+  | 2 | [Летучий змей](/ru/units/Serpent Fly/) | - |

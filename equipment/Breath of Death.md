@@ -2,7 +2,7 @@
 title: "Дыхание смерти"
 permalink: /equipment/Breath of Death/
 excerpt: "Эра хаоса Дыхание смерти. Дыхание смерти"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Breath of Death.md"
 toc: false

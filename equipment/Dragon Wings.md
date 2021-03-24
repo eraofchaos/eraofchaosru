@@ -2,7 +2,7 @@
 title: "Крылья дракона"
 permalink: /equipment/Dragon Wings/
 excerpt: "Эра хаоса Крылья дракона. Крылья дракона"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Dragon Wings.md"
 toc: false

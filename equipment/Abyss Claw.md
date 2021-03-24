@@ -2,7 +2,7 @@
 title: "Коготь Бездны"
 permalink: /equipment/Abyss Claw/
 excerpt: "Эра хаоса Коготь Бездны. Коготь Бездны"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Abyss Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ядро элементаля Воды"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Эра хаоса Ядро элементаля Воды. Ядро элементаля Воды"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Core of Water Elemental.md"
 toc: false

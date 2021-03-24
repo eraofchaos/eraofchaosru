@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Кентавр Эксклюзив."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Centaur Славный щит.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Радужные оперенные крылья"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Эра хаоса Радужные оперенные крылья. Радужные оперенные крылья"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Rainbow Feathered Wings.md"
 toc: false

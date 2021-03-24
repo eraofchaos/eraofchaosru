@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Сдерживание"
 permalink: /combination/Deterrence/
 excerpt: "Информация о комбинации - Сдерживание. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Сдерживание.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Берсерк](/units/Берсерк/) | [Кассанбель](/heroes/Кассанбель/) |
-  | 2 | [Регнанский змей](/units/Регнанский змей/) | [Питер Ли](/heroes/Питер Ли/) |
-  | 3 | [Левиафан](/units/Левиафан/) | - |
+  | 1 | [Берсерк](/ru/units/Berserker/) | [Кассанбель](/ru/heroes/Cassanbel/) |
+  | 2 | [Регнанский змей](/ru/units/Regnan Serpent/) | [Питер Ли](/ru/heroes/Peter Lee/) |
+  | 3 | [Левиафан](/ru/units/Revyaratan/) | - |
 
 
 #### Отряды и герои получают преимущество против врагов с эффектом сдерживания
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Регнанская прорицательница](/units/Регнанская прорицательница/) | [Питер Ли](/heroes/Питер Ли/) |
-  | 2 | [Регнанский змей](/units/Регнанский змей/) | - |
-  | 3 | [Горгона](/units/Горгона/) | - |
-  | 4 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Регнанская прорицательница](/ru/units/Regnan Seer/) | [Питер Ли](/ru/heroes/Peter Lee/) |
+  | 2 | [Регнанский змей](/ru/units/Regnan Serpent/) | - |
+  | 3 | [Горгона](/ru/units/Gorgon/) | - |
+  | 4 | [Летучий змей](/ru/units/Serpent Fly/) | - |

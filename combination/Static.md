@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Разряд"
 permalink: /combination/Static/
 excerpt: "Информация о комбинации - Разряд. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Разряд.md"
 toc: false
@@ -16,14 +16,14 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Архимаг](/units/Архимаг/) | [Сольмир](/heroes/Сольмир/) |
-  | 2 | [Элементаль Шторма](/units/Элементаль Шторма/) | [Сиэль](/heroes/Сиэль/) |
+  | 1 | [Архимаг](/ru/units/Arch Mage/) | [Сольмир](/ru/heroes/Solmyr/) |
+  | 2 | [Элементаль Шторма](/ru/units/Storm Elemental/) | [Сиэль](/ru/heroes/Ciele/) |
 
 
 #### Отряды и герои получают преимущество против пораженных разрядом врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Элементаль Шторма](/units/Элементаль Шторма/) | - |
-  | 2 | [Горгона](/units/Горгона/) | - |
-  | 3 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Элементаль Шторма](/ru/units/Storm Elemental/) | - |
+  | 2 | [Горгона](/ru/units/Gorgon/) | - |
+  | 3 | [Летучий змей](/ru/units/Serpent Fly/) | - |

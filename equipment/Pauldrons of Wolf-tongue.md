@@ -2,7 +2,7 @@
 title: "Наплечники языка волка"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Эра хаоса Наплечники языка волка. Наплечники языка волка"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

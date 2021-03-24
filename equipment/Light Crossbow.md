@@ -2,7 +2,7 @@
 title: "Легкий арбалет"
 permalink: /equipment/Light Crossbow/
 excerpt: "Эра хаоса Легкий арбалет. Легкий арбалет"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Light Crossbow.md"
 toc: false

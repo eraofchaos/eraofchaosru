@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Замедление"
 permalink: /combination/Slow/
 excerpt: "Информация о комбинации - Замедление. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Замедление.md"
 toc: false
@@ -16,24 +16,24 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Дендроид-страж](/units/Дендроид-страж/) | [Аделаида](/heroes/Аделаида/) |
-  | 2 | [Кентавр](/units/Кентавр/) | [Катерина](/heroes/Катерина/) |
-  | 3 | [Ходячий мертвец](/units/Ходячий мертвец/) | [Дракон](/heroes/Дракон/) |
-  | 4 | [Элементаль Льда](/units/Элементаль Льда/) | [Джем](/heroes/Джем/) |
-  | 5 | [Элементаль Моря](/units/Элементаль Моря/) | [Монер](/heroes/Монер/) |
-  | 6 | [Регнанский лучник](/units/Регнанский лучник/) | [Корбак](/heroes/Корбак/) |
-  | 7 | - | [Сиэль](/heroes/Сиэль/) |
-  | 8 | - | [Кассанбель](/heroes/Кассанбель/) |
-  | 9 | - | [Питер Ли](/heroes/Питер Ли/) |
+  | 1 | [Дендроид-страж](/ru/units/Dendroid Guard/) | [Аделаида](/ru/heroes/Adelaide/) |
+  | 2 | [Кентавр](/ru/units/Centaur/) | [Катерина](/ru/heroes/Catherine/) |
+  | 3 | [Ходячий мертвец](/ru/units/Walking Dead/) | [Дракон](/ru/heroes/Dracon/) |
+  | 4 | [Элементаль Льда](/ru/units/Ice Elemental/) | [Джем](/ru/heroes/Gem/) |
+  | 5 | [Элементаль Моря](/ru/units/Sea Elemental/) | [Монер](/ru/heroes/Monere/) |
+  | 6 | [Регнанский лучник](/ru/units/Regnan Archer/) | [Корбак](/ru/heroes/Korbac/) |
+  | 7 | - | [Сиэль](/ru/heroes/Ciele/) |
+  | 8 | - | [Кассанбель](/ru/heroes/Cassanbel/) |
+  | 9 | - | [Питер Ли](/ru/heroes/Peter Lee/) |
 
 
 #### Отряды и герои наносят двойной удар замедленным врагам
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Лучник](/units/Лучник/) | [Аделаида](/heroes/Аделаида/) |
-  | 2 | [Мечник](/units/Мечник/) | [Джелу](/heroes/Джелу/) |
-  | 3 | [Лесной эльф](/units/Лесной эльф/) | [Питер Ли](/heroes/Питер Ли/) |
-  | 4 | [Наездник на волке](/units/Наездник на волке/) | - |
-  | 5 | [Горгона](/units/Горгона/) | - |
-  | 6 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Лучник](/ru/units/Marksman/) | [Аделаида](/ru/heroes/Adelaide/) |
+  | 2 | [Мечник](/ru/units/Swordsman/) | [Джелу](/ru/heroes/Gelu/) |
+  | 3 | [Лесной эльф](/ru/units/Wood Elf/) | [Питер Ли](/ru/heroes/Peter Lee/) |
+  | 4 | [Наездник на волке](/ru/units/Wolf Rider/) | - |
+  | 5 | [Горгона](/ru/units/Gorgon/) | - |
+  | 6 | [Летучий змей](/ru/units/Serpent Fly/) | - |

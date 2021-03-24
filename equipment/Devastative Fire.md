@@ -2,7 +2,7 @@
 title: "Опустошающий огонь"
 permalink: /equipment/Devastative Fire/
 excerpt: "Эра хаоса Опустошающий огонь. Опустошающий огонь"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Devastative Fire.md"
 toc: false

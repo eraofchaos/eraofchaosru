@@ -2,7 +2,7 @@
 title: "Корона королевы"
 permalink: /equipment/Queen's Crown/
 excerpt: "Эра хаоса Корона королевы. Корона королевы"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Queen's Crown.md"
 toc: false

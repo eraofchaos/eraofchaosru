@@ -2,7 +2,7 @@
 title: "Пояс горгоны"
 permalink: /equipment/Gorgon Belt/
 excerpt: "Эра хаоса Пояс горгоны. Пояс горгоны"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Gorgon Belt.md"
 toc: false

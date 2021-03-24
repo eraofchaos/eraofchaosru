@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Чума"
 permalink: /combination/Plague/
 excerpt: "Информация о комбинации - Чума. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Чума.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Летучий змей](/units/Летучий змей/) | - |
-  | 2 | [Ящер](/units/Ящер/) | - |
-  | 3 | [Виверна](/units/Виверна/) | - |
-  | 4 | [Росянка](/units/Росянка/) | - |
+  | 1 | [Летучий змей](/ru/units/Serpent Fly/) | - |
+  | 2 | [Ящер](/ru/units/Lizardman/) | - |
+  | 3 | [Виверна](/ru/units/Wyvern/) | - |
+  | 4 | [Росянка](/ru/units/Waspwort/) | - |
 
 
 #### Отряды и герои получают преимущество против пораженных чумой врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Горгона](/units/Горгона/) | - |
-  | 2 | [Летучий змей](/units/Летучий змей/) | - |
-  | 3 | [Виверна](/units/Виверна/) | - |
+  | 1 | [Горгона](/ru/units/Gorgon/) | - |
+  | 2 | [Летучий змей](/ru/units/Serpent Fly/) | - |
+  | 3 | [Виверна](/ru/units/Wyvern/) | - |

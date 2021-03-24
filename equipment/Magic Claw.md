@@ -2,7 +2,7 @@
 title: "Волшебный коготь"
 permalink: /equipment/Magic Claw/
 excerpt: "Эра хаоса Волшебный коготь. Волшебный коготь"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Magic Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Заморозка"
 permalink: /combination/Freeze/
 excerpt: "Информация о комбинации - Заморозка. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Заморозка.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Элементаль Льда](/units/Элементаль Льда/) | [Аделаида](/heroes/Аделаида/) |
-  | 2 | [Магический корабль](/units/Магический корабль/) | [Кассанбель](/heroes/Кассанбель/) |
+  | 1 | [Элементаль Льда](/ru/units/Ice Elemental/) | [Аделаида](/ru/heroes/Adelaide/) |
+  | 2 | [Магический корабль](/ru/units/Magic Airship/) | [Кассанбель](/ru/heroes/Cassanbel/) |
 
 
 #### Отряды и герои получают преимущество против замороженных врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Горгона](/units/Горгона/) | [Аделаида](/heroes/Аделаида/) |
-  | 2 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Горгона](/ru/units/Gorgon/) | [Аделаида](/ru/heroes/Adelaide/) |
+  | 2 | [Летучий змей](/ru/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Немота"
 permalink: /combination/Silence/
 excerpt: "Информация о комбинации - Немота. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Немота.md"
 toc: false
@@ -16,17 +16,17 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Фея](/units/Фея/) | [Астрал](/heroes/Астрал/) |
-  | 2 | [Мантикора](/units/Мантикора/) | [Монер](/heroes/Монер/) |
-  | 3 | [Дьявол](/units/Дьявол/) | [Сиэль](/heroes/Сиэль/) |
-  | 4 | [Костяной дракон](/units/Костяной дракон/) | - |
-  | 5 | [Призрак](/units/Призрак/) | - |
-  | 6 | [Чемпион Тьмы](/units/Чемпион Тьмы/) | - |
+  | 1 | [Фея](/ru/units/Sprite/) | [Астрал](/ru/heroes/Astral/) |
+  | 2 | [Мантикора](/ru/units/Manticore/) | [Монер](/ru/heroes/Monere/) |
+  | 3 | [Дьявол](/ru/units/Devil/) | [Сиэль](/ru/heroes/Ciele/) |
+  | 4 | [Костяной дракон](/ru/units/Bone Dragon/) | - |
+  | 5 | [Призрак](/ru/units/Wight/) | - |
+  | 6 | [Чемпион Тьмы](/ru/units/Dark Champion/) | - |
 
 
 #### Отряды и герои получают преимущество против онемевших врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Горгона](/units/Горгона/) | - |
-  | 2 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Горгона](/ru/units/Gorgon/) | - |
+  | 2 | [Летучий змей](/ru/units/Serpent Fly/) | - |

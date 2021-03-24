@@ -2,7 +2,7 @@
 title: "Вечнозеленая руна"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Эра хаоса Вечнозеленая руна. Вечнозеленая руна"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Evergreen Rune.md"
 toc: false

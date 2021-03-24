@@ -2,7 +2,7 @@
 title: "Кровожадные наплечники"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Эра хаоса Кровожадные наплечники. Кровожадные наплечники"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

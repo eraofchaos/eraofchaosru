@@ -2,7 +2,7 @@
 title: "Пояс души"
 permalink: /equipment/Soul Belt/
 excerpt: "Эра хаоса Пояс души. Пояс души"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Soul Belt.md"
 toc: false

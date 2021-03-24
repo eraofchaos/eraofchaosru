@@ -2,7 +2,7 @@
 title: "Щит защиты"
 permalink: /equipment/Shield of Protection/
 excerpt: "Эра хаоса Щит защиты. Щит защиты"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Shield of Protection.md"
 toc: false

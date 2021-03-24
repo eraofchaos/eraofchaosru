@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Всадники Эксклюзив."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Cavalier Копье рыцаря.md"
 toc: false

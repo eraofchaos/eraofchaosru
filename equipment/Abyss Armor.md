@@ -2,7 +2,7 @@
 title: "Броня Бездны"
 permalink: /equipment/Abyss Armor/
 excerpt: "Эра хаоса Броня Бездны. Броня Бездны"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Abyss Armor.md"
 toc: false

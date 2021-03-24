@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Горение"
 permalink: /combination/Burning/
 excerpt: "Информация о комбинации - Горение. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Горение.md"
 toc: false
@@ -16,28 +16,28 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Гог](/units/Гог/) | [Ксерон](/heroes/Ксерон/) |
-  | 2 | [Ифрит](/units/Ифрит/) | [Дракон Мутара](/heroes/Дракон Мутара/) |
-  | 3 | [Циклоп](/units/Циклоп/) | [Роланд](/heroes/Роланд/) |
-  | 4 | [Элементаль Огня](/units/Элементаль Огня/) | [Килгор](/heroes/Килгор/) |
-  | 5 | [Элементаль Мысли](/units/Элементаль Мысли/) | [Шива](/heroes/Шива/) |
-  | 6 | [Черный дракон](/units/Черный дракон/) | [Йог](/heroes/Йог/) |
-  | 7 | [Красный дракон](/units/Красный дракон/) | [Луна](/heroes/Луна/) |
-  | 8 | - | [Монер](/heroes/Монер/) |
-  | 9 | - | [Раска](/heroes/Раска/) |
-  | 10 | - | [Зидар](/heroes/Зидар/) |
-  | 11 | - | [Мутара](/heroes/Мутара/) |
-  | 12 | - | [Фиур](/heroes/Фиур/) |
-  | 13 | - | [Сиэль](/heroes/Сиэль/) |
+  | 1 | [Гог](/ru/units/Gog/) | [Ксерон](/ru/heroes/Xeron/) |
+  | 2 | [Ифрит](/ru/units/Efreeti/) | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |
+  | 3 | [Циклоп](/ru/units/Cyclops/) | [Роланд](/ru/heroes/Roland/) |
+  | 4 | [Элементаль Огня](/ru/units/Fire Elemental/) | [Килгор](/ru/heroes/Kilgor/) |
+  | 5 | [Элементаль Мысли](/ru/units/Psychic Elemental/) | [Шива](/ru/heroes/Shiva/) |
+  | 6 | [Черный дракон](/ru/units/Black Dragon/) | [Йог](/ru/heroes/Yog/) |
+  | 7 | [Красный дракон](/ru/units/Red Dragon/) | [Луна](/ru/heroes/Luna/) |
+  | 8 | - | [Монер](/ru/heroes/Monere/) |
+  | 9 | - | [Раска](/ru/heroes/Rashka/) |
+  | 10 | - | [Зидар](/ru/heroes/Zydar/) |
+  | 11 | - | [Мутара](/ru/heroes/Mutare/) |
+  | 12 | - | [Фиур](/ru/heroes/Fiur/) |
+  | 13 | - | [Сиэль](/ru/heroes/Ciele/) |
 
 
 #### Отряды и герои наносят дополнительный урон горящим врагам
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Дьявол](/units/Дьявол/) | [Луна](/heroes/Луна/) |
-  | 2 | [Жар-птица](/units/Жар-птица/) | [Ксерон](/heroes/Ксерон/) |
-  | 3 | [Черный дракон](/units/Черный дракон/) | [Фиур](/heroes/Фиур/) |
-  | 4 | [Горгона](/units/Горгона/) | [Дракон Мутара](/heroes/Дракон Мутара/) |
-  | 5 | [Летучий змей](/units/Летучий змей/) | - |
-  | 6 | [Злая ведьма](/units/Злая ведьма/) | - |
+  | 1 | [Дьявол](/ru/units/Devil/) | [Луна](/ru/heroes/Luna/) |
+  | 2 | [Жар-птица](/ru/units/Firebird/) | [Ксерон](/ru/heroes/Xeron/) |
+  | 3 | [Черный дракон](/ru/units/Black Dragon/) | [Фиур](/ru/heroes/Fiur/) |
+  | 4 | [Горгона](/ru/units/Gorgon/) | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |
+  | 5 | [Летучий змей](/ru/units/Serpent Fly/) | - |
+  | 6 | [Злая ведьма](/ru/units/Evil Sorceress/) | - |

@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Болезнь"
 permalink: /combination/Disease/
 excerpt: "Информация о комбинации - Болезнь. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Болезнь.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Мумия](/units/Мумия/) | [Вестан](/heroes/Вестан/) |
+  | 1 | [Мумия](/ru/units/Mummy/) | [Вестан](/ru/heroes/Wystan/) |
 
 
 #### Отряды и герои получают преимущество против больных врагов
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Мумия](/units/Мумия/) | - |
-  | 2 | [Горгона](/units/Горгона/) | - |
-  | 3 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Мумия](/ru/units/Mummy/) | - |
+  | 2 | [Горгона](/ru/units/Gorgon/) | - |
+  | 3 | [Летучий змей](/ru/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Низкий боевой дух"
 permalink: /combination/Low Morale/
 excerpt: "Информация о комбинации - Низкий боевой дух. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Низкий боевой дух.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Черный рыцарь](/units/Черный рыцарь/) | [Лорд Хаарт](/heroes/Лорд Хаарт/) |
-  | 2 | [Костяной дракон](/units/Костяной дракон/) | [Видомина](/heroes/Видомина/) |
-  | 3 | - | [Сандро](/heroes/Сандро/) |
+  | 1 | [Черный рыцарь](/ru/units/Black Knight/) | [Лорд Хаарт](/ru/heroes/Lord Haart/) |
+  | 2 | [Костяной дракон](/ru/units/Bone Dragon/) | [Видомина](/ru/heroes/Vidomina/) |
+  | 3 | - | [Сандро](/ru/heroes/Sandro/) |
 
 
 #### Отряды и герои получают преимущество против врагов с низким боевым духом
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Ходячий мертвец](/units/Ходячий мертвец/) | [Лорд Хаарт](/heroes/Лорд Хаарт/) |
-  | 2 | [Костяной дракон](/units/Костяной дракон/) | [Сандро](/heroes/Сандро/) |
-  | 3 | [Горгона](/units/Горгона/) | - |
-  | 4 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Ходячий мертвец](/ru/units/Walking Dead/) | [Лорд Хаарт](/ru/heroes/Lord Haart/) |
+  | 2 | [Костяной дракон](/ru/units/Bone Dragon/) | [Сандро](/ru/heroes/Sandro/) |
+  | 3 | [Горгона](/ru/units/Gorgon/) | - |
+  | 4 | [Летучий змей](/ru/units/Serpent Fly/) | - |

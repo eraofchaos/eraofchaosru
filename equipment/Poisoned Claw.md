@@ -2,7 +2,7 @@
 title: "Отравленный коготь"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Эра хаоса Отравленный коготь. Отравленный коготь"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Poisoned Claw.md"
 toc: false

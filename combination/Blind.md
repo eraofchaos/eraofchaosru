@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Ослепление"
 permalink: /combination/Blind/
 excerpt: "Информация о комбинации - Ослепление. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Ослепление.md"
 toc: false
@@ -16,12 +16,12 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Единорог](/units/Единорог/) | [Астрал](/heroes/Астрал/) |
+  | 1 | [Единорог](/ru/units/Unicorn/) | [Астрал](/ru/heroes/Astral/) |
 
 
 #### Отряды и герои наносят дополнительный урон ослепленным врагам
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Горгона](/units/Горгона/) | [Янова](/heroes/Янова/) |
-  | 2 | [Летучий змей](/units/Летучий змей/) | [Астрал](/heroes/Астрал/) |
+  | 1 | [Горгона](/ru/units/Gorgon/) | [Янова](/ru/heroes/Jenova/) |
+  | 2 | [Летучий змей](/ru/units/Serpent Fly/) | [Астрал](/ru/heroes/Astral/) |

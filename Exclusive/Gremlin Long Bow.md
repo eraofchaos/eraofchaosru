@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Гремлин Эксклюзив."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Gremlin Длинный лук.md"
 toc: false

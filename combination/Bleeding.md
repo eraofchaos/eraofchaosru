@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Кровотечение"
 permalink: /combination/Bleeding/
 excerpt: "Информация о комбинации - Кровотечение. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Кровотечение.md"
 toc: false
@@ -16,27 +16,27 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Кентавр](/units/Кентавр/) | [Крэг Хак](/heroes/Крэг Хак/) |
-  | 2 | [Пегас](/units/Пегас/) | [Дракон Мутара](/heroes/Дракон Мутара/) |
-  | 3 | [Орк](/units/Орк/) | [Вестан](/heroes/Вестан/) |
-  | 4 | [Дендроид-страж](/units/Дендроид-страж/) | - |
-  | 5 | [Чудище](/units/Чудище/) | - |
-  | 6 | [Гончая ада](/units/Гончая ада/) | - |
-  | 7 | [Минотавр](/units/Минотавр/) | - |
-  | 8 | [Росянка](/units/Росянка/) | - |
-  | 9 | [Чемпион Тьмы](/units/Чемпион Тьмы/) | - |
+  | 1 | [Кентавр](/ru/units/Centaur/) | [Крэг Хак](/ru/heroes/Crag Hack/) |
+  | 2 | [Пегас](/ru/units/Pegasus/) | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |
+  | 3 | [Орк](/ru/units/Orc/) | [Вестан](/ru/heroes/Wystan/) |
+  | 4 | [Дендроид-страж](/ru/units/Dendroid Guard/) | - |
+  | 5 | [Чудище](/ru/units/Behemoth/) | - |
+  | 6 | [Гончая ада](/ru/units/Hell Hound/) | - |
+  | 7 | [Минотавр](/ru/units/Minotaur/) | - |
+  | 8 | [Росянка](/ru/units/Waspwort/) | - |
+  | 9 | [Чемпион Тьмы](/ru/units/Dark Champion/) | - |
 
 
 #### Отряды и герои наносят дополнительный урон кровоточащим врагам
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Зеленый дракон](/units/Зеленый дракон/) | [Крэг Хак](/heroes/Крэг Хак/) |
-  | 2 | [Гончая ада](/units/Гончая ада/) | [Дракон Мутара](/heroes/Дракон Мутара/) |
-  | 3 | [Лич](/units/Лич/) | - |
-  | 4 | [Ходячий мертвец](/units/Ходячий мертвец/) | - |
-  | 5 | [Медуза](/units/Медуза/) | - |
-  | 6 | [Троглодит](/units/Троглодит/) | - |
-  | 7 | [Ящер](/units/Ящер/) | - |
-  | 8 | [Горгона](/units/Горгона/) | - |
-  | 9 | [Летучий змей](/units/Летучий змей/) | - |
+  | 1 | [Зеленый дракон](/ru/units/Green Dragon/) | [Крэг Хак](/ru/heroes/Crag Hack/) |
+  | 2 | [Гончая ада](/ru/units/Hell Hound/) | [Дракон Мутара](/ru/heroes/Dragon Mutare/) |
+  | 3 | [Лич](/ru/units/Lich/) | - |
+  | 4 | [Ходячий мертвец](/ru/units/Walking Dead/) | - |
+  | 5 | [Медуза](/ru/units/Medusa/) | - |
+  | 6 | [Троглодит](/ru/units/Troglodyte/) | - |
+  | 7 | [Ящер](/ru/units/Lizardman/) | - |
+  | 8 | [Горгона](/ru/units/Gorgon/) | - |
+  | 9 | [Летучий змей](/ru/units/Serpent Fly/) | - |

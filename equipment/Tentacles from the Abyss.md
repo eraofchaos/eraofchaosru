@@ -2,7 +2,7 @@
 title: "Щупальца из Бездны"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Эра хаоса Щупальца из Бездны. Щупальца из Бездны"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Tentacles from the Abyss.md"
 toc: false

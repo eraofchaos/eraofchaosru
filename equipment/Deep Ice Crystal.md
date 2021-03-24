@@ -2,7 +2,7 @@
 title: "Глубинный ледяной кристалл"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Эра хаоса Глубинный ледяной кристалл. Глубинный ледяной кристалл"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Deep Ice Crystal.md"
 toc: false

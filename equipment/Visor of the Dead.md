@@ -2,7 +2,7 @@
 title: "Щиток мертвого"
 permalink: /equipment/Visor of the Dead/
 excerpt: "Эра хаоса Щиток мертвого. Щиток мертвого"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: ru
 ref: "Visor of the Dead.md"
 toc: false
