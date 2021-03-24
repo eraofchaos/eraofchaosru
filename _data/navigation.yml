@@ -17,9 +17,9 @@ docs:
       url: /heroes/
     - title: "Отряды"
       url: /units/
-    - title: "Items"
+    - title: "Предметы"
       url: /Items/
-    - title: "Artifacts"
+    - title: "Артефакты"
       url: /artifacts/
     - title: "Эмблема святости"
       url: /Emblem/
@@ -27,20 +27,18 @@ docs:
       url: /Alchemy Workshop/
     - title: "Боевое построение"
       url: /Battle Formation/
-    - title: "Backup"
+    - title: "Подкрепления"
       url: /Backup/
-    - title: "Combination Bonus"
+    - title: "Информация о комбинации"
       url: /combination/
     - title: "Next Faction Week"
       url: /Weekly Sign Rewards/
-    - title: "Schedule"
+    - title: "График"
       url: /Schedule/
     - title: "Hotspot Artifacs 2021"
       url: /Hotspot/
     - title: "Hotspot Spells 2021"
       url: /Hotspot/HotSpot Spell _2021/
-    - title: "Sphinx answers"
-      url: /sphinx/
     - title: "Ответы на Сфинкса"
       url: /sphinx/
 
