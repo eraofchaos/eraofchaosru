@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая древесина"
 permalink: /Items/mat_48/
 excerpt: "Эра хаоса  Эпическая древесина"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_48.md"
 toc: false

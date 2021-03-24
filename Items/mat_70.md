@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная ртуть"
 permalink: /Items/mat_70/
 excerpt: "Эра хаоса  Вечная ртуть"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_70.md"
 toc: false

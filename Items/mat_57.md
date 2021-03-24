@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная сера"
 permalink: /Items/mat_57/
 excerpt: "Эра хаоса  Легендарная сера"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_57.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая руда"
 permalink: /Items/mat_61/
 excerpt: "Эра хаоса  Мифическая руда"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_61.md"
 toc: false

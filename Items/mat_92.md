@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная сера"
 permalink: /Items/mat_92/
 excerpt: "Эра хаоса  Звездная сера"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_92.md"
 toc: false

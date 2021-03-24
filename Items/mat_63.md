@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая ртуть"
 permalink: /Items/mat_63/
 excerpt: "Эра хаоса  Мифическая ртуть"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_63.md"
 toc: false

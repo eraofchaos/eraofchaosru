@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая руда"
 permalink: /Items/mat_47/
 excerpt: "Эра хаоса  Эпическая руда"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_47.md"
 toc: false

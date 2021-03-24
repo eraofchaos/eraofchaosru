@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайные самоцветы"
 permalink: /Items/mat_79/
 excerpt: "Эра хаоса  Тайные самоцветы"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_79.md"
 toc: false

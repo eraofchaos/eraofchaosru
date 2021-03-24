@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная сера"
 permalink: /Items/mat_29/
 excerpt: "Эра хаоса  Ценная сера"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: ru
 ref: "mat_29.md"
 toc: false
