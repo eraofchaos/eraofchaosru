@@ -17,7 +17,7 @@ title: "Эра Хаоса"
 subtitle: "Герои Магии и Меча Era Of Chaos"
 email:
 description: "Герои Магии и Меча Era Of Chaos полная информация о мобильной игре"
-keywords:           EraOfChaos Эра Хаоса Units Heroes Artifacts Events HeroesMightAndMagicMobile
+keywords:           EraOfChaos, Эра Хаоса, Герой, Отряды, Артефакт, Эвенты, Герои, Мобильная игра, HeroesMightAndMagicMobile
 language:           "ru" 
 locale:             "ru"
 url:                "https://eraofchaos.github.io"
@@ -29,7 +29,7 @@ minimal_mistakes_skin: default
 search: true
 search_provider: google
 google:
-  search_engine_id     : "7ff39373b784e9f4b"
+  search_engine_id     : "c7de572383f9060cf"
   instant_search       : true  
 
 # Build settings
