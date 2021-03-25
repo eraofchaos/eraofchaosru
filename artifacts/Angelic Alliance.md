@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Эра хаоса  Ангельский союз. Ангельский союз Священная реликвия, выкованная из ценных предметов силой ангелов. Увеличивает силу ваших союзников."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Angelic Alliance.md"
 toc: false
@@ -51,8 +51,8 @@ classes: wide
   |:--------|:----------------| 
   | **2** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 20 сек. | 
   | **5** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 20 сек. | 
-  | **8** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 25 сек. | 
-  | **11** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 25 сек. | 
-  | **14** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 25 сек. | 
-  | **17** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 25 сек. | 
-  | **20** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 25 сек. | 
+  | **8** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 40 сек. | 
+  | **11** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 40 сек. | 
+  | **14** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 40 сек. | 
+  | **17** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 40 сек. | 
+  | **20** | Повышает атаку всех союзных отрядов на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, скорость атаки на <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%,</span> и скорость передвижения на 30. Длится 40 сек. | 

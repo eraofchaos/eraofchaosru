@@ -2,7 +2,7 @@
 title: "Рукавицы роз"
 permalink: /equipment/Gauntlets of Roses/
 excerpt: "Эра хаоса Рукавицы роз. Рукавицы роз"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Gauntlets of Roses.md"
 toc: false

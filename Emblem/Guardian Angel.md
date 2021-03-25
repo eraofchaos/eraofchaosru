@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ангел-хранитель"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Эра хаоса Ангел-хранитель. Ангел-хранитель. Эра хаоса Эмблема святости Ангел-хранитель. Эра хаоса Добро Ангел-хранитель"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Guardian Angel.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 30% отряд восстанавливает 5% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +20%, эмблема святости ЗЩТ +55</span> | 
   | [Ангел-хранитель](/ru/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; АТК +3%, эмблема святости ЗЩТ +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При нанесении отрядом критического урона, с шансом 15% отряд восстанавливает 3% от максимального запаса здоровья.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; АТК +7%, эмблема святости ЗЩТ +16</span> | 

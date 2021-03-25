@@ -2,7 +2,7 @@
 title: "Щит империи"
 permalink: /equipment/Empire's Shield/
 excerpt: "Эра хаоса Щит империи. Щит империи"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Empire's Shield.md"
 toc: false

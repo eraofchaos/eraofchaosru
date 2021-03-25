@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовные самоцветы"
 permalink: /Items/mat_86/
 excerpt: "Эра хаоса  Духовные самоцветы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_86.md"
 toc: false

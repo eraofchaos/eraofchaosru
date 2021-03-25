@@ -2,7 +2,7 @@
 title: "Артефакт - Шляпа заклинателя - Книга магии Воды"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Эра хаоса  Шляпа заклинателя - Книга магии Воды. Волшебная книга, в которой записаны продвинутые заклинания Воды. Ее дала вам Аделаида. Компонент Шляпы заклинателя."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Tome of Water Magic.md"
 toc: false

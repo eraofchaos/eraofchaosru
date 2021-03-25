@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарные кристаллы"
 permalink: /Items/mat_59/
 excerpt: "Эра хаоса  Легендарные кристаллы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_59.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Хрустальный шар"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Эра хаоса  Золотое яблоко - Хрустальный шар. Искрящийся шар, позволяющий увидеть будущее."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Crystal Ball.md"
 toc: false

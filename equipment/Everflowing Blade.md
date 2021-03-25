@@ -2,7 +2,7 @@
 title: "Изобильный клинок"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Эра хаоса Изобильный клинок. Изобильный клинок"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Everflowing Blade.md"
 toc: false

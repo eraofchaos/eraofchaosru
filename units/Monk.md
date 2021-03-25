@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /units/Monk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Монах"
 toc: true
@@ -110,36 +110,34 @@ toc: true
 ### Совершенное умение: Молитва
  **Описание:** <span style="color: #645252;font-size:20px">Монахи восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ у союзного отряда с самым низким процентом ОЗ каждые 17 сек.</span><span style="color: black">
 
-### Обычное умение 1 : Благословения отважного
- **Описание:** <span style="color: #645252;font-size:20px">После начала боя монахи наделяют </span><span style="color: black"><span style="color: #48b946;font-size:20px">высоким боевым духом</span><span style="color: black"><span style="color: #645252;font-size:20px"> все союзные отряды на своем пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек.</span><span style="color: black">
+### Обычное умение 1 : null
+ **Описание:** 
 
 ### Обычное умение 2 : Медитация
- **Описание:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Когда монахи на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости восстановления заклинаний.</span><span style="color: black">
 
 ### Обычное умение 3 : Восстановление
- **Описание:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Монахи получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Исцеление повышается на 50%.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Осадный бой
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски умеют убивать драконов. В бою против отряда из одного существа их урон увеличивается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Резонанс защиты
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Замка мастерски владеют совместной обороной. За каждый выживший отряд они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ЗЩТ.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str5 = "(LEVEL*1.5+2.5)"
-    let str6 = "(LEVEL*0.5+2.5)"
-    let str3 = "LEVEL*0.05+0.25"
-    let str4 = "LEVEL*4+16"
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*4+16"
+    let str4 = "(LEVEL*1.5+2.5)"
     let str1 = "(LEVEL*15+285)*0.01*ATK"
-    let str2 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*0.05+0.25"
     let res="ERR";
     try {
      res = eval(str5); document.getElementById('str5').textContent = res;
-     res = eval(str6); document.getElementById('str6').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;

@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Осколок ледяного кристалла"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Эра хаоса  Меч Холода - Осколок ледяного кристалла. Священный щит, запечатанный на возвышенности Бракады. Компонент меча Холода."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Ice Crystal Shield.md"
 toc: false

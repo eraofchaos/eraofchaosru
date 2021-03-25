@@ -2,7 +2,7 @@
 title: "Защитные ремни"
 permalink: /equipment/Protective Strap/
 excerpt: "Эра хаоса Защитные ремни. Защитные ремни"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Protective Strap.md"
 toc: false

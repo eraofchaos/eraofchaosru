@@ -2,7 +2,7 @@
 title: "Кожаные брюки"
 permalink: /equipment/Leather Trousers/
 excerpt: "Эра хаоса Кожаные брюки. Кожаные брюки"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Leather Trousers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Посох с головой барана"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Эра хаоса Посох с головой барана. Посох с головой барана"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Rams-head Staff.md"
 toc: false

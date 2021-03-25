@@ -2,7 +2,7 @@
 title: "Чумной клык"
 permalink: /equipment/Plague Fang/
 excerpt: "Эра хаоса Чумной клык. Чумной клык"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Plague Fang.md"
 toc: false

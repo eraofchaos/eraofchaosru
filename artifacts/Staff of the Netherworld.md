@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Жезл Загробного Мира"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Эра хаоса  Меч Холода - Жезл Загробного Мира. Совершенный посох, запечатанный в Дейе. Компонент меча Холода."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Staff of the Netherworld.md"
 toc: false

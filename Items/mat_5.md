@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортные кристаллы"
 permalink: /Items/mat_5/
 excerpt: "Эра хаоса  Низкосортные кристаллы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_5.md"
 toc: false

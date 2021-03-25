@@ -2,7 +2,7 @@
 title: "Бессмертное касание"
 permalink: /equipment/Immortal Touch/
 excerpt: "Эра хаоса Бессмертное касание. Бессмертное касание"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Immortal Touch.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Безумный убийца"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Эра хаоса Безумный убийца. Безумный убийца. Эра хаоса Эксклюзив Безумный убийца. Берсерк Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Berserker Безумный убийца.md"
 toc: false

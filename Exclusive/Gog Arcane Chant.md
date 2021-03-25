@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Гог Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Gog Таинственное пение.md"
 toc: false

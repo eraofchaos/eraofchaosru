@@ -2,7 +2,7 @@
 title: "Кипящий щит"
 permalink: /equipment/Boiling Shield/
 excerpt: "Эра хаоса Кипящий щит. Кипящий щит"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Boiling Shield.md"
 toc: false

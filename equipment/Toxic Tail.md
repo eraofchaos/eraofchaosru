@@ -2,7 +2,7 @@
 title: "Ядовитый хвост"
 permalink: /equipment/Toxic Tail/
 excerpt: "Эра хаоса Ядовитый хвост. Ядовитый хвост"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Toxic Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Рукавицы печного огня"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Эра хаоса Рукавицы печного огня. Рукавицы печного огня"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

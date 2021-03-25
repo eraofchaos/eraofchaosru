@@ -2,7 +2,7 @@
 title: "UnknownEquipment_7092"
 permalink: /equipment/UnknownEquipment_7092/
 excerpt: "Эра хаоса UnknownEquipment_7092. UnknownEquipment_7092"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "UnknownEquipment_7092.md"
 toc: false

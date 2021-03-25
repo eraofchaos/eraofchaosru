@@ -2,7 +2,7 @@
 title: "Ядовитый рог"
 permalink: /equipment/Venomous Horn/
 excerpt: "Эра хаоса Ядовитый рог. Ядовитый рог"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Venomous Horn.md"
 toc: false

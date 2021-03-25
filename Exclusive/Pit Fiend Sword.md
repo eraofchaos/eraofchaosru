@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Порождение зла Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Pit Fiend Меч.md"
 toc: false

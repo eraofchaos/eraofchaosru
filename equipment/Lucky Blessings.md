@@ -2,7 +2,7 @@
 title: "Благословение удачи"
 permalink: /equipment/Lucky Blessings/
 excerpt: "Эра хаоса Благословение удачи. Благословение удачи"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Lucky Blessings.md"
 toc: false

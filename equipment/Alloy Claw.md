@@ -2,7 +2,7 @@
 title: "Коготь из сплава"
 permalink: /equipment/Alloy Claw/
 excerpt: "Эра хаоса Коготь из сплава. Коготь из сплава"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Alloy Claw.md"
 toc: false

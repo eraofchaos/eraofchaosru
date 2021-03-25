@@ -2,7 +2,7 @@
 title: "Костяное копье потрошителя"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Эра хаоса Костяное копье потрошителя. Костяное копье потрошителя"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Ripper's Bone Spear.md"
 toc: false

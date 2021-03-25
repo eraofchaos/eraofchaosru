@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная древесина"
 permalink: /Items/mat_27/
 excerpt: "Эра хаоса  Ценная древесина"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_27.md"
 toc: false

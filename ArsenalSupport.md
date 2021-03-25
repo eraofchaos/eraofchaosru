@@ -2,7 +2,7 @@
 title: "Поддержка"
 permalink: /ArsenalSupport.html
 excerpt: "Эра хаоса  Поддержка. <span style="color: #8a5c1d;font-size:18px">Место на поле боя ограничено, поэтому в Академии изобрели специальное заклинание, позволяющее передать силу отряда поддержки боевым отрядам и повысить их боеспособность. </span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "ArsenalSupport.md"
 toc: false

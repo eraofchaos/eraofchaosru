@@ -2,7 +2,7 @@
 title: "Эмблема святости - Вина Тарнума"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Эра хаоса Вина Тарнума. Вина Тарнума. Эра хаоса Эмблема святости Вина Тарнума. Эра хаоса Нейтральный Вина Тарнума"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Tarnum's Culpability.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +15, эмблема святости ЗЩТ +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 4% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +37,5, эмблема святости ЗЩТ +37,5</span> | 
   | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +1,5, эмблема святости ЗЩТ +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Сопротивление отряда урону возрастает на 1% за каждый ваш участвующий в построении отряд той же фракции</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +4, эмблема святости ЗЩТ +4</span> | 

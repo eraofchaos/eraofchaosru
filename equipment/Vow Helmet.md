@@ -2,7 +2,7 @@
 title: "Шлем клятвы"
 permalink: /equipment/Vow Helmet/
 excerpt: "Эра хаоса Шлем клятвы. Шлем клятвы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Vow Helmet.md"
 toc: false

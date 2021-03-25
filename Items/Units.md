@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Units.md"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:--------------------|:-------:|:------------------|
   | 1 | [Tool_3209](/ru/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 2 | [Tool_3509](/ru/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 3 | [Tool_3709](/ru/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Собрав 30 жетонов души, вы можете призвать гнолла. Жетоны можно использовать для улучшения гноллов или повышения их ранга. |
+  | 3 | [Tool_3709](/ru/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Собрав 80 жетонов души, вы можете призвать злую ведьму. Жетоны можно использовать для улучшения ведьм или повышения их ранга. |
   | 4 | [Tool_3809](/ru/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 5 | [Tool_94601](/ru/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 6 | [Tool_94602](/ru/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

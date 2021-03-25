@@ -2,7 +2,7 @@
 title: "Заколдованная легкая броня"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Эра хаоса Заколдованная легкая броня. Заколдованная легкая броня"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Charmed Light Armor.md"
 toc: false

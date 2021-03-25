@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч Дюрандаль"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Эра хаоса Меч Дюрандаль. Меч Дюрандаль. Эра хаоса Эксклюзив Меч Дюрандаль. Ангел Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Angel Меч Дюрандаль.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Красные медные браслеты"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Эра хаоса Красные медные браслеты. Красные медные браслеты"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Red Copper Bracer.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Корона из камня"
 permalink: /equipment/Crown of Stone/
 excerpt: "Эра хаоса Корона из камня. Корона из камня"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Crown of Stone.md"
 toc: false

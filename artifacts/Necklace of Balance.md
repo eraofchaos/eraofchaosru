@@ -2,7 +2,7 @@
 title: "Артефакт - Зеркало возмездия - Ожерелье баланса"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Эра хаоса  Зеркало возмездия - Ожерелье баланса. Предмет, предназначенный для примирения магии разных стихий во время их объединения. Один из компонентов зеркала возмездия."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Necklace of Balance.md"
 toc: false

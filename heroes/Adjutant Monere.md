@@ -2,7 +2,7 @@
 title: "Адъютант Монер"
 permalink: /heroes/Adjutant Monere/
 excerpt: "Эра хаоса  Адъютант Монер"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Adjutant Monere.md"
 toc: false

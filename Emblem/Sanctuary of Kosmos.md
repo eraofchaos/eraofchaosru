@@ -2,7 +2,7 @@
 title: "Эмблема святости - Святилище Космоса"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Эра хаоса Святилище Космоса. Святилище Космоса. Эра хаоса Эмблема святости Святилище Космоса. Эра хаоса Порядок Святилище Космоса"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Sanctuary of Kosmos.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ОЗ +10%, эмблема святости ЗЩТ +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; под оглушением и немотой ЗЩТ отряда увеличивается на +24% на 15 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ОЗ +20%, эмблема святости ЗЩТ +55</span> | 
   | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ОЗ +1%, эмблема святости ЗЩТ +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; под оглушением и немотой ЗЩТ отряда увеличивается на +4% на 15 сек.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ОЗ +2%, эмблема святости ЗЩТ +6</span> | 

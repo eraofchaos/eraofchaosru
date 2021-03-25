@@ -2,7 +2,7 @@
 title: "Щиток защиты"
 permalink: /equipment/Visor of Defense/
 excerpt: "Эра хаоса Щиток защиты. Щиток защиты"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Visor of Defense.md"
 toc: false

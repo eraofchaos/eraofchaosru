@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходные кристаллы"
 permalink: /Items/mat_24/
 excerpt: "Эра хаоса  Превосходные кристаллы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_24.md"
 toc: false

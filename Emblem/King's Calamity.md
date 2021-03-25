@@ -2,7 +2,7 @@
 title: "Эмблема святости - Королевская беда"
 permalink: /Emblem/King's Calamity/
 excerpt: "Эра хаоса Королевская беда. Королевская беда. Эра хаоса Эмблема святости Королевская беда. Эра хаоса Злой Королевская беда"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "King's Calamity.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Королевская беда](/ru/Emblem/King's Calamity/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; При атаке горящих целей урон отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
   | [Королевская беда](/ru/Emblem/King's Calamity/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Урон отряда увеличивается на 1,5%. При атаке горящих целей урон отряда увеличивается еще на 4,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 

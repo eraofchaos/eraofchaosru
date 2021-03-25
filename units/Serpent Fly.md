@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Ядовитый змей
 
- **Awaking Описание:** null
+ **Awaking Описание:** Летучие змеи постоянно совершенствуют свое оружие, шипы на их теле становятся все острее, а яд все опасней. Это страшные хищники, настоящие владыки болот.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте летучих змеев и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> ресурсов в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ ядовитых змеев на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Используйте летучих змеев и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Крепости, чтобы победить в 3 боях в кампании. (Набег не учитывается при выполнении этого задания).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Чумное тело
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Болотный змей&gt;</span><span style="color: #645252;font-size:18px"> повышает урон выбранному отряду на 50%. Если отряд находится в состоянии окаменения, он дополнительно теряет 20% сопротивления урону на 6 сек.</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): Отравленное тело
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Болотный змей&gt;</span><span style="color: #645252;font-size:18px"> повышает урон выбранному отряду на 50%. Если отряд находится в состоянии окаменения, он дополнительно теряет 20% урона отряда на 6 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): Ядовитое дыхание
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Змей в воздухе&gt;</span><span style="color: #645252;font-size:18px">: для летучих змеев эффект повышения скорости атаки удваивается.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): Сила болот
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Змей в воздухе&gt;</span><span style="color: #645252;font-size:18px">: для летучих змеев эффект повышения крит. удара удваивается.</span>
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): Истощение
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слабость&gt;</span><span style="color: #645252;font-size:18px"> дополнительно снижает врагам в определенном радиусе сопротивление отряда урону на 5% и стойкость на 80 ед. на 10 сек. Эффект суммируется до 3 раз.</span>
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Упадок сил
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Слабость&gt;</span><span style="color: #645252;font-size:18px"> дополнительно снижает врагам в определенном радиусе защиту на 5% и уклонение на 80 в течение 10 сек. Эффект суммируется до 3 раз.</span>
 
 ## Technical info
  **runart:** 0

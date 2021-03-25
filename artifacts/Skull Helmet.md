@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Шлем-череп"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Эра хаоса  Доспех проклятого - Шлем-череп. Шлем из Подземелья. Компонент доспеха проклятого."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Skull Helmet.md"
 toc: false

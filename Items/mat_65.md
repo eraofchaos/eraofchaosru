@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифические самоцветы"
 permalink: /Items/mat_65/
 excerpt: "Эра хаоса  Мифические самоцветы"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_65.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эмблема святости - Гордыня"
 permalink: /Emblem/Arrogance/
 excerpt: "Эра хаоса Гордыня. Гордыня. Эра хаоса Эмблема святости Гордыня. Эра хаоса Хаос Гордыня"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Arrogance.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Гордыня](/ru/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +2, ЗЩТ +0.1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага больше 50% ОЗ, сопротивление урону отряда увеличивается на 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +6, ЗЩТ +0.2%</span> | 
   | [Гордыня](/ru/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага больше 50% ОЗ, сопротивление урону отряда увеличивается на 6%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 

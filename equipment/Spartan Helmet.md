@@ -2,7 +2,7 @@
 title: "Спартанский шлем"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Эра хаоса Спартанский шлем. Спартанский шлем"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Spartan Helmet.md"
 toc: false

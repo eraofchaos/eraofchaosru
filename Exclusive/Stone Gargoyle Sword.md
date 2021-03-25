@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Каменная горгулья Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Stone Gargoyle Меч.md"
 toc: false

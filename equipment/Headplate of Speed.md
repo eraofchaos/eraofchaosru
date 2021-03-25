@@ -2,7 +2,7 @@
 title: "Головной доспех скорости"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Эра хаоса Головной доспех скорости. Головной доспех скорости"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Headplate of Speed.md"
 toc: false

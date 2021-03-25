@@ -2,7 +2,7 @@
 title: "Большой лук резни"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Эра хаоса Большой лук резни. Большой лук резни"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Slaughter Longbow.md"
 toc: false

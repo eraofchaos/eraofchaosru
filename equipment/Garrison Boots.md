@@ -2,7 +2,7 @@
 title: "Сапоги дозорного"
 permalink: /equipment/Garrison Boots/
 excerpt: "Эра хаоса Сапоги дозорного. Сапоги дозорного"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Garrison Boots.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Адъютант Килгор"
 permalink: /heroes/Adjutant Kilgor/
 excerpt: "Эра хаоса  Адъютант Килгор"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Adjutant Kilgor.md"
 toc: false

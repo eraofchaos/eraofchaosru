@@ -2,7 +2,7 @@
 title: "Затмевающие небо крылья"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Эра хаоса Затмевающие небо крылья. Затмевающие небо крылья"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Sky-blocking Wings.md"
 toc: false

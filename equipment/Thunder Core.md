@@ -2,7 +2,7 @@
 title: "Ядро грома"
 permalink: /equipment/Thunder Core/
 excerpt: "Эра хаоса Ядро грома. Ядро грома"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Thunder Core.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная древесина"
 permalink: /Items/mat_69/
 excerpt: "Эра хаоса  Вечная древесина"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_69.md"
 toc: false

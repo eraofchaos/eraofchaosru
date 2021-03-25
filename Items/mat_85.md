@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная сера"
 permalink: /Items/mat_85/
 excerpt: "Эра хаоса  Духовная сера"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "mat_85.md"
 toc: false

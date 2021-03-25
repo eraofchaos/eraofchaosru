@@ -2,7 +2,7 @@
 title: "Кровь сильной кислоты"
 permalink: /equipment/Blood of Strong Acid/
 excerpt: "Эра хаоса Кровь сильной кислоты. Кровь сильной кислоты"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Blood of Strong Acid.md"
 toc: false

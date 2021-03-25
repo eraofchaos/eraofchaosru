@@ -2,7 +2,7 @@
 title: "Эмблема святости - Крылья грифона"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Эра хаоса Крылья грифона. Крылья грифона. Эра хаоса Эмблема святости Крылья грифона. Эра хаоса Порядок Крылья грифона"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Griffin Wings.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Порядок](/ru/Emblem/Type Order/){: .btn .btn--warning}   [Добро](/ru/Emblem/Type Goodness/){: .btn .btn--success}   [Нейтральный](/ru/Emblem/Type Neutral/){: .btn .btn--info}   [Хаос](/ru/Emblem/Type Chaos/){: .btn .btn--danger}   [Злой](/ru/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Имя            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Имя    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +13, ЗЩТ +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 18%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +30, ЗЩТ +1,5%</span> | 
   | [Крылья грифона](/ru/Emblem/Griffin Wings/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; эмблема святости АТК +6, ЗЩТ +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Если у врага меньше 50% ОЗ, сопротивление урону отряда увеличивается на 9%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; эмблема святости АТК +16, ЗЩТ +0,7%</span> | 

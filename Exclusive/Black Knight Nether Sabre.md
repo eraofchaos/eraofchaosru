@@ -2,7 +2,7 @@
 title: "Эксклюзив - Загробная сабля"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Эра хаоса Загробная сабля. Загробная сабля. Эра хаоса Эксклюзив Загробная сабля. Черный рыцарь Эксклюзив."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: ru
 ref: "Black Knight Загробная сабля.md"
 toc: false
