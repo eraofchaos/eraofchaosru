@@ -3,7 +3,7 @@ title: "Мутара"
 permalink: /heroes/Mutare/
 excerpt: "Эра хаоса Мутара. Мутара. Мутара, недавно ставшая лордом Нигона, с рождения обладала способностью командовать драконами. Эта особенность делает ее практически непобедимой в бою."
 heroID: 61301
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Mutare"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Подземелье
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Подземелье безумия
 

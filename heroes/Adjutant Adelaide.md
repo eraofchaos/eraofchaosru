@@ -2,7 +2,7 @@
 title: "Адъютант Аделаида"
 permalink: /heroes/Adjutant Adelaide/
 excerpt: "Эра хаоса  Адъютант Аделаида"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Adjutant Adelaide.md"
 toc: false

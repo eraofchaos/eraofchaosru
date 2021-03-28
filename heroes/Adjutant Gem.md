@@ -2,7 +2,7 @@
 title: "Адъютант Джем"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Эра хаоса  Адъютант Джем"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Adjutant Gem.md"
 toc: false

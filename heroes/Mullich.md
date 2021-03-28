@@ -3,7 +3,7 @@ title: "Мюллих"
 permalink: /heroes/Mullich/
 excerpt: "Эра хаоса Мюллих. Мюллих. Войска Мюллиха знамениты своей скоростью. А о его самоконтроле и дисциплине ходят легенды. Он долго тренирует их, чтобы сделать еще быстрее."
 heroID: 60101
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Mullich"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Замок
 
- **Rate:** R+
+ **Rate:** R
+
+ **User Rate:** R+
 
  **Specialty:** Штурмовая атака
 

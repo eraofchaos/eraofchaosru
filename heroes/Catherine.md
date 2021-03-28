@@ -3,7 +3,7 @@ title: "Катерина"
 permalink: /heroes/Catherine/
 excerpt: "Эра хаоса Катерина. Катерина. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Catherine"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Замок
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Железные крестоносцы
 

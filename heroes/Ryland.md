@@ -3,7 +3,7 @@ title: "Риланд"
 permalink: /heroes/Ryland/
 excerpt: "Эра хаоса Риланд. Риланд. Риланд - первый и единственный из людей, кого полностью принял Круг эльфийских старейшин. Некоторые шутят, что он на самом деле эльф, переродившийся в человеческом теле."
 heroID: 60303
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Ryland"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Бастион
 
- **Rate:** R
+ **Rate:** SR
+
+ **User Rate:** R
 
  **Specialty:** Дендроид-страж
 

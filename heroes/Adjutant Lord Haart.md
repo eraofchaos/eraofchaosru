@@ -2,7 +2,7 @@
 title: "Адъютант Лорд Хаарт"
 permalink: /heroes/Adjutant Lord Haart/
 excerpt: "Эра хаоса  Адъютант Лорд Хаарт"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Adjutant Lord Haart.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Питер Ли"
 permalink: /heroes/Peter Lee/
 excerpt: "Эра хаоса Питер Ли. Питер Ли. Питер Ли - легендарный пират, который разбою и грабежам предпочитает сокровища и приключения. Ходят слухи, что его флот доплывал до края мира."
 heroID: 61801
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: ru
 ref: "Peter Lee"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Убежище
 
- **Rate:** R+
+ **Rate:** SR+
+
+ **User Rate:** R+
 
  **Specialty:** Поднятый парус
 
