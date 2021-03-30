@@ -19,7 +19,7 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 1](/ru/Main Story/Chapter 1/) | TBD | 
+  | [Глава 1](/ru/Main Story/Chapter 1/) | Остров Эверморн | 
 
 
 ## Возвращение королевы: Глава 2 - Глава 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 2](/ru/Main Story/Chapter 2/) | TBD | 
-  | [Глава 3](/ru/Main Story/Chapter 3/) | TBD | 
-  | [Глава 4](/ru/Main Story/Chapter 4/) | TBD | 
+  | [Глава 2](/ru/Main Story/Chapter 2/) | Возвращение королевы | 
+  | [Глава 3](/ru/Main Story/Chapter 3/) | Ангел-хранитель | 
+  | [Глава 4](/ru/Main Story/Chapter 4/) | Утесы грифонов | 
 
 
 ## Отряд Инферно: Глава 5 - Глава 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 5](/ru/Main Story/Chapter 5/) | TBD | 
-  | [Глава 6](/ru/Main Story/Chapter 6/) | TBD | 
-  | [Глава 7](/ru/Main Story/Chapter 7/) | TBD | 
-  | [Глава 8](/ru/Main Story/Chapter 8/) | TBD | 
+  | [Глава 5](/ru/Main Story/Chapter 5/) | Бердс | 
+  | [Глава 6](/ru/Main Story/Chapter 6/) | Разлом | 
+  | [Глава 7](/ru/Main Story/Chapter 7/) | Эрафия | 
+  | [Глава 8](/ru/Main Story/Chapter 8/) | Пограничная полоса | 
 
 
 ## Битва на границе: Глава 9 - Глава 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 9](/ru/Main Story/Chapter 9/) | TBD | 
-  | [Глава 10](/ru/Main Story/Chapter 10/) | TBD | 
-  | [Глава 11](/ru/Main Story/Chapter 11/) | TBD | 
-  | [Глава 12](/ru/Main Story/Chapter 12/) | TBD | 
+  | [Глава 9](/ru/Main Story/Chapter 9/) | Земли Хаоса | 
+  | [Глава 10](/ru/Main Story/Chapter 10/) | Маршленд | 
+  | [Глава 11](/ru/Main Story/Chapter 11/) | Таталия | 
+  | [Глава 12](/ru/Main Story/Chapter 12/) | Ледяное море | 
 
 
 ## Магическое подкрепление: Глава 13 - Глава 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 13](/ru/Main Story/Chapter 13/) | TBD | 
-  | [Глава 14](/ru/Main Story/Chapter 14/) | TBD | 
-  | [Глава 15](/ru/Main Story/Chapter 15/) | TBD | 
+  | [Глава 13](/ru/Main Story/Chapter 13/) | Ночь сменяет день | 
+  | [Глава 14](/ru/Main Story/Chapter 14/) | Безопасный путь | 
+  | [Глава 15](/ru/Main Story/Chapter 15/) | Единым фронтом | 
 
 
 ## Месть Авлии: Глава 16 - Глава 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 16](/ru/Main Story/Chapter 16/) | TBD | 
-  | [Глава 17](/ru/Main Story/Chapter 17/) | TBD | 
-  | [Глава 18](/ru/Main Story/Chapter 18/) | TBD | 
+  | [Глава 16](/ru/Main Story/Chapter 16/) | За короля и отечество | 
+  | [Глава 17](/ru/Main Story/Chapter 17/) | Освобождение империи | 
+  | [Глава 18](/ru/Main Story/Chapter 18/) | Сделка с дьяволом | 
 
 
 ## Сила и магия: Глава 19 - Глава 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 19](/ru/Main Story/Chapter 19/) | TBD | 
-  | [Глава 20](/ru/Main Story/Chapter 20/) | TBD | 
-  | [Глава 21](/ru/Main Story/Chapter 21/) | TBD | 
+  | [Глава 19](/ru/Main Story/Chapter 19/) | Нейтральная территория | 
+  | [Глава 20](/ru/Main Story/Chapter 20/) | Туннели и троглодиты | 
+  | [Глава 21](/ru/Main Story/Chapter 21/) | Грааль | 
 
 
 ## Драконоубийца: Глава 22 - Глава 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 22](/ru/Main Story/Chapter 22/) | TBD | 
-  | [Глава 23](/ru/Main Story/Chapter 23/) | TBD | 
-  | [Глава 24](/ru/Main Story/Chapter 24/) | TBD | 
+  | [Глава 22](/ru/Main Story/Chapter 22/) | Кристальный дракон | 
+  | [Глава 23](/ru/Main Story/Chapter 23/) | Ржавый дракон | 
+  | [Глава 24](/ru/Main Story/Chapter 24/) | Сказочный дракон | 
 
 
 ## Кровь дракона: Глава 25 - Глава 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 25](/ru/Main Story/Chapter 25/) | TBD | 
-  | [Глава 26](/ru/Main Story/Chapter 26/) | TBD | 
-  | [Глава 27](/ru/Main Story/Chapter 27/) | TBD | 
+  | [Глава 25](/ru/Main Story/Chapter 25/) | Выживание сильнейших | 
+  | [Глава 26](/ru/Main Story/Chapter 26/) | Увеличение разрыва | 
+  | [Глава 27](/ru/Main Story/Chapter 27/) | Кровь Отца драконов | 
 
 
 ## Путь к рассвету: Глава 28 - Глава 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Имя |  Описание | 
   |:------------|:------------| 
-  | [Глава 28](/ru/Main Story/Chapter 28/) | TBD | 
-  | [Глава 29](/ru/Main Story/Chapter 29/) | TBD | 
-  | [Глава 30](/ru/Main Story/Chapter 30/) | TBD | 
+  | [Глава 28](/ru/Main Story/Chapter 28/) | Туннели и троглодиты | 
+  | [Глава 29](/ru/Main Story/Chapter 29/) | Сделка с демонами | 
+  | [Глава 30](/ru/Main Story/Chapter 30/) | Спасение короля | 
 
 

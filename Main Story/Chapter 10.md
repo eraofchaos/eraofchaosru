@@ -1,7 +1,7 @@
 ---
-title: "Основной сюжет - Глава 10"
+title: "Основной сюжет - Глава 10 Маршленд"
 permalink: /Main Story/Chapter 10/
-excerpt: "Глава 10. Эра хаоса  Основной сюжет - Глава 10."
+excerpt: "Глава 10. Эра хаоса  Основной сюжет - Глава 10. Маршленд"
 last_modified_at: 2021-03-30
 locale: ru
 ref: "Chapter 10.md"

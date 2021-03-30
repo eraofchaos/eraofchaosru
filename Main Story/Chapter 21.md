@@ -1,7 +1,7 @@
 ---
-title: "Основной сюжет - Глава 21"
+title: "Основной сюжет - Глава 21 Грааль"
 permalink: /Main Story/Chapter 21/
-excerpt: "Глава 21. Эра хаоса  Основной сюжет - Глава 21."
+excerpt: "Глава 21. Эра хаоса  Основной сюжет - Глава 21. Грааль"
 last_modified_at: 2021-03-30
 locale: ru
 ref: "Chapter 21.md"
