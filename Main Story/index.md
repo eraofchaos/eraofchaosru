@@ -2,7 +2,7 @@
 title: "Основной сюжет"
 permalink: /Main Story/
 excerpt: "Основной сюжет. Эра хаоса  Основной сюжет."
-last_modified_at: 2021-03-29
+last_modified_at: 2021-03-30
 locale: ru
 ref: "index.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
 ## Остров Эверморн: Глава 1
 
- **Open level:** 1
+ **Required level:** 1
 
  **Награда Hero:** -
 
@@ -24,7 +24,7 @@ classes: wide
 
 ## Возвращение королевы: Глава 2 - Глава 4
 
- **Open level:** 1
+ **Required level:** 1
 
  **Награда Hero:** -
 
@@ -41,7 +41,7 @@ classes: wide
 
 ## Отряд Инферно: Глава 5 - Глава 8
 
- **Open level:** 10
+ **Required level:** 10
 
  **Награда Hero:** [Раска](/ru/heroes/Rashka/)
 
@@ -59,7 +59,7 @@ classes: wide
 
 ## Битва на границе: Глава 9 - Глава 12
 
- **Open level:** 35
+ **Required level:** 35
 
  **Награда Hero:** [Крэг Хак](/ru/heroes/Crag Hack/)
 
@@ -77,7 +77,7 @@ classes: wide
 
 ## Магическое подкрепление: Глава 13 - Глава 15
 
- **Open level:** 48
+ **Required level:** 48
 
  **Награда Hero:** [Сольмир](/ru/heroes/Solmyr/)
 
@@ -94,7 +94,7 @@ classes: wide
 
 ## Месть Авлии: Глава 16 - Глава 18
 
- **Open level:** 60
+ **Required level:** 60
 
  **Награда Hero:** [Мефала](/ru/heroes/Mephala/)
 
@@ -111,7 +111,7 @@ classes: wide
 
 ## Сила и магия: Глава 19 - Глава 21
 
- **Open level:** 72
+ **Required level:** 72
 
  **Награда Hero:** [Йог](/ru/heroes/Yog/)
 
@@ -128,7 +128,7 @@ classes: wide
 
 ## Драконоубийца: Глава 22 - Глава 24
 
- **Open level:** 84
+ **Required level:** 84
 
  **Награда Hero:** [Дракон](/ru/heroes/Dracon/)
 
@@ -145,7 +145,7 @@ classes: wide
 
 ## Кровь дракона: Глава 25 - Глава 27
 
- **Open level:** 96
+ **Required level:** 96
 
  **Награда Hero:** [Мутара](/ru/heroes/Mutare/)
 
@@ -162,7 +162,7 @@ classes: wide
 
 ## Путь к рассвету: Глава 28 - Глава 30
 
- **Open level:** 999
+ **Required level:** 999
 
  **Награда Hero:** -
 
