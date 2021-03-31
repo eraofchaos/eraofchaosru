@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечные кристаллы"
 permalink: /Items/mat_73/
 excerpt: "Эра хаоса  Вечные кристаллы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_73.md"
 toc: false

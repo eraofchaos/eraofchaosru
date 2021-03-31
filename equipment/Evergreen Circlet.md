@@ -2,7 +2,7 @@
 title: "Вечнозеленый венец"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Эра хаоса Вечнозеленый венец. Вечнозеленый венец"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Evergreen Circlet.md"
 toc: false

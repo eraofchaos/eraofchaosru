@@ -2,7 +2,7 @@
 title: "Адъютант Сольмир"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "Эра хаоса  Адъютант Сольмир"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Solmyr.md"
 toc: false

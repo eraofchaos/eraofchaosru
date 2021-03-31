@@ -2,7 +2,7 @@
 title: "Адъютант Роланд"
 permalink: /heroes/Adjutant Roland/
 excerpt: "Эра хаоса  Адъютант Роланд"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Roland.md"
 toc: false

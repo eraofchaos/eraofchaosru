@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Вампир Эксклюзив."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Vampire Копье рыцаря.md"
 toc: false

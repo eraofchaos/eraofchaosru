@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая сера"
 permalink: /Items/mat_64/
 excerpt: "Эра хаоса  Мифическая сера"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_64.md"
 toc: false

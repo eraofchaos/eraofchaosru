@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Корона дракона"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Эра хаоса  Сила Отца драконов - Корона дракона. Шлем из зубов дракона. Компонент силы Отца драконов."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Crown of Dragontooth.md"
 toc: false

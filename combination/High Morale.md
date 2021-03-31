@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Высокий боевой дух"
 permalink: /combination/High Morale/
 excerpt: "Информация о комбинации - Высокий боевой дух. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Высокий боевой дух.md"
 toc: false

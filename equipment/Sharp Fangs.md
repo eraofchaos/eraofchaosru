@@ -2,7 +2,7 @@
 title: "Острые зубы"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Эра хаоса Острые зубы. Острые зубы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Sharp Fangs.md"
 toc: false

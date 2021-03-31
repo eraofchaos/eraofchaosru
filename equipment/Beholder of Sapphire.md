@@ -2,7 +2,7 @@
 title: "Око сапфира"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Эра хаоса Око сапфира. Око сапфира"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Beholder of Sapphire.md"
 toc: false

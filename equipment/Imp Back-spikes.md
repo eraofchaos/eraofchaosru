@@ -2,7 +2,7 @@
 title: "Спинные шипы беса"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Эра хаоса Спинные шипы беса. Спинные шипы беса"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Imp Back-spikes.md"
 toc: false

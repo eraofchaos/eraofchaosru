@@ -2,7 +2,7 @@
 title: "Боевое построение Гармония"
 permalink: /Battle Formation/Battle Formation Faction Conflux internal
 excerpt: "Боевое построение Гармония"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "BattleFormationFactionConflux"
 toc: false

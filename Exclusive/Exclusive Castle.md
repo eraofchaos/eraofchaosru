@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Эра хаоса Эксклюзив Castle. Эксклюзив Castle. List of Эксклюзив Castle in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Exclusive Castle"
 toc: false

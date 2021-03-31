@@ -2,7 +2,7 @@
 title: "Броня из сплава"
 permalink: /equipment/Alloy Armor/
 excerpt: "Эра хаоса Броня из сплава. Броня из сплава"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Alloy Armor.md"
 toc: false

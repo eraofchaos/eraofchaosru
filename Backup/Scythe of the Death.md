@@ -2,7 +2,7 @@
 title: "Backup - Смертоносная коса"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Эра хаоса  Смертоносная коса"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Scythe of the Death.md"
 toc: false

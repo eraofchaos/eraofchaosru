@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Злая ведьма"
 toc: true
@@ -35,45 +35,45 @@ toc: true
  **Position :** Отражение заклинаний, усиление по области
 
 ## Базовые параметры
- **Base HP: 5770.0**
+ **Base HP: 6000.0**
 
- **Base ATK: 633.6**
+ **Base ATK: 550.0**
 
  **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Зеленый | 316.8 | 12.0 | 4327.5 |
-  | Синий | 633.6 | 24.0 | 8655.0 |
-  | Синий +1 | 950.4 | 36.0 | 12982.5 |
-  | Синий +2 | 1330.56 | 50.4 | 18175.5 |
-  | Фиолетовый | 1710.72 | 64.8 | 23368.5 |
-  | Фиолетовый +1 | 2090.88 | 79.2 | 28561.5 |
-  | Фиолетовый +2 | 2534.4 | 96.0 | 34620.0 |
-  | Фиолетовый +3 | 2977.92 | 112.8 | 40678.5 |
-  | Оранжевый | 3421.44 | 129.6 | 46737.0 |
-  | Оранжевый +1 | 3928.32 | 148.8 | 53661.0 |
-  | Оранжевый +2 | 4435.2 | 168.0 | 60585.0 |
-  | Оранжевый +3 | 4942.08 | 187.2 | 67509.0 |
-  | Оранжевый +4 | 5448.96 | 206.4 | 74433.0 |
-  | Оранжевый +5 | 6209.28 | 235.2 | 84819.0 |
-  | Красный | 7223.04 | 273.6 | 98667.0 |
+  | Зеленый | 275.0 | 13.0 | 4500.0 |
+  | Синий | 550.0 | 26.0 | 9000.0 |
+  | Синий +1 | 825.0 | 39.0 | 13500.0 |
+  | Синий +2 | 1155.0 | 54.6 | 18900.0 |
+  | Фиолетовый | 1485.0 | 70.2 | 24300.0 |
+  | Фиолетовый +1 | 1815.0 | 85.8 | 29700.0 |
+  | Фиолетовый +2 | 2200.0 | 104.0 | 36000.0 |
+  | Фиолетовый +3 | 2585.0 | 122.2 | 42300.0 |
+  | Оранжевый | 2970.0 | 140.4 | 48600.0 |
+  | Оранжевый +1 | 3410.0 | 161.2 | 55800.0 |
+  | Оранжевый +2 | 3850.0 | 182.0 | 63000.0 |
+  | Оранжевый +3 | 4290.0 | 202.8 | 70200.0 |
+  | Оранжевый +4 | 4730.0 | 223.6 | 77400.0 |
+  | Оранжевый +5 | 5390.0 | 254.8 | 88200.0 |
+  | Красный | 6270.0 | 296.4 | 102600.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
-  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
-  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
-  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+  | **3x** <i class="fas fa-star"/> | 77.0 | 0.55 | 6.72 | 840.0 |
+  | **4x** <i class="fas fa-star"/> | 88.0 | 0.58 | 7.48 | 960.0 |
+  | **5x** <i class="fas fa-star"/> | 99.0 | 0.6 | 8.24 | 1080.0 |
+  | **6x** <i class="fas fa-star"/> | 110.0 | 0.63 | 9.0 | 1200.0 |
 
 ## Снаряжение
 
   | I | Снаряжение  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/ru/equipment/UnknownEquipment_7091/) | **АТК** | **ЗЩТ** | 
-  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/ru/equipment/UnknownEquipment_7092/) | **ОЗ** | **ЗЩТ** | 
-  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/ru/equipment/UnknownEquipment_7093/) | **АТК** | **ЗЩТ** | 
-  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/ru/equipment/UnknownEquipment_7094/) | **ОЗ** | **ЗЩТ** | 
+  | ![Посох антимагии](/images/e/e_7091.png) | [Посох антимагии](/ru/equipment/Spell Breaker's Staff/) | **АТК** | **ЗЩТ** | 
+  | ![Дьявольские крылья](/images/e/e_7092.png) | [Дьявольские крылья](/ru/equipment/Demonic Wings/) | **ОЗ** | **ЗЩТ** | 
+  | ![Наручи из черепов](/images/e/e_7093.png) | [Наручи из черепов](/ru/equipment/Cranial Gauntlets/) | **АТК** | **ЗЩТ** | 
+  | ![Адамантовые кости](/images/e/e_7094.png) | [Адамантовые кости](/ru/equipment/Hard Bone/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
 
@@ -104,36 +104,38 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">У злой ведьмы иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;немоте&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, своим присутствием в бою она повышает базовую ману союзных героев на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. В начале боя боец накладывает на себя и 1 некрупный союзный отряд эффект &lt;Волшебное зеркало&gt;, который действует до конца боя. В бою с отрядами дальнего боя сопротивление урону злых ведьм повышено на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Обычное умение 2 : Посох антимагии
- **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон злой ведьмы повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда вражеский герой применяет заклинание, злая ведьма наносит врагам в определенном радиусе вокруг цели урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АКТ +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Всем вражеским отрядам наносится урон в 1,5% от макс. ОЗ, бойцы под действием </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравления&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дополнительно </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушаются&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 4 сек., а </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горящие&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> бойцы получают дополнительный урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Отрядам Башни злая ведьма наносит на 50% больше урона отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отрядный урон злой ведьмы повышен на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, а защита - на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Когда вражеский герой применяет заклинание, злая ведьма наносит врагам в определенном радиусе вокруг цели урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от АКТ +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Всем вражеским отрядам наносится урон в 1,5% от макс. ОЗ, бойцы под действием </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравления&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> дополнительно </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;оглушаются&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> на 4 сек., а </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;горящие&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> бойцы получают дополнительный урон в </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от макс. ОЗ. Отрядам Башни злая ведьма наносит на 50% больше урона отряда.</span><span style="color: black">
 
 ### Обычное умение 3 : Телепортация
- **Описание:** <span style="color: #645252;font-size:20px">Скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Штурмовые отряды Подземелья с шансом 5% при обычной атаке оглушают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравленные&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 2 сек. Через 4 сек. после начала боя Злая ведьма ускоряет атаку союзных штурмовиков на 15%, эффект длится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Злая ведьма перемещается между миром теней и реальностью. Когда она в мире теней, у нее иммунитет к урону, но ее нельзя лечить. Длительность 2 сек. Перезарядка 5 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Скорость атаки повышается на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Штурмовые отряды Подземелья с шансом 5% при обычной атаке оглушают </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;отравленные&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели на 2 сек. Через 4 сек. после начала боя Злая ведьма ускоряет атаку союзных штурмовиков на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект длится </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Злая ведьма перемещается между миром теней и реальностью. Находясь в мире теней, она невосприимчива к урону отряда, но не может лечиться. Длительность 2 сек. Перезарядка 5 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции : Темный конфликт
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Подземелья мастерски используют рельеф, повышая урон отряда на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> в бою против отрядов не из Подземелья.</span><span style="color: black">
 
 ### Обычное умение 6 : Алые катакомбы
- **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Подземелья дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. При активации «Разрыва душ» появляется область действия </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Алых катакомб&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Область существует 15 сек. Перезарядка 30 сек.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Размещение 3 отрядов Подземелья дает +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда +</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону. При активации «Разрыва душ» появляется область действия </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Алых катакомб&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, которая расширяется по мере повышения уровня умения. Область существует 15 сек. Перезарядка 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*3+11"
-    let str8 = "LEVEL*0.1+0.9"
-    let str5 = "LEVEL*2+20"
-    let str6 = "LEVEL*1+2"
-    let str3 = "LEVEL*0.1+2.6"
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*3+11"
+    let str5 = "LEVEL*4+40"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+2.5"
     let str4 = "LEVEL*1+2"
     let str1 = "LEVEL*10+150"
     let str2 = "LEVEL*0.3+2.5"
-    let str12 = "(LEVEL*1+5)"
-    let str13 = "LEVEL*1+15"
-    let str10 = "LEVEL*1+10"
-    let str11 = "(LEVEL*1+15)"
-    let str9 = "LEVEL*0.1+3.5"
-    let str14 = "LEVEL*1+15"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*1+15)"
+    let str10 = "LEVEL*0.1+3.5"
+    let str11 = "LEVEL*1+10"
+    let str16 = "LEVEL*1+15"
+    let str9 = "LEVEL*0.1+0.9"
+    let str14 = "(LEVEL*1+5)"
+    let str15 = "LEVEL*1+15"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -148,8 +150,10 @@ toc: true
      res = eval(str13); document.getElementById('str13').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
      res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)
       event.preventDefault();

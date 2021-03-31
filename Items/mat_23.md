@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходные самоцветы"
 permalink: /Items/mat_23/
 excerpt: "Эра хаоса  Превосходные самоцветы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_23.md"
 toc: false

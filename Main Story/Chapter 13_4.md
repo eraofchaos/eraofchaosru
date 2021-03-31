@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-4 Ради справедливости"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "Глава 13 - 4. Эра хаоса  Основной сюжет - Глава 13_4. 13-4 Ради справедливости"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 13_4.md"
 toc: false

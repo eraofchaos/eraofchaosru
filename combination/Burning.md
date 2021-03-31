@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Горение"
 permalink: /combination/Burning/
 excerpt: "Информация о комбинации - Горение. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Горение.md"
 toc: false

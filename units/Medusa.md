@@ -3,7 +3,7 @@ title: "Медуза"
 permalink: /units/Medusa/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
 unitID: 704
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Медуза"
 toc: true
@@ -80,7 +80,7 @@ toc: true
 
  **Имя:** [Лук медузы](/ru/Exclusive/Medusa Medusa's Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон лука медузы](/ru/Items/con_991/)
 

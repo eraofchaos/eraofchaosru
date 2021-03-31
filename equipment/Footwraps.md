@@ -2,7 +2,7 @@
 title: "Птерюгес"
 permalink: /equipment/Footwraps/
 excerpt: "Эра хаоса Птерюгес. Птерюгес"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Footwraps.md"
 toc: false

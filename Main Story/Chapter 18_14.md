@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-14 Если стал предателем"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Глава 18 - 14. Эра хаоса  Основной сюжет - Глава 18_14. 18-14 Если стал предателем"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 18_14.md"
 toc: false

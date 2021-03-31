@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-4 Набег"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "Глава 7 - 4. Эра хаоса  Основной сюжет - Глава 7_4. 7-4 Набег"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 7_4.md"
 toc: false

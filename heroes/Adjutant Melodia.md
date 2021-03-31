@@ -2,7 +2,7 @@
 title: "Адъютант Мелодия"
 permalink: /heroes/Adjutant Melodia/
 excerpt: "Эра хаоса  Адъютант Мелодия"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Melodia.md"
 toc: false

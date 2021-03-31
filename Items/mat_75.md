@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная руда"
 permalink: /Items/mat_75/
 excerpt: "Эра хаоса  Тайная руда"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_75.md"
 toc: false

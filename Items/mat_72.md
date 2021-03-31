@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечные самоцветы"
 permalink: /Items/mat_72/
 excerpt: "Эра хаоса  Вечные самоцветы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_72.md"
 toc: false

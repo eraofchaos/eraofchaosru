@@ -2,7 +2,7 @@
 title: "Эмблема святости - Зловещий знак"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Эра хаоса Зловещий знак. Зловещий знак. Эра хаоса Эмблема святости Зловещий знак. Эра хаоса Злой Зловещий знак"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Ominous Sign.md"
 toc: false

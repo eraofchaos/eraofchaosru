@@ -2,7 +2,7 @@
 title: "Адъютант Луна"
 permalink: /heroes/Adjutant Luna/
 excerpt: "Эра хаоса  Адъютант Луна"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Luna.md"
 toc: false

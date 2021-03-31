@@ -2,7 +2,7 @@
 title: "Череп хозяина"
 permalink: /equipment/Host Cranium/
 excerpt: "Эра хаоса Череп хозяина. Череп хозяина"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Host Cranium.md"
 toc: false

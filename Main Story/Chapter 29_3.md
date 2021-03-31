@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-3. Опустевшая библиотека"
 permalink: /Main Story/Chapter 29_3/
 excerpt: "Глава 29 - 3. Эра хаоса  Основной сюжет - Глава 29_3. 29-3. Опустевшая библиотека"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 29_3.md"
 toc: false

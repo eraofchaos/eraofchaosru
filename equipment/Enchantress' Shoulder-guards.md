@@ -2,7 +2,7 @@
 title: "Наплечники чаровницы"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Эра хаоса Наплечники чаровницы. Наплечники чаровницы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

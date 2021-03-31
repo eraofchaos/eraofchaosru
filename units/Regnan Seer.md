@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -109,7 +109,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Регнанские прорицательницы каждые 25 сек. призывают из глубины водяной поток, наносящий </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> урона и дополнительный урон в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от максимума ОЗ 2 вражеским отрядам в радиусе действия каждые 0,5 сек. В то же самое время он </span><span style="color: black"><span style="color: #48b946;font-size:20px">истощает</span><span style="color: black"><span style="color: #645252;font-size:20px"> цели. При сдерживании вражеских отрядов урон увеличивается на 30%. Водяной поток существует 5 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Род Нептуна
- **Описание:** <span style="color: #645252;font-size:20px">Регнанские прорицательницы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. При менее 40% ОЗ они призывают регнанских змеев и оглушают все вражеские отряды на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Если остается 10% ОЗ, активируется <span style="color: #F0F000;font-size:20px">&lt;Лазурная защита&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Регнанские прорицательницы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ. Они также получают иммунитет к одиночному урону, превышающему 10% их макс. ОЗ. При менее 40% ОЗ они призывают регнанских змеев и оглушают все вражеские отряды на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Если остается 10% ОЗ, активируется <span style="color: #F0F000;font-size:20px">&lt;Лазурная защита&gt;</span><span style="color: black">.
 
 ### Обычное умение 2 : Глубокий страх
  **Описание:** <span style="color: #645252;font-size:20px">Спустя 5 сек. после начала боя происходит повышение пробивания у всех союзных отрядов на пути на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">истощение</span><span style="color: black"><span style="color: #645252;font-size:20px"> вражеских отрядов на 5 сек. Перезарядка - 20 сек.</span><span style="color: black">

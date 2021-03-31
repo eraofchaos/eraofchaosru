@@ -2,7 +2,7 @@
 title: "Ошпаривающий шар"
 permalink: /equipment/Scalding Orb/
 excerpt: "Эра хаоса Ошпаривающий шар. Ошпаривающий шар"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Scalding Orb.md"
 toc: false

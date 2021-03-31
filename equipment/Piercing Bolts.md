@@ -2,7 +2,7 @@
 title: "Пронзающие стрелы"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Эра хаоса Пронзающие стрелы. Пронзающие стрелы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Piercing Bolts.md"
 toc: false

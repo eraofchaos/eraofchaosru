@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-12 Боевая академия"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Глава 25 - 12. Эра хаоса  Основной сюжет - Глава 25_12. 25-12 Боевая академия"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 25_12.md"
 toc: false

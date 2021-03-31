@@ -2,7 +2,7 @@
 title: "Одежда охотника"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Эра хаоса Одежда охотника. Одежда охотника"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Hunter's Clothing.md"
 toc: false

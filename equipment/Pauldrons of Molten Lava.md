@@ -2,7 +2,7 @@
 title: "Наплечники лавы"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Эра хаоса Наплечники лавы. Наплечники лавы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Pauldrons of Molten Lava.md"
 toc: false

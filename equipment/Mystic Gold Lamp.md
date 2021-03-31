@@ -2,7 +2,7 @@
 title: "Мистическая золотая лампа"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Эра хаоса Мистическая золотая лампа. Мистическая золотая лампа"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Mystic Gold Lamp.md"
 toc: false

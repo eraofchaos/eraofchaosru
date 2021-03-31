@@ -2,7 +2,7 @@
 title: "Свирепые когти"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Эра хаоса Свирепые когти. Свирепые когти"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Ferocious Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная древесина"
 permalink: /Items/mat_83/
 excerpt: "Эра хаоса  Духовная древесина"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_83.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Терновник"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Эра хаоса Терновник. Терновник. Эра хаоса Эксклюзив Терновник. Лепрекон Эксклюзив."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Leprechaun Терновник.md"
 toc: false

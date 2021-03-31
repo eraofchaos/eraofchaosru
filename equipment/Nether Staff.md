@@ -2,7 +2,7 @@
 title: "Загробный посох"
 permalink: /equipment/Nether Staff/
 excerpt: "Эра хаоса Загробный посох. Загробный посох"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Nether Staff.md"
 toc: false

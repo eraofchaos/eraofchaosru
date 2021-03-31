@@ -2,7 +2,7 @@
 title: "Эксклюзив - Созвездие Лиры"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Эра хаоса Созвездие Лиры. Созвездие Лиры. Эра хаоса Эксклюзив Созвездие Лиры. Джинн Эксклюзив."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Genie Созвездие Лиры.md"
 toc: false

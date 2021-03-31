@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-7 Некромант и предатель"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Глава 16 - 7. Эра хаоса  Основной сюжет - Глава 16_7. 16-7 Некромант и предатель"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 16_7.md"
 toc: false

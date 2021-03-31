@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпические самоцветы"
 permalink: /Items/mat_51/
 excerpt: "Эра хаоса  Эпические самоцветы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_51.md"
 toc: false

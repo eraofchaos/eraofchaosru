@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-8 Башня магов"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Глава 19 - 8. Эра хаоса  Основной сюжет - Глава 19_8. 19-8 Башня магов"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 19_8.md"
 toc: false

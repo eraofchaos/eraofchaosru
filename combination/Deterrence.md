@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Сдерживание"
 permalink: /combination/Deterrence/
 excerpt: "Информация о комбинации - Сдерживание. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Сдерживание.md"
 toc: false

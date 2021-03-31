@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная руда"
 permalink: /Items/mat_82/
 excerpt: "Эра хаоса  Духовная руда"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_82.md"
 toc: false

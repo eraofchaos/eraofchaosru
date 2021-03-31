@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная сера"
 permalink: /Items/mat_22/
 excerpt: "Эра хаоса  Превосходная сера"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_22.md"
 toc: false

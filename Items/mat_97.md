@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая древесина"
 permalink: /Items/mat_97/
 excerpt: "Эра хаоса  Сияющая древесина"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_97.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Защитные перчатки"
 permalink: /equipment/Protective Gloves/
 excerpt: "Эра хаоса Защитные перчатки. Защитные перчатки"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Protective Gloves.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Стойкий часовой"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Стойкий часовой. Скульптура авантюриста с пылающими глазами. Компонент зоркого ястребиного глаза."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Stoic Watchman.md"
 toc: false

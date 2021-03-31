@@ -2,7 +2,7 @@
 title: "Боевое построение Бастион"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Боевое построение Бастион"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "BattleFormationFactionRampart"
 toc: false

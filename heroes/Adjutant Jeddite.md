@@ -2,7 +2,7 @@
 title: "Адъютант Джеддит"
 permalink: /heroes/Adjutant Jeddite/
 excerpt: "Эра хаоса  Адъютант Джеддит"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Jeddite.md"
 toc: false

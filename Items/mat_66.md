@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифические кристаллы"
 permalink: /Items/mat_66/
 excerpt: "Эра хаоса  Мифические кристаллы"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_66.md"
 toc: false

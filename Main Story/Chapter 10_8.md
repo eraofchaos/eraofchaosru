@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-8 Дух угнетения"
 permalink: /Main Story/Chapter 10_8/
 excerpt: "Глава 10 - 8. Эра хаоса  Основной сюжет - Глава 10_8. 10-8 Дух угнетения"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 10_8.md"
 toc: false

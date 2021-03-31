@@ -2,7 +2,7 @@
 title: "Адъютант Астрал"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Эра хаоса  Адъютант Астрал"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Adjutant Astral.md"
 toc: false

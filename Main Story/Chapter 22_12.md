@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-12 Магия драконов"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "Глава 22 - 12. Эра хаоса  Основной сюжет - Глава 22_12. 22-12 Магия драконов"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: ru
 ref: "Chapter 22_12.md"
 toc: false

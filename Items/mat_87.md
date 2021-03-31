@@ -2,7 +2,7 @@
 title: "Item - Materials - Кристалл души"
 permalink: /Items/mat_87/
 excerpt: "Эра хаоса  Кристалл души"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: ru
 ref: "mat_87.md"
 toc: false
