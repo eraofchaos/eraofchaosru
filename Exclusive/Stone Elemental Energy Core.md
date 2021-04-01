@@ -2,7 +2,7 @@
 title: "Эксклюзив - Ядро энергии"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Эра хаоса Ядро энергии. Ядро энергии. Эра хаоса Эксклюзив Ядро энергии. Элементаль Камня Эксклюзив."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Stone Elemental Ядро энергии.md"
 toc: false

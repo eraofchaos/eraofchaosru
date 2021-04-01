@@ -3,7 +3,7 @@ title: "Лорд Хаарт"
 permalink: /heroes/Lord Haart/
 excerpt: "Эра хаоса Лорд Хаарт. Лорд Хаарт. Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
 heroID: 60401
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Lord Haart"
 toc: true

@@ -2,7 +2,7 @@
 title: "Адъютант Видомина"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "Эра хаоса  Адъютант Видомина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Adjutant Vidomina.md"
 toc: false

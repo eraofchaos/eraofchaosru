@@ -2,7 +2,7 @@
 title: "Небесная звезда"
 permalink: /equipment/Heavenly Star/
 excerpt: "Эра хаоса Небесная звезда. Небесная звезда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Heavenly Star.md"
 toc: false

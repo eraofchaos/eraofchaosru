@@ -2,7 +2,7 @@
 title: "Венец из древесных листьев"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Эра хаоса Венец из древесных листьев. Венец из древесных листьев"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

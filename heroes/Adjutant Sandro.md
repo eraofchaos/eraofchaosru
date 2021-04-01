@@ -2,7 +2,7 @@
 title: "Адъютант Сандро"
 permalink: /heroes/Adjutant Sandro/
 excerpt: "Эра хаоса  Адъютант Сандро"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Adjutant Sandro.md"
 toc: false

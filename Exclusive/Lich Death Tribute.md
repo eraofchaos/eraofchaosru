@@ -2,7 +2,7 @@
 title: "Эксклюзив - Дань смерти"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Эра хаоса Дань смерти. Дань смерти. Эра хаоса Эксклюзив Дань смерти. Лич Эксклюзив."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Lich Дань смерти.md"
 toc: false

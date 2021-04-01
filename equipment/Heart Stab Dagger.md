@@ -2,7 +2,7 @@
 title: "Пронзающий сердце кинжал"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Эра хаоса Пронзающий сердце кинжал. Пронзающий сердце кинжал"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Heart Stab Dagger.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Проклятый меч"
 permalink: /equipment/Cursed Sword/
 excerpt: "Эра хаоса Проклятый меч. Проклятый меч"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Cursed Sword.md"
 toc: false

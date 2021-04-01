@@ -2,7 +2,7 @@
 title: "Цепь из камней"
 permalink: /equipment/Chained Boulder/
 excerpt: "Эра хаоса Цепь из камней. Цепь из камней"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chained Boulder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ароматный венок"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Эра хаоса Ароматный венок. Ароматный венок"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Fragrant Wreath.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Оковы войны"
 permalink: /equipment/Shackles of War/
 excerpt: "Эра хаоса Оковы войны. Оковы войны"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Shackles of War.md"
 toc: false

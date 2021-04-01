@@ -2,7 +2,7 @@
 title: "Зачарованный хвост"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Эра хаоса Зачарованный хвост. Зачарованный хвост"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Enchanted Tail.md"
 toc: false

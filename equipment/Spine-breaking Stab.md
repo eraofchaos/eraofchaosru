@@ -2,7 +2,7 @@
 title: "Ломающий хребет удар"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Эра хаоса Ломающий хребет удар. Ломающий хребет удар"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Spine-breaking Stab.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Адъютант Ксерон"
 permalink: /heroes/Adjutant Xeron/
 excerpt: "Эра хаоса  Адъютант Ксерон"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Adjutant Xeron.md"
 toc: false

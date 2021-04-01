@@ -2,7 +2,7 @@
 title: "Повелитель цветов"
 permalink: /equipment/Flower Overlord/
 excerpt: "Эра хаоса Повелитель цветов. Повелитель цветов"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Flower Overlord.md"
 toc: false

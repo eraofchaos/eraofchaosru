@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Боевое умение | Глобальное умение | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Energy Scroll](/Items/con_830/) | **5x** [Energy Scroll](/Items/con_830/) | 
-  | 2 | **2x** [Energy Scroll](/Items/con_830/) | **10x** [Energy Scroll](/Items/con_830/) | 
-  | 3 | **3x** [Energy Scroll](/Items/con_830/) | **15x** [Energy Scroll](/Items/con_830/) | 
-  | 4 | **4x** [Energy Scroll](/Items/con_830/) | **20x** [Energy Scroll](/Items/con_830/) | 
-  | 5 | **5x** [Energy Scroll](/Items/con_830/) | **25x** [Energy Scroll](/Items/con_830/) | 
-  | 6 | **9x** [Energy Scroll](/Items/con_830/) | **45x** [Energy Scroll](/Items/con_830/) | 
-  | 7 | **12x** [Energy Scroll](/Items/con_830/) | **60x** [Energy Scroll](/Items/con_830/) | 
-  | 8 | **20x** [Energy Scroll](/Items/con_830/) | **100x** [Energy Scroll](/Items/con_830/) | 
-  | 9 | **30x** [Energy Scroll](/Items/con_830/) | **150x** [Energy Scroll](/Items/con_830/) | 
-  | 10 | **40x** [Energy Scroll](/Items/con_830/) | **200x** [Energy Scroll](/Items/con_830/) | 
-  | 11 | **50x** [Energy Scroll](/Items/con_830/) | **250x** [Energy Scroll](/Items/con_830/) | 
-  | 12 | **60x** [Energy Scroll](/Items/con_830/) | **300x** [Energy Scroll](/Items/con_830/) | 
-  | 13 | **100x** [Energy Scroll](/Items/con_830/) | **500x** [Energy Scroll](/Items/con_830/) | 
-  | 14 | **160x** [Energy Scroll](/Items/con_830/) | **800x** [Energy Scroll](/Items/con_830/) | 
-  | 15 | **200x** [Energy Scroll](/Items/con_830/) | **1000x** [Energy Scroll](/Items/con_830/) | 
+  | 1 | **1x** [Свиток энергии](/ru/Items/con_830/) | **5x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 2 | **2x** [Свиток энергии](/ru/Items/con_830/) | **10x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 3 | **3x** [Свиток энергии](/ru/Items/con_830/) | **15x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 4 | **4x** [Свиток энергии](/ru/Items/con_830/) | **20x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 5 | **5x** [Свиток энергии](/ru/Items/con_830/) | **25x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 6 | **9x** [Свиток энергии](/ru/Items/con_830/) | **45x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 7 | **12x** [Свиток энергии](/ru/Items/con_830/) | **60x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 8 | **20x** [Свиток энергии](/ru/Items/con_830/) | **100x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 9 | **30x** [Свиток энергии](/ru/Items/con_830/) | **150x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 10 | **40x** [Свиток энергии](/ru/Items/con_830/) | **200x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 11 | **50x** [Свиток энергии](/ru/Items/con_830/) | **250x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 12 | **60x** [Свиток энергии](/ru/Items/con_830/) | **300x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 13 | **100x** [Свиток энергии](/ru/Items/con_830/) | **500x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 14 | **160x** [Свиток энергии](/ru/Items/con_830/) | **800x** [Свиток энергии](/ru/Items/con_830/) | 
+  | 15 | **200x** [Свиток энергии](/ru/Items/con_830/) | **1000x** [Свиток энергии](/ru/Items/con_830/) | 
 
 
 ## Правила

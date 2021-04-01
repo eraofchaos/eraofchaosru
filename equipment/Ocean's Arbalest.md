@@ -2,7 +2,7 @@
 title: "Арбалет океана"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Эра хаоса Арбалет океана. Арбалет океана"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Ocean's Arbalest.md"
 toc: false

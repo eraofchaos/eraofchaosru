@@ -2,7 +2,7 @@
 title: "Высокие сапоги леса"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Эра хаоса Высокие сапоги леса. Высокие сапоги леса"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Thigh Boots of the Forest.md"
 toc: false

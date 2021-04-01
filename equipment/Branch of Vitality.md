@@ -2,7 +2,7 @@
 title: "Ветвь живучести"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Эра хаоса Ветвь живучести. Ветвь живучести"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Branch of Vitality.md"
 toc: false
