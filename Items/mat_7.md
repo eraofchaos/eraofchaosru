@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная древесина"
 permalink: /Items/mat_7/
 excerpt: "Эра хаоса  Обычная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_7.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 2 (Возвращение королевы) -> 2-3 
-*    Глава 2 (Возвращение королевы) -> 2-7 
-*    Глава 3 (Ангел-хранитель) -> 3-2 
+*    Поход гильдии 
+*    [Глава 2: Возвращение королевы -> 2-3](/ru/Main Story/Chapter 2_3/) 
+*    [Глава 2: Возвращение королевы -> 2-7](/ru/Main Story/Chapter 2_7/) 
+*    [Глава 3: Ангел-хранитель -> 3-2](/ru/Main Story/Chapter 3_2/) 
 
 ## This item contains:
 

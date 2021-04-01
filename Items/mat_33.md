@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная руда"
 permalink: /Items/mat_33/
 excerpt: "Эра хаоса  Исключительная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_33.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 10 (Маршленд) -> 10-1 
-*    Глава 10 (Маршленд) -> 10-4 
-*    Глава 10 (Маршленд) -> 10-7 
+*    Поход гильдии 
+*    [Глава 10: Маршленд -> 10-1](/ru/Main Story/Chapter 10_1/) 
+*    [Глава 10: Маршленд -> 10-4](/ru/Main Story/Chapter 10_4/) 
+*    [Глава 10: Маршленд -> 10-7](/ru/Main Story/Chapter 10_7/) 
 
 ## This item contains:
 

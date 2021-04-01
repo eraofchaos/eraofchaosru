@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-13 Руководство мага"
 permalink: /Main Story/Chapter 22_13/
 excerpt: "Глава 22 - 13. Эра хаоса  Основной сюжет - Глава 22_13. 22-13 Руководство мага"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 22_13.md"
 toc: false

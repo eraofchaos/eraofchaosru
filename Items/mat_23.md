@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходные самоцветы"
 permalink: /Items/mat_23/
 excerpt: "Эра хаоса  Превосходные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_23.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 7 (Эрафия) -> 7-1 
-*    Глава 7 (Эрафия) -> 7-5 
-*    Глава 7 (Эрафия) -> 7-11 
+*    Поход гильдии 
+*    [Глава 7: Эрафия -> 7-1](/ru/Main Story/Chapter 7_1/) 
+*    [Глава 7: Эрафия -> 7-5](/ru/Main Story/Chapter 7_5/) 
+*    [Глава 7: Эрафия -> 7-11](/ru/Main Story/Chapter 7_11/) 
 
 ## This item contains:
 

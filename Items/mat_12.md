@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая руда"
 permalink: /Items/mat_12/
 excerpt: "Эра хаоса  Хорошая руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_12.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 4 (Утесы грифонов) -> 4-1 
-*    Глава 4 (Утесы грифонов) -> 4-4 
-*    Глава 4 (Утесы грифонов) -> 4-7 
+*    Поход гильдии 
+*    [Глава 4: Утесы грифонов -> 4-1](/ru/Main Story/Chapter 4_1/) 
+*    [Глава 4: Утесы грифонов -> 4-4](/ru/Main Story/Chapter 4_4/) 
+*    [Глава 4: Утесы грифонов -> 4-7](/ru/Main Story/Chapter 4_7/) 
 
 ## This item contains:
 

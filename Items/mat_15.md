@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая сера"
 permalink: /Items/mat_15/
 excerpt: "Эра хаоса  Хорошая сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_15.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 4 (Утесы грифонов) -> 4-10 
-*    Глава 4 (Утесы грифонов) -> 4-14 
-*    Глава 5 (Бердс) -> 5-4 
+*    Поход гильдии 
+*    [Глава 4: Утесы грифонов -> 4-10](/ru/Main Story/Chapter 4_10/) 
+*    [Глава 4: Утесы грифонов -> 4-14](/ru/Main Story/Chapter 4_14/) 
+*    [Глава 5: Бердс -> 5-4](/ru/Main Story/Chapter 5_4/) 
 
 ## This item contains:
 

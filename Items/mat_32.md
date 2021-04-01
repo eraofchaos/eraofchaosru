@@ -2,7 +2,7 @@
 title: "Item - Materials - Книга оружия"
 permalink: /Items/mat_32/
 excerpt: "Эра хаоса  Книга оружия"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_32.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Поход гильдии 
 *    Глава - Падение столицы 
 *    Глава - Пограничная полоса 
 *    Глава - Скачущие мысли 

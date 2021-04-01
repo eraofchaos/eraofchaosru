@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-6 Подземный компромисс"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Глава 11 - 6. Эра хаоса  Основной сюжет - Глава 11_6. 11-6 Подземный компромисс"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 11_6.md"
 toc: false

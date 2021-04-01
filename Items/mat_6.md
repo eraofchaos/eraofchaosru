@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная руда"
 permalink: /Items/mat_6/
 excerpt: "Эра хаоса  Обычная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 2 (Возвращение королевы) -> 2-2 
-*    Глава 2 (Возвращение королевы) -> 2-6 
-*    Глава 2 (Возвращение королевы) -> 2-10 
+*    Поход гильдии 
+*    [Глава 2: Возвращение королевы -> 2-2](/ru/Main Story/Chapter 2_2/) 
+*    [Глава 2: Возвращение королевы -> 2-6](/ru/Main Story/Chapter 2_6/) 
+*    [Глава 2: Возвращение королевы -> 2-10](/ru/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Артефакт - Накидка Мертвого короля - Плащ вампира"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Эра хаоса  Накидка Мертвого короля - Плащ вампира. Ценный плащ вампира. Компонент накидки Мертвого короля."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Vampire's Cowl.md"
 toc: false

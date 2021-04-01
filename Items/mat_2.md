@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортная ртуть"
 permalink: /Items/mat_2/
 excerpt: "Эра хаоса  Низкосортная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_2.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 1 (Остров Эверморн) -> 1-1 
-*    Глава 1 (Остров Эверморн) -> 1-3 
-*    Глава 2 (Возвращение королевы) -> 2-3 
+*    Поход гильдии 
+*    [Глава 1: Остров Эверморн -> 1-1](/ru/Main Story/Chapter 1_1/) 
+*    [Глава 1: Остров Эверморн -> 1-3](/ru/Main Story/Chapter 1_3/) 
+*    [Глава 2: Возвращение королевы -> 2-3](/ru/Main Story/Chapter 2_3/) 
 
 ## This item contains:
 

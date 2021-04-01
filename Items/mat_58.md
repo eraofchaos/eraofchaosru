@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарные самоцветы"
 permalink: /Items/mat_58/
 excerpt: "Эра хаоса  Легендарные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_58.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 17 (Освобождение империи) -> 17-1 
-*    Глава 17 (Освобождение империи) -> 17-5 
-*    Глава 17 (Освобождение империи) -> 17-11 
+*    Поход гильдии 
+*    [Глава 17: Освобождение империи -> 17-1](/ru/Main Story/Chapter 17_1/) 
+*    [Глава 17: Освобождение империи -> 17-5](/ru/Main Story/Chapter 17_5/) 
+*    [Глава 17: Освобождение империи -> 17-11](/ru/Main Story/Chapter 17_11/) 
 
 ## This item contains:
 

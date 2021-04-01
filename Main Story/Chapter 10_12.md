@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-12 Восстание в Цитадели"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Глава 10 - 12. Эра хаоса  Основной сюжет - Глава 10_12. 10-12 Восстание в Цитадели"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 10_12.md"
 toc: false

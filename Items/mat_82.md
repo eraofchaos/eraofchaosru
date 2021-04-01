@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная руда"
 permalink: /Items/mat_82/
 excerpt: "Эра хаоса  Духовная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 24 (Сказочный дракон) -> 24-7 
-*    Глава 25 (Выживание сильнейших) -> 25-7 
+*    Поход гильдии 
+*    [Глава 24: Сказочный дракон -> 24-7](/ru/Main Story/Chapter 24_7/) 
+*    [Глава 25: Выживание сильнейших -> 25-7](/ru/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-15 Последний бой"
 permalink: /Main Story/Chapter 15_15/
 excerpt: "Глава 15 - 15. Эра хаоса  Основной сюжет - Глава 15_15. 15-15 Последний бой"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 15_15.md"
 toc: false

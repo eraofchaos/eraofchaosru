@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкая сера"
 permalink: /Items/mat_43/
 excerpt: "Эра хаоса  Редкая сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 12 (Ледяное море) -> 12-10 
-*    Глава 12 (Ледяное море) -> 12-14 
-*    Глава 13 (Ночь сменяет день) -> 13-4 
+*    Поход гильдии 
+*    [Глава 12: Ледяное море -> 12-10](/ru/Main Story/Chapter 12_10/) 
+*    [Глава 12: Ледяное море -> 12-14](/ru/Main Story/Chapter 12_14/) 
+*    [Глава 13: Ночь сменяет день -> 13-4](/ru/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

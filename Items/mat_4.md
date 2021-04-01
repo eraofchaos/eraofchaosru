@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортные самоцветы"
 permalink: /Items/mat_4/
 excerpt: "Эра хаоса  Низкосортные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_4.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 1 (Остров Эверморн) -> 1-4 
-*    Глава 2 (Возвращение королевы) -> 2-1 
-*    Глава 3 (Ангел-хранитель) -> 3-6 
+*    Поход гильдии 
+*    [Глава 1: Остров Эверморн -> 1-4](/ru/Main Story/Chapter 1_4/) 
+*    [Глава 2: Возвращение королевы -> 2-1](/ru/Main Story/Chapter 2_1/) 
+*    [Глава 3: Ангел-хранитель -> 3-6](/ru/Main Story/Chapter 3_6/) 
 
 ## This item contains:
 

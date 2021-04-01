@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифические кристаллы"
 permalink: /Items/mat_66/
 excerpt: "Эра хаоса  Мифические кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 19 (Нейтральная территория) -> 19-6 
-*    Глава 19 (Нейтральная территория) -> 19-12 
-*    Глава 19 (Нейтральная территория) -> 19-15 
+*    Поход гильдии 
+*    [Глава 19: Нейтральная территория -> 19-6](/ru/Main Story/Chapter 19_6/) 
+*    [Глава 19: Нейтральная территория -> 19-12](/ru/Main Story/Chapter 19_12/) 
+*    [Глава 19: Нейтральная территория -> 19-15](/ru/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

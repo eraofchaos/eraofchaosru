@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая древесина"
 permalink: /Items/mat_48/
 excerpt: "Эра хаоса  Эпическая древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_48.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 14 (Безопасный путь) -> 14-2 
-*    Глава 14 (Безопасный путь) -> 14-5 
-*    Глава 14 (Безопасный путь) -> 14-8 
+*    Поход гильдии 
+*    [Глава 14: Безопасный путь -> 14-2](/ru/Main Story/Chapter 14_2/) 
+*    [Глава 14: Безопасный путь -> 14-5](/ru/Main Story/Chapter 14_5/) 
+*    [Глава 14: Безопасный путь -> 14-8](/ru/Main Story/Chapter 14_8/) 
 
 ## This item contains:
 

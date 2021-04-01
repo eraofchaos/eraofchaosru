@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая сера"
 permalink: /Items/mat_50/
 excerpt: "Эра хаоса  Эпическая сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 14 (Безопасный путь) -> 14-10 
-*    Глава 14 (Безопасный путь) -> 14-14 
-*    Глава 15 (Единым фронтом) -> 15-4 
+*    Поход гильдии 
+*    [Глава 14: Безопасный путь -> 14-10](/ru/Main Story/Chapter 14_10/) 
+*    [Глава 14: Безопасный путь -> 14-14](/ru/Main Story/Chapter 14_14/) 
+*    [Глава 15: Единым фронтом -> 15-4](/ru/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

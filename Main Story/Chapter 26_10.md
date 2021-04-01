@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-10 Колонна бехолдера"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Глава 26 - 10. Эра хаоса  Основной сюжет - Глава 26_10. 26-10 Колонна бехолдера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 26_10.md"
 toc: false

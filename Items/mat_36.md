@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная сера"
 permalink: /Items/mat_36/
 excerpt: "Эра хаоса  Исключительная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_36.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 10 (Маршленд) -> 10-10 
-*    Глава 10 (Маршленд) -> 10-14 
-*    Глава 11 (Таталия) -> 11-4 
+*    Поход гильдии 
+*    [Глава 10: Маршленд -> 10-10](/ru/Main Story/Chapter 10_10/) 
+*    [Глава 10: Маршленд -> 10-14](/ru/Main Story/Chapter 10_14/) 
+*    [Глава 11: Таталия -> 11-4](/ru/Main Story/Chapter 11_4/) 
 
 ## This item contains:
 

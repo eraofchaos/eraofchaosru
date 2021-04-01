@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая ртуть"
 permalink: /Items/mat_98/
 excerpt: "Эра хаоса  Сияющая ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 27 (Кровь Отца драконов) -> 27-3 
-*    Глава 27 (Кровь Отца драконов) -> 27-9 
+*    Поход гильдии 
+*    [Глава 27: Кровь Отца драконов -> 27-3](/ru/Main Story/Chapter 27_3/) 
+*    [Глава 27: Кровь Отца драконов -> 27-9](/ru/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

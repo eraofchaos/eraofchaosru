@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-11 Насыщение духа"
 permalink: /Main Story/Chapter 10_11/
 excerpt: "Глава 10 - 11. Эра хаоса  Основной сюжет - Глава 10_11. 10-11 Насыщение духа"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 10_11.md"
 toc: false

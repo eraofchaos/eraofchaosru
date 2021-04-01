@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездные самоцветы"
 permalink: /Items/mat_93/
 excerpt: "Эра хаоса  Звездные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 26 (Увеличение разрыва) -> 26-1 
-*    Глава 26 (Увеличение разрыва) -> 26-5 
-*    Глава 26 (Увеличение разрыва) -> 26-11 
+*    Поход гильдии 
+*    [Глава 26: Увеличение разрыва -> 26-1](/ru/Main Story/Chapter 26_1/) 
+*    [Глава 26: Увеличение разрыва -> 26-5](/ru/Main Story/Chapter 26_5/) 
+*    [Глава 26: Увеличение разрыва -> 26-11](/ru/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

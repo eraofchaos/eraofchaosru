@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная сера"
 permalink: /Items/mat_78/
 excerpt: "Эра хаоса  Тайная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_78.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 22 (Кристальный дракон) -> 22-4 
-*    Глава 22 (Кристальный дракон) -> 22-10 
-*    Глава 22 (Кристальный дракон) -> 22-13 
+*    Поход гильдии 
+*    [Глава 22: Кристальный дракон -> 22-4](/ru/Main Story/Chapter 22_4/) 
+*    [Глава 22: Кристальный дракон -> 22-10](/ru/Main Story/Chapter 22_10/) 
+*    [Глава 22: Кристальный дракон -> 22-13](/ru/Main Story/Chapter 22_13/) 
 
 ## This item contains:
 

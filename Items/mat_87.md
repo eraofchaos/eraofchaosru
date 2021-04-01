@@ -2,7 +2,7 @@
 title: "Item - Materials - Кристалл души"
 permalink: /Items/mat_87/
 excerpt: "Эра хаоса  Кристалл души"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_87.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 24 (Сказочный дракон) -> 24-6 
-*    Глава 24 (Сказочный дракон) -> 24-12 
-*    Глава 24 (Сказочный дракон) -> 24-15 
+*    Поход гильдии 
+*    [Глава 24: Сказочный дракон -> 24-6](/ru/Main Story/Chapter 24_6/) 
+*    [Глава 24: Сказочный дракон -> 24-12](/ru/Main Story/Chapter 24_12/) 
+*    [Глава 24: Сказочный дракон -> 24-15](/ru/Main Story/Chapter 24_15/) 
 
 ## This item contains:
 

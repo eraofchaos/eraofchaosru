@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая древесина"
 permalink: /Items/mat_97/
 excerpt: "Эра хаоса  Сияющая древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_97.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 27 (Кровь Отца драконов) -> 27-2 
-*    Глава 27 (Кровь Отца драконов) -> 27-8 
+*    Поход гильдии 
+*    [Глава 27: Кровь Отца драконов -> 27-2](/ru/Main Story/Chapter 27_2/) 
+*    [Глава 27: Кровь Отца драконов -> 27-8](/ru/Main Story/Chapter 27_8/) 
 
 ## This item contains:
 

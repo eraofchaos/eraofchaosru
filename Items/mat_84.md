@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная ртуть"
 permalink: /Items/mat_84/
 excerpt: "Эра хаоса  Духовная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 24 (Сказочный дракон) -> 24-3 
-*    Глава 24 (Сказочный дракон) -> 24-9 
-*    Глава 25 (Выживание сильнейших) -> 25-3 
+*    Поход гильдии 
+*    [Глава 24: Сказочный дракон -> 24-3](/ru/Main Story/Chapter 24_3/) 
+*    [Глава 24: Сказочный дракон -> 24-9](/ru/Main Story/Chapter 24_9/) 
+*    [Глава 25: Выживание сильнейших -> 25-3](/ru/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

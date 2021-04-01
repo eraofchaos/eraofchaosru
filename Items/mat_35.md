@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная ртуть"
 permalink: /Items/mat_35/
 excerpt: "Эра хаоса  Исключительная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 10 (Маршленд) -> 10-3 
-*    Глава 10 (Маршленд) -> 10-6 
-*    Глава 10 (Маршленд) -> 10-9 
+*    Поход гильдии 
+*    [Глава 10: Маршленд -> 10-3](/ru/Main Story/Chapter 10_3/) 
+*    [Глава 10: Маршленд -> 10-6](/ru/Main Story/Chapter 10_6/) 
+*    [Глава 10: Маршленд -> 10-9](/ru/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

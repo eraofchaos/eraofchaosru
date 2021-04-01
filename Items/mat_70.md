@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная ртуть"
 permalink: /Items/mat_70/
 excerpt: "Эра хаоса  Вечная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_70.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 20 (Туннели и троглодиты) -> 20-3 
-*    Глава 20 (Туннели и троглодиты) -> 20-6 
-*    Глава 20 (Туннели и троглодиты) -> 20-9 
+*    Поход гильдии 
+*    [Глава 20: Туннели и троглодиты -> 20-3](/ru/Main Story/Chapter 20_3/) 
+*    [Глава 20: Туннели и троглодиты -> 20-6](/ru/Main Story/Chapter 20_6/) 
+*    [Глава 20: Туннели и троглодиты -> 20-9](/ru/Main Story/Chapter 20_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая руда"
 permalink: /Items/mat_61/
 excerpt: "Эра хаоса  Мифическая руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_61.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 18 (Сделка с дьяволом) -> 18-1 
-*    Глава 18 (Сделка с дьяволом) -> 18-4 
-*    Глава 18 (Сделка с дьяволом) -> 18-7 
+*    Поход гильдии 
+*    [Глава 18: Сделка с дьяволом -> 18-1](/ru/Main Story/Chapter 18_1/) 
+*    [Глава 18: Сделка с дьяволом -> 18-4](/ru/Main Story/Chapter 18_4/) 
+*    [Глава 18: Сделка с дьяволом -> 18-7](/ru/Main Story/Chapter 18_7/) 
 
 ## This item contains:
 

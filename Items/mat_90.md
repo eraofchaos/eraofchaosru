@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная древесина"
 permalink: /Items/mat_90/
 excerpt: "Эра хаоса  Звездная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_90.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 26 (Увеличение разрыва) -> 26-2 
-*    Глава 26 (Увеличение разрыва) -> 26-8 
+*    Поход гильдии 
+*    [Глава 26: Увеличение разрыва -> 26-2](/ru/Main Story/Chapter 26_2/) 
+*    [Глава 26: Увеличение разрыва -> 26-8](/ru/Main Story/Chapter 26_8/) 
 
 ## This item contains:
 

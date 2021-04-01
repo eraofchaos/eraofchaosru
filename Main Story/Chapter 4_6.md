@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-6 Дозорная башня"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Глава 4 - 6. Эра хаоса  Основной сюжет - Глава 4_6. 4-6 Дозорная башня"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 4_6.md"
 toc: false

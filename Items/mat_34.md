@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная древесина"
 permalink: /Items/mat_34/
 excerpt: "Эра хаоса  Исключительная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 10 (Маршленд) -> 10-2 
-*    Глава 10 (Маршленд) -> 10-5 
-*    Глава 10 (Маршленд) -> 10-8 
+*    Поход гильдии 
+*    [Глава 10: Маршленд -> 10-2](/ru/Main Story/Chapter 10_2/) 
+*    [Глава 10: Маршленд -> 10-5](/ru/Main Story/Chapter 10_5/) 
+*    [Глава 10: Маршленд -> 10-8](/ru/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

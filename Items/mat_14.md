@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая ртуть"
 permalink: /Items/mat_14/
 excerpt: "Эра хаоса  Хорошая ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_14.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 4 (Утесы грифонов) -> 4-3 
-*    Глава 4 (Утесы грифонов) -> 4-6 
-*    Глава 4 (Утесы грифонов) -> 4-9 
+*    Поход гильдии 
+*    [Глава 4: Утесы грифонов -> 4-3](/ru/Main Story/Chapter 4_3/) 
+*    [Глава 4: Утесы грифонов -> 4-6](/ru/Main Story/Chapter 4_6/) 
+*    [Глава 4: Утесы грифонов -> 4-9](/ru/Main Story/Chapter 4_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкие кристаллы"
 permalink: /Items/mat_45/
 excerpt: "Эра хаоса  Редкие кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 13 (Ночь сменяет день) -> 13-6 
-*    Глава 13 (Ночь сменяет день) -> 13-12 
-*    Глава 13 (Ночь сменяет день) -> 13-15 
+*    Поход гильдии 
+*    [Глава 13: Ночь сменяет день -> 13-6](/ru/Main Story/Chapter 13_6/) 
+*    [Глава 13: Ночь сменяет день -> 13-12](/ru/Main Story/Chapter 13_12/) 
+*    [Глава 13: Ночь сменяет день -> 13-15](/ru/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

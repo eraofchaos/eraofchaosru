@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошая древесина"
 permalink: /Items/mat_13/
 excerpt: "Эра хаоса  Хорошая древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 4 (Утесы грифонов) -> 4-2 
-*    Глава 4 (Утесы грифонов) -> 4-5 
-*    Глава 4 (Утесы грифонов) -> 4-8 
+*    Поход гильдии 
+*    [Глава 4: Утесы грифонов -> 4-2](/ru/Main Story/Chapter 4_2/) 
+*    [Глава 4: Утесы грифонов -> 4-5](/ru/Main Story/Chapter 4_5/) 
+*    [Глава 4: Утесы грифонов -> 4-8](/ru/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

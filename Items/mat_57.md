@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная сера"
 permalink: /Items/mat_57/
 excerpt: "Эра хаоса  Легендарная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 16 (За короля и отечество) -> 16-10 
-*    Глава 16 (За короля и отечество) -> 16-14 
-*    Глава 17 (Освобождение империи) -> 17-4 
+*    Поход гильдии 
+*    [Глава 16: За короля и отечество -> 16-10](/ru/Main Story/Chapter 16_10/) 
+*    [Глава 16: За короля и отечество -> 16-14](/ru/Main Story/Chapter 16_14/) 
+*    [Глава 17: Освобождение империи -> 17-4](/ru/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

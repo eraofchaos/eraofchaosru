@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная сера"
 permalink: /Items/mat_22/
 excerpt: "Эра хаоса  Превосходная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 6 (Разлом) -> 6-10 
-*    Глава 6 (Разлом) -> 6-14 
-*    Глава 7 (Эрафия) -> 7-4 
+*    Поход гильдии 
+*    [Глава 6: Разлом -> 6-10](/ru/Main Story/Chapter 6_10/) 
+*    [Глава 6: Разлом -> 6-14](/ru/Main Story/Chapter 6_14/) 
+*    [Глава 7: Эрафия -> 7-4](/ru/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

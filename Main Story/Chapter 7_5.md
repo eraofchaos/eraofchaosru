@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-5 Страна в огне"
 permalink: /Main Story/Chapter 7_5/
 excerpt: "Глава 7 - 5. Эра хаоса  Основной сюжет - Глава 7_5. 7-5 Страна в огне"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 7_5.md"
 toc: false

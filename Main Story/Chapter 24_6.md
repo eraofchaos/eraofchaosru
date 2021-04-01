@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-6 Секреты драконов"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Глава 24 - 6. Эра хаоса  Основной сюжет - Глава 24_6. 24-6 Секреты драконов"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 24_6.md"
 toc: false

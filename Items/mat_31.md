@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценные кристаллы"
 permalink: /Items/mat_31/
 excerpt: "Эра хаоса  Ценные кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 9 (Земли Хаоса) -> 9-6 
-*    Глава 9 (Земли Хаоса) -> 9-12 
-*    Глава 9 (Земли Хаоса) -> 9-15 
+*    Поход гильдии 
+*    [Глава 9: Земли Хаоса -> 9-6](/ru/Main Story/Chapter 9_6/) 
+*    [Глава 9: Земли Хаоса -> 9-12](/ru/Main Story/Chapter 9_12/) 
+*    [Глава 9: Земли Хаоса -> 9-15](/ru/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

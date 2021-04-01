@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная древесина"
 permalink: /Items/mat_76/
 excerpt: "Эра хаоса  Тайная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_76.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 22 (Кристальный дракон) -> 22-2 
-*    Глава 22 (Кристальный дракон) -> 22-8 
-*    Глава 23 (Ржавый дракон) -> 23-2 
+*    Поход гильдии 
+*    [Глава 22: Кристальный дракон -> 22-2](/ru/Main Story/Chapter 22_2/) 
+*    [Глава 22: Кристальный дракон -> 22-8](/ru/Main Story/Chapter 22_8/) 
+*    [Глава 23: Ржавый дракон -> 23-2](/ru/Main Story/Chapter 23_2/) 
 
 ## This item contains:
 

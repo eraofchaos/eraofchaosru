@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-9 Повторная встреча"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Глава 15 - 9. Эра хаоса  Основной сюжет - Глава 15_9. 15-9 Повторная встреча"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 15_9.md"
 toc: false

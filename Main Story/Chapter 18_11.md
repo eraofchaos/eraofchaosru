@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-11 Пещерный дворец"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Глава 18 - 11. Эра хаоса  Основной сюжет - Глава 18_11. 18-11 Пещерный дворец"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 18_11.md"
 toc: false

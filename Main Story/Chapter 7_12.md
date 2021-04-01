@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-12 Стратегическое отступление"
 permalink: /Main Story/Chapter 7_12/
 excerpt: "Глава 7 - 12. Эра хаоса  Основной сюжет - Глава 7_12. 7-12 Стратегическое отступление"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 7_12.md"
 toc: false

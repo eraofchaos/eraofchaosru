@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная руда"
 permalink: /Items/mat_75/
 excerpt: "Эра хаоса  Тайная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_75.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 22 (Кристальный дракон) -> 22-7 
-*    Глава 23 (Ржавый дракон) -> 23-7 
+*    Поход гильдии 
+*    [Глава 22: Кристальный дракон -> 22-7](/ru/Main Story/Chapter 22_7/) 
+*    [Глава 23: Ржавый дракон -> 23-7](/ru/Main Story/Chapter 23_7/) 
 
 ## This item contains:
 

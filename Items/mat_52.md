@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпические кристаллы"
 permalink: /Items/mat_52/
 excerpt: "Эра хаоса  Эпические кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_52.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 15 (Единым фронтом) -> 15-6 
-*    Глава 15 (Единым фронтом) -> 15-12 
-*    Глава 15 (Единым фронтом) -> 15-15 
+*    Поход гильдии 
+*    [Глава 15: Единым фронтом -> 15-6](/ru/Main Story/Chapter 15_6/) 
+*    [Глава 15: Единым фронтом -> 15-12](/ru/Main Story/Chapter 15_12/) 
+*    [Глава 15: Единым фронтом -> 15-15](/ru/Main Story/Chapter 15_15/) 
 
 ## This item contains:
 

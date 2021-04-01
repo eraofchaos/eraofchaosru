@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпические самоцветы"
 permalink: /Items/mat_51/
 excerpt: "Эра хаоса  Эпические самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 15 (Единым фронтом) -> 15-1 
-*    Глава 15 (Единым фронтом) -> 15-5 
-*    Глава 15 (Единым фронтом) -> 15-11 
+*    Поход гильдии 
+*    [Глава 15: Единым фронтом -> 15-1](/ru/Main Story/Chapter 15_1/) 
+*    [Глава 15: Единым фронтом -> 15-5](/ru/Main Story/Chapter 15_5/) 
+*    [Глава 15: Единым фронтом -> 15-11](/ru/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Книга сущностей"
 permalink: /Items/mat_60/
 excerpt: "Эра хаоса  Книга сущностей"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_60.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Поход гильдии 
 *    Глава - Безопасный путь 
 *    Глава - Единым фронтом 
 *    Глава - За короля и отечество 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-3 Сложный путь"
 permalink: /Main Story/Chapter 11_3/
 excerpt: "Глава 11 - 3. Эра хаоса  Основной сюжет - Глава 11_3. 11-3 Сложный путь"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 11_3.md"
 toc: false

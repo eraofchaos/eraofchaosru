@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкие самоцветы"
 permalink: /Items/mat_44/
 excerpt: "Эра хаоса  Редкие самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_44.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 13 (Ночь сменяет день) -> 13-1 
-*    Глава 13 (Ночь сменяет день) -> 13-5 
-*    Глава 13 (Ночь сменяет день) -> 13-11 
+*    Поход гильдии 
+*    [Глава 13: Ночь сменяет день -> 13-1](/ru/Main Story/Chapter 13_1/) 
+*    [Глава 13: Ночь сменяет день -> 13-5](/ru/Main Story/Chapter 13_5/) 
+*    [Глава 13: Ночь сменяет день -> 13-11](/ru/Main Story/Chapter 13_11/) 
 
 ## This item contains:
 

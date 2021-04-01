@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовные самоцветы"
 permalink: /Items/mat_86/
 excerpt: "Эра хаоса  Духовные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 24 (Сказочный дракон) -> 24-1 
-*    Глава 24 (Сказочный дракон) -> 24-5 
-*    Глава 24 (Сказочный дракон) -> 24-11 
+*    Поход гильдии 
+*    [Глава 24: Сказочный дракон -> 24-1](/ru/Main Story/Chapter 24_1/) 
+*    [Глава 24: Сказочный дракон -> 24-5](/ru/Main Story/Chapter 24_5/) 
+*    [Глава 24: Сказочный дракон -> 24-11](/ru/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

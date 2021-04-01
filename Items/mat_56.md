@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная ртуть"
 permalink: /Items/mat_56/
 excerpt: "Эра хаоса  Легендарная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_56.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 16 (За короля и отечество) -> 16-3 
-*    Глава 16 (За короля и отечество) -> 16-6 
-*    Глава 16 (За короля и отечество) -> 16-9 
+*    Поход гильдии 
+*    [Глава 16: За короля и отечество -> 16-3](/ru/Main Story/Chapter 16_3/) 
+*    [Глава 16: За короля и отечество -> 16-6](/ru/Main Story/Chapter 16_6/) 
+*    [Глава 16: За короля и отечество -> 16-9](/ru/Main Story/Chapter 16_9/) 
 
 ## This item contains:
 

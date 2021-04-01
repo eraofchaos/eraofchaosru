@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайные самоцветы"
 permalink: /Items/mat_79/
 excerpt: "Эра хаоса  Тайные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 22 (Кристальный дракон) -> 22-1 
-*    Глава 22 (Кристальный дракон) -> 22-5 
-*    Глава 22 (Кристальный дракон) -> 22-11 
+*    Поход гильдии 
+*    [Глава 22: Кристальный дракон -> 22-1](/ru/Main Story/Chapter 22_1/) 
+*    [Глава 22: Кристальный дракон -> 22-5](/ru/Main Story/Chapter 22_5/) 
+*    [Глава 22: Кристальный дракон -> 22-11](/ru/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

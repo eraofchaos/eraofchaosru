@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошие самоцветы"
 permalink: /Items/mat_16/
 excerpt: "Эра хаоса  Хорошие самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_16.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 5 (Бердс) -> 5-1 
-*    Глава 5 (Бердс) -> 5-5 
-*    Глава 5 (Бердс) -> 5-11 
+*    Поход гильдии 
+*    [Глава 5: Бердс -> 5-1](/ru/Main Story/Chapter 5_1/) 
+*    [Глава 5: Бердс -> 5-5](/ru/Main Story/Chapter 5_5/) 
+*    [Глава 5: Бердс -> 5-11](/ru/Main Story/Chapter 5_11/) 
 
 ## This item contains:
 

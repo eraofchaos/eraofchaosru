@@ -2,7 +2,7 @@
 title: "Артефакт - Фиал с кровью жизни"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Эра хаоса  Фиал с кровью жизни. Фиал с кровью жизни Священная реликвия с огромным здоровьем. Повышает здоровье всей армии."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Elixir of Life.md"
 toc: false

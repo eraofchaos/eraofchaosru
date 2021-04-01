@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая сера"
 permalink: /Items/mat_99/
 excerpt: "Эра хаоса  Сияющая сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 27 (Кровь Отца драконов) -> 27-4 
-*    Глава 27 (Кровь Отца драконов) -> 27-10 
-*    Глава 27 (Кровь Отца драконов) -> 27-13 
+*    Поход гильдии 
+*    [Глава 27: Кровь Отца драконов -> 27-4](/ru/Main Story/Chapter 27_4/) 
+*    [Глава 27: Кровь Отца драконов -> 27-10](/ru/Main Story/Chapter 27_10/) 
+*    [Глава 27: Кровь Отца драконов -> 27-13](/ru/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

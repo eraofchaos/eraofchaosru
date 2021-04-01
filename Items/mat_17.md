@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошие кристаллы"
 permalink: /Items/mat_17/
 excerpt: "Эра хаоса  Хорошие кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_17.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 5 (Бердс) -> 5-6 
-*    Глава 5 (Бердс) -> 5-12 
-*    Глава 5 (Бердс) -> 5-15 
+*    Поход гильдии 
+*    [Глава 5: Бердс -> 5-6](/ru/Main Story/Chapter 5_6/) 
+*    [Глава 5: Бердс -> 5-12](/ru/Main Story/Chapter 5_12/) 
+*    [Глава 5: Бердс -> 5-15](/ru/Main Story/Chapter 5_15/) 
 
 ## This item contains:
 

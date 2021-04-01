@@ -2,7 +2,7 @@
 title: "Item - Materials - Духовная древесина"
 permalink: /Items/mat_83/
 excerpt: "Эра хаоса  Духовная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 24 (Сказочный дракон) -> 24-2 
-*    Глава 24 (Сказочный дракон) -> 24-8 
-*    Глава 25 (Выживание сильнейших) -> 25-2 
+*    Поход гильдии 
+*    [Глава 24: Сказочный дракон -> 24-2](/ru/Main Story/Chapter 24_2/) 
+*    [Глава 24: Сказочный дракон -> 24-8](/ru/Main Story/Chapter 24_8/) 
+*    [Глава 25: Выживание сильнейших -> 25-2](/ru/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

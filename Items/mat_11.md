@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычные кристаллы"
 permalink: /Items/mat_11/
 excerpt: "Эра хаоса  Обычные кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 3 (Ангел-хранитель) -> 3-6 
-*    Глава 3 (Ангел-хранитель) -> 3-12 
-*    Глава 3 (Ангел-хранитель) -> 3-15 
+*    Поход гильдии 
+*    [Глава 3: Ангел-хранитель -> 3-6](/ru/Main Story/Chapter 3_6/) 
+*    [Глава 3: Ангел-хранитель -> 3-12](/ru/Main Story/Chapter 3_12/) 
+*    [Глава 3: Ангел-хранитель -> 3-15](/ru/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

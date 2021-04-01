@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифические самоцветы"
 permalink: /Items/mat_65/
 excerpt: "Эра хаоса  Мифические самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 19 (Нейтральная территория) -> 19-1 
-*    Глава 19 (Нейтральная территория) -> 19-5 
-*    Глава 19 (Нейтральная территория) -> 19-11 
+*    Поход гильдии 
+*    [Глава 19: Нейтральная территория -> 19-1](/ru/Main Story/Chapter 19_1/) 
+*    [Глава 19: Нейтральная территория -> 19-5](/ru/Main Story/Chapter 19_5/) 
+*    [Глава 19: Нейтральная территория -> 19-11](/ru/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 

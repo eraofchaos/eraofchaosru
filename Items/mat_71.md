@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная сера"
 permalink: /Items/mat_71/
 excerpt: "Эра хаоса  Вечная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_71.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 20 (Туннели и троглодиты) -> 20-10 
-*    Глава 20 (Туннели и троглодиты) -> 20-14 
-*    Глава 21 (Грааль) -> 21-4 
+*    Поход гильдии 
+*    [Глава 20: Туннели и троглодиты -> 20-10](/ru/Main Story/Chapter 20_10/) 
+*    [Глава 20: Туннели и троглодиты -> 20-14](/ru/Main Story/Chapter 20_14/) 
+*    [Глава 21: Грааль -> 21-4](/ru/Main Story/Chapter 21_4/) 
 
 ## This item contains:
 

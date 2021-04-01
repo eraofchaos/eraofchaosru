@@ -2,7 +2,7 @@
 title: "Item - Materials - Мифическая ртуть"
 permalink: /Items/mat_63/
 excerpt: "Эра хаоса  Мифическая ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 18 (Сделка с дьяволом) -> 18-3 
-*    Глава 18 (Сделка с дьяволом) -> 18-6 
-*    Глава 18 (Сделка с дьяволом) -> 18-9 
+*    Поход гильдии 
+*    [Глава 18: Сделка с дьяволом -> 18-3](/ru/Main Story/Chapter 18_3/) 
+*    [Глава 18: Сделка с дьяволом -> 18-6](/ru/Main Story/Chapter 18_6/) 
+*    [Глава 18: Сделка с дьяволом -> 18-9](/ru/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Лесной лук"
 permalink: /artifacts/Forest Bow/
 excerpt: "Эра хаоса  Клинок Армагеддона - Лесной лук. Обычный лук лесных эльфов. Компонент клинка Армагеддона."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Forest Bow.md"
 toc: false

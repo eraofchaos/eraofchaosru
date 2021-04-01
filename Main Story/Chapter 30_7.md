@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-7. Серный рудник"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Глава 30 - 7. Эра хаоса  Основной сюжет - Глава 30_7. 30-7. Серный рудник"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 30_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-1 Правление в Нигоне"
 permalink: /Main Story/Chapter 25_1/
 excerpt: "Глава 25 - 1. Эра хаоса  Основной сюжет - Глава 25_1. 25-1 Правление в Нигоне"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 25_1.md"
 toc: false

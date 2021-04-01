@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-14 Горы"
 permalink: /Main Story/Chapter 20_14/
 excerpt: "Глава 20 - 14. Эра хаоса  Основной сюжет - Глава 20_14. 20-14 Горы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 20_14.md"
 toc: false

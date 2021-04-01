@@ -2,7 +2,7 @@
 title: "Артефакт - Фиал с кровью жизни - Бутылка энергии"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Эра хаоса  Фиал с кровью жизни - Бутылка энергии. Бутылка, придающая носителю сил. Компонент фиала с кровью жизни."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Bottle of Energy.md"
 toc: false

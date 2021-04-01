@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная руда"
 permalink: /Items/mat_68/
 excerpt: "Эра хаоса  Вечная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_68.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 20 (Туннели и троглодиты) -> 20-1 
-*    Глава 20 (Туннели и троглодиты) -> 20-4 
-*    Глава 20 (Туннели и троглодиты) -> 20-7 
+*    Поход гильдии 
+*    [Глава 20: Туннели и троглодиты -> 20-1](/ru/Main Story/Chapter 20_1/) 
+*    [Глава 20: Туннели и троглодиты -> 20-4](/ru/Main Story/Chapter 20_4/) 
+*    [Глава 20: Туннели и троглодиты -> 20-7](/ru/Main Story/Chapter 20_7/) 
 
 ## This item contains:
 

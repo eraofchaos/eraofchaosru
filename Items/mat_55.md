@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная древесина"
 permalink: /Items/mat_55/
 excerpt: "Эра хаоса  Легендарная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 16 (За короля и отечество) -> 16-2 
-*    Глава 16 (За короля и отечество) -> 16-5 
-*    Глава 16 (За короля и отечество) -> 16-8 
+*    Поход гильдии 
+*    [Глава 16: За короля и отечество -> 16-2](/ru/Main Story/Chapter 16_2/) 
+*    [Глава 16: За короля и отечество -> 16-5](/ru/Main Story/Chapter 16_5/) 
+*    [Глава 16: За короля и отечество -> 16-8](/ru/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

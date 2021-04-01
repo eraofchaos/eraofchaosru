@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая ртуть"
 permalink: /Items/mat_49/
 excerpt: "Эра хаоса  Эпическая ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 14 (Безопасный путь) -> 14-3 
-*    Глава 14 (Безопасный путь) -> 14-6 
-*    Глава 14 (Безопасный путь) -> 14-9 
+*    Поход гильдии 
+*    [Глава 14: Безопасный путь -> 14-3](/ru/Main Story/Chapter 14_3/) 
+*    [Глава 14: Безопасный путь -> 14-6](/ru/Main Story/Chapter 14_6/) 
+*    [Глава 14: Безопасный путь -> 14-9](/ru/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

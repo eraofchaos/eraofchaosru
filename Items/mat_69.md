@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечная древесина"
 permalink: /Items/mat_69/
 excerpt: "Эра хаоса  Вечная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_69.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 20 (Туннели и троглодиты) -> 20-2 
-*    Глава 20 (Туннели и троглодиты) -> 20-5 
-*    Глава 20 (Туннели и троглодиты) -> 20-8 
+*    Поход гильдии 
+*    [Глава 20: Туннели и троглодиты -> 20-2](/ru/Main Story/Chapter 20_2/) 
+*    [Глава 20: Туннели и троглодиты -> 20-5](/ru/Main Story/Chapter 20_5/) 
+*    [Глава 20: Туннели и троглодиты -> 20-8](/ru/Main Story/Chapter 20_8/) 
 
 ## This item contains:
 

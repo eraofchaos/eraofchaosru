@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая руда"
 permalink: /Items/mat_96/
 excerpt: "Эра хаоса  Сияющая руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_96.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 27 (Кровь Отца драконов) -> 27-7 
+*    Поход гильдии 
+*    [Глава 27: Кровь Отца драконов -> 27-7](/ru/Main Story/Chapter 27_7/) 
 
 ## This item contains:
 

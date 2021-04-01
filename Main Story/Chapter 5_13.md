@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-13 Восторженная месть"
 permalink: /Main Story/Chapter 5_13/
 excerpt: "Глава 5 - 13. Эра хаоса  Основной сюжет - Глава 5_13. 5-13 Восторженная месть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 5_13.md"
 toc: false

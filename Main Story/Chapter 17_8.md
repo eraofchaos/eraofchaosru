@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-8 Гномья шахта"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Глава 17 - 8. Эра хаоса  Основной сюжет - Глава 17_8. 17-8 Гномья шахта"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 17_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Книга оружия"
 permalink: /Items/mat_18/
 excerpt: "Эра хаоса  Книга оружия"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_18.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Поход гильдии 
 *    Глава - Ангел-хранитель 
 *    Глава - Утесы грифонов 
 *    Глава - Дьявольский план 

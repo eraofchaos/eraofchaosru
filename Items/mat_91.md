@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная ртуть"
 permalink: /Items/mat_91/
 excerpt: "Эра хаоса  Звездная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 26 (Увеличение разрыва) -> 26-3 
-*    Глава 26 (Увеличение разрыва) -> 26-9 
+*    Поход гильдии 
+*    [Глава 26: Увеличение разрыва -> 26-3](/ru/Main Story/Chapter 26_3/) 
+*    [Глава 26: Увеличение разрыва -> 26-9](/ru/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

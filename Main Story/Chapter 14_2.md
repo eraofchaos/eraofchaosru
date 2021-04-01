@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-2 Убить разведчика"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Глава 14 - 2. Эра хаоса  Основной сюжет - Глава 14_2. 14-2 Убить разведчика"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 14_2.md"
 toc: false

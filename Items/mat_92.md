@@ -2,7 +2,7 @@
 title: "Item - Materials - Звездная сера"
 permalink: /Items/mat_92/
 excerpt: "Эра хаоса  Звездная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_92.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 26 (Увеличение разрыва) -> 26-4 
-*    Глава 26 (Увеличение разрыва) -> 26-10 
-*    Глава 26 (Увеличение разрыва) -> 26-13 
+*    Поход гильдии 
+*    [Глава 26: Увеличение разрыва -> 26-4](/ru/Main Story/Chapter 26_4/) 
+*    [Глава 26: Увеличение разрыва -> 26-10](/ru/Main Story/Chapter 26_10/) 
+*    [Глава 26: Увеличение разрыва -> 26-13](/ru/Main Story/Chapter 26_13/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная ртуть"
 permalink: /Items/mat_77/
 excerpt: "Эра хаоса  Тайная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_77.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 22 (Кристальный дракон) -> 22-3 
-*    Глава 22 (Кристальный дракон) -> 22-9 
-*    Глава 23 (Ржавый дракон) -> 23-3 
+*    Поход гильдии 
+*    [Глава 22: Кристальный дракон -> 22-3](/ru/Main Story/Chapter 22_3/) 
+*    [Глава 22: Кристальный дракон -> 22-9](/ru/Main Story/Chapter 22_9/) 
+*    [Глава 23: Ржавый дракон -> 23-3](/ru/Main Story/Chapter 23_3/) 
 
 ## This item contains:
 

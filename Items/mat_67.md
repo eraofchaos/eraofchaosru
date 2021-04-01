@@ -2,7 +2,7 @@
 title: "Item - Materials - Свидетельство о легенде"
 permalink: /Items/mat_67/
 excerpt: "Эра хаоса  Свидетельство о легенде"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Поход гильдии 
 *    Глава - За короля и отечество 
 *    Глава - Освобождение империи 
 *    Глава - Сделка с дьяволом 

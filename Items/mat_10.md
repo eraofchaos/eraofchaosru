@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычные самоцветы"
 permalink: /Items/mat_10/
 excerpt: "Эра хаоса  Обычные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_10.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 3 (Ангел-хранитель) -> 3-1 
-*    Глава 3 (Ангел-хранитель) -> 3-5 
-*    Глава 3 (Ангел-хранитель) -> 3-11 
+*    Поход гильдии 
+*    [Глава 3: Ангел-хранитель -> 3-1](/ru/Main Story/Chapter 3_1/) 
+*    [Глава 3: Ангел-хранитель -> 3-5](/ru/Main Story/Chapter 3_5/) 
+*    [Глава 3: Ангел-хранитель -> 3-11](/ru/Main Story/Chapter 3_11/) 
 
 ## This item contains:
 

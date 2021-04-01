@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная ртуть"
 permalink: /Items/mat_28/
 excerpt: "Эра хаоса  Ценная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_28.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 8 (Пограничная полоса) -> 8-3 
-*    Глава 8 (Пограничная полоса) -> 8-6 
-*    Глава 8 (Пограничная полоса) -> 8-9 
+*    Поход гильдии 
+*    [Глава 8: Пограничная полоса -> 8-3](/ru/Main Story/Chapter 8_3/) 
+*    [Глава 8: Пограничная полоса -> 8-6](/ru/Main Story/Chapter 8_6/) 
+*    [Глава 8: Пограничная полоса -> 8-9](/ru/Main Story/Chapter 8_9/) 
 
 ## This item contains:
 

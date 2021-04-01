@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная ртуть"
 permalink: /Items/mat_8/
 excerpt: "Эра хаоса  Обычная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_8.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 2 (Возвращение королевы) -> 2-4 
-*    Глава 2 (Возвращение королевы) -> 2-8 
-*    Глава 3 (Ангел-хранитель) -> 3-3 
+*    Поход гильдии 
+*    [Глава 2: Возвращение королевы -> 2-4](/ru/Main Story/Chapter 2_4/) 
+*    [Глава 2: Возвращение королевы -> 2-8](/ru/Main Story/Chapter 2_8/) 
+*    [Глава 3: Ангел-хранитель -> 3-3](/ru/Main Story/Chapter 3_3/) 
 
 ## This item contains:
 

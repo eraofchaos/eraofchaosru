@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительные кристаллы"
 permalink: /Items/mat_38/
 excerpt: "Эра хаоса  Исключительные кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_38.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 11 (Таталия) -> 11-6 
-*    Глава 11 (Таталия) -> 11-12 
-*    Глава 11 (Таталия) -> 11-15 
+*    Поход гильдии 
+*    [Глава 11: Таталия -> 11-6](/ru/Main Story/Chapter 11_6/) 
+*    [Глава 11: Таталия -> 11-12](/ru/Main Story/Chapter 11_12/) 
+*    [Глава 11: Таталия -> 11-15](/ru/Main Story/Chapter 11_15/) 
 
 ## This item contains:
 

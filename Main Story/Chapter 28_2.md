@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-2. Сила леса"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Глава 28 - 2. Эра хаоса  Основной сюжет - Глава 28_2. 28-2. Сила леса"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 28_2.md"
 toc: false

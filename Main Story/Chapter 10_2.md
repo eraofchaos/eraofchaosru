@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-2 Поиски тела"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "Глава 10 - 2. Эра хаоса  Основной сюжет - Глава 10_2. 10-2 Поиски тела"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 10_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкая руда"
 permalink: /Items/mat_40/
 excerpt: "Эра хаоса  Редкая руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 12 (Ледяное море) -> 12-1 
-*    Глава 12 (Ледяное море) -> 12-4 
-*    Глава 12 (Ледяное море) -> 12-7 
+*    Поход гильдии 
+*    [Глава 12: Ледяное море -> 12-1](/ru/Main Story/Chapter 12_1/) 
+*    [Глава 12: Ледяное море -> 12-4](/ru/Main Story/Chapter 12_4/) 
+*    [Глава 12: Ледяное море -> 12-7](/ru/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

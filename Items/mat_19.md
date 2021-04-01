@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная руда"
 permalink: /Items/mat_19/
 excerpt: "Эра хаоса  Превосходная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 6 (Разлом) -> 6-1 
-*    Глава 6 (Разлом) -> 6-4 
-*    Глава 6 (Разлом) -> 6-7 
+*    Поход гильдии 
+*    [Глава 6: Разлом -> 6-1](/ru/Main Story/Chapter 6_1/) 
+*    [Глава 6: Разлом -> 6-4](/ru/Main Story/Chapter 6_4/) 
+*    [Глава 6: Разлом -> 6-7](/ru/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

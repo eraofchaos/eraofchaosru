@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая руда"
 permalink: /Items/mat_47/
 excerpt: "Эра хаоса  Эпическая руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 14 (Безопасный путь) -> 14-1 
-*    Глава 14 (Безопасный путь) -> 14-4 
-*    Глава 14 (Безопасный путь) -> 14-7 
+*    Поход гильдии 
+*    [Глава 14: Безопасный путь -> 14-1](/ru/Main Story/Chapter 14_1/) 
+*    [Глава 14: Безопасный путь -> 14-4](/ru/Main Story/Chapter 14_4/) 
+*    [Глава 14: Безопасный путь -> 14-7](/ru/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

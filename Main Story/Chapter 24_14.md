@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-14 Крылья бабочки"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Глава 24 - 14. Эра хаоса  Основной сюжет - Глава 24_14. 24-14 Крылья бабочки"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 24_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-15 Гномья стража"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Глава 16 - 15. Эра хаоса  Основной сюжет - Глава 16_15. 16-15 Гномья стража"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 16_15.md"
 toc: false

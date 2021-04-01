@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценные самоцветы"
 permalink: /Items/mat_30/
 excerpt: "Эра хаоса  Ценные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_30.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 9 (Земли Хаоса) -> 9-1 
-*    Глава 9 (Земли Хаоса) -> 9-5 
-*    Глава 9 (Земли Хаоса) -> 9-11 
+*    Поход гильдии 
+*    [Глава 9: Земли Хаоса -> 9-1](/ru/Main Story/Chapter 9_1/) 
+*    [Глава 9: Земли Хаоса -> 9-5](/ru/Main Story/Chapter 9_5/) 
+*    [Глава 9: Земли Хаоса -> 9-11](/ru/Main Story/Chapter 9_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходные кристаллы"
 permalink: /Items/mat_24/
 excerpt: "Эра хаоса  Превосходные кристаллы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_24.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 7 (Эрафия) -> 7-6 
-*    Глава 7 (Эрафия) -> 7-12 
-*    Глава 7 (Эрафия) -> 7-15 
+*    Поход гильдии 
+*    [Глава 7: Эрафия -> 7-6](/ru/Main Story/Chapter 7_6/) 
+*    [Глава 7: Эрафия -> 7-12](/ru/Main Story/Chapter 7_12/) 
+*    [Глава 7: Эрафия -> 7-15](/ru/Main Story/Chapter 7_15/) 
 
 ## This item contains:
 

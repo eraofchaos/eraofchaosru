@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 Разлом"
 permalink: /Main Story/Chapter 6/
 excerpt: "Глава 6. Эра хаоса  Основной сюжет - Глава 6. Разлом"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 6.md"
 toc: false

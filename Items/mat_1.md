@@ -2,7 +2,7 @@
 title: "Item - Materials - Низкосортная древесина"
 permalink: /Items/mat_1/
 excerpt: "Эра хаоса  Низкосортная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_1.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 1 (Остров Эверморн) -> 1-2 
-*    Глава 1 (Остров Эверморн) -> 1-3 
-*    Глава 1 (Остров Эверморн) -> 1-5 
+*    Поход гильдии 
+*    [Глава 1: Остров Эверморн -> 1-2](/ru/Main Story/Chapter 1_2/) 
+*    [Глава 1: Остров Эверморн -> 1-3](/ru/Main Story/Chapter 1_3/) 
+*    [Глава 1: Остров Эверморн -> 1-5](/ru/Main Story/Chapter 1_5/) 
 
 ## This item contains:
 

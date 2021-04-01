@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная древесина"
 permalink: /Items/mat_27/
 excerpt: "Эра хаоса  Ценная древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 8 (Пограничная полоса) -> 8-2 
-*    Глава 8 (Пограничная полоса) -> 8-5 
-*    Глава 8 (Пограничная полоса) -> 8-8 
+*    Поход гильдии 
+*    [Глава 8: Пограничная полоса -> 8-2](/ru/Main Story/Chapter 8_2/) 
+*    [Глава 8: Пограничная полоса -> 8-5](/ru/Main Story/Chapter 8_5/) 
+*    [Глава 8: Пограничная полоса -> 8-8](/ru/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

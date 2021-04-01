@@ -2,7 +2,7 @@
 title: "Item - Materials - Ценная сера"
 permalink: /Items/mat_29/
 excerpt: "Эра хаоса  Ценная сера"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 8 (Пограничная полоса) -> 8-10 
-*    Глава 8 (Пограничная полоса) -> 8-14 
-*    Глава 9 (Земли Хаоса) -> 9-4 
+*    Поход гильдии 
+*    [Глава 8: Пограничная полоса -> 8-10](/ru/Main Story/Chapter 8_10/) 
+*    [Глава 8: Пограничная полоса -> 8-14](/ru/Main Story/Chapter 8_14/) 
+*    [Глава 9: Земли Хаоса -> 9-4](/ru/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-7 Темное питание"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Глава 27 - 7. Эра хаоса  Основной сюжет - Глава 27_7. 27-7 Темное питание"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 27_7.md"
 toc: false

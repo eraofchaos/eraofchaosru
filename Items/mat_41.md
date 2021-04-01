@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкая древесина"
 permalink: /Items/mat_41/
 excerpt: "Эра хаоса  Редкая древесина"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_41.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 12 (Ледяное море) -> 12-2 
-*    Глава 12 (Ледяное море) -> 12-5 
-*    Глава 12 (Ледяное море) -> 12-8 
+*    Поход гильдии 
+*    [Глава 12: Ледяное море -> 12-2](/ru/Main Story/Chapter 12_2/) 
+*    [Глава 12: Ледяное море -> 12-5](/ru/Main Story/Chapter 12_5/) 
+*    [Глава 12: Ледяное море -> 12-8](/ru/Main Story/Chapter 12_8/) 
 
 ## This item contains:
 

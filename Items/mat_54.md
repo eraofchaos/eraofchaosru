@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная руда"
 permalink: /Items/mat_54/
 excerpt: "Эра хаоса  Легендарная руда"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_54.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 16 (За короля и отечество) -> 16-1 
-*    Глава 16 (За короля и отечество) -> 16-4 
-*    Глава 16 (За короля и отечество) -> 16-7 
+*    Поход гильдии 
+*    [Глава 16: За короля и отечество -> 16-1](/ru/Main Story/Chapter 16_1/) 
+*    [Глава 16: За короля и отечество -> 16-4](/ru/Main Story/Chapter 16_4/) 
+*    [Глава 16: За короля и отечество -> 16-7](/ru/Main Story/Chapter 16_7/) 
 
 ## This item contains:
 

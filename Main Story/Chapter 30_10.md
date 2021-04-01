@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-10. Серный город"
 permalink: /Main Story/Chapter 30_10/
 excerpt: "Глава 30 - 10. Эра хаоса  Основной сюжет - Глава 30_10. 30-10. Серный город"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "Chapter 30_10.md"
 toc: false

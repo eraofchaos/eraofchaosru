@@ -2,7 +2,7 @@
 title: "Item - Materials - Превосходная ртуть"
 permalink: /Items/mat_21/
 excerpt: "Эра хаоса  Превосходная ртуть"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 6 (Разлом) -> 6-3 
-*    Глава 6 (Разлом) -> 6-6 
-*    Глава 6 (Разлом) -> 6-9 
+*    Поход гильдии 
+*    [Глава 6: Разлом -> 6-3](/ru/Main Story/Chapter 6_3/) 
+*    [Глава 6: Разлом -> 6-6](/ru/Main Story/Chapter 6_6/) 
+*    [Глава 6: Разлом -> 6-9](/ru/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

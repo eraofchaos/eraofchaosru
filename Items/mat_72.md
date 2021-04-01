@@ -2,7 +2,7 @@
 title: "Item - Materials - Вечные самоцветы"
 permalink: /Items/mat_72/
 excerpt: "Эра хаоса  Вечные самоцветы"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: ru
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Глава 21 (Грааль) -> 21-1 
-*    Глава 21 (Грааль) -> 21-5 
-*    Глава 21 (Грааль) -> 21-11 
+*    Поход гильдии 
+*    [Глава 21: Грааль -> 21-1](/ru/Main Story/Chapter 21_1/) 
+*    [Глава 21: Грааль -> 21-5](/ru/Main Story/Chapter 21_5/) 
+*    [Глава 21: Грааль -> 21-11](/ru/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 
