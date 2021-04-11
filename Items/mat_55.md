@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Легендарная древесина"
+title: "Item - Materials - Легендарная древесина +3"
 permalink: /Items/mat_55/
-excerpt: "Эра хаоса  Легендарная древесина"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Легендарная древесина +3"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_55.md"
 toc: false

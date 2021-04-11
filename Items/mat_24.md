@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Превосходные кристаллы"
+title: "Item - Materials - Превосходные кристаллы +1"
 permalink: /Items/mat_24/
-excerpt: "Эра хаоса  Превосходные кристаллы"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Превосходные кристаллы +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_24.md"
 toc: false

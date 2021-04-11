@@ -2,7 +2,7 @@
 title: "Артефакт - Зеркало возмездия - Часы забвения"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Эра хаоса  Зеркало возмездия - Часы забвения. Предмет, защищающий заклинателя от возможных негативных последствий применения запретной магии. Один из компонентов зеркала возмездия."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Forgotten Hourglass.md"
 toc: false

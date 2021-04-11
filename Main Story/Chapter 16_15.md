@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-15 Гномья стража"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Глава 16 - 15. Эра хаоса  Основной сюжет - Глава 16_15. 16-15 Гномья стража"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 16_15.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Вы встретили группу черных рыцарей, преследующих напуганных гномов. Вы сразились с рыцарями и спасли благодарных гномов.
 
- **Related to:** [Глава 16](/ru/Main Story/Chapter 16/)
+ **Related to:** [Основной сюжет Глава 16](/ru/Main Story/Chapter 16/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Легендарная руда](/ru/Items/mat_54/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Легендарная руда +3](/ru/Items/mat_54/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Эпическая древесина](/ru/Items/mat_48/){: .btn .btn--era4}, **40% 1x** [Эпическая древесина](/ru/Items/mat_48/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Эпическая древесина +2](/ru/Items/mat_48/){: .btn .btn--era4}, **40% 1x** [Эпическая древесина +2](/ru/Items/mat_48/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Видомина](/ru/heroes/Vidomina/) (Score: 1000, Level:1)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Черный рыцарь](/ru/units/Black Knight/) (Score: 82365, Level:63)  | [Черный рыцарь](/ru/units/Black Knight/) (Score: 82365, Level:63)  |
+  | - | - | [Костяной дракон](/ru/units/Bone Dragon/) (Score: 82365, Level:63)  | [Лич](/ru/units/Lich/) (Score: 82365, Level:63)  |
+  | - | - | [Ходячий мертвец](/ru/units/Walking Dead/) (Score: 82365, Level:63)  | - |
+  | - | - | [Вампир](/ru/units/Vampire/) (Score: 82365, Level:63)  | [Вампир](/ru/units/Vampire/) (Score: 82365, Level:63)  |
+
 

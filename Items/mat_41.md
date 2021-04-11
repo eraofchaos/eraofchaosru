@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Редкая древесина"
+title: "Item - Materials - Редкая древесина +1"
 permalink: /Items/mat_41/
-excerpt: "Эра хаоса  Редкая древесина"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Редкая древесина +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_41.md"
 toc: false

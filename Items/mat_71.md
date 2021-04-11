@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Вечная сера"
+title: "Item - Materials - Вечная сера +1"
 permalink: /Items/mat_71/
-excerpt: "Эра хаоса  Вечная сера"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Вечная сера +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_71.md"
 toc: false

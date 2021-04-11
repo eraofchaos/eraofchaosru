@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-7 Кулон бесстрастия"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Глава 10 - 7. Эра хаоса  Основной сюжет - Глава 10_7. 10-7 Кулон бесстрастия"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 10_7.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Судя по тому, что нам удалось узнать от нескольких оставшихся местных, Крулод оказался втянут в опасный спор за территорию. Куда бы мы ни пошли, везде видим следы войны.
 
- **Related to:** [Глава 10](/ru/Main Story/Chapter 10/)
+ **Related to:** [Основной сюжет Глава 10](/ru/Main Story/Chapter 10/)
 
 ## Выпавшие предметы
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Исключительная руда](/ru/Items/mat_33/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Ценная древесина](/ru/Items/mat_27/){: .btn .btn--era3}, **40% 1x** [Ценная древесина](/ru/Items/mat_27/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Ценная древесина +2](/ru/Items/mat_27/){: .btn .btn--era3}, **40% 1x** [Ценная древесина +2](/ru/Items/mat_27/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 22814, Level:41)  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 22814, Level:41)  | [Свирепый волк](/ru/units/Dire Wolf/) (Score: 22661, Level:41)  | [Свирепый волк](/ru/units/Dire Wolf/) (Score: 22661, Level:41)  |
+  | [Гоблин](/ru/units/Goblin/) (Score: 22814, Level:41)  | - | - | - |
+  | [Огр](/ru/units/Ogre/) (Score: 28761, Level:41)  | [Элементали Воды](/ru/units/Water Elemental/) (Score: 22814, Level:41)  | - | - |
+  | [Гоблин](/ru/units/Goblin/) (Score: 22814, Level:41)  | - | - | - |
+
 

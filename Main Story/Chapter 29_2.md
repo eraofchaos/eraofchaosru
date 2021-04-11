@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-2. Мавзолей личей"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "Глава 29 - 2. Эра хаоса  Основной сюжет - Глава 29_2. 29-2. Мавзолей личей"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 29_2.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Перед превращением в лича некромант строит мавзолей для хранения своей шкатулки жизни.
 
- **Related to:** [Глава 29](/ru/Main Story/Chapter 29/)
+ **Related to:** [Основной сюжет Глава 29](/ru/Main Story/Chapter 29/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющая древесина](/ru/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющая древесина +5](/ru/Items/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Скелет](/ru/units/Skeleton/) (Score: 655613, Level:162)  | [Лич](/ru/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 655613, Level:162)  | [Лич](/ru/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 655613, Level:162)  | [Лич](/ru/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 655613, Level:162)  | - | - | - |
+
 

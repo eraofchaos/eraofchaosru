@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-2 Синяя башня"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Глава 12 - 2. Эра хаоса  Основной сюжет - Глава 12_2. 12-2 Синяя башня"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 12_2.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Удивительно, но это люди. Зачем они забрались на север Эрафии?
 
- **Related to:** [Глава 12](/ru/Main Story/Chapter 12/)
+ **Related to:** [Основной сюжет Глава 12](/ru/Main Story/Chapter 12/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Редкая древесина](/ru/Items/mat_41/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Редкая древесина +1](/ru/Items/mat_41/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Исключительная ртуть](/ru/Items/mat_35/){: .btn .btn--era4}, **40% 1x** [Исключительная ртуть](/ru/Items/mat_35/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 42486, Level:45)  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 35776, Level:45)  | - | - |
+  | [Огр](/ru/units/Ogre/) (Score: 35624, Level:45)  | [Рух](/ru/units/Roc/) (Score: 36005, Level:45)  | - | - |
+  | [Огр](/ru/units/Ogre/) (Score: 35624, Level:45)  | [Рух](/ru/units/Roc/) (Score: 36005, Level:45)  | - | - |
+  | [Гоблин](/ru/units/Goblin/) (Score: 36005, Level:45)  | - | - | - |
+
 

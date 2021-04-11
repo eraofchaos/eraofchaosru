@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-5. Деревня клевера"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Глава 29 - 5. Эра хаоса  Основной сюжет - Глава 29_5. 29-5. Деревня клевера"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 29_5.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Небольшая приграничная деревушка. Когда-то здесь жили дриады, но теперь здесь расположился лагерем большой отряд демонов.
 
- **Related to:** [Глава 29](/ru/Main Story/Chapter 29/)
+ **Related to:** [Основной сюжет Глава 29](/ru/Main Story/Chapter 29/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющие самоцветы](/ru/Items/mat_100/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющие самоцветы +5](/ru/Items/mat_100/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездные кристаллы](/ru/Items/mat_94/){: .btn .btn--era5}, **40% 1x** [Звездные кристаллы](/ru/Items/mat_94/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездные кристаллы +4](/ru/Items/mat_94/){: .btn .btn--era5}, **40% 1x** [Звездные кристаллы +4](/ru/Items/mat_94/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Бес](/ru/units/Imp/) (Score: 679860, Level:168)  | [Бес](/ru/units/Imp/) (Score: 679860, Level:168)  |
+  | - | - | [Порождение зла](/ru/units/Pit Fiend/) (Score: 679860, Level:168)  | [Гог](/ru/units/Gog/) (Score: 679860, Level:168)  |
+  | - | - | [Бес](/ru/units/Imp/) (Score: 679860, Level:168)  | [Лесной эльф](/ru/units/Wood Elf/) (Score: 679860, Level:168)  |
+  | - | - | [Порождение зла](/ru/units/Pit Fiend/) (Score: 679860, Level:168)  | [Гог](/ru/units/Gog/) (Score: 679860, Level:168)  |
+
 

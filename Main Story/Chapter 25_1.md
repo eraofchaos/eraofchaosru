@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-1 Правление в Нигоне"
 permalink: /Main Story/Chapter 25_1/
 excerpt: "Глава 25 - 1. Эра хаоса  Основной сюжет - Глава 25_1. 25-1 Правление в Нигоне"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 25_1.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Нигон - это страна, состоящая из многих городов и земель, которыми правят разные семьи. Там никогда не затихают территориальные споры.
 
- **Related to:** [Глава 25](/ru/Main Story/Chapter 25/)
+ **Related to:** [Основной сюжет Глава 25](/ru/Main Story/Chapter 25/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Духовные самоцветы](/ru/Items/mat_86/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Духовные самоцветы +3](/ru/Items/mat_86/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Тайные кристаллы](/ru/Items/mat_80/){: .btn .btn--era5}, **40% 1x** [Тайные кристаллы](/ru/Items/mat_80/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Тайные кристаллы +2](/ru/Items/mat_80/){: .btn .btn--era5}, **40% 1x** [Тайные кристаллы +2](/ru/Items/mat_80/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Вампир](/ru/units/Vampire/) (Score: 341768, Level:96)  | [Бехолдер](/ru/units/Beholder/) (Score: 341768, Level:96)  | - | - |
+  | [Вампир](/ru/units/Vampire/) (Score: 341768, Level:96)  | - | - | - |
+  | [Ходячий мертвец](/ru/units/Walking Dead/) (Score: 341768, Level:96)  | - | - | - |
+  | [Ходячий мертвец](/ru/units/Walking Dead/) (Score: 341768, Level:96)  | [Вампир](/ru/units/Vampire/) (Score: 341768, Level:96)  | [Бехолдер](/ru/units/Beholder/) (Score: 341768, Level:96)  | - |
+
 

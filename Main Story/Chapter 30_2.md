@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-2. Разрушенная хижина"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Глава 30 - 2. Эра хаоса  Основной сюжет - Глава 30_2. 30-2. Разрушенная хижина"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 30_2.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Когда-то в этой маленькой хижине жили эльфы, но пришедшие демоны ее разрушили.
 
- **Related to:** [Глава 30](/ru/Main Story/Chapter 30/)
+ **Related to:** [Основной сюжет Глава 30](/ru/Main Story/Chapter 30/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющая древесина](/ru/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющая древесина +5](/ru/Items/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Демон](/ru/units/Demon/) (Score: 801860, Level:202)  | [Гог](/ru/units/Gog/) (Score: 801860, Level:202)  | - | - |
+  | [Бес](/ru/units/Imp/) (Score: 801860, Level:202)  | [Порождение зла](/ru/units/Pit Fiend/) (Score: 801860, Level:202)  | - | - |
+  | [Бес](/ru/units/Imp/) (Score: 801860, Level:202)  | [Порождение зла](/ru/units/Pit Fiend/) (Score: 801860, Level:202)  | - | - |
+  | [Демон](/ru/units/Demon/) (Score: 801860, Level:202)  | - | - | - |
+
 

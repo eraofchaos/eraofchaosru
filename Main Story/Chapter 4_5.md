@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-5 План раскрыт"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "Глава 4 - 5. Эра хаоса  Основной сюжет - Глава 4_5. 4-5 План раскрыт"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 4_5.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Город, уничтоженный войной. Вы до сих пор чувствуете в нем зло.
 
- **Related to:** [Глава 4](/ru/Main Story/Chapter 4/)
+ **Related to:** [Основной сюжет Глава 4](/ru/Main Story/Chapter 4/)
 
 ## Выпавшие предметы
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}, **50% 1x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Крэг Хак](/ru/heroes/Crag Hack/) (Score: 1000, Level:16)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | [Порождение зла](/ru/units/Pit Fiend/) (Score: 4526, Level:13)  | [Гог](/ru/units/Gog/) (Score: 2757, Level:13)  |
+  | - | - | [Свирепый волк](/ru/units/Dire Wolf/) (Score: 3672, Level:13)  | [Гог](/ru/units/Gog/) (Score: 2757, Level:13)  |
+  | - | - | - | [Гог](/ru/units/Gog/) (Score: 2757, Level:13)  |
+
 

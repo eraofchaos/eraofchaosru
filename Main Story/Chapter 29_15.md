@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-15. Обсидиановый барьер"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Глава 29 - 15. Эра хаоса  Основной сюжет - Глава 29_15. 29-15. Обсидиановый барьер"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 29_15.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Землю прорезает гигантская трещина, которую стережет цитадель с многочисленным гарнизоном. Это Обсидиановый барьер.
 
- **Related to:** [Глава 29](/ru/Main Story/Chapter 29/)
+ **Related to:** [Основной сюжет Глава 29](/ru/Main Story/Chapter 29/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющие кристаллы](/ru/Items/mat_101/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющие кристаллы +5](/ru/Items/mat_101/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездные самоцветы](/ru/Items/mat_93/){: .btn .btn--era5}, **40% 1x** [Звездные самоцветы](/ru/Items/mat_93/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездные самоцветы +4](/ru/Items/mat_93/){: .btn .btn--era5}, **40% 1x** [Звездные самоцветы +4](/ru/Items/mat_93/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Черный рыцарь](/ru/units/Black Knight/) (Score: 768768, Level:190)  | [Черный рыцарь](/ru/units/Black Knight/) (Score: 768768, Level:190)  |
+  | - | - | [Черный рыцарь](/ru/units/Black Knight/) (Score: 768768, Level:190)  | [Лич](/ru/units/Lich/) (Score: 768768, Level:190)  |
+  | - | - | [Бес](/ru/units/Imp/) (Score: 768768, Level:190)  | - |
+  | - | - | [Бес](/ru/units/Imp/) (Score: 768768, Level:190)  | [Ифрит](/ru/units/Efreeti/) (Score: 768768, Level:190)  |
+
 

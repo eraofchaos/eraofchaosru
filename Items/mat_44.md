@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Редкие самоцветы"
+title: "Item - Materials - Редкие самоцветы +1"
 permalink: /Items/mat_44/
-excerpt: "Эра хаоса  Редкие самоцветы"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Редкие самоцветы +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_44.md"
 toc: false

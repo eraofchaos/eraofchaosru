@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Превосходная руда"
+title: "Item - Materials - Превосходная руда +1"
 permalink: /Items/mat_19/
-excerpt: "Эра хаоса  Превосходная руда"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Превосходная руда +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_19.md"
 toc: false

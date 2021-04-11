@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-6 Двойной центр"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Глава 19 - 6. Эра хаоса  Основной сюжет - Глава 19_6. 19-6 Двойной центр"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 19_6.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** В Бракаде царит двоевластие: ею правят одновременно совет чародеев и король-чародей. Но королю-чародею всегда принадлежит решающий голос.
 
- **Related to:** [Глава 19](/ru/Main Story/Chapter 19/)
+ **Related to:** [Основной сюжет Глава 19](/ru/Main Story/Chapter 19/)
 
 ## Выпавшие предметы
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Мифические кристаллы](/ru/Items/mat_66/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Легендарные самоцветы](/ru/Items/mat_58/){: .btn .btn--era4}, **40% 1x** [Легендарные самоцветы](/ru/Items/mat_58/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Легендарные самоцветы +3](/ru/Items/mat_58/){: .btn .btn--era4}, **40% 1x** [Легендарные самоцветы +3](/ru/Items/mat_58/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Железный голем](/ru/units/Iron Golem/) (Score: 105130, Level:73)  | [Элементаль Льда](/ru/units/Ice Elemental/) (Score: 105130, Level:73)  | - | - |
+  | [Дендроид-страж](/ru/units/Dendroid Guard/) (Score: 105130, Level:73)  | [Джинн](/ru/units/Genie/) (Score: 105130, Level:73)  | - | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 105130, Level:73)  | [Джинн](/ru/units/Genie/) (Score: 105130, Level:73)  | - | - |
+  | [Железный голем](/ru/units/Iron Golem/) (Score: 105130, Level:73)  | - | - | - |
+
 

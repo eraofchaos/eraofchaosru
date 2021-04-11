@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Редкая сера"
+title: "Item - Materials - Редкая сера +1"
 permalink: /Items/mat_43/
-excerpt: "Эра хаоса  Редкая сера"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Редкая сера +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_43.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Кольцо мага"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Эра хаоса  Кольцо мага. Кольцо мага Магическое кольцо, выкованное из заколдованных предметов. Увеличивает урон от заклинаний."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Ring of the Mage.md"
 toc: false

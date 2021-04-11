@@ -2,7 +2,7 @@
 title: "Артефакт - Зеркало возмездия"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Эра хаоса  Зеркало возмездия. Зеркало возмездия Другое название этого артефакта - «Месть колдуна». Может повысить силу войска с помощью запретной магии."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Mirror of Revenge.md"
 toc: false

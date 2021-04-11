@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Тайная сера"
+title: "Item - Materials - Тайная сера +2"
 permalink: /Items/mat_78/
-excerpt: "Эра хаоса  Тайная сера"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Тайная сера +2"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_78.md"
 toc: false

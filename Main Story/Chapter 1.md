@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 Остров Эверморн"
 permalink: /Main Story/Chapter 1/
 excerpt: "Глава 1. Эра хаоса  Основной сюжет - Глава 1. Остров Эверморн"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 1.md"
 toc: false
@@ -16,3 +16,15 @@ classes: wide
   | [1-3 Фонтан молодости](/ru/Main Story/Chapter 1_3/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}, [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1} |
   | [1-4 Древо познания](/ru/Main Story/Chapter 1_4/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
   | [1-5 Катастрофа](/ru/Main Story/Chapter 1_5/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Низкосортная сера](/ru/Items/mat_3/){: .btn .btn--era1}, [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
+
+ Reward 1: **10 x** [Копейщик](/ru/Items/unt_190/){: .btn .btn--era3}
+
+ Reward 2:  **150x** <i class="fas fa-gem"/>
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Опыт отряда
+

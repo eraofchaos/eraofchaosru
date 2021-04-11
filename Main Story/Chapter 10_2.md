@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-2 Поиски тела"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "Глава 10 - 2. Эра хаоса  Основной сюжет - Глава 10_2. 10-2 Поиски тела"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 10_2.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Время идет, а от наших союзников из Цитадели нет вестей. Да смилостивятся над ними боги.
 
- **Related to:** [Глава 10](/ru/Main Story/Chapter 10/)
+ **Related to:** [Основной сюжет Глава 10](/ru/Main Story/Chapter 10/)
 
 ## Выпавшие предметы
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Исключительная древесина](/ru/Items/mat_34/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Ценная ртуть](/ru/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Ценная ртуть](/ru/Items/mat_28/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Ценная ртуть +2](/ru/Items/mat_28/){: .btn .btn--era3}, **40% 1x** [Ценная ртуть +2](/ru/Items/mat_28/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Скелет](/ru/units/Skeleton/) (Score: 21136, Level:41)  | [Скелеты-лучники](/ru/units/Skeleton Archer/) (Score: 21518, Level:41)  | - | - |
+  | [Ходячий мертвец](/ru/units/Walking Dead/) (Score: 21136, Level:41)  | [Лич](/ru/units/Lich/) (Score: 26626, Level:41)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 21136, Level:41)  | [Призрак](/ru/units/Wight/) (Score: 21518, Level:41)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 21136, Level:41)  | - | - | - |
+
 

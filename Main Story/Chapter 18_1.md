@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-1 Пропавшие солдаты"
 permalink: /Main Story/Chapter 18_1/
 excerpt: "Глава 18 - 1. Эра хаоса  Основной сюжет - Глава 18_1. 18-1 Пропавшие солдаты"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 18_1.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** До вторжения повелителя демонов это место охраняли лучшие воины Авлии. Теперь их холодные тела лежат в подземелье.
 
- **Related to:** [Глава 18](/ru/Main Story/Chapter 18/)
+ **Related to:** [Основной сюжет Глава 18](/ru/Main Story/Chapter 18/)
 
 ## Выпавшие предметы
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Мифическая руда](/ru/Items/mat_61/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Легендарная древесина](/ru/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Легендарная древесина](/ru/Items/mat_55/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Легендарная древесина +3](/ru/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Легендарная древесина +3](/ru/Items/mat_55/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Единорог](/ru/units/Unicorn/) (Score: 94336, Level:71)  | [Лесной эльф](/ru/units/Wood Elf/) (Score: 94336, Level:71)  | - | - |
+  | [Единорог](/ru/units/Unicorn/) (Score: 94336, Level:71)  | - | - | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 94336, Level:71)  | - | - | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 94336, Level:71)  | [Единорог](/ru/units/Unicorn/) (Score: 94336, Level:71)  | [Лесной эльф](/ru/units/Wood Elf/) (Score: 94336, Level:71)  | - |
+
 

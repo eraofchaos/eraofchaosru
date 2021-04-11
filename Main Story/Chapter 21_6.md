@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-6 Убийца короля"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Глава 21 - 6. Эра хаоса  Основной сюжет - Глава 21_6. 21-6 Убийца короля"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 21_6.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Чтобы не дать Тарнуму достичь своей цели, все верные чародеям племена отправили к нему убийц. Но задуманное при свете дня не могло увенчаться успехом во тьме. Тарнум продолжал свое дело.
 
- **Related to:** [Глава 21](/ru/Main Story/Chapter 21/)
+ **Related to:** [Основной сюжет Глава 21](/ru/Main Story/Chapter 21/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Вечные кристаллы](/ru/Items/mat_73/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Вечные кристаллы +1](/ru/Items/mat_73/){: .btn .btn--era5}
 
  **Drop 2:** **60% 0x** [Мифические самоцветы](/ru/Items/mat_65/){: .btn .btn--era5}, **40% 1x** [Мифические самоцветы](/ru/Items/mat_65/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 133605, Level:81)  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 133605, Level:81)  | - | - |
+  | [Гоблин](/ru/units/Goblin/) (Score: 133605, Level:81)  | [Орк](/ru/units/Orc/) (Score: 133605, Level:81)  | - | - |
+  | [Гоблин](/ru/units/Goblin/) (Score: 133605, Level:81)  | - | - | - |
+  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 133605, Level:81)  | [Наездник на волке](/ru/units/Wolf Rider/) (Score: 133605, Level:81)  | - | - |
+
 

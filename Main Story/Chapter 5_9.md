@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-9 Таинственная личность"
 permalink: /Main Story/Chapter 5_9/
 excerpt: "Глава 5 - 9. Эра хаоса  Основной сюжет - Глава 5_9. 5-9 Таинственная личность"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 5_9.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** К несчастью для демонов, там живут не только эльфы, но и драконы. Они одни из самых могущественных существ на континенте.
 
- **Related to:** [Глава 5](/ru/Main Story/Chapter 5/)
+ **Related to:** [Основной сюжет Глава 5](/ru/Main Story/Chapter 5/)
 
 ## Выпавшие предметы
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Гном](/ru/units/Dwarf/) (Score: 4099, Level:17)  | - | - | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 4099, Level:17)  | [Лесной эльф](/ru/units/Wood Elf/) (Score: 4099, Level:17)  | - | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 4099, Level:17)  | - | - | - |
+  | [Гном](/ru/units/Dwarf/) (Score: 4099, Level:17)  | - | - | - |
+
 

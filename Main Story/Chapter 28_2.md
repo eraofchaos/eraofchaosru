@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-2. Сила леса"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Глава 28 - 2. Эра хаоса  Основной сюжет - Глава 28_2. 28-2. Сила леса"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 28_2.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** В лесу можно столкнуться с лучшими отрядами Бастиона. Его бойцы быстры, словно ветер. Их боятся даже такие страшные твари, как демоны.
 
- **Related to:** [Глава 28](/ru/Main Story/Chapter 28/)
+ **Related to:** [Основной сюжет Глава 28](/ru/Main Story/Chapter 28/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющая древесина](/ru/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющая древесина +5](/ru/Items/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть](/ru/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Единорог](/ru/units/Unicorn/) (Score: 530334, Level:131)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 530334, Level:131)  | - | [Лич](/ru/units/Lich/) (Score: 530334, Level:131)  | [Лесной эльф](/ru/units/Wood Elf/) (Score: 530334, Level:131)  |
+  | [Скелет](/ru/units/Skeleton/) (Score: 530334, Level:131)  | - | [Лич](/ru/units/Lich/) (Score: 530334, Level:131)  | - |
+  | - | [Единорог](/ru/units/Unicorn/) (Score: 530334, Level:131)  | - | - |
+
 

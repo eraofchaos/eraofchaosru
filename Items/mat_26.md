@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Ценная руда"
+title: "Item - Materials - Ценная руда +2"
 permalink: /Items/mat_26/
-excerpt: "Эра хаоса  Ценная руда"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Ценная руда +2"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_26.md"
 toc: false

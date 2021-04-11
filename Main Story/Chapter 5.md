@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 Бердс"
 permalink: /Main Story/Chapter 5/
 excerpt: "Глава 5. Эра хаоса  Основной сюжет - Глава 5. Бердс"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 5.md"
 toc: false
@@ -26,3 +26,45 @@ classes: wide
   | [5-13 Восторженная месть](/ru/Main Story/Chapter 5_13/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Хорошая сера](/ru/Items/mat_15/){: .btn .btn--era3}, [Обычная руда](/ru/Items/mat_6/){: .btn .btn--era2}, [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3} |
   | [5-14 Доспех дракона](/ru/Main Story/Chapter 5_14/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Хорошие самоцветы](/ru/Items/mat_16/){: .btn .btn--era3}, [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3} |
   | [5-15 Война начинается](/ru/Main Story/Chapter 5_15/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Хорошие кристаллы](/ru/Items/mat_17/){: .btn .btn--era3}, [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3} |
+
+
+## Завершить Глава 5
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Опыт отряда
+
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Опыт отряда
+
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_402
+
+ Reward 2: **10 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Опыт отряда
+

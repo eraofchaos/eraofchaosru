@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-8 Неожиданное событие"
 permalink: /Main Story/Chapter 9_8/
 excerpt: "Глава 9 - 8. Эра хаоса  Основной сюжет - Глава 9_8. 9-8 Неожиданное событие"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 9_8.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Невероятно! В этих смертоносных топях живет дракон! Правда, он какой-то странный...
 
- **Related to:** [Глава 9](/ru/Main Story/Chapter 9/)
+ **Related to:** [Основной сюжет Глава 9](/ru/Main Story/Chapter 9/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ценная древесина](/ru/Items/mat_27/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Ценная древесина +2](/ru/Items/mat_27/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Превосходная ртуть](/ru/Items/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть](/ru/Items/mat_21/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Единорог](/ru/units/Unicorn/) (Score: 17729, Level:39)  | [Пегас](/ru/units/Pegasus/) (Score: 17729, Level:39)  | [Элементали Воды](/ru/units/Water Elemental/) (Score: 17363, Level:39)  | [Элементали Воды](/ru/units/Water Elemental/) (Score: 17363, Level:39)  |
+  | - | - | [Элементали Воды](/ru/units/Water Elemental/) (Score: 17363, Level:39)  | - |
+  | [Зеленый дракон](/ru/units/Green Dragon/) (Score: 23585, Level:39)  | - | [Элементали Воды](/ru/units/Water Elemental/) (Score: 17363, Level:39)  | - |
+  | [Кентавр](/ru/units/Centaur/) (Score: 17729, Level:39)  | - | - | - |
+
 

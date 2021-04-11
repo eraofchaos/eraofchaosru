@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-6 Лагерь разбойников"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Глава 3 - 6. Эра хаоса  Основной сюжет - Глава 3_6. 3-6 Лагерь разбойников"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 3_6.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Группа бандитов делит награбленное. Ваше появление пугает их.
 
- **Related to:** [Глава 3](/ru/Main Story/Chapter 3/)
+ **Related to:** [Основной сюжет Глава 3](/ru/Main Story/Chapter 3/)
 
 ## Выпавшие предметы
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **100% 1x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}, **60% 1x** [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Свирепый волк](/ru/units/Dire Wolf/) (Score: 2757, Level:11)  | - | - | - |
+  | [Свирепый волк](/ru/units/Dire Wolf/) (Score: 2757, Level:11)  | - | - | - |
+  | - | - | - | - |
+  | [Копейщик](/ru/units/Pikeman/) (Score: 2757, Level:11)  | [Лучник](/ru/units/Marksman/) (Score: 2757, Level:11)  | [Лучник](/ru/units/Marksman/) (Score: 2757, Level:11)  | - |
+
 

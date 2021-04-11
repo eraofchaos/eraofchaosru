@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная сера"
 permalink: /Items/mat_9/
 excerpt: "Эра хаоса  Обычная сера"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_9.md"
 toc: false

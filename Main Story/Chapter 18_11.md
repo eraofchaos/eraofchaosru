@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-11 Пещерный дворец"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Глава 18 - 11. Эра хаоса  Основной сюжет - Глава 18_11. 18-11 Пещерный дворец"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 18_11.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Когда-то эльфы жили в прекрасном подземном дворце, но владыки Нигона захватили и уничтожили его, вынудив эльфов жить в своем родном лесу.
 
- **Related to:** [Глава 18](/ru/Main Story/Chapter 18/)
+ **Related to:** [Основной сюжет Глава 18](/ru/Main Story/Chapter 18/)
 
 ## Выпавшие предметы
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Мифическая руда](/ru/Items/mat_61/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Легендарная древесина](/ru/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Легендарная древесина](/ru/Items/mat_55/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Легендарная древесина +3](/ru/Items/mat_55/){: .btn .btn--era4}, **40% 1x** [Легендарная древесина +3](/ru/Items/mat_55/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ифрит](/ru/units/Efreeti/) (Score: 101961, Level:71)  | - | - | - |
+  | [Демон](/ru/units/Demon/) (Score: 101961, Level:71)  | [Порождение зла](/ru/units/Pit Fiend/) (Score: 101961, Level:71)  | - | - |
+  | [Демон](/ru/units/Demon/) (Score: 101961, Level:71)  | [Гончая ада](/ru/units/Hell Hound/) (Score: 101961, Level:71)  | - | - |
+  | [Ифрит](/ru/units/Efreeti/) (Score: 101961, Level:71)  | [Лич](/ru/units/Lich/) (Score: 101961, Level:71)  | - | - |
+
 

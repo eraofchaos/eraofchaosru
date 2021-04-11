@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-5 Пограничные врата"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Глава 2 - 5. Эра хаоса  Основной сюжет - Глава 2_5. 2-5 Пограничные врата"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 2_5.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Аванпост на границе Бракады быстро пал под атаками вторгшейся армии.
 
- **Related to:** [Глава 2](/ru/Main Story/Chapter 2/)
+ **Related to:** [Основной сюжет Глава 2](/ru/Main Story/Chapter 2/)
 
 ## Выпавшие предметы
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **80% 1x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, **20% 2x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}, **60% 1x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** [Аделаида](/ru/heroes/Adelaide/) (Score: 1000, Level:7)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | [Костяной дракон](/ru/units/Bone Dragon/) (Score: 2879, Level:7)  | - |
+  | - | - | - | [Призрак](/ru/units/Wight/) (Score: 1659, Level:7)  |
+  | - | - | - | - |
+
 

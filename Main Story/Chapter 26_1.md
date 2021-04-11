@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-1 Просвещение народа"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Глава 26 - 1. Эра хаоса  Основной сюжет - Глава 26_1. 26-1 Просвещение народа"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 26_1.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Сейчас Нигон - это лишь географическое название. Жители Нигона говорят на одном языке и следуют общим традициям, хотя страна и не объединена под одной властью.
 
- **Related to:** [Глава 26](/ru/Main Story/Chapter 26/)
+ **Related to:** [Основной сюжет Глава 26](/ru/Main Story/Chapter 26/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Звездные самоцветы](/ru/Items/mat_93/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Звездные самоцветы +4](/ru/Items/mat_93/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Кристалл души](/ru/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Кристалл души](/ru/Items/mat_87/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Кристалл души +3](/ru/Items/mat_87/){: .btn .btn--era5}, **40% 1x** [Кристалл души +3](/ru/Items/mat_87/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Скелет](/ru/units/Skeleton/) (Score: 382943, Level:100)  | [Архимаг](/ru/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 382943, Level:100)  | [Бехолдер](/ru/units/Beholder/) (Score: 382943, Level:100)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 382943, Level:100)  | [Архимаг](/ru/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Скелет](/ru/units/Skeleton/) (Score: 382943, Level:100)  | - | - | - |
+
 

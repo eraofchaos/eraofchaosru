@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-9 Проблемы не приходят одни"
 permalink: /Main Story/Chapter 14_9/
 excerpt: "Глава 14 - 9. Эра хаоса  Основной сюжет - Глава 14_9. 14-9 Проблемы не приходят одни"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 14_9.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Наши старейшины всегда говорили, что беда не приходит одна, а втроем. Сначала это казалось мне суеверием, но теперь я в это верю. Мы должны оставить все разногласия.
 
- **Related to:** [Глава 14](/ru/Main Story/Chapter 14/)
+ **Related to:** [Основной сюжет Глава 14](/ru/Main Story/Chapter 14/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Эпическая ртуть](/ru/Items/mat_49/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Эпическая ртуть +2](/ru/Items/mat_49/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Редкая сера](/ru/Items/mat_43/){: .btn .btn--era4}, **40% 1x** [Редкая сера](/ru/Items/mat_43/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Редкая сера +1](/ru/Items/mat_43/){: .btn .btn--era4}, **40% 1x** [Редкая сера +1](/ru/Items/mat_43/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Костяной дракон](/ru/units/Bone Dragon/) (Score: 56211, Level:52)  | - | - | - |
+  | [Ходячий мертвец](/ru/units/Walking Dead/) (Score: 56211, Level:52)  | - | - | [Вампир](/ru/units/Vampire/) (Score: 56211, Level:52)  |
+  | [Черный рыцарь](/ru/units/Black Knight/) (Score: 56211, Level:52)  | [Каменная горгулья](/ru/units/Stone Gargoyle/) (Score: 56211, Level:52)  | - | - |
+  | [Черный рыцарь](/ru/units/Black Knight/) (Score: 56211, Level:52)  | - | - | - |
+
 

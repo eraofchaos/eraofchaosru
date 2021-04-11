@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-15 Гнездо ветра"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Глава 4 - 15. Эра хаоса  Основной сюжет - Глава 4_15. 4-15 Гнездо ветра"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 4_15.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Королева Катерина верит, что грифон помогут победить в войне за восстановление. Помощь грифонов - символ возрождения королевства Грифонхартов.
 
- **Related to:** [Глава 4](/ru/Main Story/Chapter 4/)
+ **Related to:** [Основной сюжет Глава 4](/ru/Main Story/Chapter 4/)
 
 ## Выпавшие предметы
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, **50% 1x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Ксерон](/ru/heroes/Xeron/) (Score: 1000, Level:19)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Демон](/ru/units/Demon/) (Score: 21789, Level:15)  | [Демон](/ru/units/Demon/) (Score: 21789, Level:15)  |
+  | - | - | [Дьявол](/ru/units/Devil/) (Score: 24839, Level:40)  | - |
+  | - | - | [Порождение зла](/ru/units/Pit Fiend/) (Score: 21789, Level:15)  | [Гог](/ru/units/Gog/) (Score: 21789, Level:15)  |
+  | - | - | - | - |
+
 

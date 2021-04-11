@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-12 Захват столицы"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "Глава 6 - 12. Эра хаоса  Основной сюжет - Глава 6_12. 6-12 Захват столицы"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 6_12.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Для двух рас остается лишь одно решение: люди убивают всех демонов, забредающих на их территорию, а демоны поступают также с людьми.
 
- **Related to:** [Глава 6](/ru/Main Story/Chapter 6/)
+ **Related to:** [Основной сюжет Глава 6](/ru/Main Story/Chapter 6/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Превосходная древесина](/ru/Items/mat_20/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Превосходная древесина +1](/ru/Items/mat_20/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Хорошая ртуть](/ru/Items/mat_14/){: .btn .btn--era3}, **40% 1x** [Хорошая ртуть](/ru/Items/mat_14/){: .btn .btn--era3}
 
  **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Бес](/ru/units/Imp/) (Score: 5441, Level:21)  | [Демон](/ru/units/Demon/) (Score: 5441, Level:21)  | [Гог](/ru/units/Gog/) (Score: 7088, Level:21)  | [Гог](/ru/units/Gog/) (Score: 7088, Level:21)  |
+  | [Бес](/ru/units/Imp/) (Score: 5441, Level:21)  | [Демон](/ru/units/Demon/) (Score: 5441, Level:21)  | - | - |
+  | - | - | - | - |
+
 

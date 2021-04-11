@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Редкие кристаллы"
+title: "Item - Materials - Редкие кристаллы +1"
 permalink: /Items/mat_45/
-excerpt: "Эра хаоса  Редкие кристаллы"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Редкие кристаллы +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_45.md"
 toc: false

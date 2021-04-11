@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 Ангел-хранитель"
 permalink: /Main Story/Chapter 3/
 excerpt: "Глава 3. Эра хаоса  Основной сюжет - Глава 3. Ангел-хранитель"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 3.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [3-13 Конюшни и леса](/ru/Main Story/Chapter 3_13/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1} |
   | [3-14 Лаборатория алхимика](/ru/Main Story/Chapter 3_14/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
   | [3-15 Город грехов](/ru/Main Story/Chapter 3_15/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Опыт отряда
+
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Опыт отряда
+
+
+
+## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_201
+
+ Reward 2: **5 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Опыт отряда
+

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-8 Неожиданная атака"
 permalink: /Main Story/Chapter 7_8/
 excerpt: "Глава 7 - 8. Эра хаоса  Основной сюжет - Глава 7_8. 7-8 Неожиданная атака"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 7_8.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Реальность всегда разочаровывает. Люди-солдаты не рады гостям. Нас приветствуют с подозрительностью, поднятыми мечами и копьями.
 
- **Related to:** [Глава 7](/ru/Main Story/Chapter 7/)
+ **Related to:** [Основной сюжет Глава 7](/ru/Main Story/Chapter 7/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Превосходная древесина](/ru/Items/mat_20/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Превосходная древесина +1](/ru/Items/mat_20/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Хорошая ртуть](/ru/Items/mat_14/){: .btn .btn--era3}, **40% 1x** [Хорошая ртуть](/ru/Items/mat_14/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Копейщик](/ru/units/Pikeman/) (Score: 8491, Level:25)  | - | - | - |
+  | [Копейщик](/ru/units/Pikeman/) (Score: 8491, Level:25)  | [Лучник](/ru/units/Marksman/) (Score: 8369, Level:25)  | [Лучник](/ru/units/Marksman/) (Score: 8369, Level:25)  | - |
+  | [Всадники](/ru/units/Cavalier/) (Score: 12029, Level:25)  | [Всадники](/ru/units/Cavalier/) (Score: 8369, Level:25)  | - | - |
+
 

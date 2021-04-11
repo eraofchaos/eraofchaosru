@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-1 Синий шатер"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Глава 4 - 1. Эра хаоса  Основной сюжет - Глава 4_1. 4-1 Синий шатер"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 4_1.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Хранитель ключей из синего шатра рад вас видеть.
 
- **Related to:** [Глава 4](/ru/Main Story/Chapter 4/)
+ **Related to:** [Основной сюжет Глава 4](/ru/Main Story/Chapter 4/)
 
 ## Выпавшие предметы
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, **50% 1x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Бес](/ru/units/Imp/) (Score: 2879, Level:13)  | - | - | - |
+  | [Бес](/ru/units/Imp/) (Score: 2879, Level:13)  | [Скелеты-лучники](/ru/units/Skeleton Archer/) (Score: 3977, Level:13)  | [Скелеты-лучники](/ru/units/Skeleton Archer/) (Score: 3977, Level:13)  | [Скелеты-лучники](/ru/units/Skeleton Archer/) (Score: 3977, Level:13)  |
+  | - | - | - | - |
+
 

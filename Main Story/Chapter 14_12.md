@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-12 Тайна раскрыта"
 permalink: /Main Story/Chapter 14_12/
 excerpt: "Глава 14 - 12. Эра хаоса  Основной сюжет - Глава 14_12. 14-12 Тайна раскрыта"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: ru
 ref: "Chapter 14_12.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Описание:** Сражаться с этими существами становится все тяжелее и тяжелее. Похоже, они не хотят, чтобы мы шли в этом направлении. Сражайтесь упорнее! Ваше дело почти сделано!
 
- **Related to:** [Глава 14](/ru/Main Story/Chapter 14/)
+ **Related to:** [Основной сюжет Глава 14](/ru/Main Story/Chapter 14/)
 
 ## Выпавшие предметы
 
  **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Эпическая древесина](/ru/Items/mat_48/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Эпическая древесина +2](/ru/Items/mat_48/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Редкая ртуть](/ru/Items/mat_42/){: .btn .btn--era4}, **40% 1x** [Редкая ртуть](/ru/Items/mat_42/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Редкая ртуть +1](/ru/Items/mat_42/){: .btn .btn--era4}, **40% 1x** [Редкая ртуть +1](/ru/Items/mat_42/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Черный рыцарь](/ru/units/Black Knight/) (Score: 58118, Level:53)  | - | - | - |
+  | [Железный голем](/ru/units/Iron Golem/) (Score: 58118, Level:53)  | - | - | [Лич](/ru/units/Lich/) (Score: 58118, Level:53)  |
+  | [Железный голем](/ru/units/Iron Golem/) (Score: 58118, Level:53)  | - | - | [Лич](/ru/units/Lich/) (Score: 58118, Level:53)  |
+  | [Скелет](/ru/units/Skeleton/) (Score: 58118, Level:53)  | - | - | - |
+
 

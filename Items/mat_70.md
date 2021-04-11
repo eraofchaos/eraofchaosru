@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Вечная ртуть"
+title: "Item - Materials - Вечная ртуть +1"
 permalink: /Items/mat_70/
-excerpt: "Эра хаоса  Вечная ртуть"
-last_modified_at: 2021-04-01
+excerpt: "Эра хаоса  Вечная ртуть +1"
+last_modified_at: 2021-04-11
 locale: ru
 ref: "mat_70.md"
 toc: false
