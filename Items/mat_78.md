@@ -2,7 +2,7 @@
 title: "Item - Materials - Тайная сера +2"
 permalink: /Items/mat_78/
 excerpt: "Эра хаоса  Тайная сера +2"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "mat_78.md"
 toc: false

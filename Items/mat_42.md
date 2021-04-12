@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкая ртуть +1"
 permalink: /Items/mat_42/
 excerpt: "Эра хаоса  Редкая ртуть +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "mat_42.md"
 toc: false

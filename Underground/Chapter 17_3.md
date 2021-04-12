@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 17 - 17-3 Идеальный мир"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Глава 17 - 3. Эра хаоса  Подземелье - Глава 17_3. 17-3 Идеальный мир"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 17_3.md"
 toc: false

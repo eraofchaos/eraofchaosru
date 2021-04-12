@@ -2,7 +2,7 @@
 title: "Item - Materials - Сияющая сера +5"
 permalink: /Items/mat_99/
 excerpt: "Эра хаоса  Сияющая сера +5"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "mat_99.md"
 toc: false

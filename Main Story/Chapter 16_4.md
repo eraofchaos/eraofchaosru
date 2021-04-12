@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-4 Куртка гиганта"
 permalink: /Main Story/Chapter 16_4/
 excerpt: "Глава 16 - 4. Эра хаоса  Основной сюжет - Глава 16_4. 16-4 Куртка гиганта"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 16_4.md"
 toc: false

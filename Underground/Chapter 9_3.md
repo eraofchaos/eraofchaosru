@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 9 - 9-3 Извержение"
 permalink: /Underground/Chapter 9_3/
 excerpt: "Глава 9 - 3. Эра хаоса  Подземелье - Глава 9_3. 9-3 Извержение"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 9_3.md"
 toc: false

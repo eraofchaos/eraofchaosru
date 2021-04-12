@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-15 Урак"
 permalink: /Main Story/Chapter 21_15/
 excerpt: "Глава 21 - 15. Эра хаоса  Основной сюжет - Глава 21_15. 21-15 Урак"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 21_15.md"
 toc: false

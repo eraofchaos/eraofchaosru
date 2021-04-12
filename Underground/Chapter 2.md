@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 Ангел-хранитель"
 permalink: /Underground/Chapter 2/
 excerpt: "Глава 2 Ангел-хранитель. Эра хаоса  Подземелье - Глава 2. Ангел-хранитель"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 2.md"
 toc: false

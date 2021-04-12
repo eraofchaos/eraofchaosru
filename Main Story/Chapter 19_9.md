@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-9 Алхимия"
 permalink: /Main Story/Chapter 19_9/
 excerpt: "Глава 19 - 9. Эра хаоса  Основной сюжет - Глава 19_9. 19-9 Алхимия"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 19_9.md"
 toc: false

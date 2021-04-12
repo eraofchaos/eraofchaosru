@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-13 Знак мужества"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Глава 11 - 13. Эра хаоса  Основной сюжет - Глава 11_13. 11-13 Знак мужества"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 11_13.md"
 toc: false

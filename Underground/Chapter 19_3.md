@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 - 19-3 Крест-накрест"
 permalink: /Underground/Chapter 19_3/
 excerpt: "Глава 19 - 3. Эра хаоса  Подземелье - Глава 19_3. 19-3 Крест-накрест"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 19_3.md"
 toc: false

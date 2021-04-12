@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 - 10-2 Поиск гробницы"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Глава 10 - 2. Эра хаоса  Подземелье - Глава 10_2. 10-2 Поиск гробницы"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 10_2.md"
 toc: false

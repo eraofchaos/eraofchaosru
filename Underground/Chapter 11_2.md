@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 - 11-2 Главные игроки"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Глава 11 - 2. Эра хаоса  Подземелье - Глава 11_2. 11-2 Главные игроки"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 11_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-8 Гильдия волшебников"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Глава 20 - 8. Эра хаоса  Основной сюжет - Глава 20_8. 20-8 Гильдия волшебников"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 20_8.md"
 toc: false

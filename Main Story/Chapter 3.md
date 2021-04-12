@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 Ангел-хранитель"
 permalink: /Main Story/Chapter 3/
 excerpt: "Глава 3. Эра хаоса  Основной сюжет - Глава 3. Ангел-хранитель"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 3.md"
 toc: false

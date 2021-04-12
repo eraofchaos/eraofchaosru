@@ -2,7 +2,7 @@
 title: "Item - Materials - Хорошие кристаллы"
 permalink: /Items/mat_17/
 excerpt: "Эра хаоса  Хорошие кристаллы"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "mat_17.md"
 toc: false

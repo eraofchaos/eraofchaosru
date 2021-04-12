@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая ртуть +2"
 permalink: /Items/mat_49/
 excerpt: "Эра хаоса  Эпическая ртуть +2"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "mat_49.md"
 toc: false

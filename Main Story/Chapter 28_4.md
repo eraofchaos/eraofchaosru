@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-4. Людоеды"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "Глава 28 - 4. Эра хаоса  Основной сюжет - Глава 28_4. 28-4. Людоеды"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 28_4.md"
 toc: false

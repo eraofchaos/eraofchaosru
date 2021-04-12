@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-2 Странное колдовство"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Глава 18 - 2. Эра хаоса  Основной сюжет - Глава 18_2. 18-2 Странное колдовство"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 18_2.md"
 toc: false

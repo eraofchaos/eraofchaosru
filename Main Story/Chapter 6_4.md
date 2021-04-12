@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-4 Проклятие смерти"
 permalink: /Main Story/Chapter 6_4/
 excerpt: "Глава 6 - 4. Эра хаоса  Основной сюжет - Глава 6_4. 6-4 Проклятие смерти"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 6_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-11 Приказ мага"
 permalink: /Main Story/Chapter 20_11/
 excerpt: "Глава 20 - 11. Эра хаоса  Основной сюжет - Глава 20_11. 20-11 Приказ мага"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 20_11.md"
 toc: false

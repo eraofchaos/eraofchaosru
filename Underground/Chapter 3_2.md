@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-2 Отметка дракона"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Глава 3 - 2. Эра хаоса  Подземелье - Глава 3_2. 3-2 Отметка дракона"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: ru
 ref: "Chapter 3_2.md"
 toc: false
