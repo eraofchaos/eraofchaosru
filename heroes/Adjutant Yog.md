@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Йог"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Yog.md"
+QR: adhero_60604
 toc: false
 classes: wide
 ---

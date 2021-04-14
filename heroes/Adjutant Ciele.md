@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Сиэль"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Ciele.md"
+QR: adhero_60705
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Видомина"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Vidomina.md"
+QR: adhero_60502
 toc: false
 classes: wide
 ---

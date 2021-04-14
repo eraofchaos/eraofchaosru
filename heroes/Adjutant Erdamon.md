@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Эрдамон"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Erdamon.md"
+QR: adhero_60703
 toc: false
 classes: wide
 ---

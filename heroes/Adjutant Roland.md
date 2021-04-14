@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Роланд"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Roland.md"
+QR: adhero_60103
 toc: false
 classes: wide
 ---

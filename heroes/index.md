@@ -5,6 +5,7 @@ excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "index.md"
+QR: heroes
 toc: false
 classes: wide
 ---
@@ -36,7 +37,7 @@ classes: wide
   | 24 | [Монер](/ru/heroes/Monere/) | Гармония | Путешественник | **SR** |  Элементаль Мысли | R |
   | 25 | [Мутара](/ru/heroes/Mutare/) | Подземелье | Владыка Подземелья | **R** |  Подземелье безумия | R |
   | 26 | [Мюллих](/ru/heroes/Mullich/) | Замок | Рыцарь | **R** |  Штурмовая атака | R+ |
-  | 27 | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  призраки Инферно | R |
+  | 27 | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  призраки Инферно | R+ |
   | 28 | [Питер Ли](/ru/heroes/Peter Lee/) | Убежище | Пират | **SR+** |  Поднятый парус | R+ |
   | 29 | [Раска](/ru/heroes/Rashka/) | Инферно | Одержимый | **SR** |  Повелители Огня | R |
   | 30 | [Риланд](/ru/heroes/Ryland/) | Бастион | Лесничий | **SR** |  Дендроид-страж | R |

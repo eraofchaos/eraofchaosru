@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Раска"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Rashka.md"
+QR: adhero_60802
 toc: false
 classes: wide
 ---

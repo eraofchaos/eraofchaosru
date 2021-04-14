@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Кассанбель"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Cassanbel.md"
+QR: adhero_61701
 toc: false
 classes: wide
 ---

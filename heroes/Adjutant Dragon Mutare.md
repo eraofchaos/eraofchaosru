@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Дракон Мутара"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Dragon Mutare.md"
+QR: adhero_61302
 toc: false
 classes: wide
 ---

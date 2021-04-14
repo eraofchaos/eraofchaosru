@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Луна"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Luna.md"
+QR: adhero_60701
 toc: false
 classes: wide
 ---

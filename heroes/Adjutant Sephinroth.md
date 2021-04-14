@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Сефинрот"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Sephinroth.md"
+QR: adhero_61402
 toc: false
 classes: wide
 ---

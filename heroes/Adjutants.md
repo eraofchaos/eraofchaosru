@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Доступно после повышения героя до 4★

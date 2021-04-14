@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Корбак"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Korbac.md"
+QR: adhero_61502
 toc: false
 classes: wide
 ---

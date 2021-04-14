@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Дракон"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Dracon.md"
+QR: adhero_61202
 toc: false
 classes: wide
 ---

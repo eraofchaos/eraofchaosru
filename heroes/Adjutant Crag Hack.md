@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Крэг Хак"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Crag Hack.md"
+QR: adhero_60602
 toc: false
 classes: wide
 ---

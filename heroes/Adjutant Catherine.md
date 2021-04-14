@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Катерина"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Catherine.md"
+QR: adhero_60102
 toc: false
 classes: wide
 ---

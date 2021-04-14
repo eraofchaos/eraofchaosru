@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Эцио"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Ezio.md"
+QR: adhero_61901
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Кассандра"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Kassandra.md"
+QR: adhero_62001
 toc: false
 classes: wide
 ---

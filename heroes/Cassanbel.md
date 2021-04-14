@@ -3,6 +3,7 @@ title: "Кассанбель"
 permalink: /heroes/Cassanbel/
 excerpt: "Эра хаоса Кассанбель. Кассанбель. И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море."
 heroID: 61701
+QR: hero_61701
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Cassanbel"

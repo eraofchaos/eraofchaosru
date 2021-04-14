@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Фиур"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Fiur.md"
+QR: adhero_60704
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Джем"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Gem.md"
+QR: adhero_60304
 toc: false
 classes: wide
 ---

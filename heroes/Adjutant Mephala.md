@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Мефала"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Mephala.md"
+QR: adhero_60302
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Мутара"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Mutare.md"
+QR: adhero_61301
 toc: false
 classes: wide
 ---

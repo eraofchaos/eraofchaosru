@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Шива"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Shiva.md"
+QR: adhero_60603
 toc: false
 classes: wide
 ---

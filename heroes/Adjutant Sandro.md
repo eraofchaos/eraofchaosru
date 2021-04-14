@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Сандро"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Sandro.md"
+QR: adhero_60501
 toc: false
 classes: wide
 ---

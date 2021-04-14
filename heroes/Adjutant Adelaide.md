@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Аделаида"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Adelaide.md"
+QR: adhero_60001
 toc: false
 classes: wide
 ---

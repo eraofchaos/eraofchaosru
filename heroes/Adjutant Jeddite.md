@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Джеддит"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Jeddite.md"
+QR: adhero_61401
 toc: false
 classes: wide
 ---

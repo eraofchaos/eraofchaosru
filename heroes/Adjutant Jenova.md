@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Янова"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Jenova.md"
+QR: adhero_60202
 toc: false
 classes: wide
 ---

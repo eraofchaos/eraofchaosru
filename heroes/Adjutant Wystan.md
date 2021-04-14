@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Вестан"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Wystan.md"
+QR: adhero_61504
 toc: false
 classes: wide
 ---

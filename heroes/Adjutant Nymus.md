@@ -5,6 +5,7 @@ excerpt: "Эра хаоса  Адъютант Нимусса"
 last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Nymus.md"
+QR: adhero_60803
 toc: false
 classes: wide
 ---
