@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-10. Рог победы"
 permalink: /Main Story/Chapter 28_10/
 excerpt: "Глава 28 - 10. Эра хаоса  Основной сюжет - Глава 28_10. 28-10. Рог победы"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 28_10.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Сефинрот](/ru/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

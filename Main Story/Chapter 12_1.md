@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-1 Запретный договор"
 permalink: /Main Story/Chapter 12_1/
 excerpt: "Глава 12 - 1. Эра хаоса  Основной сюжет - Глава 12_1. 12-1 Запретный договор"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 12_1.md"
 toc: false

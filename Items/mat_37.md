@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительные самоцветы"
 permalink: /Items/mat_37/
 excerpt: "Эра хаоса  Исключительные самоцветы"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "mat_37.md"
 toc: false

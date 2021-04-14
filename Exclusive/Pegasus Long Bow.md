@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Длинный лук"
+title: "Эксклюзив - Длинный лук (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Пегас Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Pegasus Длинный лук.md"
 toc: false

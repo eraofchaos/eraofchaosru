@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-4 Отравленный старик"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Глава 23 - 4. Эра хаоса  Основной сюжет - Глава 23_4. 23-4 Отравленный старик"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 23_4.md"
 toc: false

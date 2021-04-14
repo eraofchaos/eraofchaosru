@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-4 Новое начало"
 permalink: /Main Story/Chapter 15_4/
 excerpt: "Глава 15 - 4. Эра хаоса  Основной сюжет - Глава 15_4. 15-4 Новое начало"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 15_4.md"
 toc: false

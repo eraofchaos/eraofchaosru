@@ -2,7 +2,7 @@
 title: "Артефакт - Рунный камень антимагии - Башмаки полярности"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Эра хаоса  Рунный камень антимагии - Башмаки полярности. Сапоги с вышитым символом инь-ян. Компонент рунного камня антимагии."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Boots of Polarity.md"
 toc: false

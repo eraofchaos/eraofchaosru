@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычные кристаллы"
 permalink: /Items/mat_11/
 excerpt: "Эра хаоса  Обычные кристаллы"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "mat_11.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Копье рыцаря"
+title: "Эксклюзив - Копье рыцаря (Unicorn)"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Единорог Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Unicorn Копье рыцаря.md"
 toc: false

@@ -2,14 +2,14 @@
 title: "Боевое построение "
 permalink: /Battle Formation/
 excerpt: "Боевое построение.У каждой фракции - свои возможности и энергия. Активируйте уникальное боевое построение, чтобы активировать свои скрытые навыки."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-![image-center](/assets/images/newBattleFormation.jpg){: .align-center}
+![image-center](/images/newBattleFormation.jpg){: .align-center}
 
   У каждой фракции - свои возможности и энергия. Активируйте уникальное боевое построение, чтобы активировать свои скрытые навыки.
 

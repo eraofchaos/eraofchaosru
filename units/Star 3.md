@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Эра хаоса Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Star 3"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | [Повелитель акул](/ru/units/Shark Trainer/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Разбойники на акулах  |
   | 11 | [Берсерк](/ru/units/Berserker/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Ревун смерти  |
-  | 12 | [Лепрекон](/ru/units/Leprechaun/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
+  | 12 | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 13 | [Великан Тор](/ru/units/Troll/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 14 | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 15 | [Дьявол](/ru/units/Devil/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архидьявол  |

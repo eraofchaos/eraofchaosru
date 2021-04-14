@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-7 Башня Ветродуя"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "Глава 4 - 7. Эра хаоса  Основной сюжет - Глава 4_7. 4-7 Башня Ветродуя"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 4_7.md"
 toc: false

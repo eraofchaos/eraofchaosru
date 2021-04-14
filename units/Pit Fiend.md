@@ -3,7 +3,7 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Порождение зла"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Бонус героя
 * [Кендал](/ru/heroes/Kendal/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Нимусса](/ru/heroes/Nymus/)  ->   Способность:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

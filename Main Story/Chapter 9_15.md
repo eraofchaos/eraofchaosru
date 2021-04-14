@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-15 Нисхождение ангела"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Глава 9 - 15. Эра хаоса  Основной сюжет - Глава 9_15. 9-15 Нисхождение ангела"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 9_15.md"
 toc: false

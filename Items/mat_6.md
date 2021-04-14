@@ -2,7 +2,7 @@
 title: "Item - Materials - Обычная руда"
 permalink: /Items/mat_6/
 excerpt: "Эра хаоса  Обычная руда"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "mat_6.md"
 toc: false

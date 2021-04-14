@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - "
+title: "Эксклюзив -  (Paladin)"
 permalink: /Exclusive/Paladin /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Паладин Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Paladin .md"
 toc: false

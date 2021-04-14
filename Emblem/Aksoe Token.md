@@ -2,7 +2,7 @@
 title: "Эмблема святости - Жетон Аксо"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Эра хаоса Жетон Аксо. Жетон Аксо. Эра хаоса Эмблема святости Жетон Аксо. Эра хаоса Нейтральный Жетон Аксо"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Aksoe Token.md"
 toc: false

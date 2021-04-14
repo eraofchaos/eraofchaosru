@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Эра хаоса Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Faction Conflux"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Элементаль Магии  |
   | 2 | [Жар-птица](/ru/units/Firebird/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Феникс  |
   | 3 | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 4 | [Лепрекон](/ru/units/Leprechaun/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
+  | 4 | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 5 | [Фея](/ru/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
   | 6 | [Элементаль Шторма](/ru/units/Storm Elemental/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Ураган молний  |
   | 7 | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Снежный дух  |

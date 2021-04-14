@@ -2,7 +2,7 @@
 title: "Адъютант Крэг Хак"
 permalink: /heroes/Adjutant Crag Hack/
 excerpt: "Эра хаоса  Адъютант Крэг Хак"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Crag Hack.md"
 toc: false

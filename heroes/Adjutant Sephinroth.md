@@ -2,7 +2,7 @@
 title: "Адъютант Сефинрот"
 permalink: /heroes/Adjutant Sephinroth/
 excerpt: "Эра хаоса  Адъютант Сефинрот"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Sephinroth.md"
 toc: false

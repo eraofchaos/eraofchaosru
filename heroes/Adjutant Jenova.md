@@ -2,7 +2,7 @@
 title: "Адъютант Янова"
 permalink: /heroes/Adjutant Jenova/
 excerpt: "Эра хаоса  Адъютант Янова"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Adjutant Jenova.md"
 toc: false

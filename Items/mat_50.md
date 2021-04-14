@@ -2,7 +2,7 @@
 title: "Item - Materials - Эпическая сера +2"
 permalink: /Items/mat_50/
 excerpt: "Эра хаоса  Эпическая сера +2"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "mat_50.md"
 toc: false

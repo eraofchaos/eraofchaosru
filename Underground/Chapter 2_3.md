@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-3 Еще один кризис"
 permalink: /Underground/Chapter 2_3/
 excerpt: "Глава 2 - 3. Эра хаоса  Подземелье - Глава 2_3. 2-3 Еще один кризис"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 2_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Дракон"
 permalink: /heroes/Dracon/
 excerpt: "Эра хаоса Дракон. Дракон. Многие из старейшин Дракона считают его невероятно талантливым магом. Его цель в жизни - стать лучшим убийцей драконов в истории."
 heroID: 61202
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Dracon"
 toc: true

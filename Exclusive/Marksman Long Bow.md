@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Длинный лук"
+title: "Эксклюзив - Длинный лук (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Лучник Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Marksman Длинный лук.md"
 toc: false

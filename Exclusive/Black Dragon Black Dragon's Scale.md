@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Чешуя черного дракона"
+title: "Эксклюзив - Чешуя черного дракона (Black Dragon)"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Эра хаоса Чешуя черного дракона. Чешуя черного дракона. Эра хаоса Эксклюзив Чешуя черного дракона. Черный дракон Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Black Dragon Чешуя черного дракона.md"
 toc: false

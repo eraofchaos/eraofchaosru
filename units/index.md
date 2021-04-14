@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "index.md"
 toc: false
@@ -65,7 +65,7 @@ classes: wide
   | 43 | [Красный дракон](/ru/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 44 | [Левиафан](/ru/units/Revyaratan/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
   | 45 | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 46 | [Лепрекон](/ru/units/Leprechaun/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
+  | 46 | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 47 | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 48 | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |
   | 49 | [Лич](/ru/units/Lich/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Могучий лич  |

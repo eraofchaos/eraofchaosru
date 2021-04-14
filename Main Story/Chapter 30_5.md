@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-5. Отдых у огня"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Глава 30 - 5. Эра хаоса  Основной сюжет - Глава 30_5. 30-5. Отдых у огня"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 30_5.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Раска](/ru/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

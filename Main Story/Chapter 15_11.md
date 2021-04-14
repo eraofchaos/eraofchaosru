@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-11 Демон призван"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Глава 15 - 11. Эра хаоса  Основной сюжет - Глава 15_11. 15-11 Демон призван"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 15_11.md"
 toc: false

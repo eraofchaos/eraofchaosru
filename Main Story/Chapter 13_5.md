@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-5 Последствия"
 permalink: /Main Story/Chapter 13_5/
 excerpt: "Глава 13 - 5. Эра хаоса  Основной сюжет - Глава 13_5. 13-5 Последствия"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 13_5.md"
 toc: false

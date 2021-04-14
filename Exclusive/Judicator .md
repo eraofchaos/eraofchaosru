@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - "
+title: "Эксклюзив -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Вершитель Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Judicator .md"
 toc: false

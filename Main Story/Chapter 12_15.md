@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-15 Каждая минута на счету"
 permalink: /Main Story/Chapter 12_15/
 excerpt: "Глава 12 - 15. Эра хаоса  Основной сюжет - Глава 12_15. 12-15 Каждая минута на счету"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 12_15.md"
 toc: false

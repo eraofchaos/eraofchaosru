@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Таинственное пение"
+title: "Эксклюзив - Таинственное пение (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Монах Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Monk Таинственное пение.md"
 toc: false

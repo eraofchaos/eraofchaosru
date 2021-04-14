@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Темные волны"
+title: "Эксклюзив - Темные волны (Revyaratan)"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Эра хаоса Темные волны. Темные волны. Эра хаоса Эксклюзив Темные волны. Левиафан Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Revyaratan Темные волны.md"
 toc: false

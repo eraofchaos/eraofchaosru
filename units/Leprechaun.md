@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Подчиняясь зову магического амулета, к тому же дающему чудесную защиту, лепреконы проходят через портал Мирового древа в этот жестокий и коварный мир и становятся самым крепким щитом фракции Природы!"
 unitID: 909
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -194,7 +194,7 @@ toc: true
 
 ## Awaking
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Хранитель древа
 

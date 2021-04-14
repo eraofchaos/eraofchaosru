@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Эра хаоса  Золотое яблоко. Золотое яблоко Один из даров Первой Цивилизации, позволяющий по легенде изменять все сущее в мире."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Apple of Eden.md"
 toc: false

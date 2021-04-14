@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 20 - 20-2 Стража элементалей"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Глава 20 - 2. Эра хаоса  Подземелье - Глава 20_2. 20-2 Стража элементалей"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 20_2.md"
 toc: false

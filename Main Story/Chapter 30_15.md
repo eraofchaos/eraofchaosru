@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-15. Кериос"
 permalink: /Main Story/Chapter 30_15/
 excerpt: "Глава 30 - 15. Эра хаоса  Основной сюжет - Глава 30_15. 30-15. Кериос"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 30_15.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Раска](/ru/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

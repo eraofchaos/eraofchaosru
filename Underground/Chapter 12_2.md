@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 - 12-2 Король нежити"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Глава 12 - 2. Эра хаоса  Подземелье - Глава 12_2. 12-2 Король нежити"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 12_2.md"
 toc: false

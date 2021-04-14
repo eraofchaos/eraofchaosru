@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-1 Семена жизни"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Глава 22 - 1. Эра хаоса  Подземелье - Глава 22_1. 22-1 Семена жизни"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 22_1.md"
 toc: false

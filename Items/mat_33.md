@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная руда"
 permalink: /Items/mat_33/
 excerpt: "Эра хаоса  Исключительная руда"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "mat_33.md"
 toc: false

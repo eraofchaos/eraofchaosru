@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Энергия огня"
+title: "Эксклюзив - Энергия огня (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Эра хаоса Энергия огня. Энергия огня. Эра хаоса Эксклюзив Энергия огня. Василиск Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Basilisk Энергия огня.md"
 toc: false

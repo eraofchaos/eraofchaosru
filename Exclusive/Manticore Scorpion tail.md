@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Хвост скорпиона"
+title: "Эксклюзив - Хвост скорпиона (Manticore)"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Эра хаоса Хвост скорпиона. Хвост скорпиона. Эра хаоса Эксклюзив Хвост скорпиона. Мантикора Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Manticore Хвост скорпиона.md"
 toc: false

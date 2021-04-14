@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 18 - 18-2 Пламя Инферно"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Глава 18 - 2. Эра хаоса  Подземелье - Глава 18_2. 18-2 Пламя Инферно"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 18_2.md"
 toc: false

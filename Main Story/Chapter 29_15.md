@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-15. Обсидиановый барьер"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Глава 29 - 15. Эра хаоса  Основной сюжет - Глава 29_15. 29-15. Обсидиановый барьер"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 29_15.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Сандро](/ru/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

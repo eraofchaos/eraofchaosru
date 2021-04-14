@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-5. Деревня клевера"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Глава 29 - 5. Эра хаоса  Основной сюжет - Глава 29_5. 29-5. Деревня клевера"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 29_5.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Сандро](/ru/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

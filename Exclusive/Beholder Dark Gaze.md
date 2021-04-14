@@ -1,8 +1,8 @@
 ---
-title: "Эксклюзив - Опасный взгляд"
+title: "Эксклюзив - Опасный взгляд (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Эра хаоса Опасный взгляд. Опасный взгляд. Эра хаоса Эксклюзив Опасный взгляд. Бехолдер Эксклюзив."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Beholder Опасный взгляд.md"
 toc: false

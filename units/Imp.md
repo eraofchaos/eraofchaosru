@@ -3,7 +3,7 @@ title: "Бес"
 permalink: /units/Imp/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Бес"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Бонус героя
 * [Мефала](/ru/heroes/Mephala/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Ксерон](/ru/heroes/Xeron/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Нимусса](/ru/heroes/Nymus/)  ->   Способность:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Талант
 

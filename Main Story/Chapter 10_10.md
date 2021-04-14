@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-10 Получение духа"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Глава 10 - 10. Эра хаоса  Основной сюжет - Глава 10_10. 10-10 Получение духа"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: ru
 ref: "Chapter 10_10.md"
 toc: false
