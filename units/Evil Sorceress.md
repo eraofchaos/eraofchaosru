@@ -3,13 +3,15 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Злая ведьма"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Злая ведьма](/images/u/ti_xiemonv.jpg)
 
 ## General information
  **Описание:** Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью.
@@ -186,6 +188,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shixie.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

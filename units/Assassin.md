@@ -3,11 +3,13 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Ассасин"
 toc: true
 ---
+  ![Ассасин](/images/u/ti_cishazhe.jpg)
+
 ## General information
  **Описание:** Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено.
 
@@ -169,6 +171,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

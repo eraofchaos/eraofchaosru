@@ -2,7 +2,7 @@
 title: "Наплечники дикой природы"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Эра хаоса Наплечники дикой природы. Наплечники дикой природы"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Pauldrons of Wild.md"
 toc: false

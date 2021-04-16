@@ -3,13 +3,15 @@ title: "Повелитель акул"
 permalink: /units/Shark Trainer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Повелитель акул"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Повелитель акул](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Описание:** С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Разбойники на акулах](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

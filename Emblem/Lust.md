@@ -2,12 +2,15 @@
 title: "Эмблема святости - Похоть"
 permalink: /Emblem/Lust/
 excerpt: "Эра хаоса Похоть. Похоть. Эра хаоса Эмблема святости Похоть. Эра хаоса Хаос Похоть"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Lust.md"
 toc: false
+QR: rune_405
 classes: wide
 ---
+
+  ![Похоть](/images/r/rune_icon_405.png)
 
  **Имя:** Похоть
 

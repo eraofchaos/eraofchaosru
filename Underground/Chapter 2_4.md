@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-4 Перестроение и возрождение"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Глава 2 - 4. Эра хаоса  Подземелье - Глава 2_4. 2-4 Перестроение и возрождение"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 2_4.md"
 toc: false

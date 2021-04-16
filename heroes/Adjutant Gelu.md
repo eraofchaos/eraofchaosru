@@ -2,13 +2,15 @@
 title: "Адъютант Джелу"
 permalink: /heroes/Adjutant Gelu/
 excerpt: "Эра хаоса  Адъютант Джелу"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Gelu.md"
 QR: adhero_60301
 toc: false
 classes: wide
 ---
+  ![Джелу](/images/h/h_Gelu.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

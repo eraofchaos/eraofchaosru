@@ -2,13 +2,15 @@
 title: "Адъютант Луна"
 permalink: /heroes/Adjutant Luna/
 excerpt: "Эра хаоса  Адъютант Луна"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Luna.md"
 QR: adhero_60701
 toc: false
 classes: wide
 ---
+  ![Луна](/images/h/h_Luna.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

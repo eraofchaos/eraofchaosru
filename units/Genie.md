@@ -3,11 +3,13 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Джинн"
 toc: true
 ---
+  ![Джинн](/images/u/ti_shenguai.jpg)
+
 ## General information
  **Описание:** Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Владыка джиннов](/images/u/tia_shendeng.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

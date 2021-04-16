@@ -3,11 +3,13 @@ title: "Бехолдер"
 permalink: /units/Beholder/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Бехолдер"
 toc: true
 ---
+  ![Бехолдер](/images/u/ti_xieyan.jpg)
+
 ## General information
  **Описание:** Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами.
 
@@ -169,6 +171,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Злобоглаз](/images/u/tia_xieyan.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

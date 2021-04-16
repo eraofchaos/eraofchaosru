@@ -2,13 +2,15 @@
 title: "Адъютант Астрал"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Эра хаоса  Адъютант Астрал"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Astral.md"
 QR: adhero_61203
 toc: false
 classes: wide
 ---
+  ![Астрал](/images/h/h_Astral.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

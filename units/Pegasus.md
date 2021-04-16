@@ -3,11 +3,13 @@ title: "Пегас"
 permalink: /units/Pegasus/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель."
 unitID: 204
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Пегас"
 toc: true
 ---
+  ![Пегас](/images/u/ti_feima.jpg)
+
 ## General information
  **Описание:** Пегасы - легендарные лесные создания. Они дружат с лучшими из эльфов, стремясь обеспечить покой родных земель.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Серебряный пегас](/images/u/tia_yinyifeima.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

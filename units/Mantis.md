@@ -3,13 +3,15 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Богомол"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Богомол](/images/u/ti_tanglang.jpg)
 
 ## General information
  **Описание:** Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью.
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

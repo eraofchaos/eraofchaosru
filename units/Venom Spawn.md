@@ -3,13 +3,15 @@ title: "Огненный демон"
 permalink: /units/Venom Spawn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы."
 unitID: 509
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Огненный демон"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Огненный демон](/images/u/ti_yanmo.jpg)
 
 ## General information
  **Описание:** Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы.
@@ -237,6 +239,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

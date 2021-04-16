@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Эра хаоса Эксклюзив Fortress. Эксклюзив Fortress. List of Эксклюзив Fortress in Era of Chaos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Exclusive Fortress"
 toc: false

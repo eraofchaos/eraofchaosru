@@ -3,11 +3,13 @@ title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Элементаль Моря"
 toc: true
 ---
+  ![Элементаль Моря](/images/u/ti_haiyuansu.jpg)
+
 ## General information
  **Описание:** Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Элементаль Приливов](/images/u/tia_shenv.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

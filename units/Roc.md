@@ -3,11 +3,13 @@ title: "Рух"
 permalink: /units/Roc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Рух"
 toc: true
 ---
+  ![Рух](/images/u/ti_leiniao.jpg)
+
 ## General information
  **Описание:** Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Громовая птица](/images/u/tia_leiniao.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-11 Начало войны"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Глава 13 - 11. Эра хаоса  Основной сюжет - Глава 13_11. 13-11 Начало войны"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 13_11.md"
 toc: false

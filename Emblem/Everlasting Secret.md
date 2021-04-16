@@ -2,12 +2,15 @@
 title: "Эмблема святости - Тайна Неувядающего"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Эра хаоса Тайна Неувядающего. Тайна Неувядающего. Эра хаоса Эмблема святости Тайна Неувядающего. Эра хаоса Порядок Тайна Неувядающего"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Everlasting Secret.md"
 toc: false
+QR: rune_104
 classes: wide
 ---
+
+  ![Тайна Неувядающего](/images/r/rune_icon_104.png)
 
  **Имя:** Тайна Неувядающего
 

@@ -2,12 +2,15 @@
 title: "Эмблема святости - Ангел-хранитель"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Эра хаоса Ангел-хранитель. Ангел-хранитель. Эра хаоса Эмблема святости Ангел-хранитель. Эра хаоса Добро Ангел-хранитель"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Guardian Angel.md"
 toc: false
+QR: rune_203
 classes: wide
 ---
+
+  ![Ангел-хранитель](/images/r/rune_icon_203.png)
 
  **Имя:** Ангел-хранитель
 

@@ -3,11 +3,13 @@ title: "Магический корабль"
 permalink: /units/Magic Airship/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов."
 unitID: 608
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Магический корабль"
 toc: true
 ---
+  ![Магический корабль](/images/u/ti_reqiqiu.jpg)
+
 ## General information
  **Описание:** Огромный круглый парус поднимает это судно в небеса, позволяя насладиться красотой небесных просторов.
 
@@ -176,6 +178,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

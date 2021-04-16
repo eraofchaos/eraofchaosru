@@ -2,12 +2,15 @@
 title: "Эмблема святости - Ум"
 permalink: /Emblem/Witness/
 excerpt: "Эра хаоса Ум. Ум. Эра хаоса Эмблема святости Ум. Эра хаоса Добро Ум"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Witness.md"
 toc: false
+QR: rune_201
 classes: wide
 ---
+
+  ![Ум](/images/r/rune_icon_201.png)
 
  **Имя:** Ум
 

@@ -3,11 +3,13 @@ title: "Черный дракон"
 permalink: /units/Black Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Черный дракон"
 toc: true
 ---
+  ![Черный дракон](/images/u/ti_heilong.jpg)
+
 ## General information
  **Описание:** Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Король черных драконов](/images/u/tia_heilong.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

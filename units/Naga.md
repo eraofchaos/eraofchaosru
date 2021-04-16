@@ -3,11 +3,13 @@ title: "Нага"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Нага"
 toc: true
 ---
+  ![Нага](/images/u/ti_shenv.jpg)
+
 ## General information
  **Описание:** Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Королева нага](/images/u/ti_najia.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

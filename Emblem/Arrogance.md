@@ -2,12 +2,15 @@
 title: "Эмблема святости - Гордыня"
 permalink: /Emblem/Arrogance/
 excerpt: "Эра хаоса Гордыня. Гордыня. Эра хаоса Эмблема святости Гордыня. Эра хаоса Хаос Гордыня"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Arrogance.md"
 toc: false
+QR: rune_402
 classes: wide
 ---
+
+  ![Гордыня](/images/r/rune_icon_402.png)
 
  **Имя:** Гордыня
 

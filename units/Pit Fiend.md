@@ -3,11 +3,13 @@ title: "Порождение зла"
 permalink: /units/Pit Fiend/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть."
 unitID: 505
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Порождение зла"
 toc: true
 ---
+  ![Порождение зла](/images/u/ti_diyulingzhu.jpg)
+
 ## General information
  **Описание:** Порождения зла - закаленные в боях воины, повелевающие десятками тысяч бойцов Инферно. Кровопролитие - их единственная страсть.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Владыка бездны](/images/u/tia_diyulingzhu.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

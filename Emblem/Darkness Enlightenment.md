@@ -2,12 +2,15 @@
 title: "Эмблема святости - Просвещение тьмой"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Эра хаоса Просвещение тьмой. Просвещение тьмой. Эра хаоса Эмблема святости Просвещение тьмой. Эра хаоса Злой Просвещение тьмой"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Darkness Enlightenment.md"
 toc: false
+QR: rune_506
 classes: wide
 ---
+
+  ![Просвещение тьмой](/images/r/rune_icon_506.png)
 
  **Имя:** Просвещение тьмой
 

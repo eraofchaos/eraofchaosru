@@ -2,12 +2,15 @@
 title: "Эмблема святости - Зловещий знак"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Эра хаоса Зловещий знак. Зловещий знак. Эра хаоса Эмблема святости Зловещий знак. Эра хаоса Злой Зловещий знак"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Ominous Sign.md"
 toc: false
+QR: rune_504
 classes: wide
 ---
+
+  ![Зловещий знак](/images/r/rune_icon_504.png)
 
  **Имя:** Зловещий знак
 

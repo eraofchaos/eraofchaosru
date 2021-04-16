@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 17 - 17-2 Воспоминания мага"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Глава 17 - 2. Эра хаоса  Подземелье - Глава 17_2. 17-2 Воспоминания мага"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 17_2.md"
 toc: false

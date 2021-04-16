@@ -3,11 +3,13 @@ title: "Гог"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Гог"
 toc: true
 ---
+  ![Гог](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Описание:** Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Магог](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

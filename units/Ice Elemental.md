@@ -3,11 +3,13 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Элементаль Льда"
 toc: true
 ---
+  ![Элементаль Льда](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Описание:** Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Снежный дух](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

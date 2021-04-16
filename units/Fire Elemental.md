@@ -3,11 +3,13 @@ title: "Элементаль Огня"
 permalink: /units/Fire Elemental/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников."
 unitID: 904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Элементаль Огня"
 toc: true
 ---
+  ![Элементаль Огня](/images/u/ti_liehuoyuansu.jpg)
+
 ## General information
  **Описание:** Нестабильное создание из чистой энергии. При его разрушении накопленный запас высвобождается, поражая противников.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Элементаль Энергии](/images/u/tia_liehuoyuansu.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

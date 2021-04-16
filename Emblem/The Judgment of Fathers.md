@@ -2,12 +2,15 @@
 title: "Эмблема святости - Суд отцов"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Эра хаоса Суд отцов. Суд отцов. Эра хаоса Эмблема святости Суд отцов. Эра хаоса Нейтральный Суд отцов"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "The Judgment of Fathers.md"
 toc: false
+QR: rune_301
 classes: wide
 ---
+
+  ![Суд отцов](/images/r/rune_icon_301.png)
 
  **Имя:** Суд отцов
 

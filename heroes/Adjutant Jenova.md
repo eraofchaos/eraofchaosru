@@ -2,13 +2,15 @@
 title: "Адъютант Янова"
 permalink: /heroes/Adjutant Jenova/
 excerpt: "Эра хаоса  Адъютант Янова"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Jenova.md"
 QR: adhero_60202
 toc: false
 classes: wide
 ---
+  ![Янова](/images/h/h_Ylthin.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

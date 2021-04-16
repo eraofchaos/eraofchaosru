@@ -2,12 +2,15 @@
 title: "Эмблема святости - Крылья грифона"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Эра хаоса Крылья грифона. Крылья грифона. Эра хаоса Эмблема святости Крылья грифона. Эра хаоса Порядок Крылья грифона"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Griffin Wings.md"
 toc: false
+QR: rune_102
 classes: wide
 ---
+
+  ![Крылья грифона](/images/r/rune_icon_102.png)
 
  **Имя:** Крылья грифона
 

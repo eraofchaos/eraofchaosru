@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 13 - 13-3 Кровавое поле"
 permalink: /Underground/Chapter 13_3/
 excerpt: "Глава 13 - 3. Эра хаоса  Подземелье - Глава 13_3. 13-3 Кровавое поле"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 13_3.md"
 toc: false

@@ -2,13 +2,15 @@
 title: "Адъютант Тазар"
 permalink: /heroes/Adjutant Tazar/
 excerpt: "Эра хаоса  Адъютант Тазар"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Tazar.md"
 QR: adhero_61501
 toc: false
 classes: wide
 ---
+  ![Тазар](/images/h/h_Tazar.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

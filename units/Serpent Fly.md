@@ -3,11 +3,13 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Летучий змей"
 toc: true
 ---
+  ![Летучий змей](/images/u/ti_longying.jpg)
+
 ## General information
  **Описание:** Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства.
 
@@ -192,6 +194,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ядовитый змей](/images/u/tia_longying.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

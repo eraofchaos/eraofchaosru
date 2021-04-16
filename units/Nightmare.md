@@ -3,11 +3,13 @@ title: "Кошмар"
 permalink: /units/Nightmare/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Кошмар"
 toc: true
 ---
+  ![Кошмар](/images/u/ti_mengyanshou.jpg)
+
 ## General information
  **Описание:** Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Копыто дьявола](/images/u/tia_mengyanshou.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

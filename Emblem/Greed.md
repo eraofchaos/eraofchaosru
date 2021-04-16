@@ -2,12 +2,15 @@
 title: "Эмблема святости - Алчность"
 permalink: /Emblem/Greed/
 excerpt: "Эра хаоса Алчность. Алчность. Эра хаоса Эмблема святости Алчность. Эра хаоса Хаос Алчность"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Greed.md"
 toc: false
+QR: rune_404
 classes: wide
 ---
+
+  ![Алчность](/images/r/rune_icon_404.png)
 
  **Имя:** Алчность
 

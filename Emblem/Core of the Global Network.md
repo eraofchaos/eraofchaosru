@@ -2,12 +2,15 @@
 title: "Эмблема святости - Ядро мировой сети"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Эра хаоса Ядро мировой сети. Ядро мировой сети. Эра хаоса Эмблема святости Ядро мировой сети. Эра хаоса Нейтральный Ядро мировой сети"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Core of the Global Network.md"
 toc: false
+QR: rune_304
 classes: wide
 ---
+
+  ![Ядро мировой сети](/images/r/rune_icon_304.png)
 
  **Имя:** Ядро мировой сети
 

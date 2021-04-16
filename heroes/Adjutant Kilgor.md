@@ -2,13 +2,15 @@
 title: "Адъютант Килгор"
 permalink: /heroes/Adjutant Kilgor/
 excerpt: "Эра хаоса  Адъютант Килгор"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Kilgor.md"
 QR: adhero_60601
 toc: false
 classes: wide
 ---
+  ![Килгор](/images/h/h_Kilgor.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

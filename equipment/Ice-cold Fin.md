@@ -2,7 +2,7 @@
 title: "Ледяной плавник"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Эра хаоса Ледяной плавник. Ледяной плавник"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Ice-cold Fin.md"
 toc: false

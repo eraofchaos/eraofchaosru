@@ -2,12 +2,15 @@
 title: "Эмблема святости - Стена познания"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Эра хаоса Стена познания. Стена познания. Эра хаоса Эмблема святости Стена познания. Эра хаоса Добро Стена познания"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Wall of Knowledge.md"
 toc: false
+QR: rune_202
 classes: wide
 ---
+
+  ![Стена познания](/images/r/rune_icon_202.png)
 
  **Имя:** Стена познания
 

@@ -2,12 +2,15 @@
 title: "Эмблема святости - Ключ меча и магии"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Эра хаоса Ключ меча и магии. Ключ меча и магии. Эра хаоса Эмблема святости Ключ меча и магии. Эра хаоса Нейтральный Ключ меча и магии"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Stone Key to the Gates.md"
 toc: false
+QR: rune_302
 classes: wide
 ---
+
+  ![Ключ меча и магии](/images/r/rune_icon_302.png)
 
  **Имя:** Ключ меча и магии
 

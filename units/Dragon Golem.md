@@ -3,13 +3,15 @@ title: "Драконий голем"
 permalink: /units/Dragon Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Драконий голем"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Драконий голем](/images/u/ti_kuileilong.jpg)
 
 ## General information
  **Описание:** Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой.
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Вершитель"
 permalink: /units/Judicator/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
 unitID: 109
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Вершитель"
 toc: true
 ---
+  ![Вершитель](/images/u/ti_shenpanguan.jpg)
+
 ## General information
  **Описание:** Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

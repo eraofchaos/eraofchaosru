@@ -3,11 +3,13 @@ title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Панцирный дракон"
 toc: true
 ---
+  ![Панцирный дракон](/images/u/ti_longgui.jpg)
+
 ## General information
  **Описание:** У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Древний панцирный дракон](/images/u/tia_longgui.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

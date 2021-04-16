@@ -3,11 +3,13 @@ title: "Мечник"
 permalink: /units/Swordsman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Мечник"
 toc: true
 ---
+  ![Мечник](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Описание:** В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Крестоносец](/images/u/tia_shizijun.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

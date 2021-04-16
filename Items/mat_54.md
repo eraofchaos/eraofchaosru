@@ -2,7 +2,7 @@
 title: "Item - Materials - Легендарная руда +3"
 permalink: /Items/mat_54/
 excerpt: "Эра хаоса  Легендарная руда +3"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "mat_54.md"
 toc: false

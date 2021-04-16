@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 Разлом"
 permalink: /Main Story/Chapter 6/
 excerpt: "Глава 6. Эра хаоса  Основной сюжет - Глава 6. Разлом"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 6.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Опыт отряда
+ Reward 4:  **1000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** Опыт отряда
+ Reward 4:  **1500x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** Опыт отряда
+ Reward 4:  **2000x** [Опыт отряда](/ru/Items/con_902/)
 

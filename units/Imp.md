@@ -3,11 +3,13 @@ title: "Бес"
 permalink: /units/Imp/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Бес"
 toc: true
 ---
+  ![Бес](/images/u/ti_xiaoemo.jpg)
+
 ## General information
  **Описание:** Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Черти](/images/u/tia_xiaoemo.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-10 Ночь отчаяния"
 permalink: /Main Story/Chapter 6_10/
 excerpt: "Глава 6 - 10. Эра хаоса  Основной сюжет - Глава 6_10. 6-10 Ночь отчаяния"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 6_10.md"
 toc: false

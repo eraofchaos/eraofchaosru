@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 Остров Эверморн"
 permalink: /Main Story/Chapter 1/
 excerpt: "Глава 1. Эра хаоса  Основной сюжет - Глава 1. Остров Эверморн"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 1.md"
 toc: false
@@ -26,5 +26,5 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Опыт отряда
+ Reward 4:  **1000x** [Опыт отряда](/ru/Items/con_902/)
 

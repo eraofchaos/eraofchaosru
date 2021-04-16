@@ -3,11 +3,13 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Минотавр"
 toc: true
 ---
+  ![Минотавр](/images/u/ti_niutouguai.jpg)
+
 ## General information
  **Описание:** Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Король минотавров](/images/u/tia_niutouguai.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

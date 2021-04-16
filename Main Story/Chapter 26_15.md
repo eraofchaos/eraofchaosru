@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-15 Истории Нигона"
 permalink: /Main Story/Chapter 26_15/
 excerpt: "Глава 26 - 15. Эра хаоса  Основной сюжет - Глава 26_15. 26-15 Истории Нигона"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 26_15.md"
 toc: false

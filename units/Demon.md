@@ -3,11 +3,13 @@ title: "Демон"
 permalink: /units/Demon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов."
 unitID: 504
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Демон"
 toc: true
 ---
+  ![Демон](/images/u/ti_changjiaoemo.jpg)
+
 ## General information
  **Описание:** Демона легко узнать по острым рогам на голове. Этим грозным оружием он с легкостью пронзает доспехи и раздирает плоть своих врагов.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Стражник Инферно](/images/u/tia_changjiaoemo.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

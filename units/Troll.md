@@ -3,11 +3,13 @@ title: "Великан Тор"
 permalink: /units/Troll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Великан Тор"
 toc: true
 ---
+  ![Великан Тор](/images/u/ti_suoerjuren.jpg)
+
 ## General information
  **Описание:** Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны.
 
@@ -193,6 +195,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

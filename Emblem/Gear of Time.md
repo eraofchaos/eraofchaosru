@@ -2,12 +2,15 @@
 title: "Эмблема святости - Снаряжение времени"
 permalink: /Emblem/Gear of Time/
 excerpt: "Эра хаоса Снаряжение времени. Снаряжение времени. Эра хаоса Эмблема святости Снаряжение времени. Эра хаоса Добро Снаряжение времени"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Gear of Time.md"
 toc: false
+QR: rune_205
 classes: wide
 ---
+
+  ![Снаряжение времени](/images/r/rune_icon_205.png)
 
  **Имя:** Снаряжение времени
 

@@ -2,7 +2,7 @@
 title: "Божественные наручи"
 permalink: /equipment/Divine Vambrace/
 excerpt: "Эра хаоса Божественные наручи. Божественные наручи"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Divine Vambrace.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Василиск"
 permalink: /units/Basilisk/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети."
 unitID: 804
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Василиск"
 toc: true
 ---
+  ![Василиск](/images/u/ti_xiyi.jpg)
+
 ## General information
  **Описание:** Хищники, обитающие под водой. Бесчувственно и терпеливо они выжидают, пока жертва сама угодит в их темные сети.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_xiyi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Черный рыцарь"
 permalink: /units/Black Knight/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Черный рыцарь"
 toc: true
 ---
+  ![Черный рыцарь](/images/u/ti_siwangqishi.jpg)
+
 ## General information
  **Описание:** На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Зловещий рыцарь](/images/u/tia_siwangqishi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

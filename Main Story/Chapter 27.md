@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 Кровь Отца драконов"
 permalink: /Main Story/Chapter 27/
 excerpt: "Глава 27. Эра хаоса  Основной сюжет - Глава 27. Кровь Отца драконов"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 27.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** Опыт отряда
+ Reward 4:  **50000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** Опыт отряда
+ Reward 4:  **80000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** Опыт отряда
+ Reward 4:  **100000x** [Опыт отряда](/ru/Items/con_902/)
 

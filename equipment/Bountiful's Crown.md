@@ -2,7 +2,7 @@
 title: "Корона изобилия"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Эра хаоса Корона изобилия. Корона изобилия"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Bountiful's Crown.md"
 toc: false

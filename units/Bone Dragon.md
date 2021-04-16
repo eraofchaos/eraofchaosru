@@ -3,11 +3,13 @@ title: "Костяной дракон"
 permalink: /units/Bone Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам."
 unitID: 307
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Костяной дракон"
 toc: true
 ---
+  ![Костяной дракон](/images/u/ti_gulong.jpg)
+
 ## General information
  **Описание:** В Некрополе нет более свирепых воинов, чем костяные драконы. Они не уступают по силе своим врагам - живым драконам.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Призрачный дракон](/images/u/tia_gulong.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

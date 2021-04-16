@@ -3,11 +3,13 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Лесной эльф"
 toc: true
 ---
+  ![Лесной эльф](/images/u/ti_mujingling.jpg)
+
 ## General information
  **Описание:** Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Высокий эльф](/images/u/tia_mujingling.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

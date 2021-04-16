@@ -3,11 +3,13 @@ title: "Троглодит"
 permalink: /units/Troglodyte/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась."
 unitID: 701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Троглодит"
 toc: true
 ---
+  ![Троглодит](/images/u/ti_dongxueren.jpg)
+
 ## General information
  **Описание:** Существо, обитающее под землей. Почти ничего не видит, по благодаря острому нюху может найти свою жертву, где бы она ни пряталась.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Темный троглодит](/images/u/tia_dongxueren.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

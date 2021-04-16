@@ -2,7 +2,7 @@
 title: "Item - Materials - Редкая руда +1"
 permalink: /Items/mat_40/
 excerpt: "Эра хаоса  Редкая руда +1"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "mat_40.md"
 toc: false

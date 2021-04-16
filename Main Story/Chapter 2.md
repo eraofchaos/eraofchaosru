@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 Возвращение королевы"
 permalink: /Main Story/Chapter 2/
 excerpt: "Глава 2. Эра хаоса  Основной сюжет - Глава 2. Возвращение королевы"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 2.md"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Опыт отряда
+ Reward 4:  **1000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -43,5 +43,5 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** Опыт отряда
+ Reward 4:  **1500x** [Опыт отряда](/ru/Items/con_902/)
 

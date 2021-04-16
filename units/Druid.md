@@ -3,11 +3,13 @@ title: "Друид"
 permalink: /units/Druid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса."
 unitID: 208
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Друид"
 toc: true
 ---
+  ![Друид](/images/u/ti_deluyi.jpg)
+
 ## General information
  **Описание:** Это эльфы, принявшие волю природы и способные защитить с помощью ее силы всех, кто сражается во имя леса.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Великий друид](/images/u/tia_deluyi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

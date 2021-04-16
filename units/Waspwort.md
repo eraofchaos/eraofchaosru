@@ -3,11 +3,13 @@ title: "Росянка"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Росянка"
 toc: true
 ---
+  ![Росянка](/images/u/ti_dufengcao.jpg)
+
 ## General information
  **Описание:** Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dufengcao.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Огр"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Огр"
 toc: true
 ---
+  ![Огр](/images/u/ti_shirenmo.jpg)
+
 ## General information
  **Описание:** Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Огр-маг](/images/u/tia_shirenmo.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

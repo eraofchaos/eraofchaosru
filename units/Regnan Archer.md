@@ -3,11 +3,13 @@ title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Регнанский лучник"
 toc: true
 ---
+  ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg)
+
 ## General information
  **Описание:** Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_baozang.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

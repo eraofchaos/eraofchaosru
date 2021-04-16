@@ -2,7 +2,7 @@
 title: "Эксклюзив - Послушание (Dragon Turtle)"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Эра хаоса Послушание. Послушание. Эра хаоса Эксклюзив Послушание. Панцирный дракон Эксклюзив."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Dragon Turtle Послушание.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Левиафан"
 toc: true
 ---
+  ![Левиафан](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Описание:** Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Демон бездны](/images/u/tia_haiguai.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

@@ -2,13 +2,15 @@
 title: "Адъютант Сольмир"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "Эра хаоса  Адъютант Сольмир"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Solmyr.md"
 QR: adhero_61201
 toc: false
 classes: wide
 ---
+  ![Сольмир](/images/h/h_Solmyr.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

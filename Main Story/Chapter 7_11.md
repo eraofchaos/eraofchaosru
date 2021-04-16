@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-11 Отбить атаку"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Глава 7 - 11. Эра хаоса  Основной сюжет - Глава 7_11. 7-11 Отбить атаку"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 7_11.md"
 toc: false

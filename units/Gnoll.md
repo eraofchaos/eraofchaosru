@@ -3,11 +3,13 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Гнолл"
 toc: true
 ---
+  ![Гнолл](/images/u/ti_langren.jpg)
+
 ## General information
  **Описание:** Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Гнолл-воин](/images/u/tia_langren.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

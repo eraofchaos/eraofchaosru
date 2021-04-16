@@ -2,12 +2,15 @@
 title: "Эмблема святости - Древний огонь"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Эра хаоса Древний огонь. Древний огонь. Эра хаоса Эмблема святости Древний огонь. Эра хаоса Порядок Древний огонь"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Ancient Fire.md"
 toc: false
+QR: rune_101
 classes: wide
 ---
+
+  ![Древний огонь](/images/r/rune_icon_101.png)
 
  **Имя:** Древний огонь
 

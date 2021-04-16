@@ -2,7 +2,7 @@
 title: "Прочный и гибкий латный пояс"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Эра хаоса Прочный и гибкий латный пояс. Прочный и гибкий латный пояс"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Strong and Flexible Waistplate.md"
 toc: false

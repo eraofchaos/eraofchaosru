@@ -3,11 +3,13 @@ title: "Чудище"
 permalink: /units/Behemoth/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов."
 unitID: 407
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Чудище"
 toc: true
 ---
+  ![Чудище](/images/u/ti_bimeng.jpg)
+
 ## General information
  **Описание:** Чудища - одни из немногих древних созданий. Они зародились еще до драконов. Их огромные тела почти неуязвимы для врагов.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Древнее чудище](/images/u/tia_bimeng.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

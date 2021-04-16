@@ -3,11 +3,13 @@ title: "Горгона"
 permalink: /units/Gorgon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Горгона"
 toc: true
 ---
+  ![Горгона](/images/u/ti_manniu.jpg)
+
 ## General information
  **Описание:** Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью.
 
@@ -188,6 +190,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Могучая горгона](/images/u/tia_manniu.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

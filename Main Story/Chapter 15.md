@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 Единым фронтом"
 permalink: /Main Story/Chapter 15/
 excerpt: "Глава 15. Эра хаоса  Основной сюжет - Глава 15. Единым фронтом"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 15.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** Опыт отряда
+ Reward 4:  **5000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** Опыт отряда
+ Reward 4:  **8000x** [Опыт отряда](/ru/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_603
+ Reward 1:  **1x** [Железный голем](/ru/units/Iron Golem/)
 
  Reward 2: **25 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** Опыт отряда
+ Reward 4:  **10000x** [Опыт отряда](/ru/Items/con_902/)
 

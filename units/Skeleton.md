@@ -3,11 +3,13 @@ title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Скелет"
 toc: true
 ---
+  ![Скелет](/images/u/ti_kulouzhanshi.jpg)
+
 ## General information
  **Описание:** Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Скелет-воин](/images/u/tia_kulouzhanshi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Дьявольские крылья"
 permalink: /equipment/Demonic Wings/
 excerpt: "Эра хаоса Дьявольские крылья. Дьявольские крылья"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Demonic Wings.md"
 toc: false

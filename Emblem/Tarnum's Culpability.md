@@ -2,12 +2,15 @@
 title: "Эмблема святости - Вина Тарнума"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Эра хаоса Вина Тарнума. Вина Тарнума. Эра хаоса Эмблема святости Вина Тарнума. Эра хаоса Нейтральный Вина Тарнума"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Tarnum's Culpability.md"
 toc: false
+QR: rune_305
 classes: wide
 ---
+
+  ![Вина Тарнума](/images/r/rune_icon_305.png)
 
  **Имя:** Вина Тарнума
 

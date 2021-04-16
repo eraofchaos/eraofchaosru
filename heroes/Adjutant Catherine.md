@@ -2,13 +2,15 @@
 title: "Адъютант Катерина"
 permalink: /heroes/Adjutant Catherine/
 excerpt: "Эра хаоса  Адъютант Катерина"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Catherine.md"
 QR: adhero_60102
 toc: false
 classes: wide
 ---
+  ![Катерина](/images/h/h_Catherine.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

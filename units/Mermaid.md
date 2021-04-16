@@ -3,11 +3,13 @@ title: "Русалка"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана."
 unitID: 9905
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Русалка"
 toc: true
 ---
+  ![Русалка](/images/u/ti_meirenyu.jpg)
+
 ## General information
  **Описание:** Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_meirenyu.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

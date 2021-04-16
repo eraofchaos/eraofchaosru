@@ -3,11 +3,13 @@ title: "Гоблин"
 permalink: /units/Goblin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов."
 unitID: 401
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Гоблин"
 toc: true
 ---
+  ![Гоблин](/images/u/ti_shourenzhanshi.jpg)
+
 ## General information
  **Описание:** Гоблины носят легкие доспехи, но используют тяжелое оружие. Эти жестокие и бесстрашные воины быстро сминают оборонительные позиции врагов.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Хобгоблин](/images/u/tia_shourenzhanshi.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

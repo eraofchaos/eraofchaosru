@@ -3,13 +3,15 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Регнанская прорицательница](/images/u/ti_haihou.jpg)
 
 ## General information
  **Описание:** Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство.
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Элементаль Приливов](/images/u/tia_shenv.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

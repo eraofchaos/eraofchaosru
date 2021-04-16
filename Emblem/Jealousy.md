@@ -2,12 +2,15 @@
 title: "Эмблема святости - Ревность"
 permalink: /Emblem/Jealousy/
 excerpt: "Эра хаоса Ревность. Ревность. Эра хаоса Эмблема святости Ревность. Эра хаоса Хаос Ревность"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Jealousy.md"
 toc: false
+QR: rune_401
 classes: wide
 ---
+
+  ![Ревность](/images/r/rune_icon_401.png)
 
  **Имя:** Ревность
 

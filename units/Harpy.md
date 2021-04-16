@@ -3,11 +3,13 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Гарпия"
 toc: true
 ---
+  ![Гарпия](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Описание:** Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Гарпия](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

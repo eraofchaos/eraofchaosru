@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-12 Кризис"
 permalink: /Main Story/Chapter 15_12/
 excerpt: "Глава 15 - 12. Эра хаоса  Основной сюжет - Глава 15_12. 15-12 Кризис"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 15_12.md"
 toc: false

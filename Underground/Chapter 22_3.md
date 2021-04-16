@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-3 Пушечное мясо"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Глава 22 - 3. Эра хаоса  Подземелье - Глава 22_3. 22-3 Пушечное мясо"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 22_3.md"
 toc: false

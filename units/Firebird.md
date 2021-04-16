@@ -3,11 +3,13 @@ title: "Жар-птица"
 permalink: /units/Firebird/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло."
 unitID: 907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Жар-птица"
 toc: true
 ---
+  ![Жар-птица](/images/u/ti_fenghuang.jpg)
+
 ## General information
  **Описание:** Нет более могучих элементалей, чем жар-птицы. Они обитают в огне, дарующем им вечную жизнь. Ревущее пламя вокруг них выжигает любое зло.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Феникс](/images/u/tia_fenghuang.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

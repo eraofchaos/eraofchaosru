@@ -2,13 +2,15 @@
 title: "Адъютант Джем"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Эра хаоса  Адъютант Джем"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Gem.md"
 QR: adhero_60304
 toc: false
 classes: wide
 ---
+  ![Джем](/images/h/h_Gem.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

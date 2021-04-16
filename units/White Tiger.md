@@ -3,13 +3,15 @@ title: "Белый тигр"
 permalink: /units/White Tiger/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Белый тигр"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Белый тигр](/images/u/ti_baihu.jpg)
 
 ## General information
  **Описание:** Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя.
@@ -187,6 +189,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

@@ -2,13 +2,15 @@
 title: "Адъютант Раска"
 permalink: /heroes/Adjutant Rashka/
 excerpt: "Эра хаоса  Адъютант Раска"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Adjutant Rashka.md"
 QR: adhero_60802
 toc: false
 classes: wide
 ---
+  ![Раска](/images/h/h_Rashka.jpg)
+
  [List of ALL Адъютантs](/ru/heroes/Adjutants/) 
 
 ## Подробности

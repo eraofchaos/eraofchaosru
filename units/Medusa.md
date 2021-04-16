@@ -3,11 +3,13 @@ title: "Медуза"
 permalink: /units/Medusa/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
 unitID: 704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Медуза"
 toc: true
 ---
+  ![Медуза](/images/u/ti_meidusha.jpg)
+
 ## General information
  **Описание:** Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Королевская медуза](/images/u/tia_meidusha.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** YES
 

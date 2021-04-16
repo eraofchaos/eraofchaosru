@@ -3,11 +3,13 @@ title: "Красный дракон"
 permalink: /units/Red Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Красный дракон"
 toc: true
 ---
+  ![Красный дракон](/images/u/ti_chilong.jpg)
+
 ## General information
  **Описание:** Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_heilong.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

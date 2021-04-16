@@ -2,7 +2,7 @@
 title: "Клюв неистового пламени"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Эра хаоса Клюв неистового пламени. Клюв неистового пламени"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Beak of Raging Flame.md"
 toc: false

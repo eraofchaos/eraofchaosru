@@ -3,13 +3,15 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Чемпион Тьмы](/images/u/ti_sishen.jpg)
 
 ## General information
  **Описание:** Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души.
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_gulong.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 

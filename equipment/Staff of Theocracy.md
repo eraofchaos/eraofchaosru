@@ -2,7 +2,7 @@
 title: "Посох теократии"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Эра хаоса Посох теократии. Посох теократии"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Staff of Theocracy.md"
 toc: false

@@ -2,12 +2,15 @@
 title: "Эмблема святости - Гнев"
 permalink: /Emblem/Anger/
 excerpt: "Эра хаоса Гнев. Гнев. Эра хаоса Эмблема святости Гнев. Эра хаоса Хаос Гнев"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Anger.md"
 toc: false
+QR: rune_403
 classes: wide
 ---
+
+  ![Гнев](/images/r/rune_icon_403.png)
 
  **Имя:** Гнев
 

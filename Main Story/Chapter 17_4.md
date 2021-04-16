@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-4 Правящая сердцем корона"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Глава 17 - 4. Эра хаоса  Основной сюжет - Глава 17_4. 17-4 Правящая сердцем корона"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Chapter 17_4.md"
 toc: false

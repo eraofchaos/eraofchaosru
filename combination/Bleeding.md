@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Кровотечение"
 permalink: /combination/Bleeding/
 excerpt: "Информация о комбинации - Кровотечение. Units and Heroes Formation."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Кровотечение.md"
 toc: false

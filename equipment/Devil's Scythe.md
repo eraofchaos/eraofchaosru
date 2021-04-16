@@ -2,7 +2,7 @@
 title: "Коса Дьявола"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Эра хаоса Коса Дьявола. Коса Дьявола"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Devil's Scythe.md"
 toc: false

@@ -2,12 +2,15 @@
 title: "Эмблема святости - Принципы наследия"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Эра хаоса Принципы наследия. Принципы наследия. Эра хаоса Эмблема святости Принципы наследия. Эра хаоса Нейтральный Принципы наследия"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Successors' Legal Principles.md"
 toc: false
+QR: rune_306
 classes: wide
 ---
+
+  ![Принципы наследия](/images/r/rune_icon_306.png)
 
  **Имя:** Принципы наследия
 

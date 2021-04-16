@@ -2,12 +2,15 @@
 title: "Эмблема святости - Наследие Айронфиста"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Эра хаоса Наследие Айронфиста. Наследие Айронфиста. Эра хаоса Эмблема святости Наследие Айронфиста. Эра хаоса Порядок Наследие Айронфиста"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Ironfist's Legacy.md"
 toc: false
+QR: rune_103
 classes: wide
 ---
+
+  ![Наследие Айронфиста](/images/r/rune_icon_103.png)
 
  **Имя:** Наследие Айронфиста
 

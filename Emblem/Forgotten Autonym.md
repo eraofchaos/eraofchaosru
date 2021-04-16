@@ -2,12 +2,15 @@
 title: "Эмблема святости - Забытая фамилия"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Эра хаоса Забытая фамилия. Забытая фамилия. Эра хаоса Эмблема святости Забытая фамилия. Эра хаоса Злой Забытая фамилия"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: ru
 ref: "Forgotten Autonym.md"
 toc: false
+QR: rune_501
 classes: wide
 ---
+
+  ![Забытая фамилия](/images/r/rune_icon_501.png)
 
  **Имя:** Забытая фамилия
 
