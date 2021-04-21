@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Эра хаоса Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Unit Member x4"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Рух](/images/u/ti_leiniao.jpg) | [Рух](/ru/units/Roc/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Громовая птица  |
   | 2 | ![Мумия](/images/u/ti_munaiyi.jpg) | [Мумия](/ru/units/Mummy/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Король мумий  |
-  | 3 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Огр-маг  |
+  | 3 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 4 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 5 | ![Жар-птица](/images/u/ti_fenghuang.jpg) | [Жар-птица](/ru/units/Firebird/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Феникс  |
   | 6 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |

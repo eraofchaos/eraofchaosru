@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-15 Гнездо ветра"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Глава 4 - 15. Эра хаоса  Основной сюжет - Глава 4_15. 4-15 Гнездо ветра"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 4_15.md"
 toc: false

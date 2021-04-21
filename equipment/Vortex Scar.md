@@ -2,7 +2,7 @@
 title: "Шрам вихря"
 permalink: /equipment/Vortex Scar/
 excerpt: "Эра хаоса Шрам вихря. Шрам вихря"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Vortex Scar.md"
 toc: false

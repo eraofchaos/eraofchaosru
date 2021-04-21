@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Units"
 permalink: /units/Faction Stronghold/
 excerpt: "Эра хаоса Faction Stronghold. Faction Stronghold. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Faction Stronghold"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Рух](/images/u/ti_leiniao.jpg) | [Рух](/ru/units/Roc/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Громовая птица  |
-  | 2 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Огр-маг  |
+  | 2 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 3 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 4 | ![Чудище](/images/u/ti_bimeng.jpg) | [Чудище](/ru/units/Behemoth/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Древнее чудище  |
   | 5 | ![Берсерк](/images/u/ti_kuangzhanshi.jpg) | [Берсерк](/ru/units/Berserker/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Ревун смерти  |

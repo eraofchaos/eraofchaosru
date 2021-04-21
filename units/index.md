@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "index.md"
 toc: false
@@ -80,7 +80,7 @@ classes: wide
   | 58 | ![Нага](/images/u/ti_shenv.jpg) | [Нага](/ru/units/Naga/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Королева нага  |
   | 59 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ru/units/Wolf Rider/) | Штурм | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Разбойник на волке  |
   | 60 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ru/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
-  | 61 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Огр-маг  |
+  | 61 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 62 | ![Орк](/images/u/ti_shourentoufushou.jpg) | [Орк](/ru/units/Orc/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Главарь орков  |
   | 63 | ![Паладин](/images/u/ti_shengqishi.jpg) | [Паладин](/ru/units/Paladin/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Высший паладин  |
   | 64 | ![Панцирный дракон](/images/u/ti_longgui.jpg) | [Панцирный дракон](/ru/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Древний панцирный дракон  |

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 Сказочный дракон"
 permalink: /Main Story/Chapter 24/
 excerpt: "Глава 24. Эра хаоса  Основной сюжет - Глава 24. Сказочный дракон"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 24.md"
 toc: false

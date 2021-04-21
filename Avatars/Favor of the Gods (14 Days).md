@@ -2,7 +2,7 @@
 title: "Аватар - Благосклонность богов (14 д.)"
 permalink: /Avatars/Favor of the Gods (14 Days)/
 excerpt: "Эра хаоса  Благосклонность богов (14 д.)"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Favor of the Gods (14 Days).md"
 toc: false

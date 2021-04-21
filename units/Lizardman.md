@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /units/Lizardman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель."
 unitID: 802
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Ящер"
 toc: true
@@ -179,6 +179,8 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/unknown.png)
 
 ### Awaking Подробности
  **Is it possible right now?** NO

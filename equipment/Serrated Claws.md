@@ -2,7 +2,7 @@
 title: "Зазубренные когти"
 permalink: /equipment/Serrated Claws/
 excerpt: "Эра хаоса Зазубренные когти. Зазубренные когти"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Serrated Claws.md"
 toc: false

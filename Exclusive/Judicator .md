@@ -2,7 +2,7 @@
 title: "Эксклюзив -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Вершитель Эксклюзив."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Judicator .md"
 toc: false

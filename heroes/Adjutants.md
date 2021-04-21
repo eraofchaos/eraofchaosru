@@ -2,7 +2,7 @@
 title: "Эра хаоса  Адъютант"
 permalink: /heroes/Adjutants/
 excerpt: "Эра хаоса  Адъютант"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Adjutants.md"
 toc: false

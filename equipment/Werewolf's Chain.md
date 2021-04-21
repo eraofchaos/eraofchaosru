@@ -2,7 +2,7 @@
 title: "Цепь оборотня"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Эра хаоса Цепь оборотня. Цепь оборотня"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Werewolf's Chain.md"
 toc: false

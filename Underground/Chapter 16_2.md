@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 16 - 16-2 Память небес"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Глава 16 - 2. Эра хаоса  Подземелье - Глава 16_2. 16-2 Память небес"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 16_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Сабля нечестивца"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Эра хаоса Сабля нечестивца. Сабля нечестивца"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Unholy Scimitar.md"
 toc: false

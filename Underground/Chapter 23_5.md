@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 - 23-5 Распространение"
 permalink: /Underground/Chapter 23_5/
 excerpt: "Глава 23 - 5. Эра хаоса  Подземелье - Глава 23_5. 23-5 Распространение"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 23_5.md"
 toc: false

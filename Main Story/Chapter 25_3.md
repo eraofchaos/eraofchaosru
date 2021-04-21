@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-3 Времена года в Подземелье"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Глава 25 - 3. Эра хаоса  Основной сюжет - Глава 25_3. 25-3 Времена года в Подземелье"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 25_3.md"
 toc: false

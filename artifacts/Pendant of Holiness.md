@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Кулон святости"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Эра хаоса  Ангельский союз - Кулон святости. Ожерелье, полученное от ангела. Компонент Ангельского союза."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Pendant of Holiness.md"
 toc: false

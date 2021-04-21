@@ -2,7 +2,7 @@
 title: "Кровожадный пояс"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Эра хаоса Кровожадный пояс. Кровожадный пояс"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Bloodthirsty Belt.md"
 toc: false

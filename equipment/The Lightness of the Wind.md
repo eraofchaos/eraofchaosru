@@ -2,7 +2,7 @@
 title: "Легкость ветра"
 permalink: /equipment/The Lightness of the Wind/
 excerpt: "Эра хаоса Легкость ветра. Легкость ветра"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "The Lightness of the Wind.md"
 toc: false

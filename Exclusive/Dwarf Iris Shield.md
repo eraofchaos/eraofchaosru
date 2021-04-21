@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Гном Эксклюзив."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Dwarf Славный щит.md"
 toc: false

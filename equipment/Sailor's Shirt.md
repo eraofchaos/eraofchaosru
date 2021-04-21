@@ -2,7 +2,7 @@
 title: "Рубашка моряка"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Эра хаоса Рубашка моряка. Рубашка моряка"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Sailor's Shirt.md"
 toc: false

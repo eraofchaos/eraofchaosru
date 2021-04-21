@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-7 Драконий шепот"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Глава 22 - 7. Эра хаоса  Основной сюжет - Глава 22_7. 22-7 Драконий шепот"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 22_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-8 Чума"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Глава 6 - 8. Эра хаоса  Основной сюжет - Глава 6_8. 6-8 Чума"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 6_8.md"
 toc: false

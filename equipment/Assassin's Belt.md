@@ -2,7 +2,7 @@
 title: "Защитный пояс"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Эра хаоса Защитный пояс. Защитный пояс"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Assassin's Belt.md"
 toc: false

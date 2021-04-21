@@ -3,7 +3,7 @@ title: "Мумия"
 permalink: /units/Mummy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Нежить, что спит в своем древнем мавзолее. Любой, кто потревожит их покой, будет проклят."
 unitID: 308
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Мумия"
 toc: true

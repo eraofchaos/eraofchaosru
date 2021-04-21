@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-1 Красные мельницы"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Глава 2 - 1. Эра хаоса  Основной сюжет - Глава 2_1. 2-1 Красные мельницы"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 2_1.md"
 toc: false

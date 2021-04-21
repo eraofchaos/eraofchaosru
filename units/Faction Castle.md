@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Эра хаоса Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Faction Castle"
 toc: false

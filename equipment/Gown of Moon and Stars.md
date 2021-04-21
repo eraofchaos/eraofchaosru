@@ -2,7 +2,7 @@
 title: "Платье Луны и звезд"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Эра хаоса Платье Луны и звезд. Платье Луны и звезд"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Gown of Moon and Stars.md"
 toc: false

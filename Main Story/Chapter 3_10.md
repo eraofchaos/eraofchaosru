@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-10 Чистоперье"
 permalink: /Main Story/Chapter 3_10/
 excerpt: "Глава 3 - 10. Эра хаоса  Основной сюжет - Глава 3_10. 3-10 Чистоперье"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 3_10.md"
 toc: false

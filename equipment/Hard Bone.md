@@ -2,7 +2,7 @@
 title: "Адамантовые кости"
 permalink: /equipment/Hard Bone/
 excerpt: "Эра хаоса Адамантовые кости. Адамантовые кости"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Hard Bone.md"
 toc: false

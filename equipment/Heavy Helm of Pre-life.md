@@ -2,7 +2,7 @@
 title: "Тяжелый шлем преджизни"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Эра хаоса Тяжелый шлем преджизни. Тяжелый шлем преджизни"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Heavy Helm of Pre-life.md"
 toc: false

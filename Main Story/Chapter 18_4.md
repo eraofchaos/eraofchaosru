@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-4 Новости"
 permalink: /Main Story/Chapter 18_4/
 excerpt: "Глава 18 - 4. Эра хаоса  Основной сюжет - Глава 18_4. 18-4 Новости"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 18_4.md"
 toc: false

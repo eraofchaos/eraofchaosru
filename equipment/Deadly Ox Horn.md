@@ -2,7 +2,7 @@
 title: "Смертельный рог быка"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Эра хаоса Смертельный рог быка. Смертельный рог быка"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Deadly Ox Horn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эмблема святости - Снаряжение времени"
 permalink: /Emblem/Gear of Time/
 excerpt: "Эра хаоса Снаряжение времени. Снаряжение времени. Эра хаоса Эмблема святости Снаряжение времени. Эра хаоса Добро Снаряжение времени"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Gear of Time.md"
 toc: false

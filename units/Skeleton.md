@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Скелет"
 toc: true

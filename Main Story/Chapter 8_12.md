@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-12 Бывший брат"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Глава 8 - 12. Эра хаоса  Основной сюжет - Глава 8_12. 8-12 Бывший брат"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 8_12.md"
 toc: false

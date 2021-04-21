@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 Туннели и троглодиты"
 permalink: /Main Story/Chapter 20/
 excerpt: "Глава 20. Эра хаоса  Основной сюжет - Глава 20. Туннели и троглодиты"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 20.md"
 toc: false

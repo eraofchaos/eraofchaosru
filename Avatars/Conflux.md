@@ -2,7 +2,7 @@
 title: "Аватар - Гармонии"
 permalink: /Avatars/Conflux/
 excerpt: "Эра хаоса  Гармонии"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Conflux.md"
 toc: false

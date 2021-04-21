@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-8 Внутренний конфликт"
 permalink: /Main Story/Chapter 14_8/
 excerpt: "Глава 14 - 8. Эра хаоса  Основной сюжет - Глава 14_8. 14-8 Внутренний конфликт"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 14_8.md"
 toc: false

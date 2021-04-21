@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-13 Братья по несчастью"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Глава 21 - 13. Эра хаоса  Основной сюжет - Глава 21_13. 21-13 Братья по несчастью"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 21_13.md"
 toc: false

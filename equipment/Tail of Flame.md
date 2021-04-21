@@ -2,7 +2,7 @@
 title: "Хвост пламени"
 permalink: /equipment/Tail of Flame/
 excerpt: "Эра хаоса Хвост пламени. Хвост пламени"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Tail of Flame.md"
 toc: false

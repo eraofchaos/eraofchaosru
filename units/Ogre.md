@@ -3,7 +3,7 @@ title: "Огр"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Огр"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Имя:** [Славный щит](/ru/Exclusive/Ogre Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
 

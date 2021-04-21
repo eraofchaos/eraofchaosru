@@ -2,7 +2,7 @@
 title: "Рукавицы лавы"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Эра хаоса Рукавицы лавы. Рукавицы лавы"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Gauntlets of Molten Lava.md"
 toc: false

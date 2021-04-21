@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-11 Принцесса и дракон"
 permalink: /Main Story/Chapter 24_11/
 excerpt: "Глава 24 - 11. Эра хаоса  Основной сюжет - Глава 24_11. 24-11 Принцесса и дракон"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 24_11.md"
 toc: false

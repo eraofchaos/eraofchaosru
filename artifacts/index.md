@@ -2,7 +2,7 @@
 title: "Артефакт"
 permalink: /artifacts/
 excerpt: "Эра хаоса  List of all Артефакт. Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "index.md"
 toc: false

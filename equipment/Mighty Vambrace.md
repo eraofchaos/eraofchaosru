@@ -2,7 +2,7 @@
 title: "Могущественные наручи"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Эра хаоса Могущественные наручи. Могущественные наручи"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Mighty Vambrace.md"
 toc: false

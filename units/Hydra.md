@@ -3,7 +3,7 @@ title: "Гидра"
 permalink: /units/Hydra/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
 unitID: 807
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Гидра"
 toc: true

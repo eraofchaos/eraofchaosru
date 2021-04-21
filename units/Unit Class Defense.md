@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Эра хаоса Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Unit Class Defense"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Мумия](/images/u/ti_munaiyi.jpg) | [Мумия](/ru/units/Mummy/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Король мумий  |
   | 2 | ![Бес](/images/u/ti_xiaoemo.jpg) | [Бес](/ru/units/Imp/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Черти  |
-  | 3 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Огр-маг  |
+  | 3 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 4 | ![Демон](/images/u/ti_changjiaoemo.jpg) | [Демон](/ru/units/Demon/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Стражник Инферно  |
   | 5 | ![Чудище](/images/u/ti_bimeng.jpg) | [Чудище](/ru/units/Behemoth/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Древнее чудище  |
   | 6 | ![Лепрекон](/images/u/ti_conglinyaojing.jpg) | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 Спасение короля"
 permalink: /Main Story/Chapter 30/
 excerpt: "Глава 30. Эра хаоса  Основной сюжет - Глава 30. Спасение короля"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 30.md"
 toc: false

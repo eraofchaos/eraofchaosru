@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-1 Завоеватель"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Глава 21 - 1. Эра хаоса  Основной сюжет - Глава 21_1. 21-1 Завоеватель"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 21_1.md"
 toc: false

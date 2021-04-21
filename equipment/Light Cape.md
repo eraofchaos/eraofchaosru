@@ -2,7 +2,7 @@
 title: "Легкий плащ"
 permalink: /equipment/Light Cape/
 excerpt: "Эра хаоса Легкий плащ. Легкий плащ"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Light Cape.md"
 toc: false

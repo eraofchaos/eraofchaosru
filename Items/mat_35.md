@@ -2,7 +2,7 @@
 title: "Item - Materials - Исключительная ртуть"
 permalink: /Items/mat_35/
 excerpt: "Эра хаоса  Исключительная ртуть"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "mat_35.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Шар пламени"
 permalink: /equipment/Orb of Flame/
 excerpt: "Эра хаоса Шар пламени. Шар пламени"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Orb of Flame.md"
 toc: false

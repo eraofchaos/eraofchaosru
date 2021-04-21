@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 - 11-4 Союзники в бою"
 permalink: /Underground/Chapter 11_4/
 excerpt: "Глава 11 - 4. Эра хаоса  Подземелье - Глава 11_4. 11-4 Союзники в бою"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 11_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-2 Сквозь мглу"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Глава 2 - 2. Эра хаоса  Подземелье - Глава 2_2. 2-2 Сквозь мглу"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 2_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Заколдованный рожок"
 permalink: /equipment/Charmed Horn/
 excerpt: "Эра хаоса Заколдованный рожок. Заколдованный рожок"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Charmed Horn.md"
 toc: false

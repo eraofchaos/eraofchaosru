@@ -2,7 +2,7 @@
 title: "Палуба наблюдения"
 permalink: /equipment/Observation Deck/
 excerpt: "Эра хаоса Палуба наблюдения. Палуба наблюдения"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Observation Deck.md"
 toc: false

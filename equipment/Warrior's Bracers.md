@@ -2,7 +2,7 @@
 title: "Браслеты воина"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Эра хаоса Браслеты воина. Браслеты воина"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Warrior's Bracers.md"
 toc: false

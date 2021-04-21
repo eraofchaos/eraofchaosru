@@ -2,7 +2,7 @@
 title: "Бандана сияния"
 permalink: /equipment/Radiance Headband/
 excerpt: "Эра хаоса Бандана сияния. Бандана сияния"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Radiance Headband.md"
 toc: false

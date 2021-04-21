@@ -3,7 +3,7 @@ title: "Гончая ада"
 permalink: /units/Hell Hound/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Гончая ада"
 toc: true
@@ -179,6 +179,8 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/unknown.png)
 
 ### Awaking Подробности
  **Is it possible right now?** NO

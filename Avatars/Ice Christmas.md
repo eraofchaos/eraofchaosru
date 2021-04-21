@@ -2,7 +2,7 @@
 title: "Аватар - Ледяное Рождество"
 permalink: /Avatars/Ice Christmas/
 excerpt: "Эра хаоса  Ледяное Рождество"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Ice Christmas.md"
 toc: false

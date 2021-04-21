@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Ослепление"
 permalink: /combination/Blind/
 excerpt: "Информация о комбинации - Ослепление. Units and Heroes Formation."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Ослепление.md"
 toc: false

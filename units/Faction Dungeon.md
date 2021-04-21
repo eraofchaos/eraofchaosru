@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Units"
 permalink: /units/Faction Dungeon/
 excerpt: "Эра хаоса Faction Dungeon. Faction Dungeon. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Faction Dungeon"
 toc: false

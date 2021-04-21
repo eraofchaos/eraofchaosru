@@ -2,7 +2,7 @@
 title: "Эмблема святости - Гордыня"
 permalink: /Emblem/Arrogance/
 excerpt: "Эра хаоса Гордыня. Гордыня. Эра хаоса Эмблема святости Гордыня. Эра хаоса Хаос Гордыня"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Arrogance.md"
 toc: false

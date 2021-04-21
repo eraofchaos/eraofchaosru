@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 Таталия"
 permalink: /Main Story/Chapter 11/
 excerpt: "Глава 11. Эра хаоса  Основной сюжет - Глава 11. Таталия"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 11.md"
 toc: false

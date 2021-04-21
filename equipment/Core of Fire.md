@@ -2,7 +2,7 @@
 title: "Ядро Огня"
 permalink: /equipment/Core of Fire/
 excerpt: "Эра хаоса Ядро Огня. Ядро Огня"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Core of Fire.md"
 toc: false

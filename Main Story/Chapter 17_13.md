@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-13 Домашний кошмар"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Глава 17 - 13. Эра хаоса  Основной сюжет - Глава 17_13. 17-13 Домашний кошмар"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: ru
 ref: "Chapter 17_13.md"
 toc: false
