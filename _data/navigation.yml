@@ -18,7 +18,7 @@ docs:
     - title: "Отряды"
       url: /units/
     - title: "Предметы"
-      url: /ItemsRU/
+      url: https://eraofchaos.github.io/ItemsRU/
     - title: "Артефакты"
       url: /artifacts/
     - title: "Эмблема святости"
