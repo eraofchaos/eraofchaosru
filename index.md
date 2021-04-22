@@ -33,7 +33,7 @@ sidebar:
 На этом информационном портале размещена информация о мобильной игре «Era Of Chaos».
 
 Вы можете найти здесь:
-* <i class="fas fa-gavel"/> [Предметs](/ItemsRU/)
+* <i class="fas fa-gavel"/> [Предметы](/ItemsRU/)
 * <i class="fas fa-chess-king"/>  [Герой](/ru/heroes/)
 * <i class="fas fa-mask"/>  [Адъютант](/ru/heroes/Adjutants/)
 * <i class="fab fa-optin-monster"/>  [Отряды](/ru/units/)
