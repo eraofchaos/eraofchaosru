@@ -2,7 +2,7 @@
 title: "VIP - VIP 6"
 permalink: /VIP/VIP 6/
 excerpt: "Эра хаоса  Система VIP. VIP 6"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "VIP 6.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V6](/ru/Items/con_1302/)
+ **Reward:** **1x** [Премиум-набор V6](/ItemsRU/con_1302/)
 
  **EXP:** 3000
 

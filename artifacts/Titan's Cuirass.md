@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Кираса титана"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Эра хаоса  Гром титана - Кираса титана. Доспех из метеора. Компонент грома титана."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Titan's Cuirass.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Гром титана](/ru/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Кираса титана](/ru/Items/art_159/)
+ **Related Item**: [Кираса титана](/ItemsRU/art_159/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

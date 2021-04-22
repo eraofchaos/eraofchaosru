@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-4 Встреча с мудрецом"
 permalink: /Underground/Chapter 3_4/
 excerpt: "Глава 3 - 4. Эра хаоса  Подземелье - Глава 3_4. 3-4 Встреча с мудрецом"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 3_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Книга оружия](/ru/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия](/ItemsRU/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, **70% 1x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, **70% 1x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}
 
 
 ## Fight against Team

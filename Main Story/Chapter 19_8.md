@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-8 Башня магов"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Глава 19 - 8. Эра хаоса  Основной сюжет - Глава 19_8. 19-8 Башня магов"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 19_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Мифическая древесина](/ru/Items/mat_62/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Мифическая древесина](/ItemsRU/mat_62/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Легендарная ртуть +3](/ru/Items/mat_56/){: .btn .btn--era4}, **40% 1x** [Легендарная ртуть +3](/ru/Items/mat_56/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Легендарная ртуть +3](/ItemsRU/mat_56/){: .btn .btn--era4}, **40% 1x** [Легендарная ртуть +3](/ItemsRU/mat_56/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

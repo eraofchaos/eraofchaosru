@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-3 Фонтан молодости"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Глава 1 - 3. Эра хаоса  Основной сюжет - Глава 1_3. 1-3 Фонтан молодости"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Низкосортная древесина](/ItemsRU/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная древесина](/ItemsRU/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

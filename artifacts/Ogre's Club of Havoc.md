@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости - Огрова дубина разрушения"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Эра хаоса  Топор ярости - Огрова дубина разрушения. Дубина, взятая у огра-капитана в придорожной таверне. Компонент топора ярости."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Ogre's Club of Havoc.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Огрова дубина разрушения](/ru/Items/art_125/)
+ **Related Item**: [Огрова дубина разрушения](/ItemsRU/art_125/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

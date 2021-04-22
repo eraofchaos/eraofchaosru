@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-1 Стража острова"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Глава 1 - 1. Эра хаоса  Основной сюжет - Глава 1_1. 1-1 Стража острова"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 1_1.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Drop 1:** **80% 1x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

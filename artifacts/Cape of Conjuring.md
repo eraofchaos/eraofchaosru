@@ -2,7 +2,7 @@
 title: "Артефакт - Кольцо мага - Накидка заклинателя"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Эра хаоса  Кольцо мага - Накидка заклинателя. Плащ, потрескивающий от магической силы. Компонент кольца мага."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Cape of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Накидка заклинателя](/ru/Items/art_117/)
+ **Related Item**: [Накидка заклинателя](/ItemsRU/art_117/)
 
  **Quality:** [Blue Artifact Components](/ru/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

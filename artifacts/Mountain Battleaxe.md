@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Секира горы"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Эра хаоса  Клинок Армагеддона - Секира горы. Реликвия, оставленная королем гномов после битвы за Энрот. Компонент клинка Армагеддона."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Mountain Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Секира горы](/ru/Items/art_169/)
+ **Related Item**: [Секира горы](/ItemsRU/art_169/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

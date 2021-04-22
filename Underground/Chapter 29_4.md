@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 - 29-4  Барбекю для гурманов"
 permalink: /Underground/Chapter 29_4/
 excerpt: "Глава 29 - 4. Эра хаоса  Подземелье - Глава 29_4. 29-4  Барбекю для гурманов"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 29_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Печаль](/ru/Items/her_458/){: .btn .btn--era3}, **50% 1x** [Печаль](/ru/Items/her_458/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Печаль](/ItemsRU/her_458/){: .btn .btn--era3}, **50% 1x** [Печаль](/ItemsRU/her_458/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Свидетельство о легенде +5](/ru/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Свидетельство о легенде +5](/ItemsRU/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Свидетельство о легенде +5](/ru/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +5](/ru/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Свидетельство о легенде +5](/ItemsRU/mat_102/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +5](/ItemsRU/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

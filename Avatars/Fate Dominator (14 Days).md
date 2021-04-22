@@ -2,7 +2,7 @@
 title: "Аватар - Властелин судьбы (14 д.)"
 permalink: /Avatars/Fate Dominator (14 Days)/
 excerpt: "Эра хаоса  Властелин судьбы (14 д.)"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Fate Dominator (14 Days).md"
 toc: false

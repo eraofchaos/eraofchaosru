@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-8 Боевая тактика"
 permalink: /Main Story/Chapter 8_8/
 excerpt: "Глава 8 - 8. Эра хаоса  Основной сюжет - Глава 8_8. 8-8 Боевая тактика"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 8_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ценная древесина +2](/ru/Items/mat_27/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Ценная древесина +2](/ItemsRU/mat_27/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Превосходная ртуть +1](/ItemsRU/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть +1](/ItemsRU/mat_21/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-7 Конокрад"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Глава 2 - 7. Эра хаоса  Основной сюжет - Глава 2_7. 2-7 Конокрад"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 2_7.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}
+ **Drop 1:** **80% 1x** [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}, **20% 2x** [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}, **60% 1x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}, **60% 1x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}, **20% 2x** [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

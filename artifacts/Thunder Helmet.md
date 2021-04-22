@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Громовой шлем"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Эра хаоса  Гром титана - Громовой шлем. Шлем бога грома. Компонент грома титана."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Thunder Helmet.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Гром титана](/ru/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Громовой шлем](/ru/Items/art_158/)
+ **Related Item**: [Громовой шлем](/ItemsRU/art_158/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

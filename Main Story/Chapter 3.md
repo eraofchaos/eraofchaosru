@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 Ангел-хранитель"
 permalink: /Main Story/Chapter 3/
 excerpt: "Глава 3. Эра хаоса  Основной сюжет - Глава 3. Ангел-хранитель"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 3.md"
 toc: false
@@ -11,32 +11,32 @@ classes: wide
 
   | Имя |  Первая полная награда | Выпавшие предметы |
   |:------------|:------------|:------------| 
-  | [3-1 Гробница воина](/ru/Main Story/Chapter 3_1/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
-  | [3-2 Проклятый храм](/ru/Main Story/Chapter 3_2/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1} |
-  | [3-3 Братская могила](/ru/Main Story/Chapter 3_3/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}, [Низкосортная сера](/ru/Items/mat_3/){: .btn .btn--era1} |
-  | [3-4 Покои героя](/ru/Main Story/Chapter 3_4/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1} |
-  | [3-5 Замок с привидениями](/ru/Main Story/Chapter 3_5/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
-  | [3-6 Лагерь разбойников](/ru/Main Story/Chapter 3_6/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1} |
-  | [3-7 Небесный город](/ru/Main Story/Chapter 3_7/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная руда](/ru/Items/mat_6/){: .btn .btn--era2}, [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1} |
-  | [3-8 Сад откровений](/ru/Main Story/Chapter 3_8/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, [Низкосортная ртуть](/ru/Items/mat_2/){: .btn .btn--era1} |
-  | [3-9 Дерево первого человека](/ru/Main Story/Chapter 3_9/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}, [Низкосортная сера](/ru/Items/mat_3/){: .btn .btn--era1} |
-  | [3-10 Чистоперье](/ru/Main Story/Chapter 3_10/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1} |
-  | [3-11 Камень учености](/ru/Main Story/Chapter 3_11/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
-  | [3-12 Башня Краснолесья](/ru/Main Story/Chapter 3_12/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1} |
-  | [3-13 Конюшни и леса](/ru/Main Story/Chapter 3_13/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1} |
-  | [3-14 Лаборатория алхимика](/ru/Main Story/Chapter 3_14/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1} |
-  | [3-15 Город грехов](/ru/Main Story/Chapter 3_15/) | [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1} |
+  | [3-1 Гробница воина](/ru/Main Story/Chapter 3_1/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1} |
+  | [3-2 Проклятый храм](/ru/Main Story/Chapter 3_2/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}, [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1} |
+  | [3-3 Братская могила](/ru/Main Story/Chapter 3_3/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}, [Низкосортная сера](/ItemsRU/mat_3/){: .btn .btn--era1} |
+  | [3-4 Покои героя](/ru/Main Story/Chapter 3_4/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1} |
+  | [3-5 Замок с привидениями](/ru/Main Story/Chapter 3_5/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1} |
+  | [3-6 Лагерь разбойников](/ru/Main Story/Chapter 3_6/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ItemsRU/mat_4/){: .btn .btn--era1} |
+  | [3-7 Небесный город](/ru/Main Story/Chapter 3_7/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная руда](/ItemsRU/mat_6/){: .btn .btn--era2}, [Низкосортная древесина](/ItemsRU/mat_1/){: .btn .btn--era1} |
+  | [3-8 Сад откровений](/ru/Main Story/Chapter 3_8/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}, [Низкосортная ртуть](/ItemsRU/mat_2/){: .btn .btn--era1} |
+  | [3-9 Дерево первого человека](/ru/Main Story/Chapter 3_9/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}, [Низкосортная сера](/ItemsRU/mat_3/){: .btn .btn--era1} |
+  | [3-10 Чистоперье](/ru/Main Story/Chapter 3_10/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1} |
+  | [3-11 Камень учености](/ru/Main Story/Chapter 3_11/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1} |
+  | [3-12 Башня Краснолесья](/ru/Main Story/Chapter 3_12/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ItemsRU/mat_4/){: .btn .btn--era1} |
+  | [3-13 Конюшни и леса](/ru/Main Story/Chapter 3_13/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1} |
+  | [3-14 Лаборатория алхимика](/ru/Main Story/Chapter 3_14/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}, [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1} |
+  | [3-15 Город грехов](/ru/Main Story/Chapter 3_15/) | [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3} | [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}, [Низкосортные самоцветы](/ItemsRU/mat_4/){: .btn .btn--era1} |
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ Reward 2: **2 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Опыт отряда](/ru/Items/con_902/)
+ Reward 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
@@ -44,11 +44,11 @@ classes: wide
 
  Reward 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ Reward 2: **3 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Опыт отряда](/ru/Items/con_902/)
+ Reward 4:  **1500x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
@@ -56,9 +56,9 @@ classes: wide
 
  Reward 1:  **1x** [Кентавр](/ru/units/Centaur/)
 
- Reward 2: **5 x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ Reward 2: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [Опыт отряда](/ru/Items/con_902/)
+ Reward 4:  **2000x** [Опыт отряда](/ItemsRU/con_902/)
 

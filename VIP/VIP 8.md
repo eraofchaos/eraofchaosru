@@ -2,7 +2,7 @@
 title: "VIP - VIP 8"
 permalink: /VIP/VIP 8/
 excerpt: "Эра хаоса  Система VIP. VIP 8"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "VIP 8.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V8](/ru/Items/con_1304/)
+ **Reward:** **1x** [Премиум-набор V8](/ItemsRU/con_1304/)
 
  **EXP:** 7000
 

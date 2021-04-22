@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-4 Древо познания"
 permalink: /Main Story/Chapter 1_4/
 excerpt: "Глава 1 - 4. Эра хаоса  Основной сюжет - Глава 1_4. 1-4 Древо познания"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 1_4.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Низкосортные самоцветы](/ru/Items/mat_4/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Низкосортные самоцветы](/ItemsRU/mat_4/){: .btn .btn--era1}, **20% 2x** [Низкосортные самоцветы](/ItemsRU/mat_4/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1}, **20% 2x** [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1}, **20% 2x** [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

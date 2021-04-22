@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Кольцо орлиного глаза"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Кольцо орлиного глаза. Тайное кольцо с глазами. Компонент зоркого ястребиного глаза"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Ring of Eagle Vision.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Кольцо орлиного глаза](/ru/Items/art_135/)
+ **Related Item**: [Кольцо орлиного глаза](/ItemsRU/art_135/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

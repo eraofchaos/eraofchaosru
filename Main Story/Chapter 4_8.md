@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-8 Башня Железноклюва"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Глава 4 - 8. Эра хаоса  Основной сюжет - Глава 4_8. 4-8 Башня Железноклюва"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 4_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Хорошая древесина](/ru/Items/mat_13/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Хорошая древесина](/ItemsRU/mat_13/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}, **50% 1x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}, **50% 1x** [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

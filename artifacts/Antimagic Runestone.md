@@ -2,7 +2,7 @@
 title: "Артефакт - Рунный камень антимагии"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Эра хаоса  Рунный камень антимагии. Рунный камень антимагии Рунный камень антимагии, выкованный из заколдованных предметов. Противостоит урону от заклинаний."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Antimagic Runestone.md"
 toc: false

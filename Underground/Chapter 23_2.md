@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 - 23-2 Сила обороны"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Глава 23 - 2. Эра хаоса  Подземелье - Глава 23_2. 23-2 Сила обороны"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 23_2.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Стрела Огня](/ru/Items/her_413/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Стрела Огня](/ItemsRU/her_413/){: .btn .btn--era2}
 
- **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ru/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ItemsRU/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

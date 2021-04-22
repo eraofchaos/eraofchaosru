@@ -2,16 +2,16 @@
 title: "Артефакт Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
 excerpt: "Эра хаоса  Artifacts upgrade cost. Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Artifacts Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Небесный камень](/ru/Items/art_188/)
+  First upgrade ingredient:[Небесный камень](/ItemsRU/art_188/)
 
-  Second upgrade ingredient:[Кристалл заклинателя](/ru/Items/art_189/)
+  Second upgrade ingredient:[Кристалл заклинателя](/ItemsRU/art_189/)
 
   |  Level  | [Green Artifacts](/ru/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/ru/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/ru/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/ru/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

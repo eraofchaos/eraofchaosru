@@ -2,7 +2,7 @@
 title: "Артефакт - Шляпа заклинателя - Книга магии Воздуха"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Эра хаоса  Шляпа заклинателя - Книга магии Воздуха. Волшебная книга, в которой записаны продвинутые заклинания Воздуха. При чтении вы чувствуете элементаля Воздуха. Компонент Шляпы заклинателя."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Tome of Air Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Книга магии Воздуха](/ru/Items/art_180/)
+ **Related Item**: [Книга магии Воздуха](/ItemsRU/art_180/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

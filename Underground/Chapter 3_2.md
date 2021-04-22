@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-2 Отметка дракона"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Глава 3 - 2. Эра хаоса  Подземелье - Глава 3_2. 3-2 Отметка дракона"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 3_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Книга оружия](/ru/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия](/ItemsRU/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}, **70% 1x** [Обычная ртуть](/ru/Items/mat_8/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}, **70% 1x** [Обычная ртуть](/ItemsRU/mat_8/){: .btn .btn--era2}
 
 
 ## Fight against Team

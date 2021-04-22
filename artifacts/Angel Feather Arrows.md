@@ -2,7 +2,7 @@
 title: "Артефакт - Лук снайпера - Стрелы с перьями ангела"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Эра хаоса  Лук снайпера - Стрелы с перьями ангела. Эльфийская волшебная стрела. Компонент лука снайпера."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Angel Feather Arrows.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Стрелы с перьями ангела](/ru/Items/art_104/)
+ **Related Item**: [Стрелы с перьями ангела](/ItemsRU/art_104/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

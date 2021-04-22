@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Меч Эдема"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Эра хаоса  Золотое яблоко - Меч Эдема. Оружие Первой Цивилизации, поражает противника электрическим током."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Sword of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Золотое яблоко](/ru/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Меч Эдема](/ru/Items/art_185/)
+ **Related Item**: [Меч Эдема](/ItemsRU/art_185/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

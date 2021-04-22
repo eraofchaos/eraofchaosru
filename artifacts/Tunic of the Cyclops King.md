@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости - Туника короля циклопов"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "Эра хаоса  Топор ярости - Туника короля циклопов. Плащ, оставленный купающимся циклопом. Компонент топора ярости."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Tunic of the Cyclops King.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Туника короля циклопов](/ru/Items/art_128/)
+ **Related Item**: [Туника короля циклопов](/ItemsRU/art_128/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

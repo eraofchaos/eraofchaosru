@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Посох огра"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Эра хаоса  Меч Холода - Посох огра. Посох, которому поклонялись огры. Компонент меча Холода."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Ogre's Staff.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Меч Холода](/ru/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Посох огра](/ru/Items/art_163/)
+ **Related Item**: [Посох огра](/ItemsRU/art_163/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

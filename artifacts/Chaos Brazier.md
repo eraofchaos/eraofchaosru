@@ -2,7 +2,7 @@
 title: "Артефакт - Зеркало возмездия - Пламя хаоса"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Эра хаоса  Зеркало возмездия - Пламя хаоса. Предмет для сбережения магии Огня. Один из компонентов зеркала возмездия."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chaos Brazier.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Зеркало возмездия](/ru/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Пламя хаоса](/ru/Items/art_140/)
+ **Related Item**: [Пламя хаоса](/ItemsRU/art_140/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

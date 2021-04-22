@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-9 Пророк Грааля"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Глава 2 - 9. Эра хаоса  Основной сюжет - Глава 2_9. 2-9 Пророк Грааля"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 2_9.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, **20% 2x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}
+ **Drop 1:** **80% 1x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, **20% 2x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}, **60% 1x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная руда](/ru/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1}, **60% 1x** [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1}, **20% 2x** [Низкосортная руда](/ItemsRU/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

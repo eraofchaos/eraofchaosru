@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-15 Мир магии"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Глава 24 - 15. Эра хаоса  Основной сюжет - Глава 24_15. 24-15 Мир магии"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 24_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Кристалл души +3](/ru/Items/mat_87/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Кристалл души +3](/ItemsRU/mat_87/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Тайные самоцветы +2](/ru/Items/mat_79/){: .btn .btn--era5}, **40% 1x** [Тайные самоцветы +2](/ru/Items/mat_79/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Тайные самоцветы +2](/ItemsRU/mat_79/){: .btn .btn--era5}, **40% 1x** [Тайные самоцветы +2](/ItemsRU/mat_79/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

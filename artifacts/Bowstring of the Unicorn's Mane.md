@@ -2,7 +2,7 @@
 title: "Артефакт - Лук снайпера - Тетива из гривы единорога"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "Эра хаоса  Лук снайпера - Тетива из гривы единорога. Грива, подаренная эльфам священным животным. Компонент лука снайпера."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Тетива из гривы единорога](/ru/Items/art_105/)
+ **Related Item**: [Тетива из гривы единорога](/ItemsRU/art_105/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

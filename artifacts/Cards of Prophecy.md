@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова - Карты пророчества"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Эра хаоса  Счастливая подкова - Карты пророчества. Гадальная карта с сильной магией. Компонент счастливой подковы."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Cards of Prophecy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 1x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Карты пророчества](/ru/Items/art_110/)
+ **Related Item**: [Карты пророчества](/ItemsRU/art_110/)
 
  **Quality:** [Green Artifact Components](/ru/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

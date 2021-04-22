@@ -2,7 +2,7 @@
 title: "VIP - VIP 14"
 permalink: /VIP/VIP 14/
 excerpt: "Эра хаоса  Система VIP. VIP 14"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "VIP 14.md"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V14](/ru/Items/con_1310/)
+ **Reward:** **1x** [Премиум-набор V14](/ItemsRU/con_1310/)
 
  **EXP:** 150000
 

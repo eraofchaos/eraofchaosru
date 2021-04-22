@@ -2,14 +2,14 @@
 title: "Артефакт Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Эра хаоса Artifact component upgrade cost. Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Artifact Component Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Небесный камень](/ru/Items/art_188/)
+  First upgrade ingredient:[Небесный камень](/ItemsRU/art_188/)
 
   Second upgrade ingredient: Artifact Components pieces 
 

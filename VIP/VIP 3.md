@@ -2,7 +2,7 @@
 title: "VIP - VIP 3"
 permalink: /VIP/VIP 3/
 excerpt: "Эра хаоса  Система VIP. VIP 3"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "VIP 3.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V3](/ru/Items/con_1299/)
+ **Reward:** **1x** [Премиум-набор V3](/ItemsRU/con_1299/)
 
  **EXP:** 500
 

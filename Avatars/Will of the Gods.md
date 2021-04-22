@@ -2,7 +2,7 @@
 title: "Аватар - Воля богов"
 permalink: /Avatars/Will of the Gods/
 excerpt: "Эра хаоса  Воля богов"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Will of the Gods.md"
 toc: false

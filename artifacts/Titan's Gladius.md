@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Боевой меч титана"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Эра хаоса  Гром титана - Боевой меч титана. Меч древнего гиганта. Компонент грома титана."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Titan's Gladius.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Гром титана](/ru/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Боевой меч титана](/ru/Items/art_156/)
+ **Related Item**: [Боевой меч титана](/ItemsRU/art_156/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

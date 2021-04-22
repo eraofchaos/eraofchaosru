@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-3 Вулканический кристалл"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "Глава 4 - 3. Эра хаоса  Основной сюжет - Глава 4_3. 4-3 Вулканический кристалл"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 4_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Хорошая ртуть](/ru/Items/mat_14/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Хорошая ртуть](/ItemsRU/mat_14/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Обычная сера](/ru/Items/mat_9/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}, **50% 1x** [Обычная сера](/ItemsRU/mat_9/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}, **50% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

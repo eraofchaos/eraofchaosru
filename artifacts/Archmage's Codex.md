@@ -2,7 +2,7 @@
 title: "Артефакт - Канон мага"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Эра хаоса  Канон мага. Канон мага Содержит в себе мистические знания, усиливающие заклинателей и стрелковые отряды."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Archmage's Codex.md"
 toc: false

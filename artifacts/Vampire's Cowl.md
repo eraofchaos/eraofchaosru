@@ -2,7 +2,7 @@
 title: "Артефакт - Накидка Мертвого короля - Плащ вампира"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Эра хаоса  Накидка Мертвого короля - Плащ вампира. Ценный плащ вампира. Компонент накидки Мертвого короля."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Vampire's Cowl.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Плащ вампира](/ru/Items/art_130/)
+ **Related Item**: [Плащ вампира](/ItemsRU/art_130/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

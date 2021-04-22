@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Меч правосудия"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Эра хаоса  Ангельский союз - Меч правосудия. Меч, подаренный людям богами. Компонент Ангельского союза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Sword of Judgement.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Меч правосудия](/ru/Items/art_150/)
+ **Related Item**: [Меч правосудия](/ItemsRU/art_150/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

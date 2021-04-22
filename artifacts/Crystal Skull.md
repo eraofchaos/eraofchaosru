@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Хрустальный череп"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Эра хаоса  Золотое яблоко - Хрустальный череп. Череп из полированного горного хрусталя, позволяет увидеть человеческие желания."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Crystal Skull.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Золотое яблоко](/ru/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Хрустальный череп](/ru/Items/art_182/)
+ **Related Item**: [Хрустальный череп](/ItemsRU/art_182/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Щит львиной храбрости"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Эра хаоса  Ангельский союз - Щит львиной храбрости. Символ военной мощи грифонов. Компонент Ангельского союза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Lion's Shield of Courage.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Щит львиной храбрости](/ru/Items/art_151/)
+ **Related Item**: [Щит львиной храбрости](/ItemsRU/art_151/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

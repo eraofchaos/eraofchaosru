@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Стойкий часовой"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Стойкий часовой. Скульптура авантюриста с пылающими глазами. Компонент зоркого ястребиного глаза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Stoic Watchman.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Стойкий часовой](/ru/Items/art_133/)
+ **Related Item**: [Стойкий часовой](/ItemsRU/art_133/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

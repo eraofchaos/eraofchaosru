@@ -2,7 +2,7 @@
 title: "VIP - VIP 4"
 permalink: /VIP/VIP 4/
 excerpt: "Эра хаоса  Система VIP. VIP 4"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "VIP 4.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V4](/ru/Items/con_1300/)
+ **Reward:** **1x** [Премиум-набор V4](/ItemsRU/con_1300/)
 
  **EXP:** 1000
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-9 Алхимия"
 permalink: /Main Story/Chapter 19_9/
 excerpt: "Глава 19 - 9. Эра хаоса  Основной сюжет - Глава 19_9. 19-9 Алхимия"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 19_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Мифическая ртуть](/ru/Items/mat_63/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Мифическая ртуть](/ItemsRU/mat_63/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Легендарная сера +3](/ru/Items/mat_57/){: .btn .btn--era4}, **40% 1x** [Легендарная сера +3](/ru/Items/mat_57/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Легендарная сера +3](/ItemsRU/mat_57/){: .btn .btn--era4}, **40% 1x** [Легендарная сера +3](/ItemsRU/mat_57/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

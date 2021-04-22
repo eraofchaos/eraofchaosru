@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-1 Запретный договор"
 permalink: /Main Story/Chapter 12_1/
 excerpt: "Глава 12 - 1. Эра хаоса  Основной сюжет - Глава 12_1. 12-1 Запретный договор"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 12_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Редкая руда +1](/ru/Items/mat_40/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Редкая руда +1](/ItemsRU/mat_40/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Исключительная древесина](/ru/Items/mat_34/){: .btn .btn--era4}, **40% 1x** [Исключительная древесина](/ru/Items/mat_34/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Исключительная древесина](/ItemsRU/mat_34/){: .btn .btn--era4}, **40% 1x** [Исключительная древесина](/ItemsRU/mat_34/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Медаль истины"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Медаль истины. Амулет ведьмы с глазными яблоками. Компонент зоркого ястребиного глаза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Medal of Truth.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Медаль истины](/ru/Items/art_134/)
+ **Related Item**: [Медаль истины](/ItemsRU/art_134/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

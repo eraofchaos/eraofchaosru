@@ -2,7 +2,7 @@
 title: "Backup - Смертоносная коса"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Эра хаоса  Смертоносная коса"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Scythe of the Death.md"
 toc: false
@@ -56,47 +56,47 @@ classes: wide
 
  **Боевое умение Power:** 1060
 
- **Боевое умение Unlock:** 5x [Свиток энергии](/ru/Items/con_830/)
+ **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
 
   |  Level  | Level up | Описание | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">66</span><span style="color: black"> | 
-  | 2 | **2x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">97</span><span style="color: black"> | 
-  | 3 | **3x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">128</span><span style="color: black"> | 
-  | 4 | **4x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">159</span><span style="color: black"> | 
-  | 5 | **5x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">190</span><span style="color: black"> | 
-  | 6 | **9x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">221</span><span style="color: black"> | 
-  | 7 | **12x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">252</span><span style="color: black"> | 
-  | 8 | **20x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">283</span><span style="color: black"> | 
-  | 9 | **30x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">314</span><span style="color: black"> | 
-  | 10 | **40x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">345</span><span style="color: black"> | 
-  | 11 | **50x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">376</span><span style="color: black"> | 
-  | 12 | **60x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">407</span><span style="color: black"> | 
-  | 13 | **100x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">438</span><span style="color: black"> | 
-  | 14 | **160x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">469</span><span style="color: black"> | 
-  | 15 | **200x** [Свиток энергии](/ru/Items/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">500</span><span style="color: black"> | 
+  | 1 | **1x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">66</span><span style="color: black"> | 
+  | 2 | **2x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">97</span><span style="color: black"> | 
+  | 3 | **3x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">128</span><span style="color: black"> | 
+  | 4 | **4x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">159</span><span style="color: black"> | 
+  | 5 | **5x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">190</span><span style="color: black"> | 
+  | 6 | **9x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">221</span><span style="color: black"> | 
+  | 7 | **12x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">252</span><span style="color: black"> | 
+  | 8 | **20x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">283</span><span style="color: black"> | 
+  | 9 | **30x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">314</span><span style="color: black"> | 
+  | 10 | **40x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">345</span><span style="color: black"> | 
+  | 11 | **50x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">376</span><span style="color: black"> | 
+  | 12 | **60x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">407</span><span style="color: black"> | 
+  | 13 | **100x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">438</span><span style="color: black"> | 
+  | 14 | **160x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">469</span><span style="color: black"> | 
+  | 15 | **200x** [Свиток энергии](/ItemsRU/con_830/) | Если использовать построение в бою, сила критического удара у всех союзных отрядов возрастает на <span style="color: #1ca216;font-size:16px">500</span><span style="color: black"> | 
 
 
 ## Глобальное умение - **Эрудиция** 
 
  **Глобальное умение Power:** 1076
 
- **Глобальное умение Unlock:** 10x [Свиток энергии](/ru/Items/con_830/)
+ **Глобальное умение Unlock:** 10x [Свиток энергии](/ItemsRU/con_830/)
 
   |  Level  | Level up | Описание | 
   |:-----|:----|:----------| 
-  | 1 | **5x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">2</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">2%</span><span style="color: black"> | 
-  | 2 | **10x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">4</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">4%</span><span style="color: black"> | 
-  | 3 | **15x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">6</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">6%</span><span style="color: black"> | 
-  | 4 | **20x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">8</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">8%</span><span style="color: black"> | 
-  | 5 | **25x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">10</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">10%</span><span style="color: black"> | 
-  | 6 | **45x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">12</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">12%</span><span style="color: black"> | 
-  | 7 | **60x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">14</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">14%</span><span style="color: black"> | 
-  | 8 | **100x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">16</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">16%</span><span style="color: black"> | 
-  | 9 | **150x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">18</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">18%</span><span style="color: black"> | 
-  | 10 | **200x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">20</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">20%</span><span style="color: black"> | 
-  | 11 | **250x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">22</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">22%</span><span style="color: black"> | 
-  | 12 | **300x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">24</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">24%</span><span style="color: black"> | 
-  | 13 | **500x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">26</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">26%</span><span style="color: black"> | 
-  | 14 | **800x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">28</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">28%</span><span style="color: black"> | 
-  | 15 | **1000x** [Свиток энергии](/ru/Items/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">30</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">30%</span><span style="color: black"> | 
+  | 1 | **5x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">2</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">2%</span><span style="color: black"> | 
+  | 2 | **10x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">4</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">4%</span><span style="color: black"> | 
+  | 3 | **15x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">6</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">6%</span><span style="color: black"> | 
+  | 4 | **20x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">8</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">8%</span><span style="color: black"> | 
+  | 5 | **25x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">10</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">10%</span><span style="color: black"> | 
+  | 6 | **45x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">12</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">12%</span><span style="color: black"> | 
+  | 7 | **60x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">14</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">14%</span><span style="color: black"> | 
+  | 8 | **100x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">16</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">16%</span><span style="color: black"> | 
+  | 9 | **150x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">18</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">18%</span><span style="color: black"> | 
+  | 10 | **200x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">20</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">20%</span><span style="color: black"> | 
+  | 11 | **250x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">22</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">22%</span><span style="color: black"> | 
+  | 12 | **300x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">24</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">24%</span><span style="color: black"> | 
+  | 13 | **500x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">26</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">26%</span><span style="color: black"> | 
+  | 14 | **800x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">28</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">28%</span><span style="color: black"> | 
+  | 15 | **1000x** [Свиток энергии](/ItemsRU/con_830/) | Увеличивает знания героев на <span style="color: #1ca216;font-size:16px">30</span><span style="color: black">, а урон от заклинаний Воздуха на <span style="color: #1ca216;font-size:16px">30%</span><span style="color: black"> | 

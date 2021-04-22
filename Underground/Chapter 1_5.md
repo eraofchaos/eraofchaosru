@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 - 1-5 На волосок от смерти"
 permalink: /Underground/Chapter 1_5/
 excerpt: "Глава 1 - 5. Эра хаоса  Подземелье - Глава 1_5. 1-5 На волосок от смерти"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 1_5.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Всадники](/ru/Items/unt_195/){: .btn .btn--era4}, **33% 1x** [Всадники](/ru/Items/unt_195/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Всадники](/ItemsRU/unt_195/){: .btn .btn--era4}, **33% 1x** [Всадники](/ItemsRU/unt_195/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}, **20% 2x** [Обычные самоцветы](/ru/Items/mat_10/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}, **20% 2x** [Обычные самоцветы](/ItemsRU/mat_10/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Низкосортные кристаллы](/ru/Items/mat_5/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Низкосортные кристаллы](/ItemsRU/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

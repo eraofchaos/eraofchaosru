@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 14 - 14-1 Подземное чудо"
 permalink: /Underground/Chapter 14_1/
 excerpt: "Глава 14 - 1. Эра хаоса  Подземелье - Глава 14_1. 14-1 Подземное чудо"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 14_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Гном](/ru/Items/unt_200/){: .btn .btn--era4}, **67% 1x** [Гном](/ru/Items/unt_200/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Гном](/ItemsRU/unt_200/){: .btn .btn--era4}, **67% 1x** [Гном](/ItemsRU/unt_200/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Книга сущностей +3](/ru/Items/mat_60/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Книга сущностей +3](/ItemsRU/mat_60/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Книга сущностей +2](/ru/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Книга сущностей +2](/ru/Items/mat_53/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Книга сущностей +2](/ItemsRU/mat_53/){: .btn .btn--era4}, **50% 1x** [Книга сущностей +2](/ItemsRU/mat_53/){: .btn .btn--era4}
 
 
 ## Fight against Team

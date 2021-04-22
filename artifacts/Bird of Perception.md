@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Птица проницательности"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Птица проницательности. Скульптура меткого стрелка, зачарованная ведьмой. Компонент зоркого ястребиного глаза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Bird of Perception.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Птица проницательности](/ru/Items/art_132/)
+ **Related Item**: [Птица проницательности](/ItemsRU/art_132/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

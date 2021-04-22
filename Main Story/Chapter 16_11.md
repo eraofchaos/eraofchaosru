@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-11 Каменная маска"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Глава 16 - 11. Эра хаоса  Основной сюжет - Глава 16_11. 16-11 Каменная маска"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 16_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Легендарная руда +3](/ru/Items/mat_54/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Легендарная руда +3](/ItemsRU/mat_54/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Эпическая древесина +2](/ru/Items/mat_48/){: .btn .btn--era4}, **40% 1x** [Эпическая древесина +2](/ru/Items/mat_48/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Эпическая древесина +2](/ItemsRU/mat_48/){: .btn .btn--era4}, **40% 1x** [Эпическая древесина +2](/ItemsRU/mat_48/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

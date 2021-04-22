@@ -2,7 +2,7 @@
 title: "Аватар - Бастион"
 permalink: /Avatars/Rampart/
 excerpt: "Эра хаоса  Бастион"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Rampart.md"
 toc: false

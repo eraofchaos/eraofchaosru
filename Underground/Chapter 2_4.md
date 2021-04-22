@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-4 Перестроение и возрождение"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Глава 2 - 4. Эра хаоса  Подземелье - Глава 2_4. 2-4 Перестроение и возрождение"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 2_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Книга оружия](/ru/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия](/ItemsRU/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}, **70% 1x** [Обычная древесина](/ru/Items/mat_7/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}, **70% 1x** [Обычная древесина](/ItemsRU/mat_7/){: .btn .btn--era2}
 
 
 ## Fight against Team

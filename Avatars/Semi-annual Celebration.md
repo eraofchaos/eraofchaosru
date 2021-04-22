@@ -2,7 +2,7 @@
 title: "Аватар - Полугодовой праздник"
 permalink: /Avatars/Semi-annual Celebration/
 excerpt: "Эра хаоса  Полугодовой праздник"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Semi-annual Celebration.md"
 toc: false

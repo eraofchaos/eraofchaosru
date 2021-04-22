@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Доспех черного дракона"
 permalink: /artifacts/Dragon Scale Armour/
 excerpt: "Эра хаоса  Сила Отца драконов - Доспех черного дракона. Нагрудник, благословленный священным драконом. Компонент силы Отца драконов."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Dragon Scale Armour.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Сила Отца драконов](/ru/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Доспех черного дракона](/ru/Items/art_148/)
+ **Related Item**: [Доспех черного дракона](/ItemsRU/art_148/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

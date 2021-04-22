@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-1 Возрождение на свету"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Глава 2 - 1. Эра хаоса  Подземелье - Глава 2_1. 2-1 Возрождение на свету"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 2_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Лучник](/ru/Items/unt_191/){: .btn .btn--era3}, **50% 1x** [Лучник](/ru/Items/unt_191/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Лучник](/ItemsRU/unt_191/){: .btn .btn--era3}, **50% 1x** [Лучник](/ItemsRU/unt_191/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Книга оружия](/ru/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия](/ItemsRU/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **100% 1x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **100% 1x** [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

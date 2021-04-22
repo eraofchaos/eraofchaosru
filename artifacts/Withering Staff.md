@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Посох увядания"
 permalink: /artifacts/Withering Staff/
 excerpt: "Эра хаоса  Меч Холода - Посох увядания. Посох архилича. Компонент меча Холода."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Withering Staff.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Меч Холода](/ru/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Посох увядания](/ru/Items/art_162/)
+ **Related Item**: [Посох увядания](/ItemsRU/art_162/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

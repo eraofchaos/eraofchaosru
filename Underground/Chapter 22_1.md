@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-1 Семена жизни"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Глава 22 - 1. Эра хаоса  Подземелье - Глава 22_1. 22-1 Семена жизни"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 22_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Фея](/ru/Items/unt_262/){: .btn .btn--era3}, **67% 1x** [Фея](/ru/Items/unt_262/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Фея](/ItemsRU/unt_262/){: .btn .btn--era3}, **67% 1x** [Фея](/ItemsRU/unt_262/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ru/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ItemsRU/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Ожерелье из зубов дракона"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Эра хаоса  Сила Отца драконов - Ожерелье из зубов дракона. Ожерелье, благословленное священным драконом. Компонент силы Отца драконов."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Necklace of Dragonteeth.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Сила Отца драконов](/ru/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Ожерелье из зубов дракона](/ru/Items/art_149/)
+ **Related Item**: [Ожерелье из зубов дракона](/ItemsRU/art_149/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

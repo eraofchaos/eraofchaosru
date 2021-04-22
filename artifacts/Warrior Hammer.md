@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Боевой молот"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "Эра хаоса  Клинок Армагеддона - Боевой молот. Боевой молот, спрятанный в Хребте Гигантов. Компонент клинка Армагеддона."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Warrior Hammer.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Боевой молот](/ru/Items/art_170/)
+ **Related Item**: [Боевой молот](/ItemsRU/art_170/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея - Волшебная сфера маны"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Эра хаоса  Источник чародея - Волшебная сфера маны. Хрустальный шар, обладающий сильной магией. Компонент источника чародея."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Mystic Orb of Mana.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Волшебная сфера маны](/ru/Items/art_114/)
+ **Related Item**: [Волшебная сфера маны](/ItemsRU/art_114/)
 
  **Quality:** [Blue Artifact Components](/ru/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

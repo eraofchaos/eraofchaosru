@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-12 Убежище банши"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Глава 26 - 12. Эра хаоса  Основной сюжет - Глава 26_12. 26-12 Убежище банши"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 26_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Звездные кристаллы +4](/ru/Items/mat_94/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Звездные кристаллы +4](/ItemsRU/mat_94/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Духовные самоцветы +3](/ru/Items/mat_86/){: .btn .btn--era5}, **40% 1x** [Духовные самоцветы +3](/ru/Items/mat_86/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Духовные самоцветы +3](/ItemsRU/mat_86/){: .btn .btn--era5}, **40% 1x** [Духовные самоцветы +3](/ItemsRU/mat_86/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

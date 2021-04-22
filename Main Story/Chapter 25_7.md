@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-7 Первое семейство"
 permalink: /Main Story/Chapter 25_7/
 excerpt: "Глава 25 - 7. Эра хаоса  Основной сюжет - Глава 25_7. 25-7 Первое семейство"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 25_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Духовная руда +3](/ru/Items/mat_82/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Духовная руда +3](/ItemsRU/mat_82/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Тайная древесина +2](/ru/Items/mat_76/){: .btn .btn--era5}, **40% 1x** [Тайная древесина +2](/ru/Items/mat_76/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Тайная древесина +2](/ItemsRU/mat_76/){: .btn .btn--era5}, **40% 1x** [Тайная древесина +2](/ItemsRU/mat_76/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

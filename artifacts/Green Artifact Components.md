@@ -2,7 +2,7 @@
 title: "Green Artifact Components"
 permalink: /artifacts/Green Artifact Components/
 excerpt: "Эра хаоса  List of all Green Artifact Components . Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Green Artifact Components.md"
 toc: false

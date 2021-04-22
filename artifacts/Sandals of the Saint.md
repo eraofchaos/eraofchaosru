@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Сандалии святого"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Эра хаоса  Ангельский союз - Сандалии святого. Священная реликвия, изготовленная в честь объединения Эрафии. Компонент Ангельского союза."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Sandals of the Saint.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Сандалии святого](/ru/Items/art_154/)
+ **Related Item**: [Сандалии святого](/ItemsRU/art_154/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

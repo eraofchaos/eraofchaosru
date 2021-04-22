@@ -2,7 +2,7 @@
 title: "Артефакт - Фиал с кровью жизни - Бутылка энергии"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Эра хаоса  Фиал с кровью жизни - Бутылка энергии. Бутылка, придающая носителю сил. Компонент фиала с кровью жизни."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Bottle of Energy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Фиал с кровью жизни](/ru/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 1x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Бутылка энергии](/ru/Items/art_108/)
+ **Related Item**: [Бутылка энергии](/ItemsRU/art_108/)
 
  **Quality:** [Green Artifact Components](/ru/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

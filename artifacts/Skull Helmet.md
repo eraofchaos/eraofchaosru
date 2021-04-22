@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Шлем-череп"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Эра хаоса  Доспех проклятого - Шлем-череп. Шлем из Подземелья. Компонент доспеха проклятого."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Skull Helmet.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Шлем-череп](/ru/Items/art_123/)
+ **Related Item**: [Шлем-череп](/ItemsRU/art_123/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

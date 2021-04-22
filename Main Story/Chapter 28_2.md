@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-2. Сила леса"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Глава 28 - 2. Эра хаоса  Основной сюжет - Глава 28_2. 28-2. Сила леса"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 28_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Сияющая древесина +5](/ru/Items/mat_97/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Сияющая древесина +5](/ItemsRU/mat_97/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть +4](/ru/Items/mat_91/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Звездная ртуть +4](/ItemsRU/mat_91/){: .btn .btn--era5}, **40% 1x** [Звездная ртуть +4](/ItemsRU/mat_91/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

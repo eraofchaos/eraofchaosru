@@ -2,7 +2,7 @@
 title: "Артефакт - Кольцо мага - Кольцо заклинателя"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Эра хаоса  Кольцо мага - Кольцо заклинателя. Таинственное кольцо с сильной магией. Компонент кольца мага."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Ring of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Кольцо заклинателя](/ru/Items/art_116/)
+ **Related Item**: [Кольцо заклинателя](/ItemsRU/art_116/)
 
  **Quality:** [Blue Artifact Components](/ru/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

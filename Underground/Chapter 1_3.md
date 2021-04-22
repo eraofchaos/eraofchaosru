@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 - 1-3 Неожиданная опасность"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Глава 1 - 3. Эра хаоса  Подземелье - Глава 1_3. 1-3 Неожиданная опасность"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Грифон](/ru/Items/unt_192/){: .btn .btn--era4}, **33% 1x** [Грифон](/ru/Items/unt_192/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Грифон](/ItemsRU/unt_192/){: .btn .btn--era4}, **33% 1x** [Грифон](/ItemsRU/unt_192/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, **20% 2x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}, **20% 2x** [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Низкосортная древесина](/ru/Items/mat_1/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Низкосортная древесина](/ItemsRU/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 - 6-1 Нападение демонов"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Глава 6 - 1. Эра хаоса  Подземелье - Глава 6_1. 6-1 Нападение демонов"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 6_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Орк](/ru/Items/unt_219/){: .btn .btn--era4}, **50% 1x** [Орк](/ru/Items/unt_219/){: .btn .btn--era4}
+ **Drop 1:** **50% 0x** [Орк](/ItemsRU/unt_219/){: .btn .btn--era4}, **50% 1x** [Орк](/ItemsRU/unt_219/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Книга оружия +2](/ru/Items/mat_32/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия +2](/ItemsRU/mat_32/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Книга оружия +1](/ru/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Книга оружия +1](/ru/Items/mat_25/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Книга оружия +1](/ItemsRU/mat_25/){: .btn .btn--era3}, **50% 1x** [Книга оружия +1](/ItemsRU/mat_25/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Эталонный арбалет"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Эра хаоса  Клинок Армагеддона - Эталонный арбалет. Артефакт, который носил герой Джелу до совершеннолетия. Компонент клинка Армагеддона."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Examplar Crossbow.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Эталонный арбалет](/ru/Items/art_171/)
+ **Related Item**: [Эталонный арбалет](/ItemsRU/art_171/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

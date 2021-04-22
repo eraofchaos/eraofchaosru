@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Глубоководный трезубец"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Эра хаоса  Меч Холода - Глубоководный трезубец. Оружие Посейдона. Компонент меча Холода"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Deep-Sea Trident.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Меч Холода](/ru/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Глубоководный трезубец](/ru/Items/art_160/)
+ **Related Item**: [Глубоководный трезубец](/ItemsRU/art_160/)
 
  **Quality:** [Orange Artifact Components](/ru/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

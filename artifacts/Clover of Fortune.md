@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова - Клевер Фортуны"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Эра хаоса  Счастливая подкова - Клевер Фортуны. Приносящий удачу клевер. Компонент счастливой подковы."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Clover of Fortune.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 1x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Клевер Фортуны](/ru/Items/art_109/)
+ **Related Item**: [Клевер Фортуны](/ItemsRU/art_109/)
 
  **Quality:** [Green Artifact Components](/ru/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

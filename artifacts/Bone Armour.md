@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Костяной доспех"
 permalink: /artifacts/Bone Armour/
 excerpt: "Эра хаоса  Доспех проклятого - Костяной доспех. Щит из крепких костей. Компонент доспеха проклятого."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Bone Armour.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Костяной доспех](/ru/Items/art_124/)
+ **Related Item**: [Костяной доспех](/ItemsRU/art_124/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

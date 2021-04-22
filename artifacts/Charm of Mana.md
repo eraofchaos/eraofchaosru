@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея - Амулет маны"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Эра хаоса  Источник чародея - Амулет маны. Усиливающий магию амулет. Компонент источника чародея."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Charm of Mana.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Амулет маны](/ru/Items/art_112/)
+ **Related Item**: [Амулет маны](/ItemsRU/art_112/)
 
  **Quality:** [Blue Artifact Components](/ru/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

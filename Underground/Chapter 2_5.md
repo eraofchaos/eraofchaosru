@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-5 Поиски союзников"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Глава 2 - 5. Эра хаоса  Подземелье - Глава 2_5. 2-5 Поиски союзников"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 2_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Мечник](/ru/Items/unt_193/){: .btn .btn--era4}, **33% 1x** [Мечник](/ru/Items/unt_193/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Мечник](/ItemsRU/unt_193/){: .btn .btn--era4}, **33% 1x** [Мечник](/ItemsRU/unt_193/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Книга оружия](/ru/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Книга оружия](/ItemsRU/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Обычные кристаллы](/ru/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}, **70% 1x** [Обычные кристаллы](/ItemsRU/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

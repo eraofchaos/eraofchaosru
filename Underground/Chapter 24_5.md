@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-5 Возврата нет"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Глава 24 - 5. Эра хаоса  Подземелье - Глава 24_5. 24-5 Возврата нет"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 24_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Минотавр](/ru/Items/unt_248/){: .btn .btn--era4}, **67% 1x** [Минотавр](/ru/Items/unt_248/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Минотавр](/ItemsRU/unt_248/){: .btn .btn--era4}, **67% 1x** [Минотавр](/ItemsRU/unt_248/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ru/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Свидетельство о легенде +3](/ItemsRU/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ru/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}, **50% 1x** [Свидетельство о легенде +2](/ItemsRU/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

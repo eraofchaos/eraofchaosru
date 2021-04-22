@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-2 Наемные силы"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Глава 9 - 2. Эра хаоса  Основной сюжет - Глава 9_2. 9-2 Наемные силы"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 9_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Ценная древесина +2](/ru/Items/mat_27/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Ценная древесина +2](/ItemsRU/mat_27/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть +1](/ru/Items/mat_21/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Превосходная ртуть +1](/ItemsRU/mat_21/){: .btn .btn--era3}, **40% 1x** [Превосходная ртуть +1](/ItemsRU/mat_21/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

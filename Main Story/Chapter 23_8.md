@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-8 Местонахождение разведчика"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Глава 23 - 8. Эра хаоса  Основной сюжет - Глава 23_8. 23-8 Местонахождение разведчика"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 23_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Тайная древесина +2](/ru/Items/mat_76/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Тайная древесина +2](/ItemsRU/mat_76/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Вечная ртуть +1](/ru/Items/mat_70/){: .btn .btn--era5}, **40% 1x** [Вечная ртуть +1](/ru/Items/mat_70/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Вечная ртуть +1](/ItemsRU/mat_70/){: .btn .btn--era5}, **40% 1x** [Вечная ртуть +1](/ItemsRU/mat_70/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

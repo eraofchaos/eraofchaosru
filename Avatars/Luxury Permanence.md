@@ -2,7 +2,7 @@
 title: "Аватар - Роскошное постоянство"
 permalink: /Avatars/Luxury Permanence/
 excerpt: "Эра хаоса  Роскошное постоянство"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Luxury Permanence.md"
 toc: false

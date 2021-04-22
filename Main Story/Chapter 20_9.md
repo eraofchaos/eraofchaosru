@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-9 Обмен магией"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "Глава 20 - 9. Эра хаоса  Основной сюжет - Глава 20_9. 20-9 Обмен магией"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Chapter 20_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Выпавшие предметы
 
- **Первая полная награда:** [Серебряный ключ](/ru/Items/con_693/){: .btn .btn--era3}
+ **Первая полная награда:** [Серебряный ключ](/ItemsRU/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Вечная ртуть +1](/ru/Items/mat_70/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Вечная ртуть +1](/ItemsRU/mat_70/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Мифическая сера](/ru/Items/mat_64/){: .btn .btn--era5}, **40% 1x** [Мифическая сера](/ru/Items/mat_64/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Мифическая сера](/ItemsRU/mat_64/){: .btn .btn--era5}, **40% 1x** [Мифическая сера](/ItemsRU/mat_64/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Свиток заклинания](/ru/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

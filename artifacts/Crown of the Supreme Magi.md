@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости - Корона верховного мага"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Эра хаоса  Топор ярости - Корона верховного мага. Корона, полученная в подарок за спасение безумного чародея. Компонент топора ярости."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: ru
 ref: "Crown of the Supreme Magi.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Сущность артефактов](/ru/Items/con_905/)
+ **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 
- **Related Item**: [Корона верховного мага](/ru/Items/art_127/)
+ **Related Item**: [Корона верховного мага](/ItemsRU/art_127/)
 
  **Quality:** [Violet Artifact Components](/ru/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 
