@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /units/Lizardman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель."
 unitID: 802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Ящер"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Ящер](/ru/Items/unt_254/)
+ **Unit Soul:** [Ящер](/ItemsRU/unt_254/)
 
  **Short description:** Большой УВС.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
+ **Item to Повысить ранг :** [Жетон длинного лука](/ItemsRU/con_914/)
 
  **Облик:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

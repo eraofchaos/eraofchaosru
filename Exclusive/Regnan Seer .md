@@ -2,7 +2,7 @@
 title: "Эксклюзив -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Регнанская прорицательница Эксклюзив."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Regnan Seer .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Эксклюзив for Unit:** [Регнанская прорицательница](/ru/units/Regnan Seer/) 
 
- **Item to Повысить ранг :** [Знамя Морского города](/ru/Items/con_1006/)
+ **Item to Повысить ранг :** [Знамя Морского города](/ItemsRU/con_1006/)
 
- **Облик:** [Tool_2990709](/ru/Items/con_674/)
+ **Облик:** [Tool_2990709](/ItemsRU/con_674/)
 
  **Type:** Столица
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | **100x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Знамя Морского города](/ru/Items/con_1006/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Знамя Морского города](/ru/Items/con_1006/) |  |
+  |  Пробуждение  | **100x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Знамя Морского города](/ItemsRU/con_1006/) |  |
 
 
 ## Новый ур.

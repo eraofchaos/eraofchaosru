@@ -3,7 +3,7 @@ title: "Великан Тор"
 permalink: /units/Troll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Великан Тор"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Великан Тор](/ru/Items/unt_225/)
+ **Unit Soul:** [Великан Тор](/ItemsRU/unt_225/)
 
  **Short description:** Одиночная атака, выход ярости
 
@@ -191,7 +191,7 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

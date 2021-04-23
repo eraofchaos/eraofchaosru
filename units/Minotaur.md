@@ -3,7 +3,7 @@ title: "Минотавр"
 permalink: /units/Minotaur/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Минотавр](/ru/Items/unt_248/)
+ **Unit Soul:** [Минотавр](/ItemsRU/unt_248/)
 
  **Unit description:** Вихрь: наносит урон в области и снижает скорость атаки
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
+ **Item to Повысить ранг :** [Жетон славного щита](/ItemsRU/con_913/)
 
  **Облик:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

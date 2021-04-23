@@ -3,7 +3,7 @@ title: "Регнанский лучник"
 permalink: /units/Regnan Archer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ей судьбой уготована жизнь в богатстве. Куда бы она ни направила свою стрелу, её истинная цель - весь мир."
 unitID: 9902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Регнанский лучник"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Регнанский лучник](/ru/Items/unt_274/)
+ **Unit Soul:** [Регнанский лучник](/ItemsRU/unt_274/)
 
  **Short description:** Наносит критический удар и пробивает.
 
@@ -179,7 +179,7 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

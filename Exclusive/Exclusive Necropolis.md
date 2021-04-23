@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Эра хаоса Эксклюзив Necropolis. Эксклюзив Necropolis. List of Эксклюзив Necropolis in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Exclusive Necropolis"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Скелет](/ru/units/Skeleton/) | [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
-  | 2  | [Ходячий мертвец](/ru/units/Walking Dead/) | [Славный щит](/ru/Exclusive/Walking Dead Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
-  | 3  | [Призрак](/ru/units/Wight/) | [Таинственное пение](/ru/Exclusive/Wight Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
-  | 4  | [Вампир](/ru/units/Vampire/) | [Копье рыцаря](/ru/Exclusive/Vampire Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
-  | 5  | [Лич](/ru/units/Lich/) | [Дань смерти](/ru/Exclusive/Lich Death Tribute/) | + | Стрелковый | [Жетон дани смерти](/ru/Items/con_978/) | [Особый облик: Дань смерти](/ru/Items/con_646/) |
-  | 6  | [Черный рыцарь](/ru/units/Black Knight/) | [Загробная сабля](/ru/Exclusive/Black Knight Nether Sabre/) | + | Поддержка | [Жетон загробной сабли](/ru/Items/con_979/) | [Особый облик: Загробная сабля](/ru/Items/con_647/) |
-  | 7  | [Костяной дракон](/ru/units/Bone Dragon/) | [Кость бессмертного дракона](/ru/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Поддержка | [Жетон кости бессмертного дракона](/ru/Items/con_980/) | [Особый облик: Кость бессмертного дракона](/ru/Items/con_648/) |
-  | 8  | [Мумия](/ru/units/Mummy/) | [Бинты мумии](/ru/Exclusive/Mummy Gauze/) | - | Стрелковый | [Жетон Бинтов мумии](/ru/Items/con_981/) | [Особый облик: Бинты мумии](/ru/Items/con_649/) |
+  | 1  | [Скелет](/ru/units/Skeleton/) | [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 2  | [Ходячий мертвец](/ru/units/Walking Dead/) | [Славный щит](/ru/Exclusive/Walking Dead Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 3  | [Призрак](/ru/units/Wight/) | [Таинственное пение](/ru/Exclusive/Wight Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
+  | 4  | [Вампир](/ru/units/Vampire/) | [Копье рыцаря](/ru/Exclusive/Vampire Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
+  | 5  | [Лич](/ru/units/Lich/) | [Дань смерти](/ru/Exclusive/Lich Death Tribute/) | + | Стрелковый | [Жетон дани смерти](/ItemsRU/con_978/) | [Особый облик: Дань смерти](/ItemsRU/con_646/) |
+  | 6  | [Черный рыцарь](/ru/units/Black Knight/) | [Загробная сабля](/ru/Exclusive/Black Knight Nether Sabre/) | + | Поддержка | [Жетон загробной сабли](/ItemsRU/con_979/) | [Особый облик: Загробная сабля](/ItemsRU/con_647/) |
+  | 7  | [Костяной дракон](/ru/units/Bone Dragon/) | [Кость бессмертного дракона](/ru/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Поддержка | [Жетон кости бессмертного дракона](/ItemsRU/con_980/) | [Особый облик: Кость бессмертного дракона](/ItemsRU/con_648/) |
+  | 8  | [Мумия](/ru/units/Mummy/) | [Бинты мумии](/ru/Exclusive/Mummy Gauze/) | - | Стрелковый | [Жетон Бинтов мумии](/ItemsRU/con_981/) | [Особый облик: Бинты мумии](/ItemsRU/con_649/) |
   | 9  | [Чемпион Тьмы](/ru/units/Dark Champion/) | - | - | - | none | none |

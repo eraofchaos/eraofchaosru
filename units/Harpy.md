@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Гарпия"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Гарпия](/ru/Items/unt_245/)
+ **Unit Soul:** [Гарпия](/ItemsRU/unt_245/)
 
  **Unit description:** Коготь колдуньи: может нанести урон нескольким врагам
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон Копья рыцаря](/ru/Items/con_916/)
+ **Item to Повысить ранг :** [Жетон Копья рыцаря](/ItemsRU/con_916/)
 
  **Облик:** -
 
@@ -169,7 +169,7 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+ **Усиление таланта:** [Зелье усиления штурма](/ItemsRU/con_788/)
 
 
 ## Awaking

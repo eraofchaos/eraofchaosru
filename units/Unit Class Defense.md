@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Эра хаоса Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Unit Class Defense"
 toc: false

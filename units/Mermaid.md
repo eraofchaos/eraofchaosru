@@ -3,7 +3,7 @@ title: "Русалка"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана."
 unitID: 9905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Русалка"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Русалка](/ru/Items/unt_277/)
+ **Unit Soul:** [Русалка](/ItemsRU/unt_277/)
 
  **Short description:** Групповое исцеление. Сильные положительные эффекты.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон Прилива](/ru/Items/con_1004/)
+ **Item to Повысить ранг :** [Жетон Прилива](/ItemsRU/con_1004/)
 
- **Облик:** [Особый облик: Прилив](/ru/Items/con_672/)
+ **Облик:** [Особый облик: Прилив](/ItemsRU/con_672/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -172,7 +172,7 @@ toc: true
 * Скорость атаки
 * Исцеление
 
- **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+ **Усиление таланта:** [Зелье усиления заклинателей](/ItemsRU/con_790/)
 
 
 ## Awaking

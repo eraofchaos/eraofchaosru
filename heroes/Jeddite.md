@@ -4,7 +4,7 @@ permalink: /heroes/Jeddite/
 excerpt: "Эра хаоса Джеддит. Джеддит. Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит."
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Jeddite"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Описание:** Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит.
 ## Подробности
- **Profession:** Алхимик
+ **Profession:** ![Алхимик](/images/h/h_prof_11.png) Алхимик
 
  **Race:** Подземелье
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Цикл жизни
+ **Способность героя:** Цикл жизни
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  | Stars | Защита героя | Знания героя | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Джеддит](/ItemsRU/her_391/) | <Цикл жизни> наносит вражеским отрядам доп. урон в размере 2% от макс. ОЗ каждые 0,5 сек. и дополнительно восстанавливает 2% от макс. ОЗ союзным отрядам |
+  |    2    | 15 | 12 | **50x** [Джеддит](/ItemsRU/her_391/) | Каждое срабатывание <Цикла жизни> уменьшает сопротивление магии вражеским отрядам на 12% на протяжении всей битвы. Эффект суммируется до 5 раз |
+  |    3    | 20 | 16 | **100x** [Джеддит](/ItemsRU/her_391/) | Урон от всех заклинаний Земли увеличивается на 15% |
+  |    4    | 25 | 20 | **150x** [Джеддит](/ItemsRU/her_391/) | За каждый союзный отряд заклинателей на поле боя скорость восстановления маны повышается на 0,6, а исходная мана врагов уменьшается на 0,3 |
 
-## Spells
-### 1 Spell: Стрела Земли
+ **Special Desciption 1:** Общая подсказка - будет скоро
+
+## Заклинание
+### 1 Заклинание: Стрела Земли
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
-### 2 Spell: Метеоритный дождь
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Описание 3:** Наносит урон противникам.
+
+ **Описание 4:** Наносит противникам урон Землей и <span style="color: #f0f000;font-size:18px">оглушает</span><span style="color: black"> их.
+
+### 2 Заклинание: Метеоритный дождь
  **Описание:** Призывает наносящие врагам урон Землей метеориты в выбранную область 6 раз. <span style="color: #48b946;font-size:20px">Оглушенные {($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2} цели получат двойной урон. Общее количество урона: </span><span style="color: black">$t$t<(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*<span style="color: #e07c44;font-size:20px">*$talent2+$talent1>).
 
-### 3 Spell: Окаменение
+ **Описание 2:** Новый уровень: наносимый урон существам низ. уровня увеличивается на <span style="color: #1ca216;font-size:18px">{$ovalueadd12*($olast11/$ointerval)*2}</span><span style="color: black">
+
+ **Описание 3:** Периодический урон противникам
+
+ **Описание 4:** Призывает <Метеоритный дождь> в целевой зоне, который наносит постоянный урон Землей вражеским отрядам.
+
+### 3 Заклинание: Окаменение
  **Описание:** Превращает цели <span style="color: #e07c44;font-size:20px">в камень</span><span style="color: black"> на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек., а также наносит им <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей.
 
-### 4 Spell: Цикл жизни
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">, длительность увеличивается на <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black"> сек.
+
+ **Описание 3:** Враги наносят урон
+
+ **Описание 4:** Наносит противникам урон Землей и <span style="color: #e07c44;font-size:20px">превращает в камень</span><span style="color: black">.
+
+### 4 Заклинание: Цикл жизни
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> урона Землей противникам в очень большой области раз в {$ointerval/1000} сек. и восстанавливает ОЗ союзных отрядов в размере, равном нанесенному урону. Действует {($olast11+$olast12*($sklevel-1))/1000} сек.
+
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">, восстановление - на <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Описание 3:** Враги наносят урон
+
+ **Описание 4:** Наносит противникам урон Землей и восстанавливает ОЗ союзных отрядов
 
 
 ## Адъютант

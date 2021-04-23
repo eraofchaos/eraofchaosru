@@ -3,7 +3,7 @@ title: "Росянка"
 permalink: /units/Waspwort/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Странное растение из ядовитых болот. Резкое жужжание, которое оно издает, вселяет ужас в сердца всех живых существ."
 unitID: 808
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Росянка"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Росянка](/ru/Items/unt_260/)
+ **Unit Soul:** [Росянка](/ItemsRU/unt_260/)
 
  **Short description:** УВС и контроль.
 
@@ -176,7 +176,7 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

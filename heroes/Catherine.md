@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Эра хаоса Катерина. Катерина. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Catherine"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Описание:** Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено.
 ## Подробности
- **Profession:** Рыцарь
+ **Profession:** ![Рыцарь](/images/h/h_prof_1.png) Рыцарь
 
  **Race:** Замок
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Железные крестоносцы
+ **Способность героя:** Железные крестоносцы
 
  **Specialty Desc:** Под предводительством Катерины мечники получают улучшение до железных крестоносцев. Их боевые умения значительно улучшаются, а шанс выживания увеличивается.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  | Stars | Атака героя | Защита героя | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Катерина](/ItemsRU/her_361/) | Когда Катерина находится на поле боя, мечники получают улучшение до железных крестоносцев, а их ОЗ повышается на 20% |
+  |    2    | 12 | 12 | **50x** [Катерина](/ItemsRU/her_361/) | При высоком боевом духе железные крестоносцы получают щит в размере 10% от ОЗ |
+  |    3    | 16 | 16 | **100x** [Катерина](/ItemsRU/her_361/) | Железные крестоносцы получают на 20% меньше урона от отрядов. Эффект навыка «Радость» трансформируется в эффект навыка «Газовый щит». |
+  |    4    | 20 | 20 | **150x** [Катерина](/ItemsRU/her_361/) | Численность отряда железных крестоносцев повышена с 9 до 16. |
 
-## Spells
-### 1 Spell: Стрела Земли
+ **Special Desciption 1:** Общая подсказка - будет скоро
+
+## Заклинание
+### 1 Заклинание: Стрела Земли
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> урона Землей противникам в определенной области и <span style="color: #e07c44;font-size:20px">оглушает</span><span style="color: black"> их на 3 сек.
 
-### 2 Spell: Радость
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Описание 3:** Наносит урон противникам.
+
+ **Описание 4:** Наносит противникам урон Землей и <span style="color: #f0f000;font-size:18px">оглушает</span><span style="color: black"> их.
+
+### 2 Заклинание: Радость
  **Описание:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> всем союзным отрядам в области, кроме отрядов Некрополя, повышая их скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
-### 3 Spell: Убийца
+ **Описание 2:** Новый уровень: исходное и обычное время восстановления снижаются на <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black"> сек.
+
+ **Описание 3:** У союзников высокий боевой дух.
+
+ **Описание 4:** Дает <span style="color: #e07c44;font-size:20px">высокий боевой дух</span><span style="color: black"> союзным отрядам в большом радиусе и увеличивает скорость атаки на {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>% на <span style="color: #1ca216">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> сек.
+
+### 3 Заклинание: Убийца
  **Описание:** Повышает атаку союзных отрядов в большой области на <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">. Эффект длится {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек. Длительность действия для отрядов численностью 9 увеличена на 5 сек.
 
-### 4 Spell: Буран
+ **Описание 2:** Новый уровень: атака увеличивается еще на <span style="color: #00ff22;font-size:16px">{$buffaddattr13}%</span><span style="color: black">.
+
+ **Описание 3:** Увеличивает атаку для союзных отрядов.
+
+ **Описание 4:** Увеличивает атаку союзных отрядов (эффект длится дольше для отрядов в 16 существ).
+
+### 4 Заклинание: Буран
  **Описание:** Призывает буран, который наносит урон Водой противникам в большой области 5 раз, <span style="color: #e07c44;font-size:20px">замедляя</span><span style="color: black"> их на 8 сек. Общее количество наносимого урона равно <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>.
+
+ **Описание 2:** Новый уровень: накопленный урон увеличивается на <span style="color: #00ff22;font-size:16px">{$ovalueadd12*($olast11/$ointerval)}</span><span style="color: black">
+
+ **Описание 3:** Периодический урон противникам
+
+ **Описание 4:** Создает облако града, которое <span style="color: #48b946;font-size:20px"></span><span style="color: black">постоянно наносит урон водой. Замороженные цели становятся <span style="color: #f0f000;font-size:18px">замедленными</span><span style="color: black">.
 
 
 ## Адъютант

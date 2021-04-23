@@ -2,7 +2,7 @@
 title: "Эксклюзив -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Вершитель Эксклюзив."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Judicator .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Эксклюзив for Unit:** [Вершитель](/ru/units/Judicator/) 
 
- **Item to Повысить ранг :** [Знамя Священного света](/ru/Items/con_975/)
+ **Item to Повысить ранг :** [Знамя Священного света](/ItemsRU/con_975/)
 
- **Облик:** [Tool_210909](/ru/Items/con_643/)
+ **Облик:** [Tool_210909](/ItemsRU/con_643/)
 
  **Type:** Столица
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Эффект |
   |:-------------|:---------------:|:---------------:|
-  |  Пробуждение  | **100x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Знамя Священного света](/ru/Items/con_975/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Знамя Священного света](/ru/Items/con_975/) |  |
+  |  Пробуждение  | **100x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Знамя Священного света](/ItemsRU/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Знамя Священного света](/ItemsRU/con_975/) |  |
 
 
 ## Новый ур.

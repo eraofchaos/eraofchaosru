@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /units/Spartan Warriors/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!"
 unitID: 9702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Спартанец"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Спартанец](/ru/Items/unt_272/)
+ **Unit Soul:** [Спартанец](/ItemsRU/unt_272/)
 
  **Short description:** Оглушение щитом, месть
 
@@ -165,7 +165,7 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking

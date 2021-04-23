@@ -3,7 +3,7 @@ title: "Летучий змей"
 permalink: /units/Serpent Fly/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Летучий змей](/ru/Items/unt_255/)
+ **Unit Soul:** [Летучий змей](/ItemsRU/unt_255/)
 
  **Short description:** Ослабляет и контролирует задний ряд.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ItemsRU/con_915/)
 
  **Облик:** -
 
@@ -190,7 +190,7 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
- **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+ **Усиление таланта:** [Зелье усиления заклинателей](/ItemsRU/con_790/)
 
 
 ## Awaking

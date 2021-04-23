@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Эра хаоса Раска. Раска. Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Rashka"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Описание:** Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек.
 ## Подробности
- **Profession:** Одержимый
+ **Profession:** ![Одержимый](/images/h/h_prof_9.png) Одержимый
 
  **Race:** Инферно
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Повелители Огня
+ **Способность героя:** Повелители Огня
 
  **Specialty Desc:** Под предводительством Раски ифрит получает улучшение до повелителя Огня. Его боевые и атакующие навыки значительно улучшатся.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  | Stars | Атака героя | Интеллект героя | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Раска](/ItemsRU/her_384/) | Ифриты улучшаются до повелителей Огня. Урон от <Огненной бури> увеличивается на 30% и поражает до 2 ячеек. |
+  |    2    | 12 | 15 | **50x** [Раска](/ItemsRU/her_384/) | Ифриты и повелители Огня наносят на 30% больше урона. |
+  |    3    | 16 | 20 | **100x** [Раска](/ItemsRU/her_384/) | <Щит Огня> повелителей Огня наносит удвоенный отраженный урон и действует 5 сек. |
+  |    4    | 20 | 25 | **150x** [Раска](/ItemsRU/her_384/) | Находясь на поле боя, повелители Огня дают союзным отрядам +50% к сопротивлению Огню, а вражеским отрядам -50% к сопротивлению Огню. |
 
-## Spells
-### 1 Spell: Стрела Огня
+ **Special Desciption 1:** Общая подсказка - будет скоро
+
+## Заклинание
+### 1 Заклинание: Стрела Огня
  **Описание:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам в определенной области и накладывает на них <span style="color: #e07c44;font-size:20px">горение</span><span style="color: black">, которое длится {($bufflast11+$bufflast12*($sklevel-1))/1000} сек.
 
-### 2 Spell: Проклятие
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Описание 3:** Наносит урон противникам.
+
+ **Описание 4:** Наносит противникам урон огнем.
+
+### 2 Заклинание: Проклятие
  **Описание:** Снижает атаку выбранных противников на <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">; эффект длится <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
-### 3 Spell: Жажда крови
+ **Описание 2:** Новый уровень: атака снижается еще на <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}%</span><span style="color: black">.
+
+ **Описание 3:** Снижает атаку противников.
+
+ **Описание 4:** Снижает атаку вражеского отряда.
+
+### 3 Заклинание: Жажда крови
  **Описание:** Дает союзным отрядам в большой области +{($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к атаке и +{($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% к высасыванию жизни на <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> сек.
 
-### 4 Spell: Пламя Инферно
+ **Описание 2:** Новый уровень: длительность увеличивается на <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> сек.
+
+ **Описание 3:** Увеличивает атаку и высасывание жизни для союзных отрядов.
+
+ **Описание 4:** Увеличивает атаку и высасывание жизни для союзных отрядов.
+
+### 4 Заклинание: Пламя Инферно
  **Описание:** Открывает разлом в ад, который наносит <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> урона Огнем противникам вокруг себя каждые 0,5 сек. Эффект длится {$olast11/1000} сек. Отряды Инферно получат вдвое меньше урона.
+
+ **Описание 2:** Новый уровень: урон увеличивается на <span style="color: #00ff22;font-size:16px">{$ovalueadd12} каждые 0,5 сек.</span><span style="color: black">
+
+ **Описание 3:** Периодический урон противникам
+
+ **Описание 4:** Создает трещину в указанном месте. Вражеские отряды рядом с трещиной получают урон.
 
 
 ## Адъютант

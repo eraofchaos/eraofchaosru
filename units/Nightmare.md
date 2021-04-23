@@ -3,7 +3,7 @@ title: "Кошмар"
 permalink: /units/Nightmare/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Кошмар - воплощение силы Инферно. Такой ужас никогда не забудешь. Он лишает врагов силы до тех пор, пока они не обретут вечный покой в объятьях бездны."
 unitID: 508
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Кошмар"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Кошмар](/ru/Items/unt_233/)
+ **Unit Soul:** [Кошмар](/ItemsRU/unt_233/)
 
  **Short description:** Поддержка. Сильный начальный урон.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Око Ужаса](/ru/Items/con_985/)
+ **Item to Повысить ранг :** [Око Ужаса](/ItemsRU/con_985/)
 
- **Облик:** [Tool_250809](/ru/Items/con_653/)
+ **Облик:** [Tool_250809](/ItemsRU/con_653/)
 
 
 ## Рекомендуемые эмблемы святости
@@ -169,7 +169,7 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

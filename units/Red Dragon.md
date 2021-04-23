@@ -3,7 +3,7 @@ title: "Красный дракон"
 permalink: /units/Red Dragon/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Красный дракон"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Красный дракон](/ru/Items/unt_251/)
+ **Unit Soul:** [Красный дракон](/ItemsRU/unt_251/)
 
  **Short description:** Дракон-владыка с сильным ревом.
 
@@ -180,7 +180,7 @@ toc: true
 * Урон отряда
 * Критический удар отряда
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking

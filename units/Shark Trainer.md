@@ -3,7 +3,7 @@ title: "Повелитель акул"
 permalink: /units/Shark Trainer/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
 unitID: 9909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Повелитель акул"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Повелитель акул](/ru/Items/unt_281/)
+ **Unit Soul:** [Повелитель акул](/ItemsRU/unt_281/)
 
  **Short description:** Призыв гигантских акул, добивание
 
@@ -214,7 +214,7 @@ toc: true
 * Скорость атаки
 * Урон отряда
 
- **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+ **Усиление таланта:** [Зелье усиления штурма](/ItemsRU/con_788/)
 
 
 ## Awaking

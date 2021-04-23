@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Левиафан](/ru/Items/unt_280/)
+ **Unit Soul:** [Левиафан](/ItemsRU/unt_280/)
 
  **Short description:** Глубоководный Кракен. Не может возродиться.
 
@@ -182,7 +182,7 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking

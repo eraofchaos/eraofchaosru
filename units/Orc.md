@@ -3,7 +3,7 @@ title: "Орк"
 permalink: /units/Orc/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Никто не знает, где орки прячут свои метательные топоры, но кажется, что запасы их бесконечны."
 unitID: 403
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Орк"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Орк](/ru/Items/unt_219/)
+ **Unit Soul:** [Орк](/ItemsRU/unt_219/)
 
  **Unit description:** Казнь: наносит дополнительный урон врагам, у которых запас здоровья меньше 30%.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
+ **Item to Повысить ранг :** [Жетон длинного лука](/ItemsRU/con_914/)
 
  **Облик:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

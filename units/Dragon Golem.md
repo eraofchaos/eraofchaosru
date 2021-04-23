@@ -3,7 +3,7 @@ title: "Драконий голем"
 permalink: /units/Dragon Golem/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Драконий голем"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Драконий голем](/ru/Items/unt_243/)
+ **Unit Soul:** [Драконий голем](/ItemsRU/unt_243/)
 
  **Short description:** Совершенная защита.
 
@@ -176,7 +176,7 @@ toc: true
 * Снижение УРН отряда
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Огр"
 permalink: /units/Ogre/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Внешне огры похожи на обезьян, но куда опаснее этих животных. В бою они даже способны создавать заклинания кровожадности."
 unitID: 404
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Огр"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Огр](/ru/Items/unt_220/)
+ **Unit Soul:** [Огр](/ItemsRU/unt_220/)
 
  **Unit description:** Бассейн крови: усиливает высасывание жизни ближайших отрядов.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
+ **Item to Повысить ранг :** [Жетон славного щита](/ItemsRU/con_913/)
 
  **Облик:** -
 
@@ -179,7 +179,7 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

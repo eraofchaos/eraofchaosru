@@ -3,7 +3,7 @@ title: "Лесной эльф"
 permalink: /units/Wood Elf/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эльфы Авлии - меткие лучники. Они охраняют свой лесной дом, осыпая чужаков градом стрел."
 unitID: 203
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Лесной эльф"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Лесной эльф](/ru/Items/unt_201/)
+ **Unit Soul:** [Лесной эльф](/ItemsRU/unt_201/)
 
  **Unit description:** Туча стрел: ненадолго увеличивает скорость атаки на 500%.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон длинного лука](/ru/Items/con_914/)
+ **Item to Повысить ранг :** [Жетон длинного лука](/ItemsRU/con_914/)
 
  **Облик:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Скорость атаки
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления стрелков](/ru/Items/con_789/)
+ **Усиление таланта:** [Зелье усиления стрелков](/ItemsRU/con_789/)
 
 
 ## Awaking

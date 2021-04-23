@@ -3,7 +3,7 @@ title: "Лепрекон"
 permalink: /units/Leprechaun/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Подчиняясь зову магического амулета, к тому же дающему чудесную защиту, лепреконы проходят через портал Мирового древа в этот жестокий и коварный мир и становятся самым крепким щитом фракции Природы!"
 unitID: 909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Лепрекон"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Лепреконы](/ru/Items/unt_270/)
+ **Unit Soul:** [Лепреконы](/ItemsRU/unt_270/)
 
  **Short description:** Блок уклонения, усиление контрудара
 
@@ -191,7 +191,7 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

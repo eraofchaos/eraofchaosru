@@ -3,7 +3,7 @@ title: "Ифрит"
 permalink: /units/Efreeti/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Ифрит](/ru/Items/unt_231/)
+ **Unit Soul:** [Ифрит](/ItemsRU/unt_231/)
 
  **Unit description:** Огненный шар: наносит огромный урон врагам, поджигая их.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон таинственного пения](/ru/Items/con_915/)
+ **Item to Повысить ранг :** [Жетон таинственного пения](/ItemsRU/con_915/)
 
  **Облик:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Критический удар отряда
 * Урон отряда
 
- **Усиление таланта:** [Зелье усиления заклинателей](/ru/Items/con_790/)
+ **Усиление таланта:** [Зелье усиления заклинателей](/ItemsRU/con_790/)
 
 
 ## Awaking

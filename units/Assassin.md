@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Ассасин](/ru/Items/unt_271/)
+ **Unit Soul:** [Ассасин](/ItemsRU/unt_271/)
 
  **Short description:** Смертельный урон, подавление регенерации
 
@@ -167,7 +167,7 @@ toc: true
 * Урон отряда
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления штурма](/ru/Items/con_788/)
+ **Усиление таланта:** [Зелье усиления штурма](/ItemsRU/con_788/)
 
 
 ## Awaking

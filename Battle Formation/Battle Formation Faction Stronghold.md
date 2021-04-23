@@ -2,7 +2,7 @@
 title: "Боевое построение Цитадель"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Боевое построение Цитадель"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "BattleFormationFactionStronghold"
 toc: false

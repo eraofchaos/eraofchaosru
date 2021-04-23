@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Эра хаоса Эксклюзив Inferno. Эксклюзив Inferno. List of Эксклюзив Inferno in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Exclusive Inferno"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Бес](/ru/units/Imp/) | [Славный щит](/ru/Exclusive/Imp Iris Shield/) | - | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
-  | 2  | [Гог](/ru/units/Gog/) | [Таинственное пение](/ru/Exclusive/Gog Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
-  | 3  | [Гончая ада](/ru/units/Hell Hound/) | [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ru/Items/con_916/) | - |
-  | 4  | [Демон](/ru/units/Demon/) | [Славный щит](/ru/Exclusive/Demon Iris Shield/) | + | Заряд | [Жетон славного щита](/ru/Items/con_913/) | - |
-  | 5  | [Порождение зла](/ru/units/Pit Fiend/) | [Меч](/ru/Exclusive/Pit Fiend Sword/) | - | Заряд | [Жетон меча](/ru/Items/con_912/) | - |
-  | 6  | [Ифрит](/ru/units/Efreeti/) | [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ru/Items/con_915/) | - |
-  | 7  | [Дьявол](/ru/units/Devil/) | [Коса дьявола](/ru/Exclusive/Devil Devil Scythe/) | - | Поддержка | [Жетон косы дьявола](/ru/Items/con_984/) | [Особый облик: Коса дьявола](/ru/Items/con_652/) |
-  | 8  | [Кошмар](/ru/units/Nightmare/) | [](/ru/Exclusive/Nightmare /) | - | Стрелковый | [Око Ужаса](/ru/Items/con_985/) | [Tool_250809](/ru/Items/con_653/) |
+  | 1  | [Бес](/ru/units/Imp/) | [Славный щит](/ru/Exclusive/Imp Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 2  | [Гог](/ru/units/Gog/) | [Таинственное пение](/ru/Exclusive/Gog Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
+  | 3  | [Гончая ада](/ru/units/Hell Hound/) | [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
+  | 4  | [Демон](/ru/units/Demon/) | [Славный щит](/ru/Exclusive/Demon Iris Shield/) | + | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 5  | [Порождение зла](/ru/units/Pit Fiend/) | [Меч](/ru/Exclusive/Pit Fiend Sword/) | - | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
+  | 6  | [Ифрит](/ru/units/Efreeti/) | [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
+  | 7  | [Дьявол](/ru/units/Devil/) | [Коса дьявола](/ru/Exclusive/Devil Devil Scythe/) | - | Поддержка | [Жетон косы дьявола](/ItemsRU/con_984/) | [Особый облик: Коса дьявола](/ItemsRU/con_652/) |
+  | 8  | [Кошмар](/ru/units/Nightmare/) | [](/ru/Exclusive/Nightmare /) | - | Стрелковый | [Око Ужаса](/ItemsRU/con_985/) | [Tool_250809](/ItemsRU/con_653/) |
   | 9  | [Огненный демон](/ru/units/Venom Spawn/) | - | - | - | none | none |

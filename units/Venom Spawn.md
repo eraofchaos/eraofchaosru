@@ -3,7 +3,7 @@ title: "Огненный демон"
 permalink: /units/Venom Spawn/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Падшие в Инферно и возрожденные в огне средь теней, подобные демоны - самые страшные создание, каких лишь может породить воображение. В любой бой они несут всепоглощающий огонь кармы."
 unitID: 509
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Огненный демон"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/ru/Items/unt_234/)
+ **Unit Soul:** [Tool_3509](/ItemsRU/unt_234/)
 
  **Short description:** От провала к победе, от смерти к жизни
 
@@ -235,7 +235,7 @@ toc: true
 * Защита
 * Снижение УРН отряда
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

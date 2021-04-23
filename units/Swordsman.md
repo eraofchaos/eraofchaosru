@@ -3,7 +3,7 @@ title: "Мечник"
 permalink: /units/Swordsman/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса В крестоносцы принимают только самых смелых, прославленных и опытных солдат. Об их военном мастерстве ходят легенды."
 unitID: 104
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Мечник"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Мечник](/ru/Items/unt_193/)
+ **Unit Soul:** [Мечник](/ItemsRU/unt_193/)
 
  **Unit description:** Божественная защита снижает получаемый урон.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон славного щита](/ru/Items/con_913/)
+ **Item to Повысить ранг :** [Жетон славного щита](/ItemsRU/con_913/)
 
  **Облик:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Защита
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления защиты](/ru/Items/con_787/)
+ **Усиление таланта:** [Зелье усиления защиты](/ItemsRU/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Богомол"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 
- **Unit Soul:** [Tool_3209](/ru/Items/unt_207/)
+ **Unit Soul:** [Tool_3209](/ItemsRU/unt_207/)
 
  **Short description:** Быстрый порез, усиление по области
 
@@ -183,7 +183,7 @@ toc: true
 * Скорость атаки
 * Критический удар отряда
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Каменная горгулья"
 permalink: /units/Stone Gargoyle/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
 unitID: 602
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Каменная горгулья"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 
- **Unit Soul:** [Каменная горгулья](/ru/Items/unt_236/)
+ **Unit Soul:** [Каменная горгулья](/ItemsRU/unt_236/)
 
  **Unit description:** Каменное обличье: усиливает атаку и скорость атаки.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
+ **Item to Повысить ранг :** [Жетон меча](/ItemsRU/con_912/)
 
  **Облик:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Уклонение отряда
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking

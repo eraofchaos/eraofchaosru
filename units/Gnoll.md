@@ -3,7 +3,7 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 
- **Unit Soul:** [Гнолл](/ru/Items/unt_253/)
+ **Unit Soul:** [Гнолл](/ItemsRU/unt_253/)
 
  **Short description:** Рукопашный УВС. Оглушает.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Повысить ранг :** [Жетон меча](/ru/Items/con_912/)
+ **Item to Повысить ранг :** [Жетон меча](/ItemsRU/con_912/)
 
  **Облик:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Урон отряда
 * Сопротивление магии
 
- **Усиление таланта:** [Зелье усиления атаки](/ru/Items/con_786/)
+ **Усиление таланта:** [Зелье усиления атаки](/ItemsRU/con_786/)
 
 
 ## Awaking
