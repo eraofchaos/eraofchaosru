@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Топор ярости** |  | 
-  | [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Огрова дубина разрушения](/images/t/artifact_40311.png) [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Туника короля циклопов](/images/t/artifact_40311.png) [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Топор ярости](/images/t/icon_artifact_31.png) **Топор ярости** |  | 
+  | ![Щит неистового огра](/images/t/artifact_40311.png) [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Корона верховного мага](/images/t/artifact_40311.png) [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Подробности

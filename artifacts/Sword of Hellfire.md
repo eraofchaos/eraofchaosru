@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Меч адского пламени](/images/t/artifact_40301.png)
+
 
 
 ## Подробности
 
  **Описание:** Меч, наполненный темной силой. Компонент доспеха проклятого.
 
- **Part of Artifact:** [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

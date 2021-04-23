@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | 
-  |   | **Фиал с кровью жизни** |  | 
-  |   | [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  | ![Кольцо здоровья](/images/t/artifact_40111.png) [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Кольцо жизни](/images/t/artifact_40111.png) [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  |   | ![Фиал с кровью жизни](/images/t/icon_artifact_11.png) **Фиал с кровью жизни** |  | 
+  |   | ![Бутылка энергии](/images/t/artifact_40111.png) [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Подробности

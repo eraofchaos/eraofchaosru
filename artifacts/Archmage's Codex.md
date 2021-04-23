@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Амулет бога грома](/ru/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Посох разложения](/ru/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Канон мага** |  | 
-  | [Плащ антимагии](/ru/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Сияющее кольцо](/ru/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Амулет бога грома](/ru/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Посох разложения](/ru/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Канон мага](/images/t/icon_artifact_34.png) **Канон мага** |  | 
+  |  [Плащ антимагии](/ru/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Сияющее кольцо](/ru/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Подробности

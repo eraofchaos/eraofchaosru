@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Костяной доспех](/images/t/artifact_40304.png)
+
 
 
 ## Подробности
 
  **Описание:** Щит из крепких костей. Компонент доспеха проклятого.
 
- **Part of Artifact:** [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

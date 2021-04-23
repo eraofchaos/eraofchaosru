@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Волшебный амулет](/images/t/artifact_40212.png)
+
 
 
 ## Подробности
 
  **Описание:** Амулет, обладающий магической силой. Компонент источника чародея.
 
- **Part of Artifact:** [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Источник чародея](/images/t/icon_artifact_21.png) [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Секира горы](/images/t/artifact_40444.png)
+
 
 
 ## Подробности
 
  **Описание:** Реликвия, оставленная королем гномов после битвы за Энрот. Компонент клинка Армагеддона.
 
- **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Клинок Армагеддона](/images/t/icon_artifact_44.png) [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

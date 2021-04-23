@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Клевер Фортуны](/images/t/artifact_40121.png)
+
 
 
 ## Подробности
 
  **Описание:** Приносящий удачу клевер. Компонент счастливой подковы.
 
- **Part of Artifact:** [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Счастливая подкова](/images/t/icon_artifact_12.png) [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Сущность артефактов](/ItemsRU/con_905/)
 

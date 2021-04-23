@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | **Счастливая подкова** |  | 
-  |   | [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  | ![Клевер Фортуны](/images/t/artifact_40121.png) [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Карты пророчества](/images/t/artifact_40121.png) [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | ![Счастливая подкова](/images/t/icon_artifact_12.png) **Счастливая подкова** |  | 
+  |   | ![Птица счастья](/images/t/artifact_40121.png) [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Подробности

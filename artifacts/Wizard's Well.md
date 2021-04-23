@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Источник чародея** |  | 
-  |   | [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  | ![Амулет маны](/images/t/artifact_40211.png) [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Волшебный амулет](/images/t/artifact_40211.png) [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Источник чародея](/images/t/icon_artifact_21.png) **Источник чародея** |  | 
+  |   | ![Волшебная сфера маны](/images/t/artifact_40211.png) [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Подробности

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Накидка заклинателя](/images/t/artifact_40223.png)
+
 
 
 ## Подробности
 
  **Описание:** Плащ, потрескивающий от магической силы. Компонент кольца мага.
 
- **Part of Artifact:** [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Кольцо мага](/images/t/icon_artifact_22.png) [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 

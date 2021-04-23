@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Амулет маны](/images/t/artifact_40211.png)
+
 
 
 ## Подробности
 
  **Описание:** Усиливающий магию амулет. Компонент источника чародея.
 
- **Part of Artifact:** [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Источник чародея](/images/t/icon_artifact_21.png) [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Огрова дубина разрушения](/images/t/artifact_40311.png)
+
 
 
 ## Подробности
 
  **Описание:** Дубина, взятая у огра-капитана в придорожной таверне. Компонент топора ярости.
 
- **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Топор ярости](/images/t/icon_artifact_31.png) [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

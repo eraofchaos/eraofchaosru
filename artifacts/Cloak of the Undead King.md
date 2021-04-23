@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
-  |   | **Накидка Мертвого короля** |  | 
-  |   | [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  | ![Амулет некроманта](/images/t/artifact_40321.png) [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Плащ вампира](/images/t/artifact_40321.png) [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  |   | ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) **Накидка Мертвого короля** |  | 
+  |   | ![Башмаки мертвеца](/images/t/artifact_40321.png) [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Подробности

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Эталонный арбалет](/images/t/artifact_40446.png)
+
 
 
 ## Подробности
 
  **Описание:** Артефакт, который носил герой Джелу до совершеннолетия. Компонент клинка Армагеддона.
 
- **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Клинок Армагеддона](/images/t/icon_artifact_44.png) [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

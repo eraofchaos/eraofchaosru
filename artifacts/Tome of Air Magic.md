@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Книга магии Воздуха](/images/t/artifact_40463.png)
+
 
 
 ## Подробности
 
  **Описание:** Волшебная книга, в которой записаны продвинутые заклинания Воздуха. При чтении вы чувствуете элементаля Воздуха. Компонент Шляпы заклинателя.
 
- **Part of Artifact:** [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Шляпа заклинателя](/images/t/icon_artifact_46.png) [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 

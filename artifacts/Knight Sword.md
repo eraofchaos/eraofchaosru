@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Меч рыцаря](/images/t/artifact_40441.png)
+
 
 
 ## Подробности
 
  **Описание:** Меч, который носят герои Замка. Компонент клинка Армагеддона.
 
- **Part of Artifact:** [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Клинок Армагеддона](/images/t/icon_artifact_44.png) [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

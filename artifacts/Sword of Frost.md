@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Меч Холода** | [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Меч Холода** |  [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Подробности

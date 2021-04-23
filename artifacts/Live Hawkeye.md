@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Птица проницательности](/ru/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Кольцо орлиного глаза](/ru/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Птица проницательности](/ru/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Кольцо орлиного глаза](/ru/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Зоркий ястребиный глаз** |  | 
-  | [Стойкий часовой](/ru/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Медаль истины](/ru/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Стойкий часовой](/ru/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Медаль истины](/ru/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Подробности

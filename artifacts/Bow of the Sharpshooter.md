@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Эльфийский лук из вишневого дерева](/ru/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Стрелы с перьями ангела](/ru/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | **Лук снайпера** |  | 
-  |   | [Тетива из гривы единорога](/ru/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  | ![Эльфийский лук из вишневого дерева](/images/t/artifact_40101.png) [Эльфийский лук из вишневого дерева](/ru/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Стрелы с перьями ангела](/images/t/artifact_40101.png) [Стрелы с перьями ангела](/ru/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | ![Лук снайпера](/images/t/icon_artifact_10.png) **Лук снайпера** |  | 
+  |   | ![Тетива из гривы единорога](/images/t/artifact_40101.png) [Тетива из гривы единорога](/ru/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Подробности

@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Шлем бога грома. Компонент грома титана.
 
- **Part of Artifact:** [Гром титана](/ru/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Гром титана](/images/t/icon_artifact_42.png) [Гром титана](/ru/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 

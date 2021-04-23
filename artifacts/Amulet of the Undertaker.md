@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Амулет некроманта](/images/t/artifact_40321.png)
+
 
 
 ## Подробности
 
  **Описание:** Амулет, который носил лич, чтобы защитить себя. Компонент накидки Мертвого короля.
 
- **Part of Artifact:** [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

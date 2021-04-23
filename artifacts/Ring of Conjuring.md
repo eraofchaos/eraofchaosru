@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Кольцо заклинателя](/images/t/artifact_40222.png)
+
 
 
 ## Подробности
 
  **Описание:** Таинственное кольцо с сильной магией. Компонент кольца мага.
 
- **Part of Artifact:** [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Кольцо мага](/images/t/icon_artifact_22.png) [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 

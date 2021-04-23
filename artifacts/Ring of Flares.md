@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Кольцо, омываемое потоками энергии. Одно из сокровищ, описанных в каноне мага.
 
- **Part of Artifact:** [Канон мага](/ru/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Канон мага](/images/t/icon_artifact_34.png) [Канон мага](/ru/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

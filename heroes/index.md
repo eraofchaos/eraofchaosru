@@ -46,7 +46,7 @@ classes: wide
   | 33 | ![Сефинрот](/images/h/h_Sephinroth.jpg) | [Сефинрот](/ru/heroes/Sephinroth/) | Подземелье | Алхимик | **R** |  Кристальный взгляд | R |
   | 34 | ![Сиэль](/images/h/h_Ciele.jpg) | [Сиэль](/ru/heroes/Ciele/) | Гармония | Элементалист | **SSR** |  Резонанс стихий | SSR |
   | 35 | ![Сольмир](/images/h/h_Solmyr.jpg) | [Сольмир](/ru/heroes/Solmyr/) | Башня | Боевой маг | **SR+** |  Цепь молний | SR |
-  | 36 | ![Тазар](/images/h/h_Tazar.jpg) | [Тазар](/ru/heroes/Tazar/) | Крепость | Хозяин зверей | **SSR** |  Кровавая ярость | SR |
+  | 36 | ![Тазар](/images/h/h_Tazar.jpg) | [Тазар](/ru/heroes/Tazar/) | Крепость | Хозяин зверей | **SSR** |  Кровавая ярость | SSR |
   | 37 | ![Фиур](/images/h/h_Fiur.jpg) | [Фиур](/ru/heroes/Fiur/) | Гармония | Путешественник | **R** |  Элементаль Огня | R |
   | 38 | ![Человек Сандро](/images/h/h_HumanSandro.jpg) | [Человек Сандро](/ru/heroes/Human Sandro/) | Некрополь | Некромант | **SR+** |  Бессмертная душа | SR |
   | 39 | ![Шива](/images/h/h_Shiwa.jpg) | [Шива](/ru/heroes/Shiva/) | Цитадель | Варвар | **R** |  Вестники бури | R |

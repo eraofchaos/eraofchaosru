@@ -13,8 +13,8 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Описание   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | [Фиал с кровью жизни](/ru/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Священная реликвия с огромным здоровьем. Повышает здоровье всей армии. |
-  | 2   | [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Священная реликвия, наполненная силой. Повышает атаку всей армии. |
+  | 1   | ![Фиал с кровью жизни](/images/t/icon_artifact_11.png) [Фиал с кровью жизни](/ru/artifacts/Elixir of Life/){: .btn .btn--era2} | 3 | 1 | Священная реликвия с огромным здоровьем. Повышает здоровье всей армии. |
+  | 2   | ![Счастливая подкова](/images/t/icon_artifact_12.png) [Счастливая подкова](/ru/artifacts/Lucky Horseshoe/){: .btn .btn--era2} | 3 | 1 | Священная реликвия, наполненная силой. Повышает атаку всей армии. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/ru/artifacts/Artifacts Upgrade/)

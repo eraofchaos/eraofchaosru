@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
-  |   | **Кольцо мага** |  | 
-  |   | [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  | ![Колье заклинателя](/images/t/artifact_40221.png) [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Кольцо заклинателя](/images/t/artifact_40221.png) [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  |   | ![Кольцо мага](/images/t/icon_artifact_22.png) **Кольцо мага** |  | 
+  |   | ![Накидка заклинателя](/images/t/artifact_40221.png) [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Подробности

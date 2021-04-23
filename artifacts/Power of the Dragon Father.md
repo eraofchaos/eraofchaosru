@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Поножи из кости дракона](/ru/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Ожерелье из зубов дракона](/ru/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Щит дракона](/ru/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Сила Отца драконов** | [Корона дракона](/ru/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Огненный язык красного дракона](/ru/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Доспех черного дракона](/ru/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Поножи из кости дракона](/ru/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Ожерелье из зубов дракона](/ru/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Щит дракона](/ru/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Сила Отца драконов](/images/t/icon_artifact_40.png) **Сила Отца драконов** |  [Корона дракона](/ru/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Огненный язык красного дракона](/ru/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Доспех черного дракона](/ru/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Подробности

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Башмаки мертвеца](/images/t/artifact_40323.png)
+
 
 
 ## Подробности
 
  **Описание:** Сапоги, дарящие носителю скорость ветра. Компонент накидки Мертвого короля.
 
- **Part of Artifact:** [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

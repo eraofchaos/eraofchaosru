@@ -19,7 +19,7 @@ toc: true
 
  **Rate:** SSR
 
- **User Rate:** SR
+ **User Rate:** SSR
 
  **Способность героя:** Кровавая ярость
 

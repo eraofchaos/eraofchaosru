@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Корона верховного мага](/images/t/artifact_40313.png)
+
 
 
 ## Подробности
 
  **Описание:** Корона, полученная в подарок за спасение безумного чародея. Компонент топора ярости.
 
- **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Топор ярости](/images/t/icon_artifact_31.png) [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

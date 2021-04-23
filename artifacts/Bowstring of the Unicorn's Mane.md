@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Тетива из гривы единорога](/images/t/artifact_40103.png)
+
 
 
 ## Подробности
 
  **Описание:** Грива, подаренная эльфам священным животным. Компонент лука снайпера.
 
- **Part of Artifact:** [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Лук снайпера](/images/t/icon_artifact_10.png) [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

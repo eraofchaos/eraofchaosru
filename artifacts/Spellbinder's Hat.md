@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Книга магии Огня](/ru/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Книга магии Земли](/ru/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | **Шляпа заклинателя** |  | 
-  | [Книга магии Воды](/ru/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Книга магии Воздуха](/ru/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Книга магии Огня](/images/t/artifact_40461.png) [Книга магии Огня](/ru/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Книга магии Земли](/images/t/artifact_40461.png) [Книга магии Земли](/ru/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  |   | ![Шляпа заклинателя](/images/t/icon_artifact_46.png) **Шляпа заклинателя** |  | 
+  | ![Книга магии Воды](/images/t/artifact_40461.png) [Книга магии Воды](/ru/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Книга магии Воздуха](/images/t/artifact_40461.png) [Книга магии Воздуха](/ru/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Подробности

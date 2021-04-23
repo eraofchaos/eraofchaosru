@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Кольцо здоровья](/images/t/artifact_40111.png)
+
 
 
 ## Подробности
 
  **Описание:** Кольцо, придающее энергию. Компонент фиала с кровью жизни.
 
- **Part of Artifact:** [Фиал с кровью жизни](/ru/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Фиал с кровью жизни](/images/t/icon_artifact_11.png) [Фиал с кровью жизни](/ru/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Сущность артефактов](/ItemsRU/con_905/)
 

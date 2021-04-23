@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Боевой меч титана](/ru/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Кираса титана](/ru/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Гром титана** |  | 
-  | [Щит часового](/ru/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Громовой шлем](/ru/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Боевой меч титана](/ru/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Кираса титана](/ru/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Гром титана](/images/t/icon_artifact_42.png) **Гром титана** |  | 
+  |  [Щит часового](/ru/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Громовой шлем](/ru/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Подробности

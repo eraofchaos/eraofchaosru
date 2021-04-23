@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Наследный доспех](/images/t/artifact_40231.png)
+
 
 
 ## Подробности
 
  **Описание:** Ожерелье с выгравированным символом инь-ян. Компонент рунного камня антимагии.
 
- **Part of Artifact:** [Рунный камень антимагии](/ru/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Рунный камень антимагии](/images/t/icon_artifact_23.png) [Рунный камень антимагии](/ru/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Сущность артефактов](/ItemsRU/con_905/)
 

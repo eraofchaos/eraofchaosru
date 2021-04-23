@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Щит львиной храбрости](/ru/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Ангельский союз** | [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Щит львиной храбрости](/ru/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Ангельский союз](/images/t/icon_artifact_41.png) **Ангельский союз** |  [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Подробности

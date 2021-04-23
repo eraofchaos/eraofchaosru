@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Книга магии Огня](/images/t/artifact_40461.png)
+
 
 
 ## Подробности
 
  **Описание:** Волшебная книга, в которой записаны продвинутые заклинания Огня. Луна читала эту книгу перед сном. Компонент Шляпы заклинателя.
 
- **Part of Artifact:** [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Шляпа заклинателя](/images/t/icon_artifact_46.png) [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 

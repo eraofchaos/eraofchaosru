@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Поножи из берцовых костей короля драконов. Компонент силы Отца драконов.
 
- **Part of Artifact:** [Сила Отца драконов](/ru/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Сила Отца драконов](/images/t/icon_artifact_40.png) [Сила Отца драконов](/ru/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

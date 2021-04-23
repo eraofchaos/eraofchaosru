@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Ожерелье, полученное от ангела. Компонент Ангельского союза.
 
- **Part of Artifact:** [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Ангельский союз](/images/t/icon_artifact_41.png) [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

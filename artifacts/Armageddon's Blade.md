@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | **Клинок Армагеддона** | [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Лесной лук](/images/t/artifact_40441.png) [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Эталонный арбалет](/images/t/artifact_40441.png) [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Меч рыцаря](/images/t/artifact_40441.png) [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | ![Клинок Армагеддона](/images/t/icon_artifact_44.png) **Клинок Армагеддона** | ![Секира горы](/images/t/artifact_40441.png) [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Посох мудрости](/images/t/artifact_40441.png) [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Боевой молот](/images/t/artifact_40441.png) [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Подробности

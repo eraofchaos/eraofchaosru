@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Хрустальный шар](/ru/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Плащаница Эдема](/ru/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Хрустальный череп](/ru/artifacts/Crystal Skull/){: .btn .btn--era5} | **Золотое яблоко** | [Меч Эдема](/ru/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Анкх Эдема](/ru/artifacts/Ankh/){: .btn .btn--era5} |   | [Посох Эдема](/ru/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Хрустальный шар](/ru/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Плащаница Эдема](/ru/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Хрустальный череп](/ru/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Золотое яблоко](/images/t/icon_artifact_49.png) **Золотое яблоко** |  [Меч Эдема](/ru/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Анкх Эдема](/ru/artifacts/Ankh/){: .btn .btn--era5} |   |  [Посох Эдема](/ru/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Подробности

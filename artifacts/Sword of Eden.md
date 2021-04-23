@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Оружие Первой Цивилизации, поражает противника электрическим током.
 
- **Part of Artifact:** [Золотое яблоко](/ru/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Золотое яблоко](/images/t/icon_artifact_49.png) [Золотое яблоко](/ru/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Сущность артефактов](/ItemsRU/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Эльфийский лук из вишневого дерева](/images/t/artifact_40101.png)
+
 
 
 ## Подробности
 
  **Описание:** Длинный лук, вырезанный эльфами из дерева. Компонент лука снайпера.
 
- **Part of Artifact:** [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Лук снайпера](/images/t/icon_artifact_10.png) [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

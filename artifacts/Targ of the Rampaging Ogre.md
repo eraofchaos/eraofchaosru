@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Щит неистового огра](/images/t/artifact_40312.png)
+
 
 
 ## Подробности
 
  **Описание:** Сувенир в память о победе над огром-лейтенантом. Компонент топора ярости.
 
- **Part of Artifact:** [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Топор ярости](/images/t/icon_artifact_31.png) [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

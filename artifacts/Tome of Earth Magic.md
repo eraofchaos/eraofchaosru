@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Книга магии Земли](/images/t/artifact_40464.png)
+
 
 
 ## Подробности
 
  **Описание:** Волшебная книга, в которой записаны продвинутые заклинания Земли. По легенде Джеддит победил с ее помощью превратившуюся в дракона Мутару. Компонент Шляпы заклинателя.
 
- **Part of Artifact:** [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Шляпа заклинателя](/images/t/icon_artifact_46.png) [Шляпа заклинателя](/ru/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 

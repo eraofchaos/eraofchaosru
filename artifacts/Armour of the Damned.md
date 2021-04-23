@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Меч адского пламени](/ru/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Костяной доспех](/ru/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | **Доспех проклятого** |  | 
-  | [Щит неупокоенных](/ru/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Шлем-череп](/ru/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Меч адского пламени](/images/t/artifact_40301.png) [Меч адского пламени](/ru/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Костяной доспех](/images/t/artifact_40301.png) [Костяной доспех](/ru/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | ![Доспех проклятого](/images/t/icon_artifact_30.png) **Доспех проклятого** |  | 
+  | ![Щит неупокоенных](/images/t/artifact_40301.png) [Щит неупокоенных](/ru/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Шлем-череп](/images/t/artifact_40301.png) [Шлем-череп](/ru/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Подробности

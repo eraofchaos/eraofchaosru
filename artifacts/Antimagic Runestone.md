@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | **Рунный камень антимагии** |  | 
-  |   | [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  | ![Наследный доспех](/images/t/artifact_40231.png) [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Плащ равновесия](/images/t/artifact_40231.png) [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | ![Рунный камень антимагии](/images/t/icon_artifact_23.png) **Рунный камень антимагии** |  | 
+  |   | ![Башмаки полярности](/images/t/artifact_40231.png) [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Подробности
