@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 - 29-2  Тореадор"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Глава 29 - 2. Эра хаоса  Подземелье - Глава 29_2. 29-2  Тореадор"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 29_2.md"
 toc: false

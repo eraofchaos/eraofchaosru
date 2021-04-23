@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-13. Лавовое пепелище"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Глава 30 - 13. Эра хаоса  Основной сюжет - Глава 30_13. 30-13. Лавовое пепелище"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 30_13.md"
 toc: false

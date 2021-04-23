@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-1 Скрытые клыки"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Глава 7 - 1. Эра хаоса  Основной сюжет - Глава 7_1. 7-1 Скрытые клыки"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 7_1.md"
 toc: false

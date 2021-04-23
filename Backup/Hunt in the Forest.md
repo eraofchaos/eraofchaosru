@@ -2,7 +2,7 @@
 title: "Backup - Лесная охота"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Эра хаоса  Лесная охота"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Hunt in the Forest.md"
 toc: false

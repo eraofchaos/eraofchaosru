@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-14 Запах серы"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Глава 23 - 14. Эра хаоса  Основной сюжет - Глава 23_14. 23-14 Запах серы"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 23_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Кольцо мага - Колье заклинателя"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Эра хаоса  Кольцо мага - Колье заклинателя. Увеличивает магическую силу носителя. Компонент кольца мага."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Collar of Conjuring.md"
 toc: false

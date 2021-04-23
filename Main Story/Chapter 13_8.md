@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-8 Перед рассветом"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "Глава 13 - 8. Эра хаоса  Основной сюжет - Глава 13_8. 13-8 Перед рассветом"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 13_8.md"
 toc: false

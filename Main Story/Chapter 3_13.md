@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-13 Конюшни и леса"
 permalink: /Main Story/Chapter 3_13/
 excerpt: "Глава 3 - 13. Эра хаоса  Основной сюжет - Глава 3_13. 3-13 Конюшни и леса"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 3_13.md"
 toc: false

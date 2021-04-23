@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 20 - 20-5 Ледяное дыхание"
 permalink: /Underground/Chapter 20_5/
 excerpt: "Глава 20 - 5. Эра хаоса  Подземелье - Глава 20_5. 20-5 Ледяное дыхание"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 20_5.md"
 toc: false

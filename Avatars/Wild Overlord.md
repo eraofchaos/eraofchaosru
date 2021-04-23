@@ -2,7 +2,7 @@
 title: "Аватар - Владыка дебрей"
 permalink: /Avatars/Wild Overlord/
 excerpt: "Эра хаоса  Владыка дебрей"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Wild Overlord.md"
 toc: false

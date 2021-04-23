@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-12 Подземная дуэль"
 permalink: /Main Story/Chapter 12_12/
 excerpt: "Глава 12 - 12. Эра хаоса  Основной сюжет - Глава 12_12. 12-12 Подземная дуэль"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 12_12.md"
 toc: false

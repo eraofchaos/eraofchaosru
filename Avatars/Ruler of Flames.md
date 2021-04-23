@@ -2,7 +2,7 @@
 title: "Аватар - Повелитель пламени"
 permalink: /Avatars/Ruler of Flames/
 excerpt: "Эра хаоса  Повелитель пламени"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Ruler of Flames.md"
 toc: false

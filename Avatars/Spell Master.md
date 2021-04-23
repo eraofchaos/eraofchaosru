@@ -2,7 +2,7 @@
 title: "Аватар - Мастер заклятий"
 permalink: /Avatars/Spell Master/
 excerpt: "Эра хаоса  Мастер заклятий"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Spell Master.md"
 toc: false

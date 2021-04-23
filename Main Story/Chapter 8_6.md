@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-6 Схема раскрыта"
 permalink: /Main Story/Chapter 8_6/
 excerpt: "Глава 8 - 6. Эра хаоса  Основной сюжет - Глава 8_6. 8-6 Схема раскрыта"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 8_6.md"
 toc: false

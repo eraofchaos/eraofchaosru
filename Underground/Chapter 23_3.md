@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 - 23-3 Громовое опустошение"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Глава 23 - 3. Эра хаоса  Подземелье - Глава 23_3. 23-3 Громовое опустошение"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 23_3.md"
 toc: false

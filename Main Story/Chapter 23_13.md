@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-13 Охрана сокровища"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "Глава 23 - 13. Эра хаоса  Основной сюжет - Глава 23_13. 23-13 Охрана сокровища"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 23_13.md"
 toc: false

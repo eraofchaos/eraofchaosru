@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-9. Охота на мантикор"
 permalink: /Main Story/Chapter 28_9/
 excerpt: "Глава 28 - 9. Эра хаоса  Основной сюжет - Глава 28_9. 28-9. Охота на мантикор"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 28_9.md"
 toc: false

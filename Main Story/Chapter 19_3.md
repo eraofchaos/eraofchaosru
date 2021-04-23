@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-3 Колонна Курла"
 permalink: /Main Story/Chapter 19_3/
 excerpt: "Глава 19 - 3. Эра хаоса  Основной сюжет - Глава 19_3. 19-3 Колонна Курла"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 19_3.md"
 toc: false

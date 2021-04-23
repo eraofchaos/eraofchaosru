@@ -2,7 +2,7 @@
 title: "Награда"
 permalink: /Weekly Sign Rewards/
 excerpt: "Эра хаоса  Weekly Награда."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "index.md"
 toc: true

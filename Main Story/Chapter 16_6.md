@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-6 Король золота"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Глава 16 - 6. Эра хаоса  Основной сюжет - Глава 16_6. 16-6 Король золота"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 16_6.md"
 toc: false

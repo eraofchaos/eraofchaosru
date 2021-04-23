@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 - 7-2 Мольба к соседям"
 permalink: /Underground/Chapter 7_2/
 excerpt: "Глава 7 - 2. Эра хаоса  Подземелье - Глава 7_2. 7-2 Мольба к соседям"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 7_2.md"
 toc: false

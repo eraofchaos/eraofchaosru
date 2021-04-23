@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-10 Эльфийские самоцветы"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Глава 16 - 10. Эра хаоса  Основной сюжет - Глава 16_10. 16-10 Эльфийские самоцветы"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: ru
 ref: "Chapter 16_10.md"
 toc: false
