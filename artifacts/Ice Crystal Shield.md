@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Осколок ледяного кристалла](/images/t/artifact_40435.png)
+
 
 
 ## Подробности

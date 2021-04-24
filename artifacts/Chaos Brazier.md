@@ -15,7 +15,7 @@ classes: wide
 
  **Описание:** Предмет для сбережения магии Огня. Один из компонентов зеркала возмездия.
 
- **Part of Artifact:** [Зеркало возмездия](/ru/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Зеркало возмездия](/images/t/icon_artifact_35.png) [Зеркало возмездия](/ru/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

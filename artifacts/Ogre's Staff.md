@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Посох огра](/images/t/artifact_40434.png)
+
 
 
 ## Подробности

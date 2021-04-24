@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Наследный доспех](/images/t/artifact_40231.png) [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Плащ равновесия](/images/t/artifact_40231.png) [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Наследный доспех](/images/t/artifact_40231.png) [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Плащ равновесия](/images/t/artifact_40232.png) [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Рунный камень антимагии](/images/t/icon_artifact_23.png) **Рунный камень антимагии** |  | 
-  |   | ![Башмаки полярности](/images/t/artifact_40231.png) [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Башмаки полярности](/images/t/artifact_40233.png) [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Знания героя**: 3+(LEVEL\*1.2) | Ожерелье с выгравированным символом инь-ян. Компонент рунного камня антимагии. | 
-  | 2 | [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 3+(LEVEL\*1.2) | Плащ с вышитым символом инь-ян. Компонент рунного камня антимагии. | 
-  | 3 | [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Магический урон**: 1+(LEVEL\*0.4) %<br/>**Знания героя**: 3+(LEVEL\*1.2) | Сапоги с вышитым символом инь-ян. Компонент рунного камня антимагии. | 
+  | 1 | ![Наследный доспех](/images/t/artifact_40231.png) [Наследный доспех](/ru/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Знания героя**: 3+(LEVEL\*1.2) | Ожерелье с выгравированным символом инь-ян. Компонент рунного камня антимагии. | 
+  | 2 | ![Плащ равновесия](/images/t/artifact_40232.png) [Плащ равновесия](/ru/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 3+(LEVEL\*1.2) | Плащ с вышитым символом инь-ян. Компонент рунного камня антимагии. | 
+  | 3 | ![Башмаки полярности](/images/t/artifact_40233.png) [Башмаки полярности](/ru/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Магический урон**: 1+(LEVEL\*0.4) %<br/>**Знания героя**: 3+(LEVEL\*1.2) | Сапоги с вышитым символом инь-ян. Компонент рунного камня антимагии. | 
 
 
 ## Artifact Advancement

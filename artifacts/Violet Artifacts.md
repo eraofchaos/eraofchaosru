@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Лук снайпера](/images/t/icon_artifact_10.png) [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Священная реликвия, выкованная эльфами из сокровищ. Повышает силу дальнобойной атаки. |
   | 4   | ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Священная реликвия, созданная великим королем нежити, чтобы скрывать свое лицо. Призывает армию скелетов. |
   | 5   | ![Канон мага](/images/t/icon_artifact_34.png) [Канон мага](/ru/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | 35 | Содержит в себе мистические знания, усиливающие заклинателей и стрелковые отряды. |
-  | 6   | [Зеркало возмездия](/ru/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | Другое название этого артефакта - «Месть колдуна». Может повысить силу войска с помощью запретной магии. |
+  | 6   | ![Зеркало возмездия](/images/t/icon_artifact_35.png) [Зеркало возмездия](/ru/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | Другое название этого артефакта - «Месть колдуна». Может повысить силу войска с помощью запретной магии. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/ru/artifacts/Artifacts Upgrade/)

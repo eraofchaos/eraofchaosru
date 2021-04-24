@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Кулон святости](/images/t/artifact_40416.png)
+
 
 
 ## Подробности

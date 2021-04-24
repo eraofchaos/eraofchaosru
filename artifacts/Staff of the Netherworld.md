@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Жезл Загробного Мира](/images/t/artifact_40436.png)
+
 
 
 ## Подробности

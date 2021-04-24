@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Кольцо здоровья](/images/t/artifact_40111.png) [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Кольцо жизни](/images/t/artifact_40111.png) [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Кольцо здоровья](/images/t/artifact_40111.png) [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Кольцо жизни](/images/t/artifact_40112.png) [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Фиал с кровью жизни](/images/t/icon_artifact_11.png) **Фиал с кровью жизни** |  | 
-  |   | ![Бутылка энергии](/images/t/artifact_40111.png) [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Бутылка энергии](/images/t/artifact_40113.png) [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Защита героя**: 1+(LEVEL\*0.4)<br/>**Знания героя**: 1+(LEVEL\*0.4) | Кольцо, придающее энергию. Компонент фиала с кровью жизни. | 
-  | 2 | [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 1+(LEVEL\*0.4) | Кольцо, дающее здоровье носителю. Компонент фиала с кровью жизни. | 
-  | 3 | [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 1+(LEVEL\*0.4) | Бутылка, придающая носителю сил. Компонент фиала с кровью жизни. | 
+  | 1 | ![Кольцо здоровья](/images/t/artifact_40111.png) [Кольцо здоровья](/ru/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Защита героя**: 1+(LEVEL\*0.4)<br/>**Знания героя**: 1+(LEVEL\*0.4) | Кольцо, придающее энергию. Компонент фиала с кровью жизни. | 
+  | 2 | ![Кольцо жизни](/images/t/artifact_40112.png) [Кольцо жизни](/ru/artifacts/Ring of Life/){: .btn .btn--era2} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 1+(LEVEL\*0.4) | Кольцо, дающее здоровье носителю. Компонент фиала с кровью жизни. | 
+  | 3 | ![Бутылка энергии](/images/t/artifact_40113.png) [Бутылка энергии](/ru/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 1+(LEVEL\*0.4) | Бутылка, придающая носителю сил. Компонент фиала с кровью жизни. | 
 
 
 ## Artifact Advancement

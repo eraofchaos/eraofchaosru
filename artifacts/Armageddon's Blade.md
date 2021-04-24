@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Лесной лук](/images/t/artifact_40441.png) [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Эталонный арбалет](/images/t/artifact_40441.png) [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | ![Меч рыцаря](/images/t/artifact_40441.png) [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | ![Клинок Армагеддона](/images/t/icon_artifact_44.png) **Клинок Армагеддона** | ![Секира горы](/images/t/artifact_40441.png) [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | ![Посох мудрости](/images/t/artifact_40441.png) [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Боевой молот](/images/t/artifact_40441.png) [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Лесной лук](/images/t/artifact_40442.png) [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Эталонный арбалет](/images/t/artifact_40446.png) [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Меч рыцаря](/images/t/artifact_40441.png) [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | ![Клинок Армагеддона](/images/t/icon_artifact_44.png) **Клинок Армагеддона** | ![Секира горы](/images/t/artifact_40444.png) [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Посох мудрости](/images/t/artifact_40443.png) [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Боевой молот](/images/t/artifact_40445.png) [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Подробности
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | **Атака отряда**: 14+(LEVEL\*5.6) %<br/>**Атака героя**: 8+(LEVEL\*3.2) | Меч, который носят герои Замка. Компонент клинка Армагеддона. | 
-  | 2 | [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} | **Атака отряда**: 5+(LEVEL\*2) %<br/>**Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 16+(LEVEL\*6.4) | Обычный лук лесных эльфов. Компонент клинка Армагеддона. | 
-  | 3 | [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Реликвия, охраняющая щит Льда. Компонент клинка Армагеддона. | 
-  | 4 | [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 4+(LEVEL\*1.6)<br/>**Знания героя**: 16+(LEVEL\*6.4) | Реликвия, оставленная королем гномов после битвы за Энрот. Компонент клинка Армагеддона. | 
-  | 5 | [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Боевой молот, спрятанный в Хребте Гигантов. Компонент клинка Армагеддона. | 
-  | 6 | [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Артефакт, который носил герой Джелу до совершеннолетия. Компонент клинка Армагеддона. | 
+  | 1 | ![Меч рыцаря](/images/t/artifact_40441.png) [Меч рыцаря](/ru/artifacts/Knight Sword/){: .btn .btn--era5} | **Атака отряда**: 14+(LEVEL\*5.6) %<br/>**Атака героя**: 8+(LEVEL\*3.2) | Меч, который носят герои Замка. Компонент клинка Армагеддона. | 
+  | 2 | ![Лесной лук](/images/t/artifact_40442.png) [Лесной лук](/ru/artifacts/Forest Bow/){: .btn .btn--era5} | **Атака отряда**: 5+(LEVEL\*2) %<br/>**Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 16+(LEVEL\*6.4) | Обычный лук лесных эльфов. Компонент клинка Армагеддона. | 
+  | 3 | ![Посох мудрости](/images/t/artifact_40443.png) [Посох мудрости](/ru/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Реликвия, охраняющая щит Льда. Компонент клинка Армагеддона. | 
+  | 4 | ![Секира горы](/images/t/artifact_40444.png) [Секира горы](/ru/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 4+(LEVEL\*1.6)<br/>**Знания героя**: 16+(LEVEL\*6.4) | Реликвия, оставленная королем гномов после битвы за Энрот. Компонент клинка Армагеддона. | 
+  | 5 | ![Боевой молот](/images/t/artifact_40445.png) [Боевой молот](/ru/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Боевой молот, спрятанный в Хребте Гигантов. Компонент клинка Армагеддона. | 
+  | 6 | ![Эталонный арбалет](/images/t/artifact_40446.png) [Эталонный арбалет](/ru/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Артефакт, который носил герой Джелу до совершеннолетия. Компонент клинка Армагеддона. | 
 
 
 ## Artifact Advancement

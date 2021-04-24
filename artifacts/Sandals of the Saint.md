@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Сандалии святого](/images/t/artifact_40415.png)
+
 
 
 ## Подробности

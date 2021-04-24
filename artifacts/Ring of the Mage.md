@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Колье заклинателя](/images/t/artifact_40221.png) [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Кольцо заклинателя](/images/t/artifact_40221.png) [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  | ![Колье заклинателя](/images/t/artifact_40221.png) [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Кольцо заклинателя](/images/t/artifact_40222.png) [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
   |   | ![Кольцо мага](/images/t/icon_artifact_22.png) **Кольцо мага** |  | 
-  |   | ![Накидка заклинателя](/images/t/artifact_40221.png) [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  |   | ![Накидка заклинателя](/images/t/artifact_40223.png) [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 2+(LEVEL\*0.8) | Увеличивает магическую силу носителя. Компонент кольца мага. | 
-  | 2 | [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 2+(LEVEL\*0.8)<br/>**Интеллект героя**: 2+(LEVEL\*0.8) | Таинственное кольцо с сильной магией. Компонент кольца мага. | 
-  | 3 | [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 2+(LEVEL\*0.8) | Плащ, потрескивающий от магической силы. Компонент кольца мага. | 
+  | 1 | ![Колье заклинателя](/images/t/artifact_40221.png) [Колье заклинателя](/ru/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 2+(LEVEL\*0.8) | Увеличивает магическую силу носителя. Компонент кольца мага. | 
+  | 2 | ![Кольцо заклинателя](/images/t/artifact_40222.png) [Кольцо заклинателя](/ru/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 2+(LEVEL\*0.8)<br/>**Интеллект героя**: 2+(LEVEL\*0.8) | Таинственное кольцо с сильной магией. Компонент кольца мага. | 
+  | 3 | ![Накидка заклинателя](/images/t/artifact_40223.png) [Накидка заклинателя](/ru/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 2+(LEVEL\*0.8) | Плащ, потрескивающий от магической силы. Компонент кольца мага. | 
 
 
 ## Artifact Advancement

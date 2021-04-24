@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  |  [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Меч Холода** |  [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  |  [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  | ![Секира минотавра](/images/t/artifact_40432.png) [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | ![Жезл Загробного Мира](/images/t/artifact_40436.png) [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  | ![Глубоководный трезубец](/images/t/artifact_40431.png) [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Меч Холода** | ![Посох огра](/images/t/artifact_40434.png) [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | ![Посох увядания](/images/t/artifact_40433.png) [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} |   | ![Осколок ледяного кристалла](/images/t/artifact_40435.png) [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Подробности
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Атака героя**: 10+(LEVEL\*4) | Оружие Посейдона. Компонент меча Холода | 
-  | 2 | [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Атака отряда**: 5+(LEVEL\*2) %<br/>**Атака героя**: 12+(LEVEL\*4.8)<br/>**Защита героя**: 8+(LEVEL\*3.2) | Секира, передаваемая Таурен из поколения в поколение. Компонент меча Холода. | 
-  | 3 | [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 10+(LEVEL\*4) %<br/>**Атака героя**: 6+(LEVEL\*2.4) | Посох архилича. Компонент меча Холода. | 
-  | 4 | [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Здоровье отряда**: 6+(LEVEL\*2.4) %<br/>**Защита героя**: 12+(LEVEL\*4.8)<br/>**Интеллект героя**: 6+(LEVEL\*2.4) | Посох, которому поклонялись огры. Компонент меча Холода. | 
-  | 5 | [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 10+(LEVEL\*4)<br/>**Знания героя**: 4+(LEVEL\*1.6) | Священный щит, запечатанный на возвышенности Бракады. Компонент меча Холода. | 
-  | 6 | [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Атака героя**: 8+(LEVEL\*3.2)<br/>**Интеллект героя**: 10+(LEVEL\*4)<br/>**Знания героя**: 12+(LEVEL\*4.8) | Совершенный посох, запечатанный в Дейе. Компонент меча Холода. | 
+  | 1 | ![Глубоководный трезубец](/images/t/artifact_40431.png) [Глубоководный трезубец](/ru/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Атака героя**: 10+(LEVEL\*4) | Оружие Посейдона. Компонент меча Холода | 
+  | 2 | ![Секира минотавра](/images/t/artifact_40432.png) [Секира минотавра](/ru/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Атака отряда**: 5+(LEVEL\*2) %<br/>**Атака героя**: 12+(LEVEL\*4.8)<br/>**Защита героя**: 8+(LEVEL\*3.2) | Секира, передаваемая Таурен из поколения в поколение. Компонент меча Холода. | 
+  | 3 | ![Посох увядания](/images/t/artifact_40433.png) [Посох увядания](/ru/artifacts/Withering Staff/){: .btn .btn--era5} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 10+(LEVEL\*4) %<br/>**Атака героя**: 6+(LEVEL\*2.4) | Посох архилича. Компонент меча Холода. | 
+  | 4 | ![Посох огра](/images/t/artifact_40434.png) [Посох огра](/ru/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Здоровье отряда**: 6+(LEVEL\*2.4) %<br/>**Защита героя**: 12+(LEVEL\*4.8)<br/>**Интеллект героя**: 6+(LEVEL\*2.4) | Посох, которому поклонялись огры. Компонент меча Холода. | 
+  | 5 | ![Осколок ледяного кристалла](/images/t/artifact_40435.png) [Осколок ледяного кристалла](/ru/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 10+(LEVEL\*4)<br/>**Знания героя**: 4+(LEVEL\*1.6) | Священный щит, запечатанный на возвышенности Бракады. Компонент меча Холода. | 
+  | 6 | ![Жезл Загробного Мира](/images/t/artifact_40436.png) [Жезл Загробного Мира](/ru/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Атака героя**: 8+(LEVEL\*3.2)<br/>**Интеллект героя**: 10+(LEVEL\*4)<br/>**Знания героя**: 12+(LEVEL\*4.8) | Совершенный посох, запечатанный в Дейе. Компонент меча Холода. | 
 
 
 ## Artifact Advancement

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Клевер Фортуны](/images/t/artifact_40121.png) [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Карты пророчества](/images/t/artifact_40121.png) [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  | ![Клевер Фортуны](/images/t/artifact_40121.png) [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Карты пророчества](/images/t/artifact_40122.png) [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
   |   | ![Счастливая подкова](/images/t/icon_artifact_12.png) **Счастливая подкова** |  | 
-  |   | ![Птица счастья](/images/t/artifact_40121.png) [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |   | ![Птица счастья](/images/t/artifact_40123.png) [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 1+(LEVEL\*0.4) | Приносящий удачу клевер. Компонент счастливой подковы. | 
-  | 2 | [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Интеллект героя**: 1+(LEVEL\*0.4)<br/>**Знания героя**: 1+(LEVEL\*0.4) | Гадальная карта с сильной магией. Компонент счастливой подковы. | 
-  | 3 | [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Защита героя**: 1+(LEVEL\*0.4) | Сияющая фигурка птицы. Компонент счастливой подковы. | 
+  | 1 | ![Клевер Фортуны](/images/t/artifact_40121.png) [Клевер Фортуны](/ru/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 1+(LEVEL\*0.4) | Приносящий удачу клевер. Компонент счастливой подковы. | 
+  | 2 | ![Карты пророчества](/images/t/artifact_40122.png) [Карты пророчества](/ru/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Интеллект героя**: 1+(LEVEL\*0.4)<br/>**Знания героя**: 1+(LEVEL\*0.4) | Гадальная карта с сильной магией. Компонент счастливой подковы. | 
+  | 3 | ![Птица счастья](/images/t/artifact_40123.png) [Птица счастья](/ru/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Защита героя**: 1+(LEVEL\*0.4) | Сияющая фигурка птицы. Компонент счастливой подковы. | 
 
 
 ## Artifact Advancement

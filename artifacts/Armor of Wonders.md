@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Дивный доспех](/images/t/artifact_40414.png)
+
 
 
 ## Подробности

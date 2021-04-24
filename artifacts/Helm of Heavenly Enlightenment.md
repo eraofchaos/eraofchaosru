@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Шлем небесного просветления](/images/t/artifact_40413.png)
+
 
 
 ## Подробности

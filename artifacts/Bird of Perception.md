@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Птица проницательности](/images/t/artifact_40331.png)
+
 
 
 ## Подробности
 
  **Описание:** Скульптура меткого стрелка, зачарованная ведьмой. Компонент зоркого ястребиного глаза.
 
- **Part of Artifact:** [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Зоркий ястребиный глаз](/images/t/icon_artifact_33.png) [Зоркий ястребиный глаз](/ru/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Сущность артефактов](/ItemsRU/con_905/)
 

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Амулет маны](/images/t/artifact_40211.png) [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Волшебный амулет](/images/t/artifact_40211.png) [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  | ![Амулет маны](/images/t/artifact_40211.png) [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Волшебный амулет](/images/t/artifact_40212.png) [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | 
   |   | ![Источник чародея](/images/t/icon_artifact_21.png) **Источник чародея** |  | 
-  |   | ![Волшебная сфера маны](/images/t/artifact_40211.png) [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  |   | ![Волшебная сфера маны](/images/t/artifact_40213.png) [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Защита героя**: 3+(LEVEL\*1.2) | Усиливающий магию амулет. Компонент источника чародея. | 
-  | 2 | [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 3+(LEVEL\*1.2) | Амулет, обладающий магической силой. Компонент источника чародея. | 
-  | 3 | [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 3+(LEVEL\*1.2) | Хрустальный шар, обладающий сильной магией. Компонент источника чародея. | 
+  | 1 | ![Амулет маны](/images/t/artifact_40211.png) [Амулет маны](/ru/artifacts/Charm of Mana/){: .btn .btn--era3} | **Атака отряда**: 1+(LEVEL\*0.4) %<br/>**Защита героя**: 3+(LEVEL\*1.2) | Усиливающий магию амулет. Компонент источника чародея. | 
+  | 2 | ![Волшебный амулет](/images/t/artifact_40212.png) [Волшебный амулет](/ru/artifacts/Magic Charm/){: .btn .btn--era3} | **Здоровье отряда**: 1+(LEVEL\*0.4) %<br/>**Интеллект героя**: 3+(LEVEL\*1.2) | Амулет, обладающий магической силой. Компонент источника чародея. | 
+  | 3 | ![Волшебная сфера маны](/images/t/artifact_40213.png) [Волшебная сфера маны](/ru/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Магический урон**: 1+(LEVEL\*0.4) %<br/>**Атака героя**: 3+(LEVEL\*1.2) | Хрустальный шар, обладающий сильной магией. Компонент источника чародея. | 
 
 
 ## Artifact Advancement

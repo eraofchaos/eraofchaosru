@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Щит львиной храбрости](/ru/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  |  [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Ангельский союз](/images/t/icon_artifact_41.png) **Ангельский союз** |  [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  |  [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Щит львиной храбрости](/ru/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | ![Кулон святости](/images/t/artifact_40416.png) [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  | ![Меч правосудия](/images/t/artifact_40411.png) [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Ангельский союз](/images/t/icon_artifact_41.png) **Ангельский союз** | ![Дивный доспех](/images/t/artifact_40414.png) [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  | ![Шлем небесного просветления](/images/t/artifact_40413.png) [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | ![Сандалии святого](/images/t/artifact_40415.png) [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Подробности
@@ -33,12 +33,12 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Атака отряда**: 14+(LEVEL\*5.6) %<br/>**Атака героя**: 8+(LEVEL\*3.2) | Меч, подаренный людям богами. Компонент Ангельского союза. | 
+  | 1 | ![Меч правосудия](/images/t/artifact_40411.png) [Меч правосудия](/ru/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Атака отряда**: 14+(LEVEL\*5.6) %<br/>**Атака героя**: 8+(LEVEL\*3.2) | Меч, подаренный людям богами. Компонент Ангельского союза. | 
   | 2 | [Щит львиной храбрости](/ru/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} | **Атака отряда**: 5+(LEVEL\*2) %<br/>**Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 16+(LEVEL\*6.4) | Символ военной мощи грифонов. Компонент Ангельского союза. | 
-  | 3 | [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Корона, благословленная богами. Компонент Ангельского союза. | 
-  | 4 | [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 4+(LEVEL\*1.6)<br/>**Знания героя**: 16+(LEVEL\*6.4) | Доспехи, видевшие могущество Империи. Компонент Ангельского союза. | 
-  | 5 | [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Священная реликвия, изготовленная в честь объединения Эрафии. Компонент Ангельского союза. | 
-  | 6 | [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Ожерелье, полученное от ангела. Компонент Ангельского союза. | 
+  | 3 | ![Шлем небесного просветления](/images/t/artifact_40413.png) [Шлем небесного просветления](/ru/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Корона, благословленная богами. Компонент Ангельского союза. | 
+  | 4 | ![Дивный доспех](/images/t/artifact_40414.png) [Дивный доспех](/ru/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Здоровье отряда**: 8+(LEVEL\*3.2) %<br/>**Защита героя**: 4+(LEVEL\*1.6)<br/>**Знания героя**: 16+(LEVEL\*6.4) | Доспехи, видевшие могущество Империи. Компонент Ангельского союза. | 
+  | 5 | ![Сандалии святого](/images/t/artifact_40415.png) [Сандалии святого](/ru/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Атака отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Священная реликвия, изготовленная в честь объединения Эрафии. Компонент Ангельского союза. | 
+  | 6 | ![Кулон святости](/images/t/artifact_40416.png) [Кулон святости](/ru/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4)<br/>**Интеллект героя**: 16+(LEVEL\*6.4) | Ожерелье, полученное от ангела. Компонент Ангельского союза. | 
 
 
 ## Artifact Advancement

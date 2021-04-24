@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Меч правосудия](/images/t/artifact_40411.png)
+
 
 
 ## Подробности

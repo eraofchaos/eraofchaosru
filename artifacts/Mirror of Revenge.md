@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   |  [Пламя хаоса](/ru/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Часы забвения](/ru/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | **Зеркало возмездия** |  | 
+  |   | ![Зеркало возмездия](/images/t/icon_artifact_35.png) **Зеркало возмездия** |  | 
   |  [Ледяные весы](/ru/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Ожерелье баланса](/ru/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 

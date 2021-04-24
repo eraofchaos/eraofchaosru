@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Посох увядания](/images/t/artifact_40433.png)
+
 
 
 ## Подробности

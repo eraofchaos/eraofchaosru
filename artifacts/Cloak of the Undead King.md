@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Амулет некроманта](/images/t/artifact_40321.png) [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Плащ вампира](/images/t/artifact_40321.png) [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Амулет некроманта](/images/t/artifact_40321.png) [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Плащ вампира](/images/t/artifact_40322.png) [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) **Накидка Мертвого короля** |  | 
-  |   | ![Башмаки мертвеца](/images/t/artifact_40321.png) [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Башмаки мертвеца](/images/t/artifact_40323.png) [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Подробности
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Магический урон**: 3+(LEVEL\*1.2) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 6+(LEVEL\*2.4) | Амулет, который носил лич, чтобы защитить себя. Компонент накидки Мертвого короля. | 
-  | 2 | [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 6+(LEVEL\*2.4) | Ценный плащ вампира. Компонент накидки Мертвого короля. | 
-  | 3 | [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 2+(LEVEL\*0.8) %<br/>**Знания героя**: 4+(LEVEL\*1.6) | Сапоги, дарящие носителю скорость ветра. Компонент накидки Мертвого короля. | 
+  | 1 | ![Амулет некроманта](/images/t/artifact_40321.png) [Амулет некроманта](/ru/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Магический урон**: 3+(LEVEL\*1.2) %<br/>**Интеллект героя**: 2+(LEVEL\*0.8)<br/>**Знания героя**: 6+(LEVEL\*2.4) | Амулет, который носил лич, чтобы защитить себя. Компонент накидки Мертвого короля. | 
+  | 2 | ![Плащ вампира](/images/t/artifact_40322.png) [Плащ вампира](/ru/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 6+(LEVEL\*2.4) | Ценный плащ вампира. Компонент накидки Мертвого короля. | 
+  | 3 | ![Башмаки мертвеца](/images/t/artifact_40323.png) [Башмаки мертвеца](/ru/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Атака отряда**: 2+(LEVEL\*0.8) %<br/>**Здоровье отряда**: 2+(LEVEL\*0.8) %<br/>**Знания героя**: 4+(LEVEL\*1.6) | Сапоги, дарящие носителю скорость ветра. Компонент накидки Мертвого короля. | 
 
 
 ## Artifact Advancement

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Огрова дубина разрушения](/images/t/artifact_40311.png) [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Туника короля циклопов](/images/t/artifact_40311.png) [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  | ![Огрова дубина разрушения](/images/t/artifact_40311.png) [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Туника короля циклопов](/images/t/artifact_40314.png) [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
   |   | ![Топор ярости](/images/t/icon_artifact_31.png) **Топор ярости** |  | 
-  | ![Щит неистового огра](/images/t/artifact_40311.png) [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Корона верховного мага](/images/t/artifact_40311.png) [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Щит неистового огра](/images/t/artifact_40312.png) [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Корона верховного мага](/images/t/artifact_40313.png) [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Подробности
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Имя    |   Bonus | Описание | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Атака отряда**: 3+(LEVEL\*1.2) %<br/>**Атака героя**: 5+(LEVEL\*2)<br/>**Интеллект героя**: 5+(LEVEL\*2) | Дубина, взятая у огра-капитана в придорожной таверне. Компонент топора ярости. | 
-  | 2 | [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 5+(LEVEL\*2)<br/>**Знания героя**: 5+(LEVEL\*2) | Сувенир в память о победе над огром-лейтенантом. Компонент топора ярости. | 
-  | 3 | [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Атака отряда**: 3+(LEVEL\*1.2) %<br/>**Интеллект героя**: 5+(LEVEL\*2)<br/>**Знания героя**: 5+(LEVEL\*2) | Корона, полученная в подарок за спасение безумного чародея. Компонент топора ярости. | 
-  | 4 | [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Атака героя**: 5+(LEVEL\*2)<br/>**Защита героя**: 5+(LEVEL\*2) | Плащ, оставленный купающимся циклопом. Компонент топора ярости. | 
+  | 1 | ![Огрова дубина разрушения](/images/t/artifact_40311.png) [Огрова дубина разрушения](/ru/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Атака отряда**: 3+(LEVEL\*1.2) %<br/>**Атака героя**: 5+(LEVEL\*2)<br/>**Интеллект героя**: 5+(LEVEL\*2) | Дубина, взятая у огра-капитана в придорожной таверне. Компонент топора ярости. | 
+  | 2 | ![Щит неистового огра](/images/t/artifact_40312.png) [Щит неистового огра](/ru/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Защита героя**: 5+(LEVEL\*2)<br/>**Знания героя**: 5+(LEVEL\*2) | Сувенир в память о победе над огром-лейтенантом. Компонент топора ярости. | 
+  | 3 | ![Корона верховного мага](/images/t/artifact_40313.png) [Корона верховного мага](/ru/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Атака отряда**: 3+(LEVEL\*1.2) %<br/>**Интеллект героя**: 5+(LEVEL\*2)<br/>**Знания героя**: 5+(LEVEL\*2) | Корона, полученная в подарок за спасение безумного чародея. Компонент топора ярости. | 
+  | 4 | ![Туника короля циклопов](/images/t/artifact_40314.png) [Туника короля циклопов](/ru/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Здоровье отряда**: 3+(LEVEL\*1.2) %<br/>**Атака героя**: 5+(LEVEL\*2)<br/>**Защита героя**: 5+(LEVEL\*2) | Плащ, оставленный купающимся циклопом. Компонент топора ярости. | 
 
 
 ## Artifact Advancement

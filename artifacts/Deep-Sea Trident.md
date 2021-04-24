@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Глубоководный трезубец](/images/t/artifact_40431.png)
+
 
 
 ## Подробности

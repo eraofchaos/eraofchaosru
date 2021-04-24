@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Секира минотавра](/images/t/artifact_40432.png)
+
 
 
 ## Подробности
