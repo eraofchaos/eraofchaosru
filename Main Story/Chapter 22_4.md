@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-4 Вера в драконьего бога"
 permalink: /Main Story/Chapter 22_4/
 excerpt: "Глава 22 - 4. Эра хаоса  Основной сюжет - Глава 22_4. 22-4 Вера в драконьего бога"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 22_4.md"
 toc: false

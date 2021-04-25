@@ -2,7 +2,7 @@
 title: "Ожерелье души Посейдона"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Эра хаоса Ожерелье души Посейдона. Ожерелье души Посейдона"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Poseidon's Soul Necklace.md"
 toc: false

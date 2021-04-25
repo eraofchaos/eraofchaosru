@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 - 19-2 Поклонение душе"
 permalink: /Underground/Chapter 19_2/
 excerpt: "Глава 19 - 2. Эра хаоса  Подземелье - Глава 19_2. 19-2 Поклонение душе"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 19_2.md"
 toc: false

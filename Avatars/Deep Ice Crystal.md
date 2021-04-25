@@ -2,7 +2,7 @@
 title: "Аватар - Глубинный ледяной кристалл"
 permalink: /Avatars/Deep Ice Crystal/
 excerpt: "Эра хаоса  Глубинный ледяной кристалл"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Deep Ice Crystal.md"
 toc: false

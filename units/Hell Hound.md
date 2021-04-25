@@ -1,9 +1,9 @@
 ---
 title: "Гончая ада"
 permalink: /units/Hell Hound/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
+excerpt: "Эра хаоса Гончая ада. Гончая ада Отряды. null. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Гончая ада"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

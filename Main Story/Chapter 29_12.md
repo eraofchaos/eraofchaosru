@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-12. Гора зеленого дракона"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Глава 29 - 12. Эра хаоса  Основной сюжет - Глава 29_12. 29-12. Гора зеленого дракона"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 29_12.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Зеленый дракон"
 permalink: /units/Green Dragon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
+excerpt: "Эра хаоса Зеленый дракон. Зеленый дракон Отряды. Золотой дракон. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

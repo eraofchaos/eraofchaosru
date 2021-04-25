@@ -2,7 +2,7 @@
 title: "Аватар - Морской поход"
 permalink: /Avatars/Global Expedition/
 excerpt: "Эра хаоса  Морской поход"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Global Expedition.md"
 toc: false

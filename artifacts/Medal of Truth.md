@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Медаль истины"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Медаль истины. Амулет ведьмы с глазными яблоками. Компонент зоркого ястребиного глаза."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Medal of Truth.md"
 toc: false

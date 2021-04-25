@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-8. Каменные глыбы"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Глава 28 - 8. Эра хаоса  Основной сюжет - Глава 28_8. 28-8. Каменные глыбы"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 28_8.md"
 toc: false

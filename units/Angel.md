@@ -1,9 +1,9 @@
 ---
 title: "Ангел"
 permalink: /units/Angel/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
+excerpt: "Эра хаоса Ангел. Ангел Отряды. Архангел. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Ангел"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

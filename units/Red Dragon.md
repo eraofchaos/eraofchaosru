@@ -1,9 +1,9 @@
 ---
 title: "Красный дракон"
 permalink: /units/Red Dragon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
+excerpt: "Эра хаоса Красный дракон. Красный дракон Отряды. null. Эра хаоса Владыка всех драконов. Его грозный рев, которому тут же вторят все его сородичи, провозглашает величие драконов."
 unitID: 708
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Красный дракон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

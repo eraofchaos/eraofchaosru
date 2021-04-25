@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-5 Катастрофа"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Глава 1 - 5. Эра хаоса  Основной сюжет - Глава 1_5. 1-5 Катастрофа"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 1_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 Пограничная полоса"
 permalink: /Main Story/Chapter 8/
 excerpt: "Глава 8. Эра хаоса  Основной сюжет - Глава 8. Пограничная полоса"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 8.md"
 toc: false

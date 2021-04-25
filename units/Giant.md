@@ -1,9 +1,9 @@
 ---
 title: "Гигант"
 permalink: /units/Giant/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира."
+excerpt: "Эра хаоса Гигант. Гигант Отряды. Вестник грома. Эра хаоса Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира."
 unitID: 607
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Гигант"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

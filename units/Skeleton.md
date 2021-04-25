@@ -1,9 +1,9 @@
 ---
 title: "Скелет"
 permalink: /units/Skeleton/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
+excerpt: "Эра хаоса Скелет. Скелет Отряды. Скелет-воин. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Скелет"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/ru/units/Unit Rank R/)
+ **Ранг:** [R](/ru/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 

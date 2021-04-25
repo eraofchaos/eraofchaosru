@@ -2,7 +2,7 @@
 title: "Лопатка Аида"
 permalink: /equipment/Hades' Scapula/
 excerpt: "Эра хаоса Лопатка Аида. Лопатка Аида"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Hades' Scapula.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Джинн"
 permalink: /units/Genie/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
+excerpt: "Эра хаоса Джинн. Джинн Отряды. Владыка джиннов. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Джинн"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

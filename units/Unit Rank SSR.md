@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Эра хаоса Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Rank SSR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/ru/units/Unit Rank R/){: .btn .btn--primary} [SSR](/ru/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/ru/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/ru/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Элементаль Магии  |
   | 2 | ![Чудище](/images/u/ti_bimeng.jpg) | [Чудище](/ru/units/Behemoth/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Древнее чудище  |

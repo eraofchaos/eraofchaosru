@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-14 Благодарность стрелка"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Глава 16 - 14. Эра хаоса  Основной сюжет - Глава 16_14. 16-14 Благодарность стрелка"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 16_14.md"
 toc: false

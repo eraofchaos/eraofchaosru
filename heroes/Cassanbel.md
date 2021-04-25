@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "Эра хаоса Кассанбель. Кассанбель. И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Cassanbel"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Описание:** И хотя она потеряла своего «отца» из-за людей, она все еще помогает людям, которые живут в море.
 ## Подробности
- **Profession:** Дитя океана
+ **Profession:**  [Дитя океана](/ru/heroes/Profession Ocean Creatures/)
 
- **Race:** Убежище
+ **Фракция::** [Убежище](/ru/heroes/Faction Cove/)
 
- **Rate:** SSR
+ **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

@@ -1,9 +1,9 @@
 ---
 title: "Ледяной демон"
 permalink: /units/Ice Demon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
+excerpt: "Эра хаоса Ледяной демон. Ледяной демон Отряды. null. Эра хаоса Ледяной демон - уникальное существо из измерения элементалей Воды. У нее застывший взгляд, она не дышит - все это делает ее похожей на тело, вмерзшее в вечный лед."
 unitID: 908
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Ледяной демон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
+ **Ранг:** [Командующий](/ru/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

@@ -2,7 +2,7 @@
 title: "Пояс ограничения"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Эра хаоса Пояс ограничения. Пояс ограничения"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Belt of Constraint.md"
 toc: false

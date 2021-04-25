@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "index.md"
 toc: false
@@ -10,15 +10,15 @@ classes: wide
 ---
   by Фракция: [Гармония](/ru/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--info} [Замок](/ru/units/Faction Castle/){: .btn .btn--primary} [Башня](/ru/units/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/ru/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [Стрелковый](/ru/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/ru/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/ru/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/ru/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/ru/units/Unit Class Defense/){: .btn .btn--info} 
+  by Класс: [Стрелковый](/ru/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/ru/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/ru/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/ru/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/ru/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/ru/units/Unit Rank R/){: .btn .btn--primary} [SSR](/ru/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/ru/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/ru/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Ранг: [R](/ru/units/Unit Rank R/){: .btn .btn--primary} [SSR](/ru/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/ru/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/ru/units/Unit Rank SR/){: .btn .btn--danger} 
 
   by Members: [x9](/ru/units/Unit Member x9/){: .btn .btn--primary} [x1](/ru/units/Unit Member x1/){: .btn .btn--success} [x4](/ru/units/Unit Member x4/){: .btn .btn--warning} 
 
   by Stars: [<i class="fas fa-star"/>](/ru/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Имя        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Имя        |   Type   | Awake |  Ранг  |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Ангел](/images/u/ti_datianshi.jpg) | [Ангел](/ru/units/Angel/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архангел  |
   | 2 | ![Архимаг](/images/u/ti_dafashi.jpg) | [Архимаг](/ru/units/Arch Mage/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Архимаг  |

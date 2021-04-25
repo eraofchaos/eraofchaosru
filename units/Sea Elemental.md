@@ -1,9 +1,9 @@
 ---
 title: "Элементаль Моря"
 permalink: /units/Sea Elemental/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
+excerpt: "Эра хаоса Элементаль Моря. Элементаль Моря Отряды. Элементаль Приливов. Эра хаоса Рожденный в бескрайних водах, этот дух повелевает силой океана и использует ее, чтобы крушить своих врагов."
 unitID: 9903
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Элементаль Моря"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/ru/units/Unit Rank R/)
+ **Ранг:** [R](/ru/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 

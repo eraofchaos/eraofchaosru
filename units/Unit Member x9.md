@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Эра хаоса Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Member x9"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [x9](/ru/units/Unit Member x9/){: .btn .btn--primary} [x1](/ru/units/Unit Member x1/){: .btn .btn--success} [x4](/ru/units/Unit Member x4/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Бес](/images/u/ti_xiaoemo.jpg) | [Бес](/ru/units/Imp/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Черти  |
   | 2 | ![Гог](/images/u/ti_touhuoguai.jpg) | [Гог](/ru/units/Gog/) | Заклинатель | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Магог  |

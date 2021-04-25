@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Циклоп Эксклюзив."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Cyclops Длинный лук.md"
 toc: false

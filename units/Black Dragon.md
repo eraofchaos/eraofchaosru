@@ -1,9 +1,9 @@
 ---
 title: "Черный дракон"
 permalink: /units/Black Dragon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
+excerpt: "Эра хаоса Черный дракон. Черный дракон Отряды. Король черных драконов. Эра хаоса Смертоносный тиран, занимающий вершину пищевой цепочки в Подземелье. Заклинания смертных ему нипочем."
 unitID: 707
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Черный дракон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

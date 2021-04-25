@@ -4,7 +4,7 @@ permalink: /heroes/Kendal/
 excerpt: "Эра хаоса Кендал. Кендал. Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника."
 heroID: 60104
 QR: hero_60104
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Kendal"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Описание:** Генерал, верный королевской семье Эрафии. С момента смерти короля Грифонхарта Морган Кендал взял на себя управление страной до появления законного наследника.
 ## Подробности
- **Profession:** ![Рыцарь](/images/h/h_prof_1.png) Рыцарь
+ **Profession:** ![Рыцарь](/images/h/h_prof_1.png)  [Рыцарь](/ru/heroes/Profession Knight/)
 
- **Race:** Замок
+ **Фракция::** [Замок](/ru/heroes/Faction Castle/)
 
- **Rate:** SR
+ **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

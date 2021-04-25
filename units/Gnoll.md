@@ -1,9 +1,9 @@
 ---
 title: "Гнолл"
 permalink: /units/Gnoll/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
+excerpt: "Эра хаоса Гнолл. Гнолл Отряды. Гнолл-воин. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/ru/units/Unit Rank R/)
+ **Ранг:** [R](/ru/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Горгона"
 permalink: /units/Gorgon/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
+excerpt: "Эра хаоса Горгона. Горгона Отряды. Могучая горгона. Эра хаоса Мерзкие твари со смертельным взглядом. Каждый, кто оказался на болотах, становится их целью."
 unitID: 805
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Горгона"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

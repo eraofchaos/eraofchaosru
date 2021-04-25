@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank Commander -  Units"
 permalink: /units/Unit Rank Commander/
 excerpt: "Эра хаоса Unit Rank Commander. Unit Rank Commander. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Rank Commander"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/ru/units/Unit Rank R/){: .btn .btn--primary} [SSR](/ru/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/ru/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/ru/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Белый тигр](/images/u/ti_baihu.jpg) | [Белый тигр](/ru/units/White Tiger/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | ![Регнанская прорицательница](/images/u/ti_haihou.jpg) | [Регнанская прорицательница](/ru/units/Regnan Seer/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Элементаль Приливов  |

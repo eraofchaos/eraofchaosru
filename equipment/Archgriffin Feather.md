@@ -2,7 +2,7 @@
 title: "Перо архигрифона"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Эра хаоса Перо архигрифона. Перо архигрифона"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Archgriffin Feather.md"
 toc: false

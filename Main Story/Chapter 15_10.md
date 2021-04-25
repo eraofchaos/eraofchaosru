@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-10 Изменение человека"
 permalink: /Main Story/Chapter 15_10/
 excerpt: "Глава 15 - 10. Эра хаоса  Основной сюжет - Глава 15_10. 15-10 Изменение человека"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 15_10.md"
 toc: false

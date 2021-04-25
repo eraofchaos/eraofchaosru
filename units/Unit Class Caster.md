@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Эра хаоса Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Class Caster"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Стрелковый](/ru/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/ru/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/ru/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/ru/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/ru/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Рух](/images/u/ti_leiniao.jpg) | [Рух](/ru/units/Roc/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Громовая птица  |
   | 2 | ![Регнанская прорицательница](/images/u/ti_haihou.jpg) | [Регнанская прорицательница](/ru/units/Regnan Seer/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Элементаль Приливов  |

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Эра хаоса Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/ru/units/Unit Rank R/){: .btn .btn--primary} [SSR](/ru/units/Unit Rank SSR/){: .btn .btn--success} [Командующий](/ru/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/ru/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Бес](/images/u/ti_xiaoemo.jpg) | [Бес](/ru/units/Imp/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Черти  |
   | 2 | ![Гог](/images/u/ti_touhuoguai.jpg) | [Гог](/ru/units/Gog/) | Заклинатель | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Магог  |

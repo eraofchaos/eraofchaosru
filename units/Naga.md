@@ -1,9 +1,9 @@
 ---
 title: "Нага"
 permalink: /units/Naga/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
+excerpt: "Эра хаоса Нага. Нага Отряды. Королева нага. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Нага"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Драконий голем"
 permalink: /units/Dragon Golem/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
+excerpt: "Эра хаоса Драконий голем. Драконий голем Отряды. null. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Драконий голем"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
+ **Ранг:** [Командующий](/ru/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

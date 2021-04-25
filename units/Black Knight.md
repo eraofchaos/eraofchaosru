@@ -1,9 +1,9 @@
 ---
 title: "Черный рыцарь"
 permalink: /units/Black Knight/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
+excerpt: "Эра хаоса Черный рыцарь. Черный рыцарь Отряды. Зловещий рыцарь. Эра хаоса На черных рыцарях лежат жуткие проклятия. Они блуждают по Некрополю, уничтожая все живое на своем пути."
 unitID: 306
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Черный рыцарь"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

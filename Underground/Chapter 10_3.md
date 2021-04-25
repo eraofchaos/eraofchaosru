@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 - 10-3 Тело короля"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Глава 10 - 3. Эра хаоса  Подземелье - Глава 10_3. 10-3 Тело короля"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 10_3.md"
 toc: false

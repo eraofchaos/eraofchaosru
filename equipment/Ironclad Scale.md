@@ -2,7 +2,7 @@
 title: "Бронированная чешуя"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Эра хаоса Бронированная чешуя. Бронированная чешуя"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Ironclad Scale.md"
 toc: false

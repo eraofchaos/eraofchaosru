@@ -2,7 +2,7 @@
 title: "Ледяной трон"
 permalink: /equipment/Throne of Ice/
 excerpt: "Эра хаоса Ледяной трон. Ледяной трон"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Throne of Ice.md"
 toc: false

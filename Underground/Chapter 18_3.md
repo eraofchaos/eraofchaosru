@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 18 - 18-3 Расовые ограничения"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Глава 18 - 3. Эра хаоса  Подземелье - Глава 18_3. 18-3 Расовые ограничения"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 18_3.md"
 toc: false

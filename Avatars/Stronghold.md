@@ -2,7 +2,7 @@
 title: "Аватар - Цитадель"
 permalink: /Avatars/Stronghold/
 excerpt: "Эра хаоса  Цитадель"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Stronghold.md"
 toc: false

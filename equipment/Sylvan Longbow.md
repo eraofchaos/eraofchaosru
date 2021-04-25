@@ -2,7 +2,7 @@
 title: "Лесной большой лук"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Эра хаоса Лесной большой лук. Лесной большой лук"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Sylvan Longbow.md"
 toc: false

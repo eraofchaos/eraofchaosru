@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-6 Некромантия"
 permalink: /Main Story/Chapter 20_6/
 excerpt: "Глава 20 - 6. Эра хаоса  Основной сюжет - Глава 20_6. 20-6 Некромантия"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 20_6.md"
 toc: false

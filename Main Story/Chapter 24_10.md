@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-10 Проклятие убийцы драконов"
 permalink: /Main Story/Chapter 24_10/
 excerpt: "Глава 24 - 10. Эра хаоса  Основной сюжет - Глава 24_10. 24-10 Проклятие убийцы драконов"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 24_10.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Архимаг"
 permalink: /units/Arch Mage/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
+excerpt: "Эра хаоса Архимаг. Архимаг Отряды. Архимаг. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Архимаг"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

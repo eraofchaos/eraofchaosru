@@ -1,9 +1,9 @@
 ---
 title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
+excerpt: "Эра хаоса Чемпион Тьмы. Чемпион Тьмы Отряды. null. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
+ **Ранг:** [Командующий](/ru/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

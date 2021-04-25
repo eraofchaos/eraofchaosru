@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-8 Сад откровений"
 permalink: /Main Story/Chapter 3_8/
 excerpt: "Глава 3 - 8. Эра хаоса  Основной сюжет - Глава 3_8. 3-8 Сад откровений"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 3_8.md"
 toc: false

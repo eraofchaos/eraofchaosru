@@ -2,7 +2,7 @@
 title: "Эксклюзив -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Эра хаоса . . Эра хаоса Эксклюзив . Регнанская прорицательница Эксклюзив."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Regnan Seer .md"
 toc: false

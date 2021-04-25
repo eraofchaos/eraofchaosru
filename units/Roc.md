@@ -1,9 +1,9 @@
 ---
 title: "Рух"
 permalink: /units/Roc/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
+excerpt: "Эра хаоса Рух. Рух Отряды. Громовая птица. Эра хаоса Рухи часто появляются в грозовую ночь. Они летят между молний и всполохов. Многие считают их посланниками богов."
 unitID: 405
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Рух"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

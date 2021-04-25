@@ -2,7 +2,7 @@
 title: "Адъютант Нимусса"
 permalink: /heroes/Adjutant Nymus/
 excerpt: "Эра хаоса  Адъютант Нимусса"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Adjutant Nymus.md"
 QR: adhero_60803

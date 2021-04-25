@@ -1,9 +1,9 @@
 ---
 title: "Гидра"
 permalink: /units/Hydra/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
+excerpt: "Эра хаоса Гидра. Гидра Отряды. Гидра хаоса. Эра хаоса Многоглавые существа, обитающие среди топей. Убийство такого зверя - подвиг, о котором мечтает любой герой."
 unitID: 807
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Гидра"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

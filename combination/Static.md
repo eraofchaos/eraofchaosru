@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Разряд"
 permalink: /combination/Static/
 excerpt: "Информация о комбинации - Разряд. Units and Heroes Formation."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Разряд.md"
 toc: false

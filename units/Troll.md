@@ -1,9 +1,9 @@
 ---
 title: "Великан Тор"
 permalink: /units/Troll/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
+excerpt: "Эра хаоса Великан Тор. Великан Тор Отряды. null. Эра хаоса Тор наделен неимоверной силой. Он способен поднимать и бросать каменные глыбы во врагов, нанося ужасающие раны."
 unitID: 409
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Великан Тор"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
+ **Ранг:** [Командующий](/ru/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

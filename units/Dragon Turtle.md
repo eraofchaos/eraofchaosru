@@ -1,9 +1,9 @@
 ---
 title: "Панцирный дракон"
 permalink: /units/Dragon Turtle/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
+excerpt: "Эра хаоса Панцирный дракон. Панцирный дракон Отряды. Древний панцирный дракон. Эра хаоса У этого создания, рожденного в бескрайних водах, огромное тело, и его власть в морских просторах безгранична."
 unitID: 9906
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Панцирный дракон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

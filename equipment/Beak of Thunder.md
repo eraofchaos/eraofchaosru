@@ -2,7 +2,7 @@
 title: "Клюв грома"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Эра хаоса Клюв грома. Клюв грома"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Beak of Thunder.md"
 toc: false

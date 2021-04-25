@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-5 Загадка пещеры"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "Глава 24 - 5. Эра хаоса  Основной сюжет - Глава 24_5. 24-5 Загадка пещеры"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 24_5.md"
 toc: false

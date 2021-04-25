@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 - 8-2 Нехватка людей"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Глава 8 - 2. Эра хаоса  Подземелье - Глава 8_2. 8-2 Нехватка людей"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 8_2.md"
 toc: false

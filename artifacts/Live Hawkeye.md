@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз. Зоркий ястребиный глаз Цепляйтесь за жизнь. А там придет богатство"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Live Hawkeye.md"
 toc: false

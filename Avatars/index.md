@@ -2,15 +2,15 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-  |  Nr | I | Аватар | Open | Описание |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Аватар | Open | Описание |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/ru/Avatars/Unknown Avatar Frame 1007/) | - |  |
   | 2 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/ru/Avatars/Unknown Avatar Frame 1008/) | - |  |
   | 3 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/ru/Avatars/Unknown Avatar Frame 1016/) | - |  |

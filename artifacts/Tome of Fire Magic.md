@@ -2,7 +2,7 @@
 title: "Артефакт - Шляпа заклинателя - Книга магии Огня"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Эра хаоса  Шляпа заклинателя - Книга магии Огня. Волшебная книга, в которой записаны продвинутые заклинания Огня. Луна читала эту книгу перед сном. Компонент Шляпы заклинателя."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Tome of Fire Magic.md"
 toc: false

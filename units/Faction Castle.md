@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Эра хаоса Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Faction Castle"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Гармония](/ru/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--info} [Замок](/ru/units/Faction Castle/){: .btn .btn--primary} [Башня](/ru/units/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/ru/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Копейщик](/images/u/ti_jibing.jpg) | [Копейщик](/ru/units/Pikeman/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Алебардщик  |
   | 2 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Опытный лучник  |

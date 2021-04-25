@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 15 Единым фронтом"
 permalink: /Underground/Chapter 15/
 excerpt: "Глава 15 Единым фронтом. Эра хаоса  Подземелье - Глава 15. Единым фронтом"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 15.md"
 toc: false

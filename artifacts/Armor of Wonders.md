@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Дивный доспех"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Эра хаоса  Ангельский союз - Дивный доспех. Доспехи, видевшие могущество Империи. Компонент Ангельского союза."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Armor of Wonders.md"
 toc: false

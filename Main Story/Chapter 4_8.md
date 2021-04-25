@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-8 Башня Железноклюва"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Глава 4 - 8. Эра хаоса  Основной сюжет - Глава 4_8. 4-8 Башня Железноклюва"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 4_8.md"
 toc: false

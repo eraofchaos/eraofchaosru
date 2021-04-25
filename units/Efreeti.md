@@ -1,9 +1,9 @@
 ---
 title: "Ифрит"
 permalink: /units/Efreeti/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
+excerpt: "Эра хаоса Ифрит. Ифрит Отряды. Султан ифритов. Эра хаоса Ифриты рождены в пламени Инферно. Они обладают магией Огня."
 unitID: 506
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Ифрит"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-2. Разрушенная хижина"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Глава 30 - 2. Эра хаоса  Основной сюжет - Глава 30_2. 30-2. Разрушенная хижина"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 30_2.md"
 toc: false

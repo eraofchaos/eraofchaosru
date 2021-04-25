@@ -2,7 +2,7 @@
 title: "Зачарованные перчатки"
 permalink: /equipment/Enchanted Gloves/
 excerpt: "Эра хаоса Зачарованные перчатки. Зачарованные перчатки"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Enchanted Gloves.md"
 toc: false

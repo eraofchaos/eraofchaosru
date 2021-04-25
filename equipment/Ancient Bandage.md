@@ -2,7 +2,7 @@
 title: "Древний бинт"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Эра хаоса Древний бинт. Древний бинт"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Ancient Bandage.md"
 toc: false

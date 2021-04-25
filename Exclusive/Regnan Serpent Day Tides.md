@@ -2,7 +2,7 @@
 title: "Эксклюзив - Волна гнева (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Эра хаоса Волна гнева. Волна гнева. Эра хаоса Эксклюзив Волна гнева. Регнанский змей Эксклюзив."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Regnan Serpent Волна гнева.md"
 toc: false

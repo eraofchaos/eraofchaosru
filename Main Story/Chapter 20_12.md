@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-12 Волшебная фракция"
 permalink: /Main Story/Chapter 20_12/
 excerpt: "Глава 20 - 12. Эра хаоса  Основной сюжет - Глава 20_12. 20-12 Волшебная фракция"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 20_12.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
+excerpt: "Эра хаоса Элементаль Льда. Элементаль Льда Отряды. Снежный дух. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

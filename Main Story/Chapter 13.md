@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 Ночь сменяет день"
 permalink: /Main Story/Chapter 13/
 excerpt: "Глава 13. Эра хаоса  Основной сюжет - Глава 13. Ночь сменяет день"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 13.md"
 toc: false

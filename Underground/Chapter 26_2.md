@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 26 - 26-2 Обжигающая зависть"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Глава 26 - 2. Эра хаоса  Подземелье - Глава 26_2. 26-2 Обжигающая зависть"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 26_2.md"
 toc: false

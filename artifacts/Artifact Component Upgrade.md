@@ -2,7 +2,7 @@
 title: "Артефакт Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Эра хаоса Artifact component upgrade cost. Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Artifact Component Upgrade.md"
 toc: false

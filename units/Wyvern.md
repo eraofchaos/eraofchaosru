@@ -1,9 +1,9 @@
 ---
 title: "Виверна"
 permalink: /units/Wyvern/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
+excerpt: "Эра хаоса Виверна. Виверна Отряды. Виверна-монарх. Эра хаоса Уродливые и ядовитые твари, отравляющие болота. Легенды гласят, что мерзкий смрад, висящий над топями, изрыгают именно эти существа."
 unitID: 806
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Виверна"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

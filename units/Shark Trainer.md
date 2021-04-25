@@ -1,9 +1,9 @@
 ---
 title: "Повелитель акул"
 permalink: /units/Shark Trainer/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
+excerpt: "Эра хаоса Повелитель акул. Повелитель акул Отряды. Разбойники на акулах. Эра хаоса С саблями в руках, верхом на гигантских акулах - сама смерть выходит из глубин."
 unitID: 9909
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Повелитель акул"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Минотавр"
 permalink: /units/Minotaur/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
+excerpt: "Эра хаоса Минотавр. Минотавр Отряды. Король минотавров. Эра хаоса Могучее создание, скрывающееся в темноте лабиринта. Его огромный топор легко рассечет зазевавшихся врагов на куски."
 unitID: 705
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Минотавр"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

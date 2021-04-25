@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Эра хаоса Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Class Ranged"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Стрелковый](/ru/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/ru/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/ru/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/ru/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/ru/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 2 | ![Ледяной демон](/images/u/ti_bingmo.jpg) | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |

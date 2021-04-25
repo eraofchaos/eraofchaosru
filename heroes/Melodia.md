@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Эра хаоса Мелодия. Мелодия. Мелодия - удачливый друид. Она может добиться невероятной победы даже тогда, когда все против нее. Любое войско с радостью ей подчинится."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Melodia"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Описание:** Мелодия - удачливый друид. Она может добиться невероятной победы даже тогда, когда все против нее. Любое войско с радостью ей подчинится.
 ## Подробности
- **Profession:** ![Друид](/images/h/h_prof_4.png) Друид
+ **Profession:** ![Друид](/images/h/h_prof_4.png)  [Друид](/ru/heroes/Profession Druid/)
 
- **Race:** Бастион
+ **Фракция::** [Бастион](/ru/heroes/Faction Rampart/)
 
- **Rate:** SSR-
+ **Ранг:** [SSR-](/ru/heroes/Hero Rank SSR-/)
 
  **User Rate:** R
 

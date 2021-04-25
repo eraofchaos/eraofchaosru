@@ -1,9 +1,9 @@
 ---
 title: "Белый тигр"
 permalink: /units/White Tiger/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
+excerpt: "Эра хаоса Белый тигр. Белый тигр Отряды. null. Эра хаоса Фантом, созданный белым тигром, бьет по слабым местам обороны противника, насылает на него чуму и этим может переломить ход любого боя."
 unitID: 809
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Белый тигр"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [Командующий](/ru/units/Unit Rank Commander/)
+ **Ранг:** [Командующий](/ru/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 - 6-4 Захват столицы"
 permalink: /Underground/Chapter 6_4/
 excerpt: "Глава 6 - 4. Эра хаоса  Подземелье - Глава 6_4. 6-4 Захват столицы"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 6_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-12 Всеобщая война"
 permalink: /Main Story/Chapter 5_12/
 excerpt: "Глава 5 - 12. Эра хаоса  Основной сюжет - Глава 5_12. 5-12 Всеобщая война"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 5_12.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "Эра хаоса Корбак. Корбак. Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Korbac"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Описание:** Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии.
 ## Подробности
- **Profession:** Хозяин зверей
+ **Profession:**  [Хозяин зверей](/ru/heroes/Profession Beast Master/)
 
- **Race:** Крепость
+ **Фракция::** [Крепость](/ru/heroes/Faction Fortress/)
 
- **Rate:** R
+ **Ранг:** [R](/ru/heroes/Hero Rank R/)
 
  **User Rate:** R
 

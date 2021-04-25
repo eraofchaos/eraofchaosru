@@ -1,9 +1,9 @@
 ---
 title: "Дьявол"
 permalink: /units/Devil/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Дьявол - властитель Инферно. Он всегда рвется в бой и способен даже телепортироваться, атакуя врагов в задних рядах."
+excerpt: "Эра хаоса Дьявол. Дьявол Отряды. Архидьявол. Эра хаоса Дьявол - властитель Инферно. Он всегда рвется в бой и способен даже телепортироваться, атакуя врагов в задних рядах."
 unitID: 507
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Дьявол"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
- **Rank:** [SSR](/ru/units/Unit Rank SSR/)
+ **Ранг:** [SSR](/ru/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

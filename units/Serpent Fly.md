@@ -1,9 +1,9 @@
 ---
 title: "Летучий змей"
 permalink: /units/Serpent Fly/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
+excerpt: "Эра хаоса Летучий змей. Летучий змей Отряды. Ядовитый змей. Эра хаоса Проворные разносчики болезней, превращающие жертв в инкубаторы для своего потомства."
 unitID: 803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Летучий змей"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

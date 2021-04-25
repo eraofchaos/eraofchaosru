@@ -1,9 +1,9 @@
 ---
 title: "Бес"
 permalink: /units/Imp/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
+excerpt: "Эра хаоса Бес. Бес Отряды. Черти. Эра хаоса Хотя бесы и относятся к демонам низкого уровня, но благодаря коварству и жестокости внушают врагам безумный ужас."
 unitID: 501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Бес"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [R](/ru/units/Unit Rank R/)
+ **Ранг:** [R](/ru/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/ru/units/Star 1/)
 

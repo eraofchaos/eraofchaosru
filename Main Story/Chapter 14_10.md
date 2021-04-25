@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-10 Незримый кукловод"
 permalink: /Main Story/Chapter 14_10/
 excerpt: "Глава 14 - 10. Эра хаоса  Основной сюжет - Глава 14_10. 14-10 Незримый кукловод"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 14_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Боевое построение Подземелье"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "Боевое построение Подземелье"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "BattleFormationFactionDungeon"
 toc: false

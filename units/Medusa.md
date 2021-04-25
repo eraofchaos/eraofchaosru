@@ -1,9 +1,9 @@
 ---
 title: "Медуза"
 permalink: /units/Medusa/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
+excerpt: "Эра хаоса Медуза. Медуза Отряды. Королевская медуза. Эра хаоса Прекрасные женщины со змеиными телами и волосами. Их холодный взор способен обратить любое живое существо в камень."
 unitID: 704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Медуза"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 3/)
 

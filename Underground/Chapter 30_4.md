@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 - 30-4  Никто не пройдет"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Глава 30 - 4. Эра хаоса  Подземелье - Глава 30_4. 30-4  Никто не пройдет"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 30_4.md"
 toc: false

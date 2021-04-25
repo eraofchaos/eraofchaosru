@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-6. Стела в сухостое"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Глава 30 - 6. Эра хаоса  Основной сюжет - Глава 30_6. 30-6. Стела в сухостое"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 30_6.md"
 toc: false

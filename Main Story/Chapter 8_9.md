@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-9 Эльфийские усадьбы"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Глава 8 - 9. Эра хаоса  Основной сюжет - Глава 8_9. 8-9 Эльфийские усадьбы"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 8_9.md"
 toc: false

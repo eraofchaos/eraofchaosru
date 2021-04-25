@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-5 Календарь Нигона"
 permalink: /Main Story/Chapter 25_5/
 excerpt: "Глава 25 - 5. Эра хаоса  Основной сюжет - Глава 25_5. 25-5 Календарь Нигона"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 25_5.md"
 toc: false

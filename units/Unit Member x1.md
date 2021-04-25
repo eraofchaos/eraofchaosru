@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Эра хаоса Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unit Member x1"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [x9](/ru/units/Unit Member x9/){: .btn .btn--primary} [x1](/ru/units/Unit Member x1/){: .btn .btn--success} [x4](/ru/units/Unit Member x4/){: .btn .btn--warning} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Элементаль Магии  |
   | 2 | ![Белый тигр](/images/u/ti_baihu.jpg) | [Белый тигр](/ru/units/White Tiger/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |

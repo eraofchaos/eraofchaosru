@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-2 Сверкающий предмет"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Глава 23 - 2. Эра хаоса  Основной сюжет - Глава 23_2. 23-2 Сверкающий предмет"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 23_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Глаз богохульства"
 permalink: /equipment/Eye of Blasphemy/
 excerpt: "Эра хаоса Глаз богохульства. Глаз богохульства"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Eye of Blasphemy.md"
 toc: false

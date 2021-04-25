@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "Эра хаоса Сандро. Сандро. Сандро - некромант, который повидал многое как в Энроте, так и в Эрафии. Сейчас же он служит Финнеасу Вильмару, лидеру некромантов Дейи."
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Sandro"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Описание:** Сандро - некромант, который повидал многое как в Энроте, так и в Эрафии. Сейчас же он служит Финнеасу Вильмару, лидеру некромантов Дейи.
 ## Подробности
- **Profession:** ![Некромант](/images/h/h_prof_6.png) Некромант
+ **Profession:** ![Некромант](/images/h/h_prof_6.png)  [Некромант](/ru/heroes/Profession Necromancer/)
 
- **Race:** Некрополь
+ **Фракция::** [Некрополь](/ru/heroes/Faction Necropolis/)
 
- **Rate:** SSR
+ **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

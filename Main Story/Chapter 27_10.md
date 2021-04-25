@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-10 Сопротивление аресту"
 permalink: /Main Story/Chapter 27_10/
 excerpt: "Глава 27 - 10. Эра хаоса  Основной сюжет - Глава 27_10. 27-10 Сопротивление аресту"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Chapter 27_10.md"
 toc: false

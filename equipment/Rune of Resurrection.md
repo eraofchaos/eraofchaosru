@@ -2,7 +2,7 @@
 title: "Руна воскрешения"
 permalink: /equipment/Rune of Resurrection/
 excerpt: "Эра хаоса Руна воскрешения. Руна воскрешения"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Rune of Resurrection.md"
 toc: false

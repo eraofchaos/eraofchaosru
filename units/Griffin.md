@@ -1,9 +1,9 @@
 ---
 title: "Грифон"
 permalink: /units/Griffin/
-excerpt: "Эра хаоса Отряды. Отряды. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
+excerpt: "Эра хаоса Грифон. Грифон Отряды. Священный грифон. Эра хаоса Грифоны - символ Эрафии, им подвластны небеса. Эти свирепые звери преданны и так отважны, что готовы сражаться до последнего вздоха."
 unitID: 103
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Грифон"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 
- **Rank:** [SR](/ru/units/Unit Rank SR/)
+ **Ранг:** [SR](/ru/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/ru/units/Star 2/)
 

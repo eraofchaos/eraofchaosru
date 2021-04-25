@@ -2,7 +2,7 @@
 title: "Щит нечестивца"
 permalink: /equipment/Unholy Shield/
 excerpt: "Эра хаоса Щит нечестивца. Щит нечестивца"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Unholy Shield.md"
 toc: false

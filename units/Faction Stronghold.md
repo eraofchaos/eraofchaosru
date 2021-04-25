@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Units"
 permalink: /units/Faction Stronghold/
 excerpt: "Эра хаоса Faction Stronghold. Faction Stronghold. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Faction Stronghold"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Гармония](/ru/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--info} [Замок](/ru/units/Faction Castle/){: .btn .btn--primary} [Башня](/ru/units/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/ru/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Рух](/images/u/ti_leiniao.jpg) | [Рух](/ru/units/Roc/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Громовая птица  |
   | 2 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |

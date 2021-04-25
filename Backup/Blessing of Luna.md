@@ -2,7 +2,7 @@
 title: "Backup - Благословение Луны"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Эра хаоса  Благословение Луны"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: ru
 ref: "Blessing of Luna.md"
 toc: false
