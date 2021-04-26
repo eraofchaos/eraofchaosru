@@ -2,7 +2,7 @@
 title: "Огненный рог"
 permalink: /equipment/Fiery Horn/
 excerpt: "Эра хаоса Огненный рог. Огненный рог"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Fiery Horn.md"
 toc: false

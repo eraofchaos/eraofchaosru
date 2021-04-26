@@ -4,7 +4,7 @@ permalink: /heroes/Yog/
 excerpt: "Эра хаоса Йог. Йог. Йог много лет обучался у магов в Бракаде, но всегда предпочитал изучение военных стратегий магическим рунам. Позже его заметил герцог Крулода, и возвысил до предводителя армии варваров."
 heroID: 60604
 QR: hero_60604
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Yog"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Варвар](/images/h/h_prof_7.png)  [Варвар](/ru/heroes/Profession Barbarian/)
 
- **Фракция::** [Цитадель](/ru/heroes/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/heroes/Faction Stronghold/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

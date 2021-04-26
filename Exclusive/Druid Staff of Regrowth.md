@@ -2,7 +2,7 @@
 title: "Эксклюзив - Расцвет природы (Druid)"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Эра хаоса Расцвет природы. Расцвет природы. Эра хаоса Эксклюзив Расцвет природы. Друид Эксклюзив."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Druid Расцвет природы.md"
 toc: false

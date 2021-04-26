@@ -2,7 +2,7 @@
 title: "Главный рычаг управления"
 permalink: /equipment/Main Control Stick/
 excerpt: "Эра хаоса Главный рычаг управления. Главный рычаг управления"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Main Control Stick.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Меч правосудия"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Эра хаоса  Ангельский союз - Меч правосудия. Меч, подаренный людям богами. Компонент Ангельского союза."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Sword of Judgement.md"
 toc: false

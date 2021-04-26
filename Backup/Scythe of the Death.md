@@ -2,7 +2,7 @@
 title: "Backup - Смертоносная коса"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Эра хаоса  Смертоносная коса"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Scythe of the Death.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Особое умение - **Смертоносная коса** 
 
+  ![Смертоносная коса](/images/b/backupIcon_3.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Боевое умение - **Карающий удар** 
 
+  ![Карающий удар](/images/b/backupSkill1Icon_3.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Глобальное умение - **Эрудиция** 
+
+  ![Эрудиция](/images/b/backupSkill2Icon_3.png)
 
  **Глобальное умение Power:** 1076
 

@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Эра хаоса Лорд Хаарт. Лорд Хаарт. Лорда Хаарта убили, а затем воскресили. Будучи генералом армии нежити, он получил еще более грозную силу, чем имел в жизни."
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Lord Haart"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Рыцарь Смерти](/images/h/h_prof_5.png)  [Рыцарь Смерти](/ru/heroes/Profession Death Knight/)
 
- **Фракция::** [Некрополь](/ru/heroes/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/heroes/Faction Necropolis/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

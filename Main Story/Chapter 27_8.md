@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-8 Подземная магия"
 permalink: /Main Story/Chapter 27_8/
 excerpt: "Глава 27 - 8. Эра хаоса  Основной сюжет - Глава 27_8. 27-8 Подземная магия"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 27_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-4 Волшебный колодец"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Глава 2 - 4. Эра хаоса  Основной сюжет - Глава 2_4. 2-4 Волшебный колодец"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 2_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Секира из обсидиана"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Эра хаоса Секира из обсидиана. Секира из обсидиана"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Obsidian Battle Axe.md"
 toc: false

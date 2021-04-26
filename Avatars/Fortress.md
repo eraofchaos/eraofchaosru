@@ -2,7 +2,7 @@
 title: "Аватар - Крепость"
 permalink: /Avatars/Fortress/
 excerpt: "Эра хаоса  Крепость"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Fortress.md"
 toc: false

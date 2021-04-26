@@ -2,7 +2,7 @@
 title: "Главная вышка управления"
 permalink: /equipment/Main Control Tower/
 excerpt: "Эра хаоса Главная вышка управления. Главная вышка управления"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Main Control Tower.md"
 toc: false

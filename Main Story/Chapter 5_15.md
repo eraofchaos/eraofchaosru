@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-15 Война начинается"
 permalink: /Main Story/Chapter 5_15/
 excerpt: "Глава 5 - 15. Эра хаоса  Основной сюжет - Глава 5_15. 5-15 Война начинается"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 5_15.md"
 toc: false

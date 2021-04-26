@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Посох увядания"
 permalink: /artifacts/Withering Staff/
 excerpt: "Эра хаоса  Меч Холода - Посох увядания. Посох архилича. Компонент меча Холода."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Withering Staff.md"
 toc: false

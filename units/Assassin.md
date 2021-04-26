@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Ассасин. Ассасин Отряды. null. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Ассасин"
 toc: true

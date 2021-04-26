@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Эра хаоса Видомина. Видомина. Видомина показывала большие надежды в молодости, но когда стало известно, что она превращала своей магией живых в нежить, ее изгнали из Бракады. Изгнание окончательно повернуло ее на тропу зла."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Vidomina"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Некромант](/images/h/h_prof_6.png)  [Некромант](/ru/heroes/Profession Necromancer/)
 
- **Фракция::** [Некрополь](/ru/heroes/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/heroes/Faction Necropolis/)
 
  **Ранг:** [SR+](/ru/heroes/Hero Rank SR+/)
 

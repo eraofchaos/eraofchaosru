@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Эра хаоса Дракон Мутара. Дракон Мутара. Выпив из Фиала драконьей крови, Мутара стала драконом, который сохранил сознание человека. Некоторые утверждают, что ее превращение предвещает появление Отца драконов."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Dragon Mutare"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Владыка Подземелья](/images/h/h_prof_16.png)  [Владыка Подземелья](/ru/heroes/Profession Overlord/)
 
- **Фракция::** [Подземелье](/ru/heroes/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/heroes/Faction Dungeon/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Эра хаоса Мефала. Мефала. Обученная в эрафийской армии Мефала всегда умела обернуть особенности рельефа в свою пользу. И хотя Мефала предпочитает тихую и мирную родную деревушку, она осталась на службе ради своей страны."
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Mephala"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Лесничий](/images/h/h_prof_3.png)  [Лесничий](/ru/heroes/Profession Ranger/)
 
- **Фракция::** [Бастион](/ru/heroes/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/heroes/Faction Rampart/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

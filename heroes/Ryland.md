@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "Эра хаоса Риланд. Риланд. Риланд - первый и единственный из людей, кого полностью принял Круг эльфийских старейшин. Некоторые шутят, что он на самом деле эльф, переродившийся в человеческом теле."
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Ryland"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Лесничий](/images/h/h_prof_3.png)  [Лесничий](/ru/heroes/Profession Ranger/)
 
- **Фракция::** [Бастион](/ru/heroes/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/heroes/Faction Rampart/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

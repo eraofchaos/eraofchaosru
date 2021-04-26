@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-2 Портал призыва"
 permalink: /Main Story/Chapter 26_2/
 excerpt: "Глава 26 - 2. Эра хаоса  Основной сюжет - Глава 26_2. 26-2 Портал призыва"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 26_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 Земли сна"
 permalink: /Underground/Chapter 25/
 excerpt: "Глава 25 Земли сна. Эра хаоса  Подземелье - Глава 25. Земли сна"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 25.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Награда 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Награда 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **160 x** Star Points
+ Награда 3: **160 x** Star Points
 
- Reward 4: **15 x** [Йог](/ItemsRU/her_377/){: .btn .btn--era5}
+ Награда 4: **15 x** [Йог](/ItemsRU/her_377/){: .btn .btn--era5}
 

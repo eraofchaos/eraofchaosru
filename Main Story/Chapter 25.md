@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 Выживание сильнейших"
 permalink: /Main Story/Chapter 25/
 excerpt: "Глава 25. Эра хаоса  Основной сюжет - Глава 25. Выживание сильнейших"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 25.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Завершить Глава 25
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Награда:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Награда 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **15 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Награда 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **5000x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Награда 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **20 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **20 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **80000x** <i class="fas fa-coins"/>
+ Награда 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **8000x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Награда 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2: **25 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **25 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Награда 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **10000x** [Опыт отряда](/ItemsRU/con_902/)
 

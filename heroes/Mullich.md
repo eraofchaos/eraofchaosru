@@ -4,7 +4,7 @@ permalink: /heroes/Mullich/
 excerpt: "Эра хаоса Мюллих. Мюллих. Войска Мюллиха знамениты своей скоростью. А о его самоконтроле и дисциплине ходят легенды. Он долго тренирует их, чтобы сделать еще быстрее."
 heroID: 60101
 QR: hero_60101
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Mullich"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Рыцарь](/images/h/h_prof_1.png)  [Рыцарь](/ru/heroes/Profession Knight/)
 
- **Фракция::** [Замок](/ru/heroes/Faction Castle/)
+ **Фракция:** [Замок](/ru/heroes/Faction Castle/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

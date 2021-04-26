@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "Эра хаоса Сиэль. Сиэль. Сиэль - не только одна из первых героинь, которые присоединились к элементалям. Она - генерал, который не знает поражений. Сиэль обнаружила свою связь с элементалями Магии с помощью своих магических стрел."
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Ciele"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Элементалист](/images/h/h_prof_14.png)  [Элементалист](/ru/heroes/Profession Elementalist/)
 
- **Фракция::** [Гармония](/ru/heroes/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/heroes/Faction Conflux/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

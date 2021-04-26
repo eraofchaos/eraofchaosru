@@ -4,7 +4,7 @@ permalink: /heroes/Astral/
 excerpt: "Эра хаоса Астрал. Астрал. Астрал прибыл в Эрафию около десятилетия назад и был вскоре принят гильдией магов Бракады. После того, как он достиг высокого ранга в гильдии, некоторые начали шутить, чтобы он забрался так высоко и так быстро с помощью магии."
 heroID: 61203
 QR: hero_61203
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Astral"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Боевой маг](/images/h/h_prof_15.png)  [Боевой маг](/ru/heroes/Profession Wizard/)
 
- **Фракция::** [Башня](/ru/heroes/Faction Tower/)
+ **Фракция:** [Башня](/ru/heroes/Faction Tower/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

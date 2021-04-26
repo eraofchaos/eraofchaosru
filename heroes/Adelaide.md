@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Эра хаоса Аделаида. Аделаида. Буду молодой женщиной, потерпевшей крушение, Аделаида в одиночестве вступила на территорию снежных эльфов. Она провела 20 лет, тренируясь вместе со своими спасителями, и стала сильнейшим магом в королевстве еще до возвращения в Эрафию."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Adelaide"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Священник](/images/h/h_prof_2.png)  [Священник](/ru/heroes/Profession Clerics/)
 
- **Фракция::** [Замок](/ru/heroes/Faction Castle/)
+ **Фракция:** [Замок](/ru/heroes/Faction Castle/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

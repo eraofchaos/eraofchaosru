@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Heroes"
 permalink: /heroes/Faction Rampart/
 excerpt: "Эра хаоса Faction Rampart. Faction Rampart. List of Faction  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Faction Rampart"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Гармония](/ru/heroes/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/heroes/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/heroes/Faction Dungeon/){: .btn .btn--warning} [Бастион](/ru/heroes/Faction Rampart/){: .btn .btn--danger} [Крепость](/ru/heroes/Faction Fortress/){: .btn .btn--info} [Замок](/ru/heroes/Faction Castle/){: .btn .btn--primary} [Башня](/ru/heroes/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/heroes/Faction Stronghold/){: .btn .btn--warning} [Нейтральная армия](/ru/heroes/Faction Neutral Army/){: .btn .btn--danger} [Убежище](/ru/heroes/Faction Cove/){: .btn .btn--info} [Некрополь](/ru/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr |  I |    Имя    |  Фракция:   |  Profession   |  Ранг  |    Specialty     | User Rate  | 
+  | Nr |  I |    Имя    |  Фракция  |  Profession   |  Ранг  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Джелу](/images/h/h_Gelu.jpg) | [Джелу](/ru/heroes/Gelu/) | Бастион | Лесничий | **SR+** |  Снайпер | SR+ |
   | 2 | ![Джем](/images/h/h_Gem.jpg) | [Джем](/ru/heroes/Gem/) | Бастион | Друид | **SSR** |  Природное исцеление | SSR |

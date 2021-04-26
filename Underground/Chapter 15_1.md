@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 15 - 15-1 Статуя демона"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Глава 15 - 1. Эра хаоса  Подземелье - Глава 15_1. 15-1 Статуя демона"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 15_1.md"
 toc: false

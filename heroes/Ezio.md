@@ -4,7 +4,7 @@ permalink: /heroes/Ezio/
 excerpt: "Эра хаоса Эцио. Эцио. Даже находясь в другом мире, Эцио не отказался от своего кредо: действовать во тьме, служа свету."
 heroID: 61901
 QR: hero_61901
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Ezio"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:**  [Unknown](/ru/heroes/Profession Unknown/)
 
- **Фракция::** [Нейтральная армия](/ru/heroes/Faction Neutral Army/)
+ **Фракция:** [Нейтральная армия](/ru/heroes/Faction Neutral Army/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

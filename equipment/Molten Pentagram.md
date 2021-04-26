@@ -2,7 +2,7 @@
 title: "Расплавленная пентаграмма"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Эра хаоса Расплавленная пентаграмма. Расплавленная пентаграмма"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Molten Pentagram.md"
 toc: false

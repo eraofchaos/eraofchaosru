@@ -2,7 +2,7 @@
 title: "Эмблема святости - Благословение"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Эра хаоса Благословение. Благословение. Эра хаоса Эмблема святости Благословение. Эра хаоса Порядок Благословение"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Queen's Blessing.md"
 toc: false

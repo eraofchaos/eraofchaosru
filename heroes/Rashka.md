@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Эра хаоса Раска. Раска. Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Rashka"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Одержимый](/images/h/h_prof_9.png)  [Одержимый](/ru/heroes/Profession Demoniac/)
 
- **Фракция::** [Инферно](/ru/heroes/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/heroes/Faction Inferno/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

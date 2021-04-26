@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-10 Подкрепления"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Глава 13 - 10. Эра хаоса  Основной сюжет - Глава 13_10. 13-10 Подкрепления"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 13_10.md"
 toc: false

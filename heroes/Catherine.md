@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Эра хаоса Катерина. Катерина. Как королеве Эрафии Катерине пришлось вести войну, чтобы сохранить созданное отцом королевство. Она будет сражаться, пока с Клинком Армагеддона не будет покончено."
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Catherine"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Рыцарь](/images/h/h_prof_1.png)  [Рыцарь](/ru/heroes/Profession Knight/)
 
- **Фракция::** [Замок](/ru/heroes/Faction Castle/)
+ **Фракция:** [Замок](/ru/heroes/Faction Castle/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

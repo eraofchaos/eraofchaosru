@@ -2,7 +2,7 @@
 title: "Магическое копыто быка"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Эра хаоса Магическое копыто быка. Магическое копыто быка"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Magic Ox Hoof.md"
 toc: false

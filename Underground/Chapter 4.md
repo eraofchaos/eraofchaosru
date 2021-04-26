@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 4 Дьявольский план"
 permalink: /Underground/Chapter 4/
 excerpt: "Глава 4 Дьявольский план. Эра хаоса  Подземелье - Глава 4. Дьявольский план"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 4.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Награда 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **30000x** <i class="fas fa-coins"/>
+ Награда 2:  **30000x** <i class="fas fa-coins"/>
 
- Reward 3: **60 x** Star Points
+ Награда 3: **60 x** Star Points
 
- Reward 4: **15 x** [Катерина](/ItemsRU/her_361/){: .btn .btn--era5}
+ Награда 4: **15 x** [Катерина](/ItemsRU/her_361/){: .btn .btn--era5}
 

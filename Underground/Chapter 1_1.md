@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 - 1-1 В подземелье"
 permalink: /Underground/Chapter 1_1/
 excerpt: "Глава 1 - 1. Эра хаоса  Подземелье - Глава 1_1. 1-1 В подземелье"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 1_1.md"
 toc: false

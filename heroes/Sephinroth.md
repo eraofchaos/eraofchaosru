@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "Эра хаоса Сефинрот. Сефинрот. Говорят, что Сефинрот, единственная известная колдунья Антагрича, является незаконнорожденной дочерью короля Грифонхарта."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Sephinroth"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Алхимик](/images/h/h_prof_11.png)  [Алхимик](/ru/heroes/Profession Warlock/)
 
- **Фракция::** [Подземелье](/ru/heroes/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/heroes/Faction Dungeon/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

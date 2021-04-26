@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 Спасение короля"
 permalink: /Underground/Chapter 30/
 excerpt: "Глава 30 Спасение короля. Эра хаоса  Подземелье - Глава 30. Спасение короля"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 30.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Награда 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Награда 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **160 x** Star Points
+ Награда 3: **160 x** Star Points
 
- Reward 4: **15 x** [Дракон](/ItemsRU/her_387/){: .btn .btn--era5}
+ Награда 4: **15 x** [Дракон](/ItemsRU/her_387/){: .btn .btn--era5}
 

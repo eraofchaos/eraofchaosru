@@ -2,7 +2,7 @@
 title: "Волшебная сфера маны"
 permalink: /equipment/Mystic Orb of Mana/
 excerpt: "Эра хаоса Волшебная сфера маны. Волшебная сфера маны"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Mystic Orb of Mana.md"
 toc: false

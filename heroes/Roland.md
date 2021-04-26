@@ -4,7 +4,7 @@ permalink: /heroes/Roland/
 excerpt: "Эра хаоса Роланд. Роланд. Короля Роланда спас от Кригана отряд воинов. В благодарность он вступил в ряды эрафийской армии в качестве генерала. Там он встретил Катерину, и рука об руку с ней сражался с захватчиками."
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Roland"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Рыцарь](/images/h/h_prof_1.png)  [Рыцарь](/ru/heroes/Profession Knight/)
 
- **Фракция::** [Замок](/ru/heroes/Faction Castle/)
+ **Фракция:** [Замок](/ru/heroes/Faction Castle/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

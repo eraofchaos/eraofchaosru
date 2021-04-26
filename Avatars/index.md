@@ -2,7 +2,7 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "index.md"
 toc: false
@@ -101,7 +101,7 @@ classes: wide
   | 88 | ![Роскошное постоянство](/images/a/avatarFrame_80.png) | [Роскошное постоянство](/ru/Avatars/Luxury Permanence/) | + | Рамка аватара «Роскошное постоянство» |
   | 89 | ![Сердце грифона](/images/a/avatarFrame_6.png) | [Сердце грифона](/ru/Avatars/Griffin Heart/) | + | Рамка аватара «Сердце грифона» |
   | 90 | ![Сердце постоянства](/images/a/avatarFrame_54.png) | [Сердце постоянства](/ru/Avatars/Heart of Permanence/) | - | Рамка аватара «Сердце постоянства» |
-  | 91 |  | [Смертельный командующий](/ru/Avatars/Deadly Commander/) | + | Рамка аватара «Смертельный командующий» |
+  | 91 | ![Смертельный командующий](/images/a/avatarFrame_21.png) | [Смертельный командующий](/ru/Avatars/Deadly Commander/) | + | Рамка аватара «Смертельный командующий» |
   | 92 |  | [Снежный дракон](/ru/Avatars/Shadow of Ice Kingdom Dragon/) | - | Рамка аватара «Снежный дракон» |
   | 93 | ![Соперник](/images/a/avatarFrame_2.png) | [Соперник](/ru/Avatars/Competitor/) | + | Рамка аватара «Высокоуровневый соперник» |
   | 94 | ![Социальная бабочка](/images/a/avatarFrame_31.png) | [Социальная бабочка](/ru/Avatars/Social Butterfly/) | - |  |

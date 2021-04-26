@@ -2,7 +2,7 @@
 title: "Адъютант Крэг Хак"
 permalink: /heroes/Adjutant Crag Hack/
 excerpt: "Эра хаоса  Адъютант Крэг Хак"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Adjutant Crag Hack.md"
 QR: adhero_60602

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 Телесное наказание"
 permalink: /Underground/Chapter 12/
 excerpt: "Глава 12 Телесное наказание. Эра хаоса  Подземелье - Глава 12. Телесное наказание"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 12.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **450x** <i class="fas fa-gem"/>
+ Награда 1:  **450x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Награда 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **140 x** Star Points
+ Награда 3: **140 x** Star Points
 
- Reward 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
+ Награда 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
 

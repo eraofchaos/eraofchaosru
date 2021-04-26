@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-1 Остатки эльфов"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Глава 9 - 1. Эра хаоса  Основной сюжет - Глава 9_1. 9-1 Остатки эльфов"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 9_1.md"
 toc: false

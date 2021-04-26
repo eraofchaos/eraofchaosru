@@ -2,7 +2,7 @@
 title: "Шлем из звериных костей"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Эра хаоса Шлем из звериных костей. Шлем из звериных костей"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Beast-boned Helmet.md"
 toc: false

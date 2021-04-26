@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-9 Мирные переговоры"
 permalink: /Main Story/Chapter 12_9/
 excerpt: "Глава 12 - 9. Эра хаоса  Основной сюжет - Глава 12_9. 12-9 Мирные переговоры"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 12_9.md"
 toc: false

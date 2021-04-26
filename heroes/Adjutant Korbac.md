@@ -2,7 +2,7 @@
 title: "Адъютант Корбак"
 permalink: /heroes/Adjutant Korbac/
 excerpt: "Эра хаоса  Адъютант Корбак"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Adjutant Korbac.md"
 QR: adhero_61502

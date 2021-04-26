@@ -2,7 +2,7 @@
 title: "Аватар - Комментаторы"
 permalink: /Avatars/Commenters/
 excerpt: "Эра хаоса  Комментаторы"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Commenters.md"
 toc: false

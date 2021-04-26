@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Эра хаоса Эрдамон. Эрдамон. Эрдамон, древний властитель магмы, столетиями спал в горах на границе Эофола. Теперь же он проснулся и присоединился к элементалям. Эрдамон жаждет помочь миру избавиться от Кригана, и ради этого он готов воевать."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Erdamon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Путешественник](/images/h/h_prof_13.png)  [Путешественник](/ru/heroes/Profession Planeswalker/)
 
- **Фракция::** [Гармония](/ru/heroes/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/heroes/Faction Conflux/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

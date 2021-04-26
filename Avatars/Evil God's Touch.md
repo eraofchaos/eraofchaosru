@@ -2,7 +2,7 @@
 title: "Аватар - Прикосновение беса"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "Эра хаоса  Прикосновение беса"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Evil God's Touch.md"
 toc: false

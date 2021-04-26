@@ -2,7 +2,7 @@
 title: "VIP - VIP 18"
 permalink: /VIP/VIP 18/
 excerpt: "Эра хаоса  Система VIP. VIP 18"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "VIP 18.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** null
+ **Награда:** null
 
  **EXP:** ?
 

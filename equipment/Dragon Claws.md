@@ -2,7 +2,7 @@
 title: "Когти дракона"
 permalink: /equipment/Dragon Claws/
 excerpt: "Эра хаоса Когти дракона. Когти дракона"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Dragon Claws.md"
 toc: false

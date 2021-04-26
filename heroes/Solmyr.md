@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Эра хаоса Сольмир. Сольмир. Сольмир - джинн, который был заперт в бутылке больше тысячи лет. И теперь он навечно благодарен своему спасителю - Гэвину Магнусу, бессмертному правителю Бракадского нагорья, которому присягнул на вечную верность."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Solmyr"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Боевой маг](/images/h/h_prof_15.png)  [Боевой маг](/ru/heroes/Profession Wizard/)
 
- **Фракция::** [Башня](/ru/heroes/Faction Tower/)
+ **Фракция:** [Башня](/ru/heroes/Faction Tower/)
 
  **Ранг:** [SR+](/ru/heroes/Hero Rank SR+/)
 

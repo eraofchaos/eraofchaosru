@@ -2,7 +2,7 @@
 title: "Backup - Благословение Луны"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Эра хаоса  Благословение Луны"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Blessing of Luna.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Особое умение - **Благословение Луны** 
 
+  ![Благословение Луны](/images/b/backupIcon_2.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Боевое умение - **Исцеление** 
 
+  ![Исцеление](/images/b/backupSkill1Icon_2.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Глобальное умение - **Сила энергии** 
+
+  ![Сила энергии](/images/b/backupSkill2Icon_2.png)
 
  **Глобальное умение Power:** 1076
 

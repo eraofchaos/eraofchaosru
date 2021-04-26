@@ -2,7 +2,7 @@
 title: "Акульи поводья"
 permalink: /equipment/Shark Reins/
 excerpt: "Эра хаоса Акульи поводья. Акульи поводья"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Shark Reins.md"
 toc: false

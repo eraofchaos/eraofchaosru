@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 Остров Эверморн"
 permalink: /Main Story/Chapter 1/
 excerpt: "Глава 1. Эра хаоса  Основной сюжет - Глава 1. Остров Эверморн"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 1.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1: **10 x** [Копейщик](/ItemsRU/unt_190/){: .btn .btn--era3}
+ Награда 1: **10 x** [Копейщик](/ItemsRU/unt_190/){: .btn .btn--era3}
 
- Reward 2:  **150x** <i class="fas fa-gem"/>
+ Награда 2:  **150x** <i class="fas fa-gem"/>
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Награда 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
 

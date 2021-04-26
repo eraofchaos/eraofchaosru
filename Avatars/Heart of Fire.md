@@ -2,7 +2,7 @@
 title: "Аватар - Огненное сердце"
 permalink: /Avatars/Heart of Fire/
 excerpt: "Эра хаоса  Огненное сердце"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Heart of Fire.md"
 toc: false

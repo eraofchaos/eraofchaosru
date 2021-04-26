@@ -2,7 +2,7 @@
 title: "Backup - Штурмовая атака"
 permalink: /Backup/Charge Offensive/
 excerpt: "Эра хаоса  Штурмовая атака"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Charge Offensive.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
 
 
 ## Особое умение - **Штурмовая атака** 
+
+  ![Штурмовая атака](/images/b/backupIcon_1.png)
 
  **Skill Power:** 1204
 
@@ -50,6 +52,8 @@ classes: wide
 
 ## Боевое умение - **Атака шторма** 
 
+  ![Атака шторма](/images/b/backupSkill1Icon_1.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -74,6 +78,8 @@ classes: wide
 
 
 ## Глобальное умение - **Застрельщик** 
+
+  ![Застрельщик](/images/b/backupSkill2Icon_1.png)
 
  **Глобальное умение Power:** 1076
 

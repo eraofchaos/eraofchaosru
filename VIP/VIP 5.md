@@ -2,7 +2,7 @@
 title: "VIP - VIP 5"
 permalink: /VIP/VIP 5/
 excerpt: "Эра хаоса  Система VIP. VIP 5"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "VIP 5.md"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V5](/ItemsRU/con_1301/)
+ **Награда:** **1x** [Премиум-набор V5](/ItemsRU/con_1301/)
 
  **EXP:** 2000
 

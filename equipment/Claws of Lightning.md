@@ -2,7 +2,7 @@
 title: "Когти молнии"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Эра хаоса Когти молнии. Когти молнии"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Claws of Lightning.md"
 toc: false

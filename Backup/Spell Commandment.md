@@ -2,7 +2,7 @@
 title: "Backup - Заповедное заклятие"
 permalink: /Backup/Spell Commandment/
 excerpt: "Эра хаоса  Заповедное заклятие"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Spell Commandment.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Особое умение - **Заповедное заклятие** 
 
+  ![Заповедное заклятие](/images/b/backupIcon_6.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Боевое умение - **Силовое поле** 
 
+  ![Силовое поле](/images/b/backupSkill1Icon_6.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Глобальное умение - **Излучение** 
+
+  ![Излучение](/images/b/backupSkill2Icon_6.png)
 
  **Глобальное умение Power:** 1076
 

@@ -4,7 +4,7 @@ permalink: /heroes/Luna/
 excerpt: "Эра хаоса Луна. Луна. Луна жила в Энроте, когда до нее дошли слухи об элементале, появившемся в Эрафии. Поверив, что там ей удастся обучиться куда более могущественной магии, она пересекла море, чтобы открыть секреты Эрафии."
 heroID: 60701
 QR: hero_60701
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Luna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Элементалист](/images/h/h_prof_14.png)  [Элементалист](/ru/heroes/Profession Elementalist/)
 
- **Фракция::** [Гармония](/ru/heroes/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/heroes/Faction Conflux/)
 
  **Ранг:** [SR+](/ru/heroes/Hero Rank SR+/)
 

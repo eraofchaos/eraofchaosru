@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "Эра хаоса Дракон. Дракон. Многие из старейшин Дракона считают его невероятно талантливым магом. Его цель в жизни - стать лучшим убийцей драконов в истории."
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Dracon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Боевой маг](/images/h/h_prof_15.png)  [Боевой маг](/ru/heroes/Profession Wizard/)
 
- **Фракция::** [Башня](/ru/heroes/Faction Tower/)
+ **Фракция:** [Башня](/ru/heroes/Faction Tower/)
 
  **Ранг:** [SR+](/ru/heroes/Hero Rank SR+/)
 

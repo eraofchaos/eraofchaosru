@@ -4,7 +4,7 @@ permalink: /heroes/Shiva/
 excerpt: "Эра хаоса Шива. Шива. Шива была рождена в семье, которая выращивала и тренировала птиц Рух. Она не хотела участвовать в семейном бизнесе, и вместо этого вступила в ряды армии Крулода и стала превосходным наемником."
 heroID: 60603
 QR: hero_60603
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Shiva"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Варвар](/images/h/h_prof_7.png)  [Варвар](/ru/heroes/Profession Barbarian/)
 
- **Фракция::** [Цитадель](/ru/heroes/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/heroes/Faction Stronghold/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

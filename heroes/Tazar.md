@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "Эра хаоса Тазар. Тазар. Во время шестимесячной пограничной войны с Крулодом Тазар руководил небольшими силами аванпоста Таталии и сдерживал крулодскую армию в пять раз больше своего войска целых восемь дней, пока не пришло подкрепление."
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Tazar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:**  [Хозяин зверей](/ru/heroes/Profession Beast Master/)
 
- **Фракция::** [Крепость](/ru/heroes/Faction Fortress/)
+ **Фракция:** [Крепость](/ru/heroes/Faction Fortress/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

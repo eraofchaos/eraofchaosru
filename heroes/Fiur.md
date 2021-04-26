@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Эра хаоса Фиур. Фиур. Несмотря на свою молодость и неопытность, элементаль Фиур невероятно талантлив. Некоторые верят, что однажды он станет сильнейшим героем среди элементалей."
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Fiur"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Путешественник](/images/h/h_prof_13.png)  [Путешественник](/ru/heroes/Profession Planeswalker/)
 
- **Фракция::** [Гармония](/ru/heroes/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/heroes/Faction Conflux/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "Эра хаоса Янова. Янова. Еще ребенком она попала в плен к темным эльфам. Только помощь мстительного единорога позволила Янове обрести свободу. С тех пор она начала поклоняться этим таинственным созданиям лесов и решила жить рядом с ними. Никто не знает единорогов лучше Яновы, мастерски использующей их скорость и мощь в бою"
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Jenova"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Лесничий](/images/h/h_prof_3.png)  [Лесничий](/ru/heroes/Profession Ranger/)
 
- **Фракция::** [Бастион](/ru/heroes/Faction Rampart/)
+ **Фракция:** [Бастион](/ru/heroes/Faction Rampart/)
 
  **Ранг:** [R](/ru/heroes/Hero Rank R/)
 

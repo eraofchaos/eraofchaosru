@@ -4,7 +4,7 @@ permalink: /heroes/Kilgor/
 excerpt: "Эра хаоса Килгор. Килгор. В юном возрасте Килгор победил своего отца, чтобы стать вождем клана. С тех пор слава о нем распространилась по всему Крулоду. Многие считают его единственным воином, способным победить в Празднестве Жизни своего времени."
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Kilgor"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Варвар](/images/h/h_prof_7.png)  [Варвар](/ru/heroes/Profession Barbarian/)
 
- **Фракция::** [Цитадель](/ru/heroes/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/heroes/Faction Stronghold/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

@@ -2,7 +2,7 @@
 title: "VIP - VIP 1"
 permalink: /VIP/VIP 1/
 excerpt: "Эра хаоса  Система VIP. VIP 1"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "VIP 1.md"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V1](/ItemsRU/con_1297/)
+ **Награда:** **1x** [Премиум-набор V1](/ItemsRU/con_1297/)
 
  **EXP:** 60
 

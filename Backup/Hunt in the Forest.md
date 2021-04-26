@@ -2,7 +2,7 @@
 title: "Backup - Лесная охота"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Эра хаоса  Лесная охота"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Hunt in the Forest.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Особое умение - **Лесная охота** 
 
+  ![Лесная охота](/images/b/backupIcon_5.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Боевое умение - **Побуждение** 
 
+  ![Побуждение](/images/b/backupSkill1Icon_5.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Глобальное умение - **Полномочия** 
+
+  ![Полномочия](/images/b/backupSkill2Icon_5.png)
 
  **Глобальное умение Power:** 1076
 

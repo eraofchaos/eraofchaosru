@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Эра хаоса Крэг Хак. Крэг Хак. До приезда в Эрафию Крэг Хак был неизвестен. Но в этих диких землях он нашел лучшее применением своим умениям."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Crag Hack"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Варвар](/images/h/h_prof_7.png)  [Варвар](/ru/heroes/Profession Barbarian/)
 
- **Фракция::** [Цитадель](/ru/heroes/Faction Stronghold/)
+ **Фракция:** [Цитадель](/ru/heroes/Faction Stronghold/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

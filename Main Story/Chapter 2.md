@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 Возвращение королевы"
 permalink: /Main Story/Chapter 2/
 excerpt: "Глава 2. Эра хаоса  Основной сюжет - Глава 2. Возвращение королевы"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 2.md"
 toc: false
@@ -25,23 +25,23 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/30</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Награда 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **3 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Награда 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">30/30</span>
 
- Reward 1:  **300x** <i class="fas fa-gem"/>
+ Награда 1:  **300x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Награда 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **1500x** [Опыт отряда](/ItemsRU/con_902/)
 

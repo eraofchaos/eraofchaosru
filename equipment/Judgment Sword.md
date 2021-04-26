@@ -2,7 +2,7 @@
 title: "Меч правосудия"
 permalink: /equipment/Judgment Sword/
 excerpt: "Эра хаоса Меч правосудия. Меч правосудия"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Judgment Sword.md"
 toc: false

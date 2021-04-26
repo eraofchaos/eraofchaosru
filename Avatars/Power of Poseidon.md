@@ -2,7 +2,7 @@
 title: "Аватар - Власть Посейдона"
 permalink: /Avatars/Power of Poseidon/
 excerpt: "Эра хаоса  Власть Посейдона"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Power of Poseidon.md"
 toc: false

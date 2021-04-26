@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Эра хаоса Ксерон. Ксерон. Когда Люцифер Криган убил Ксенофекса и захватил власть, Ксерон первым присягнул на верность узурпатору. Это позволило ему завоевать расположение нового короля."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Xeron"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Одержимый](/images/h/h_prof_9.png)  [Одержимый](/ru/heroes/Profession Demoniac/)
 
- **Фракция::** [Инферно](/ru/heroes/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/heroes/Faction Inferno/)
 
  **Ранг:** [SSR](/ru/heroes/Hero Rank SSR/)
 

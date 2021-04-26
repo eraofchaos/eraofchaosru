@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Посох Эдема"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Эра хаоса  Золотое яблоко - Посох Эдема. Посох Первой Цивилизации, дарует владельцу бесконечный запас времени."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Staff of Eden.md"
 toc: false

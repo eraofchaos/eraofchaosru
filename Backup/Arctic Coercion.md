@@ -2,7 +2,7 @@
 title: "Backup - Понукание морозом"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Эра хаоса  Понукание морозом"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Arctic Coercion.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Особое умение - **Понукание морозом** 
 
+  ![Понукание морозом](/images/b/backupIcon_4.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Боевое умение - **Великая мощь** 
 
+  ![Великая мощь](/images/b/backupSkill1Icon_4.png)
+
  **Боевое умение Power:** 1060
 
  **Боевое умение Unlock:** 5x [Свиток энергии](/ItemsRU/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Глобальное умение - **Прокорм** 
+
+  ![Прокорм](/images/b/backupSkill2Icon_4.png)
 
  **Глобальное умение Power:** 1076
 

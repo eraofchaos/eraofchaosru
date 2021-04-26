@@ -2,7 +2,7 @@
 title: "Аватар - Нападай!"
 permalink: /Avatars/Let's Fight!/
 excerpt: "Эра хаоса  Нападай!"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Let's Fight!.md"
 toc: false

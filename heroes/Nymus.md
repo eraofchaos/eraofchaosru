@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Эра хаоса Нимусса. Нимусса. Нимусса - суккуб с богатым боевым опытом, поэтому повелитель Инферно назначил ее пастырем порождений зла. Когда она снова ступит на поле битвы, ужас пропитает врагов до мозга костей."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Nymus"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Одержимый](/images/h/h_prof_9.png)  [Одержимый](/ru/heroes/Profession Demoniac/)
 
- **Фракция::** [Инферно](/ru/heroes/Faction Inferno/)
+ **Фракция:** [Инферно](/ru/heroes/Faction Inferno/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

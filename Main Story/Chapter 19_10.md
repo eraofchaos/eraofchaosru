@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-10 Заклинания памяти"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Глава 19 - 10. Эра хаоса  Основной сюжет - Глава 19_10. 19-10 Заклинания памяти"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 19_10.md"
 toc: false

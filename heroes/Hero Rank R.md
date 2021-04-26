@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank R -  Heroes"
 permalink: /heroes/Hero Rank R/
 excerpt: "Эра хаоса Hero Rank R. Hero Rank R. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Hero Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/ru/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/ru/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/ru/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/ru/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/ru/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Имя    |  Фракция:   |  Profession   |  Ранг  |    Specialty     | User Rate  | 
+  | Nr |  I |    Имя    |  Фракция  |  Profession   |  Ранг  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Вестан](/images/h/h_Wystan.jpg) | [Вестан](/ru/heroes/Wystan/) | Крепость | Хозяин зверей | **R** |  Болотный охотник | R |
   | 2 | ![Шива](/images/h/h_Shiwa.jpg) | [Шива](/ru/heroes/Shiva/) | Цитадель | Варвар | **R** |  Вестники бури | R |

@@ -2,7 +2,7 @@
 title: "Древний посох"
 permalink: /equipment/Elder Staff/
 excerpt: "Эра хаоса Древний посох. Древний посох"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Elder Staff.md"
 toc: false

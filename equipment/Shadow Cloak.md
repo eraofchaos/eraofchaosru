@@ -2,7 +2,7 @@
 title: "Плащ тени"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Эра хаоса Плащ тени. Плащ тени"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Shadow Cloak.md"
 toc: false

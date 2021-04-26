@@ -2,7 +2,7 @@
 title: "Адская броня"
 permalink: /equipment/Hellish Armor/
 excerpt: "Эра хаоса Адская броня. Адская броня"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Hellish Armor.md"
 toc: false

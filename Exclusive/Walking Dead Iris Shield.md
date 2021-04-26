@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Ходячий мертвец Эксклюзив."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Walking Dead Славный щит.md"
 toc: false

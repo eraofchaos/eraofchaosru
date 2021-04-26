@@ -4,7 +4,7 @@ permalink: /heroes/Jeddite/
 excerpt: "Эра хаоса Джеддит. Джеддит. Джеддит - загадочная личность, поддерживающие весьма тесные дипломатические отношения с высокопоставленными лицами из разных стран. О его прошлом никто не знает, а сам он никогда о нем не говорит."
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Jeddite"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Алхимик](/images/h/h_prof_11.png)  [Алхимик](/ru/heroes/Profession Warlock/)
 
- **Фракция::** [Подземелье](/ru/heroes/Faction Dungeon/)
+ **Фракция:** [Подземелье](/ru/heroes/Faction Dungeon/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

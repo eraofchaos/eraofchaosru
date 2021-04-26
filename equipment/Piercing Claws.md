@@ -2,7 +2,7 @@
 title: "Пронзающие когти"
 permalink: /equipment/Piercing Claws/
 excerpt: "Эра хаоса Пронзающие когти. Пронзающие когти"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Piercing Claws.md"
 toc: false

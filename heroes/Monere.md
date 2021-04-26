@@ -4,7 +4,7 @@ permalink: /heroes/Monere/
 excerpt: "Эра хаоса Монер. Монер. Монер от рождения обладал способностью контролировать элементалей Мысли и Магии. Так он стал основным генералом элементалей."
 heroID: 60702
 QR: hero_60702
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Monere"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Путешественник](/images/h/h_prof_13.png)  [Путешественник](/ru/heroes/Profession Planeswalker/)
 
- **Фракция::** [Гармония](/ru/heroes/Faction Conflux/)
+ **Фракция:** [Гармония](/ru/heroes/Faction Conflux/)
 
  **Ранг:** [SR](/ru/heroes/Hero Rank SR/)
 

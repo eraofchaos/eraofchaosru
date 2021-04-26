@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-10 Слабое сопротивление"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Глава 9 - 10. Эра хаоса  Основной сюжет - Глава 9_10. 9-10 Слабое сопротивление"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 9_10.md"
 toc: false

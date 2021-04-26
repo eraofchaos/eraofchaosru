@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "index.md"
 QR: heroes
@@ -15,7 +15,7 @@ classes: wide
 
   by Ранг: [R](/ru/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/ru/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/ru/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/ru/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/ru/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Имя    |  Фракция:   |  Profession   |  Ранг  |    Specialty     | User Rate  | 
+  | Nr |  I |    Имя    |  Фракция  |  Profession   |  Ранг  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Аделаида](/images/h/h_Adelaide.jpg) | [Аделаида](/ru/heroes/Adelaide/) | Замок | Священник | **SR** |  Кольцо холода | R+ |
   | 2 | ![Астрал](/images/h/h_Astral.jpg) | [Астрал](/ru/heroes/Astral/) | Башня | Боевой маг | **SSR** |  Увеличение магии | SSR |

@@ -2,7 +2,7 @@
 title: "Кожаные перчатки"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Эра хаоса Кожаные перчатки. Кожаные перчатки"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Leather Gauntlets.md"
 toc: false

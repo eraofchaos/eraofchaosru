@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 Утесы грифонов"
 permalink: /Main Story/Chapter 4/
 excerpt: "Глава 4. Эра хаоса  Основной сюжет - Глава 4. Утесы грифонов"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 4.md"
 toc: false
@@ -30,35 +30,35 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Награда 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **2 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Награда 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **1000x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Награда 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **3 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Награда 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **1500x** [Опыт отряда](/ItemsRU/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Награда 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 2: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Награда 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [Опыт отряда](/ItemsRU/con_902/)
+ Награда 4:  **2000x** [Опыт отряда](/ItemsRU/con_902/)
 

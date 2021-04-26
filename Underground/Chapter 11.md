@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 Сезон жатвы"
 permalink: /Underground/Chapter 11/
 excerpt: "Глава 11 Сезон жатвы. Эра хаоса  Подземелье - Глава 11. Сезон жатвы"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 11.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **450x** <i class="fas fa-gem"/>
+ Награда 1:  **450x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Награда 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **130 x** Star Points
+ Награда 3: **130 x** Star Points
 
- Reward 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
+ Награда 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
 

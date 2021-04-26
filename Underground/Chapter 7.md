@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 Пограничная полоса"
 permalink: /Underground/Chapter 7/
 excerpt: "Глава 7 Пограничная полоса. Эра хаоса  Подземелье - Глава 7. Пограничная полоса"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 7.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Награда 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2:  **50000x** <i class="fas fa-coins"/>
+ Награда 2:  **50000x** <i class="fas fa-coins"/>
 
- Reward 3: **90 x** Star Points
+ Награда 3: **90 x** Star Points
 
- Reward 4: **15 x** [Раска](/ItemsRU/her_384/){: .btn .btn--era5}
+ Награда 4: **15 x** [Раска](/ItemsRU/her_384/){: .btn .btn--era5}
 

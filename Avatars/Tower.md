@@ -2,7 +2,7 @@
 title: "Аватар - Башня"
 permalink: /Avatars/Tower/
 excerpt: "Эра хаоса  Башня"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Tower.md"
 toc: false

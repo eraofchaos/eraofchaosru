@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-1 Земля нежити"
 permalink: /Main Story/Chapter 6_1/
 excerpt: "Глава 6 - 1. Эра хаоса  Основной сюжет - Глава 6_1. 6-1 Земля нежити"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 6_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Эра хаоса Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Hero Rank SSR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/ru/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/ru/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/ru/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/ru/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/ru/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Имя    |  Фракция:   |  Profession   |  Ранг  |    Specialty     | User Rate  | 
+  | Nr |  I |    Имя    |  Фракция  |  Profession   |  Ранг  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Роланд](/images/h/h_Roland.jpg) | [Роланд](/ru/heroes/Roland/) | Замок | Рыцарь | **SSR** |  Повышение боевого духа | SR+ |
   | 2 | ![Сиэль](/images/h/h_Ciele.jpg) | [Сиэль](/ru/heroes/Ciele/) | Гармония | Элементалист | **SSR** |  Резонанс стихий | SSR |

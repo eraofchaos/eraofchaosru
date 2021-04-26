@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 Возвращение домой"
 permalink: /Underground/Chapter 1/
 excerpt: "Глава 1 Возвращение домой. Эра хаоса  Подземелье - Глава 1. Возвращение домой"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 1.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **200x** <i class="fas fa-gem"/>
+ Награда 1:  **200x** <i class="fas fa-gem"/>
 
- Reward 2:  **10000x** <i class="fas fa-coins"/>
+ Награда 2:  **10000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
+ Награда 3: **5 x** [Свиток заклинания](/ItemsRU/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Катерина](/ItemsRU/her_361/){: .btn .btn--era5}
+ Награда 4: **15 x** [Катерина](/ItemsRU/her_361/){: .btn .btn--era5}
 

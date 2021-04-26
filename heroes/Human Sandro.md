@@ -4,7 +4,7 @@ permalink: /heroes/Human Sandro/
 excerpt: "Эра хаоса Человек Сандро. Человек Сандро. Человек Сандро, ученик мага Эрика в Бракаде, пересек море из Энрота. Он скрывает свои амбиции, а потому ни его учитель, ни другие знакомые не знают его истинных намерений."
 heroID: 60503
 QR: hero_60503
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Human Sandro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Подробности
  **Profession:** ![Некромант](/images/h/h_prof_6.png)  [Некромант](/ru/heroes/Profession Necromancer/)
 
- **Фракция::** [Некрополь](/ru/heroes/Faction Necropolis/)
+ **Фракция:** [Некрополь](/ru/heroes/Faction Necropolis/)
 
  **Ранг:** [SR+](/ru/heroes/Hero Rank SR+/)
 

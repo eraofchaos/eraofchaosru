@@ -2,7 +2,7 @@
 title: "Браслеты волка"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Эра хаоса Браслеты волка. Браслеты волка"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Bracer of the Wolf.md"
 toc: false

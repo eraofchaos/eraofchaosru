@@ -2,7 +2,7 @@
 title: "VIP - VIP 13"
 permalink: /VIP/VIP 13/
 excerpt: "Эра хаоса  Система VIP. VIP 13"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "VIP 13.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V13](/ItemsRU/con_1309/)
+ **Награда:** **1x** [Премиум-набор V13](/ItemsRU/con_1309/)
 
  **EXP:** 80000
 

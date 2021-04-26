@@ -2,7 +2,7 @@
 title: "Аватар - Морской волк"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "Эра хаоса  Морской волк"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Warlord of the Sea.md"
 toc: false

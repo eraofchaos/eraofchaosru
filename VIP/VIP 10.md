@@ -2,7 +2,7 @@
 title: "VIP - VIP 10"
 permalink: /VIP/VIP 10/
 excerpt: "Эра хаоса  Система VIP. VIP 10"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "VIP 10.md"
 toc: false
@@ -40,7 +40,7 @@ classes: wide
 
 ## Подробности
 
- **Reward:** **1x** [Премиум-набор V10](/ItemsRU/con_1306/)
+ **Награда:** **1x** [Премиум-набор V10](/ItemsRU/con_1306/)
 
  **EXP:** 15000
 

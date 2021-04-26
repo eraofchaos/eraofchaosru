@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 Грифонхарт"
 permalink: /Underground/Chapter 10/
 excerpt: "Глава 10 Грифонхарт. Эра хаоса  Подземелье - Глава 10. Грифонхарт"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: ru
 ref: "Chapter 10.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Чтобы получить награду: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Награда 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Награда 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **120 x** Star Points
+ Награда 3: **120 x** Star Points
 
- Reward 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
+ Награда 4: **15 x** [Крэг Хак](/ItemsRU/her_375/){: .btn .btn--era5}
 
