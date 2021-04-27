@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "Эра хаоса Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Unit Class Charging"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Белый тигр](/images/u/ti_baihu.jpg) | [Белый тигр](/ru/units/White Tiger/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 2 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 2 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 3 | ![Повелитель акул](/images/u/ti_xunshashi.jpg) | [Повелитель акул](/ru/units/Shark Trainer/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Разбойники на акулах  |
   | 4 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Гарпия  |
   | 5 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |

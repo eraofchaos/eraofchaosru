@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-9 Происхождение орков"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "Глава 21 - 9. Эра хаоса  Основной сюжет - Глава 21_9. 21-9 Происхождение орков"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 21_9.md"
 toc: false

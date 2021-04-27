@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-8 Дружеский обмен"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Глава 2 - 8. Эра хаоса  Основной сюжет - Глава 2_8. 2-8 Дружеский обмен"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 2_8.md"
 toc: false

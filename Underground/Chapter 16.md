@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 16 За короля и отечество"
 permalink: /Underground/Chapter 16/
 excerpt: "Глава 16 За короля и отечество. Эра хаоса  Подземелье - Глава 16. За короля и отечество"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 16.md"
 toc: false

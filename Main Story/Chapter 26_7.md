@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-7 Подарок мудреца"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Глава 26 - 7. Эра хаоса  Основной сюжет - Глава 26_7. 26-7 Подарок мудреца"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 26_7.md"
 toc: false

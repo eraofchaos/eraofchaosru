@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-3 Храброе наступление"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Глава 22 - 3. Эра хаоса  Основной сюжет - Глава 22_3. 22-3 Храброе наступление"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 22_3.md"
 toc: false

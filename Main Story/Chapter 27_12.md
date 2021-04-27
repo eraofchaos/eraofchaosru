@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-12 Отец драконов"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Глава 27 - 12. Эра хаоса  Основной сюжет - Глава 27_12. 27-12 Отец драконов"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 27_12.md"
 toc: false

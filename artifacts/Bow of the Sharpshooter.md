@@ -2,7 +2,7 @@
 title: "Артефакт - Лук снайпера"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Эра хаоса  Лук снайпера. Лук снайпера Священная реликвия, выкованная эльфами из сокровищ. Повышает силу дальнобойной атаки."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Bow of the Sharpshooter.md"
 toc: false

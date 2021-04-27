@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Оглушение"
 permalink: /combination/Stun/
 excerpt: "Информация о комбинации - Оглушение. Units and Heroes Formation."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Оглушение.md"
 toc: false

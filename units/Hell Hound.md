@@ -3,7 +3,7 @@ title: "Гончая ада"
 permalink: /units/Hell Hound/
 excerpt: "Эра хаоса Гончая ада. Гончая ада Отряды. null. Эра хаоса Гончие ада атакуют врагов всеми тремя своими головами. По их телам струится раскаленная лава, оставляя за ними огненный след."
 unitID: 503
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Гончая ада"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Имя:** [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон Копья рыцаря](/ItemsRU/con_916/)
 

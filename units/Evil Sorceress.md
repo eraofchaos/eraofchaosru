@@ -3,7 +3,7 @@ title: "Злая ведьма"
 permalink: /units/Evil Sorceress/
 excerpt: "Эра хаоса Злая ведьма. Злая ведьма Отряды. null. Эра хаоса Чародейка из Храма Баа. Все ее лицо покрыто магическими знаками. Обладает ужасной демонической мощью."
 unitID: 709
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Злая ведьма"
 toc: true

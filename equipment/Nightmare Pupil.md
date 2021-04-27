@@ -2,7 +2,7 @@
 title: "Зрачок кошмара"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Эра хаоса Зрачок кошмара. Зрачок кошмара"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Nightmare Pupil.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Каменный рог"
 permalink: /equipment/Stone Horn/
 excerpt: "Эра хаоса Каменный рог. Каменный рог"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Stone Horn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Аватар - Душа дракона"
 permalink: /Avatars/Dragon Soul/
 excerpt: "Эра хаоса  Душа дракона"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Dragon Soul.md"
 toc: false

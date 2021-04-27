@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-2 Наемные силы"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Глава 9 - 2. Эра хаоса  Основной сюжет - Глава 9_2. 9-2 Наемные силы"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 9_2.md"
 toc: false

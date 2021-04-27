@@ -3,7 +3,7 @@ title: "Бехолдер"
 permalink: /units/Beholder/
 excerpt: "Эра хаоса Бехолдер. Бехолдер Отряды. Злобоглаз. Эра хаоса Эти многоглазые монстры весьма умны. Всех живых существ они считают своими слугами."
 unitID: 703
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Бехолдер"
 toc: true

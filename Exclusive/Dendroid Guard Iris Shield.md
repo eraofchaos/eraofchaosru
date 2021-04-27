@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Дендроид-страж Эксклюзив."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Dendroid Guard Славный щит.md"
 toc: false

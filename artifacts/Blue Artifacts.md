@@ -2,7 +2,7 @@
 title: "Blue Artifacts"
 permalink: /artifacts/Blue Artifacts/
 excerpt: "Эра хаоса  List of all Blue Artifacts . Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Blue Artifacts.md"
 toc: false

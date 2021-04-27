@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-5 Осколок души"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Глава 10 - 5. Эра хаоса  Основной сюжет - Глава 10_5. 10-5 Осколок души"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 10_5.md"
 toc: false

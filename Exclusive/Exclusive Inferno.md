@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Эра хаоса Эксклюзив Inferno. Эксклюзив Inferno. List of Эксклюзив Inferno in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Exclusive Inferno"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Бес](/ru/units/Imp/) | [Славный щит](/ru/Exclusive/Imp Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 2  | [Гог](/ru/units/Gog/) | [Таинственное пение](/ru/Exclusive/Gog Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
-  | 3  | [Гончая ада](/ru/units/Hell Hound/) | [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
+  | 3  | [Гончая ада](/ru/units/Hell Hound/) | [Копье рыцаря](/ru/Exclusive/Hell Hound Knight Pike/) | + | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
   | 4  | [Демон](/ru/units/Demon/) | [Славный щит](/ru/Exclusive/Demon Iris Shield/) | + | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 5  | [Порождение зла](/ru/units/Pit Fiend/) | [Меч](/ru/Exclusive/Pit Fiend Sword/) | - | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
   | 6  | [Ифрит](/ru/units/Efreeti/) | [Таинственное пение](/ru/Exclusive/Efreeti Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |

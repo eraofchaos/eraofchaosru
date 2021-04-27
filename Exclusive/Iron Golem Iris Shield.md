@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Iron Golem)"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Железный голем Эксклюзив."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Iron Golem Славный щит.md"
 toc: false

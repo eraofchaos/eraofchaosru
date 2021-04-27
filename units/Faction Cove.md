@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Эра хаоса Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Faction Cove"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Регнанская прорицательница](/images/u/ti_haihou.jpg) | [Регнанская прорицательница](/ru/units/Regnan Seer/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Элементаль Приливов  |
-  | 2 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
+  | 2 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
   | 3 | ![Повелитель акул](/images/u/ti_xunshashi.jpg) | [Повелитель акул](/ru/units/Shark Trainer/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Разбойники на акулах  |
   | 4 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 5 | ![Элементаль Моря](/images/u/ti_haiyuansu.jpg) | [Элементаль Моря](/ru/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Элементаль Приливов  |

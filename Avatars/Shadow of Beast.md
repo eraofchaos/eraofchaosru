@@ -2,7 +2,7 @@
 title: "Аватар - Тень зверя"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Эра хаоса  Тень зверя"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Shadow of Beast.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "index.md"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 19 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 20 | ![Гоблин](/images/u/ti_shourenzhanshi.jpg) | [Гоблин](/ru/units/Goblin/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Хобгоблин  |
   | 21 | ![Гог](/images/u/ti_touhuoguai.jpg) | [Гог](/ru/units/Gog/) | Заклинатель | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Магог  |
-  | 22 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 22 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 23 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 24 | ![Гремлин](/images/u/ti_xiaoyaojing.jpg) | [Гремлин](/ru/units/Gremlin/) | Стрелковый | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 25 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
@@ -63,7 +63,7 @@ classes: wide
   | 41 | ![Костяной дракон](/images/u/ti_gulong.jpg) | [Костяной дракон](/ru/units/Bone Dragon/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Призрачный дракон  |
   | 42 | ![Кошмар](/images/u/ti_mengyanshou.jpg) | [Кошмар](/ru/units/Nightmare/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Копыто дьявола  |
   | 43 | ![Красный дракон](/images/u/ti_chilong.jpg) | [Красный дракон](/ru/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 44 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
+  | 44 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
   | 45 | ![Ледяной демон](/images/u/ti_bingmo.jpg) | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 46 | ![Лепрекон](/images/u/ti_conglinyaojing.jpg) | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 47 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
@@ -99,7 +99,7 @@ classes: wide
   | 77 | ![Спартанец](/images/u/ti_sibada.jpg) | [Спартанец](/ru/units/Spartan Warriors/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
   | 78 | ![Троглодит](/images/u/ti_dongxueren.jpg) | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Темный троглодит  |
   | 79 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 80 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Зомби  |
+  | 80 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Зомби  |
   | 81 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 82 | ![Чемпион Тьмы](/images/u/ti_sishen.jpg) | [Чемпион Тьмы](/ru/units/Dark Champion/) | Наступление | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 83 | ![Черный дракон](/images/u/ti_heilong.jpg) | [Черный дракон](/ru/units/Black Dragon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Король черных драконов  |

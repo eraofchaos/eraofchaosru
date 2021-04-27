@@ -2,7 +2,7 @@
 title: "Аватар - Клевер Фортуны"
 permalink: /Avatars/Clover of Fortune/
 excerpt: "Эра хаоса  Клевер Фортуны"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Clover of Fortune.md"
 toc: false

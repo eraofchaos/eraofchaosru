@@ -2,7 +2,7 @@
 title: "Аватар - Правитель Инферно"
 permalink: /Avatars/Inferno Ruler/
 excerpt: "Эра хаоса  Правитель Инферно"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Inferno Ruler.md"
 toc: false

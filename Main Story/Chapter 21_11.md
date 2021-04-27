@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-11 Зеленая кожа"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "Глава 21 - 11. Эра хаоса  Основной сюжет - Глава 21_11. 21-11 Зеленая кожа"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 21_11.md"
 toc: false

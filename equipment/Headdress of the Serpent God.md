@@ -2,7 +2,7 @@
 title: "Головной убор Змеиного бога"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Эра хаоса Головной убор Змеиного бога. Головной убор Змеиного бога"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Headdress of the Serpent God.md"
 toc: false

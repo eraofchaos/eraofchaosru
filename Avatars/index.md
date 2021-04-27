@@ -2,7 +2,7 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "index.md"
 toc: false

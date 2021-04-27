@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Эра хаоса Эксклюзив Necropolis. Эксклюзив Necropolis. List of Эксклюзив Necropolis in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Exclusive Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Скелет](/ru/units/Skeleton/) | [Славный щит](/ru/Exclusive/Skeleton Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
-  | 2  | [Ходячий мертвец](/ru/units/Walking Dead/) | [Славный щит](/ru/Exclusive/Walking Dead Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 2  | [Ходячий мертвец](/ru/units/Walking Dead/) | [Славный щит](/ru/Exclusive/Walking Dead Iris Shield/) | + | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 3  | [Призрак](/ru/units/Wight/) | [Таинственное пение](/ru/Exclusive/Wight Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
   | 4  | [Вампир](/ru/units/Vampire/) | [Копье рыцаря](/ru/Exclusive/Vampire Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
   | 5  | [Лич](/ru/units/Lich/) | [Дань смерти](/ru/Exclusive/Lich Death Tribute/) | + | Стрелковый | [Жетон дани смерти](/ItemsRU/con_978/) | [Особый облик: Дань смерти](/ItemsRU/con_646/) |

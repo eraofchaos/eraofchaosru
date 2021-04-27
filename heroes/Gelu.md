@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Эра хаоса Джелу. Джелу. Джелу - полуэльф и самый известный воин в Эрафии. Когда он служил королеве Катерине, генерал Морган Кендал заметил и возвысил его."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Gelu"
 toc: true

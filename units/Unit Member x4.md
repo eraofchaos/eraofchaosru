@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Эра хаоса Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Unit Member x4"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 4 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 5 | ![Жар-птица](/images/u/ti_fenghuang.jpg) | [Жар-птица](/ru/units/Firebird/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Феникс  |
-  | 6 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
+  | 6 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
   | 7 | ![Демон](/images/u/ti_changjiaoemo.jpg) | [Демон](/ru/units/Demon/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Стражник Инферно  |
   | 8 | ![Порождение зла](/images/u/ti_diyulingzhu.jpg) | [Порождение зла](/ru/units/Pit Fiend/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Владыка бездны  |
   | 9 | ![Ифрит](/images/u/ti_liehuojingling.jpg) | [Ифрит](/ru/units/Efreeti/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Султан ифритов  |

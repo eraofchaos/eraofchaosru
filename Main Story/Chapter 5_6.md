@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-6 Взятие в «клещи»"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Глава 5 - 6. Эра хаоса  Основной сюжет - Глава 5_6. 5-6 Взятие в «клещи»"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 5_6.md"
 toc: false

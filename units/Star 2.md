@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Эра хаоса Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Star 2"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 3 | ![Циклоп](/images/u/ti_duyanjuren.jpg) | [Циклоп](/ru/units/Cyclops/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Осадное чудище  |
   | 4 | ![Демон](/images/u/ti_changjiaoemo.jpg) | [Демон](/ru/units/Demon/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Стражник Инферно  |
-  | 5 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 5 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 6 | ![Порождение зла](/images/u/ti_diyulingzhu.jpg) | [Порождение зла](/ru/units/Pit Fiend/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Владыка бездны  |
   | 7 | ![Железный голем](/images/u/ti_tieren.jpg) | [Железный голем](/ru/units/Iron Golem/) | Защита | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Золотой голем  |
   | 8 | ![Ифрит](/images/u/ti_liehuojingling.jpg) | [Ифрит](/ru/units/Efreeti/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Султан ифритов  |

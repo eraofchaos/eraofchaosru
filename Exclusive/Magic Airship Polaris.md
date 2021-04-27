@@ -2,7 +2,7 @@
 title: "Эксклюзив - Путеводная звезда (Magic Airship)"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Эра хаоса Путеводная звезда. Путеводная звезда. Эра хаоса Эксклюзив Путеводная звезда. Магический корабль Эксклюзив."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Magic Airship Путеводная звезда.md"
 toc: false

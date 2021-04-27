@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-5 Стена мудрости"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Глава 20 - 5. Эра хаоса  Основной сюжет - Глава 20_5. 20-5 Стена мудрости"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 20_5.md"
 toc: false

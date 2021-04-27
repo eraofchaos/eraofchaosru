@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 Сезон жатвы"
 permalink: /Underground/Chapter 11/
 excerpt: "Глава 11 Сезон жатвы. Эра хаоса  Подземелье - Глава 11. Сезон жатвы"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 11.md"
 toc: false

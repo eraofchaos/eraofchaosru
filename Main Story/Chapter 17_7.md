@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-7 Всевидящие глаза"
 permalink: /Main Story/Chapter 17_7/
 excerpt: "Глава 17 - 7. Эра хаоса  Основной сюжет - Глава 17_7. 17-7 Всевидящие глаза"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 17_7.md"
 toc: false

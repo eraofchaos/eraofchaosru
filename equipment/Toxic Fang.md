@@ -2,7 +2,7 @@
 title: "Ядовитый клык"
 permalink: /equipment/Toxic Fang/
 excerpt: "Эра хаоса Ядовитый клык. Ядовитый клык"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Toxic Fang.md"
 toc: false

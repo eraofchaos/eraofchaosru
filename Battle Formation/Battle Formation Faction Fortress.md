@@ -2,7 +2,7 @@
 title: "Боевое построение Крепость"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Боевое построение Крепость"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "BattleFormationFactionFortress"
 toc: false

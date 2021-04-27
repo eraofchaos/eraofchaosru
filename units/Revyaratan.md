@@ -3,7 +3,7 @@ title: "Левиафан"
 permalink: /units/Revyaratan/
 excerpt: "Эра хаоса Левиафан. Левиафан Отряды. Демон бездны. Эра хаоса Огромное чудовище, обитающее в морской глубине. Его огромный рот может проглотить все что угодно."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Левиафан"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Демон бездны](/images/u/tia_haiguai.jpg)
 
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Демон бездны
 
- **Awaking Описание:** 
+ **Awaking Описание:** В бездонных глубинах океана, куда не проникает ни один лучик света, живут удивительные существа.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Используйте левиафанов и хотя бы </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> отряда Убежища, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ демонов бездны на уровнях 15-2 и 15-4 в Подземелье. </span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Используйте левиафанов и </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Убежища, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Описание:** 
+### 1st Skill (or 2nd): Укус костеглода
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Свирепая челюсть&gt;: </span><span style="color: #645252;font-size:18px">Повышает урон на 50%, замедляет выбранный вражеский отряд, снижает его стойкость на 100 ед. и сопротивление урону на 10% в течение 5 сек.</span>
 
-### 2nd Skill (or 1st): null
- **Описание:** 
+### 2nd Skill (or 1st): Народная охота
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Свирепая челюсть&gt;: </span><span style="color: #645252;font-size:18px">Повышает урон на 50%, дополнительно повышает свой урон отряда на 20%, а также повышает у выбранного союзного отряда крит. удар на 100 ед. и урон отряда на 10% в течение 5 сек.</span>
 
-### 3rd Skill (or 4th): null
- **Описание:** 
+### 3rd Skill (or 4th): Пиршество
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вожделенные скелеты&gt;: </span><span style="color: #645252;font-size:18px">Показатели отмеченных вражеских отрядов снижаются на 50%, а шанс восстановления «Свирепой челюсти» повышается на 50%.</span>
 
-### 4th Skill (or 3rd): null
- **Описание:** 
+### 4th Skill (or 3rd): Разделить и съесть
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Вожделенные скелеты&gt;: </span><span style="color: #645252;font-size:18px">Дополнительно отмечают один вражеский отряд и повышают восстановление ОЗ от «Свирепой челюсти» на 50%.</span>
 
-### 5th Skill (or 6th): null
- **Описание:** 
+### 5th Skill (or 6th): Неукротимая воля
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подводное течение&gt;:</span><span style="color: #645252;font-size:18px"> Повышение характеристик с каждым уровнем эффекта увеличивается еще на 50%.</span>
 
-### 6th Skill (or 5th): null
- **Описание:** 
+### 6th Skill (or 5th): Гнев морских обитателей
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Подводное течение&gt;: </span><span style="color: #645252;font-size:18px">Максимальное число экземпляров эффекта повышается до 8.</span>
 
 ## Technical info
  **runart:** 1

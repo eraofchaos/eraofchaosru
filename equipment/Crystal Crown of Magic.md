@@ -2,7 +2,7 @@
 title: "Кристаллическая корона волшебства"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Эра хаоса Кристаллическая корона волшебства. Кристаллическая корона волшебства"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Crystal Crown of Magic.md"
 toc: false

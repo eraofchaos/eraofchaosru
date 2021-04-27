@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-1 Синий шатер"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Глава 4 - 1. Эра хаоса  Основной сюжет - Глава 4_1. 4-1 Синий шатер"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 4_1.md"
 toc: false

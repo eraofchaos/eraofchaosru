@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-9 Полный коллапс"
 permalink: /Main Story/Chapter 9_9/
 excerpt: "Глава 9 - 9. Эра хаоса  Основной сюжет - Глава 9_9. 9-9 Полный коллапс"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 9_9.md"
 toc: false

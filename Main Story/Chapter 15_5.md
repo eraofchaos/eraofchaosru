@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-5 Стараясь ради мира"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "Глава 15 - 5. Эра хаоса  Основной сюжет - Глава 15_5. 15-5 Стараясь ради мира"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 15_5.md"
 toc: false

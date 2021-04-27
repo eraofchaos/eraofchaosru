@@ -2,7 +2,7 @@
 title: "UnknownEquipment_8092"
 permalink: /equipment/UnknownEquipment_8092/
 excerpt: "Эра хаоса UnknownEquipment_8092. UnknownEquipment_8092"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "UnknownEquipment_8092.md"
 toc: false

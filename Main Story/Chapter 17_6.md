@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-6 Таверна гномов"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "Глава 17 - 6. Эра хаоса  Основной сюжет - Глава 17_6. 17-6 Таверна гномов"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 17_6.md"
 toc: false

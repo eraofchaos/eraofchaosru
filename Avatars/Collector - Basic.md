@@ -2,7 +2,7 @@
 title: "Аватар - Коллекционер I"
 permalink: /Avatars/Collector - Basic/
 excerpt: "Эра хаоса  Коллекционер I"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Collector - Basic.md"
 toc: false

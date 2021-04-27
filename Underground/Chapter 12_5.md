@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 - 12-5 Последний бой"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Глава 12 - 5. Эра хаоса  Подземелье - Глава 12_5. 12-5 Последний бой"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 12_5.md"
 toc: false

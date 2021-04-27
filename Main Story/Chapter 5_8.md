@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-8 Неожиданное спасение"
 permalink: /Main Story/Chapter 5_8/
 excerpt: "Глава 5 - 8. Эра хаоса  Основной сюжет - Глава 5_8. 5-8 Неожиданное спасение"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 5_8.md"
 toc: false

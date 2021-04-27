@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-2 Пламенное инферно"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Глава 24 - 2. Эра хаоса  Подземелье - Глава 24_2. 24-2 Пламенное инферно"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 24_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Эра хаоса Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Star 1"
 toc: false
@@ -25,6 +25,6 @@ classes: wide
   | 11 | ![Всадники](/images/u/ti_qishi.jpg) | [Всадники](/ru/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Рыцари-чемпионы  |
   | 12 | ![Скелет](/images/u/ti_kulouzhanshi.jpg) | [Скелет](/ru/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Скелет-воин  |
   | 13 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 14 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Зомби  |
+  | 14 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Зомби  |
   | 15 | ![Гоблин](/images/u/ti_shourenzhanshi.jpg) | [Гоблин](/ru/units/Goblin/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Хобгоблин  |
   | 16 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ru/units/Wolf Rider/) | Штурм | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Разбойник на волке  |

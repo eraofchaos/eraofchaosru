@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 Кристальный дракон"
 permalink: /Main Story/Chapter 22/
 excerpt: "Глава 22. Эра хаоса  Основной сюжет - Глава 22. Кристальный дракон"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 22.md"
 toc: false

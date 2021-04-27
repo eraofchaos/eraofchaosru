@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Меч рыцаря"
 permalink: /artifacts/Knight Sword/
 excerpt: "Эра хаоса  Клинок Армагеддона - Меч рыцаря. Меч, который носят герои Замка. Компонент клинка Армагеддона."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Knight Sword.md"
 toc: false

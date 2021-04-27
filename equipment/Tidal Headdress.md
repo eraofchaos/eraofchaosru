@@ -2,7 +2,7 @@
 title: "Головной убор приливов"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Эра хаоса Головной убор приливов. Головной убор приливов"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Tidal Headdress.md"
 toc: false

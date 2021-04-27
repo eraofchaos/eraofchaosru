@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-5 Дыхание дракона"
 permalink: /Main Story/Chapter 22_5/
 excerpt: "Глава 22 - 5. Эра хаоса  Основной сюжет - Глава 22_5. 22-5 Дыхание дракона"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 22_5.md"
 toc: false

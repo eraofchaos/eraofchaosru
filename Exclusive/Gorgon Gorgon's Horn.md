@@ -2,7 +2,7 @@
 title: "Эксклюзив - Чешуя горгоны (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Эра хаоса Чешуя горгоны. Чешуя горгоны. Эра хаоса Эксклюзив Чешуя горгоны. Горгона Эксклюзив."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Gorgon Чешуя горгоны.md"
 toc: false

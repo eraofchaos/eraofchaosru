@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Heroes"
 permalink: /heroes/Faction Castle/
 excerpt: "Эра хаоса Faction Castle. Faction Castle. List of Faction  in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Faction Castle"
 toc: false

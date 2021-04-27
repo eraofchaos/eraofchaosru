@@ -3,7 +3,7 @@ title: "Регнанская прорицательница"
 permalink: /units/Regnan Seer/
 excerpt: "Эра хаоса Регнанская прорицательница. Регнанская прорицательница Отряды. Элементаль Приливов. Эра хаоса Глашатай бездны охраняет границы моря. Силой океана он способен обратить любого противника в бегство."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Регнанская прорицательница"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Убежища мастерски ведут войну на море. В бою против отрядов не из Убежища они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону отряда.</span><span style="color: black">
 
 ### Обычное умение 6 : Ярость океана
- **Описание:** Если на поле боя есть 3 отряда Убежища, скорость атаки и сопротивление урону регнанских прорицательниц увеличивается. Спустя 10 секунд после начала боя регнанские прорицатели испускают «Глубокий страх», открывающий Океанские владения на 15 сек. Перезарядка - 30 сек.
+ **Описание:** <span style="color: #645252;font-size:20px">Когда на поле размещены 3 отряда Убежища, регнанская прорицательница повышает свою скорость атаки на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> и сопротивление отряда урону на </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. После начала боя регнанская прорицательница выпускает «Глубокий страх» и открывает область Посейдона на 15 сек. Перезарядка 30 сек.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

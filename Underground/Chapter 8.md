@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 Скачущие мысли"
 permalink: /Underground/Chapter 8/
 excerpt: "Глава 8 Скачущие мысли. Эра хаоса  Подземелье - Глава 8. Скачущие мысли"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: ru
 ref: "Chapter 8.md"
 toc: false
