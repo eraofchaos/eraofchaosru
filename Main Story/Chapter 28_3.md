@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-3. Под землей или в небе"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Глава 28 - 3. Эра хаоса  Основной сюжет - Глава 28_3. 28-3. Под землей или в небе"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 28_3.md"
 toc: false

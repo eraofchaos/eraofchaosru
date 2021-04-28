@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея - Амулет маны"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Эра хаоса  Источник чародея - Амулет маны. Усиливающий магию амулет. Компонент источника чародея."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Charm of Mana.md"
 toc: false

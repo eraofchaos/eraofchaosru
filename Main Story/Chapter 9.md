@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 Земли Хаоса"
 permalink: /Main Story/Chapter 9/
 excerpt: "Глава 9. Эра хаоса  Основной сюжет - Глава 9. Земли Хаоса"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 9.md"
 toc: false

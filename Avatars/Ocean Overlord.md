@@ -2,7 +2,7 @@
 title: "Аватар - Повелитель морей"
 permalink: /Avatars/Ocean Overlord/
 excerpt: "Эра хаоса  Повелитель морей"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Ocean Overlord.md"
 toc: false

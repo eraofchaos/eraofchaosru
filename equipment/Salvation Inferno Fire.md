@@ -2,7 +2,7 @@
 title: "Огонь спасения Инферно"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Эра хаоса Огонь спасения Инферно. Огонь спасения Инферно"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Salvation Inferno Fire.md"
 toc: false

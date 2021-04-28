@@ -2,7 +2,7 @@
 title: "Темно-синий острый коготь"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Эра хаоса Темно-синий острый коготь. Темно-синий острый коготь"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Navy Blue Sharp Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-14 Страж крови драконов"
 permalink: /Main Story/Chapter 27_14/
 excerpt: "Глава 27 - 14. Эра хаоса  Основной сюжет - Глава 27_14. 27-14 Страж крови драконов"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 27_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 Сделка с демонами"
 permalink: /Main Story/Chapter 29/
 excerpt: "Глава 29. Эра хаоса  Основной сюжет - Глава 29. Сделка с демонами"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 29.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Чудо (Regnan Archer)"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Эра хаоса Чудо. Чудо. Эра хаоса Эксклюзив Чудо. Регнанский лучник Эксклюзив."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Regnan Archer Чудо.md"
 toc: false

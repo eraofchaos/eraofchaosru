@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-5. Мизарт"
 permalink: /Main Story/Chapter 28_5/
 excerpt: "Глава 28 - 5. Эра хаоса  Основной сюжет - Глава 28_5. 28-5. Мизарт"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 28_5.md"
 toc: false

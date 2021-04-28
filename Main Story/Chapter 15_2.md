@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-2 Война возобновляется"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "Глава 15 - 2. Эра хаоса  Основной сюжет - Глава 15_2. 15-2 Война возобновляется"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 15_2.md"
 toc: false

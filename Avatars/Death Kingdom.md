@@ -2,7 +2,7 @@
 title: "Аватар - Королевство смерти"
 permalink: /Avatars/Death Kingdom/
 excerpt: "Эра хаоса  Королевство смерти"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Death Kingdom.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Каменные крылья"
 permalink: /equipment/Stone Wings/
 excerpt: "Эра хаоса Каменные крылья. Каменные крылья"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Stone Wings.md"
 toc: false

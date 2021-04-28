@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-7 Война по всем фронтам"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "Глава 8 - 7. Эра хаоса  Основной сюжет - Глава 8_7. 8-7 Война по всем фронтам"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 8_7.md"
 toc: false

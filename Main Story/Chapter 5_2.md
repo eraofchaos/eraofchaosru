@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-2 Нападение демонов"
 permalink: /Main Story/Chapter 5_2/
 excerpt: "Глава 5 - 2. Эра хаоса  Основной сюжет - Глава 5_2. 5-2 Нападение демонов"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 5_2.md"
 toc: false

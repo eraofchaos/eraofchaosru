@@ -2,7 +2,7 @@
 title: "Щит часового"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Эра хаоса Щит часового. Щит часового"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Sentinel's Shield.md"
 toc: false

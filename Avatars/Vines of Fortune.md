@@ -2,7 +2,7 @@
 title: "Аватар - Лоза удачи"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Эра хаоса  Лоза удачи"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Vines of Fortune.md"
 toc: false

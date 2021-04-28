@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-10 Выросли вместе"
 permalink: /Main Story/Chapter 21_10/
 excerpt: "Глава 21 - 10. Эра хаоса  Основной сюжет - Глава 21_10. 21-10 Выросли вместе"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 21_10.md"
 toc: false

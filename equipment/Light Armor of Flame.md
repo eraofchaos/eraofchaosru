@@ -2,7 +2,7 @@
 title: "Легкая броня пламени"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Эра хаоса Легкая броня пламени. Легкая броня пламени"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Light Armor of Flame.md"
 toc: false

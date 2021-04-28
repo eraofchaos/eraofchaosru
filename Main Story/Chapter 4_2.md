@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-2 Заброшенный дом"
 permalink: /Main Story/Chapter 4_2/
 excerpt: "Глава 4 - 2. Эра хаоса  Основной сюжет - Глава 4_2. 4-2 Заброшенный дом"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 4_2.md"
 toc: false

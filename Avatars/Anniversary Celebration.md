@@ -2,7 +2,7 @@
 title: "Аватар - Ежегодное празднование"
 permalink: /Avatars/Anniversary Celebration/
 excerpt: "Эра хаоса  Ежегодное празднование"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Anniversary Celebration.md"
 toc: false

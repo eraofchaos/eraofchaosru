@@ -2,7 +2,7 @@
 title: "Ошпаривающие когти"
 permalink: /equipment/Scalding Claws/
 excerpt: "Эра хаоса Ошпаривающие когти. Ошпаривающие когти"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Scalding Claws.md"
 toc: false

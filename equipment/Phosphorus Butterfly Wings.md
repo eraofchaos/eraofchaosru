@@ -2,7 +2,7 @@
 title: "Фосфоресцирующие крылья бабочки"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Эра хаоса Фосфоресцирующие крылья бабочки. Фосфоресцирующие крылья бабочки"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

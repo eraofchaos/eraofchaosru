@@ -2,7 +2,7 @@
 title: "Штаны моряка"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Эра хаоса Штаны моряка. Штаны моряка"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Sailor's Pants.md"
 toc: false

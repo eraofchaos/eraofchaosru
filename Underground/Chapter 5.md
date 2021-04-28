@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 5 Первопроходец"
 permalink: /Underground/Chapter 5/
 excerpt: "Глава 5 Первопроходец. Эра хаоса  Подземелье - Глава 5. Первопроходец"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 5.md"
 toc: false

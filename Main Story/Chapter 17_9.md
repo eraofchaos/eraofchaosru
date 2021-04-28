@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-9 Испытание кентавра"
 permalink: /Main Story/Chapter 17_9/
 excerpt: "Глава 17 - 9. Эра хаоса  Основной сюжет - Глава 17_9. 17-9 Испытание кентавра"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 17_9.md"
 toc: false

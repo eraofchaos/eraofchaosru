@@ -2,7 +2,7 @@
 title: "Ученик смерти"
 permalink: /equipment/Pupil of Death/
 excerpt: "Эра хаоса Ученик смерти. Ученик смерти"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Pupil of Death.md"
 toc: false

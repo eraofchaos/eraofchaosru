@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-3 Капелла безмолвия"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "Глава 27 - 3. Эра хаоса  Основной сюжет - Глава 27_3. 27-3 Капелла безмолвия"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 27_3.md"
 toc: false

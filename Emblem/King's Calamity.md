@@ -2,7 +2,7 @@
 title: "Эмблема святости - Королевская беда"
 permalink: /Emblem/King's Calamity/
 excerpt: "Эра хаоса Королевская беда. Королевская беда. Эра хаоса Эмблема святости Королевская беда. Эра хаоса Злой Королевская беда"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "King's Calamity.md"
 toc: false

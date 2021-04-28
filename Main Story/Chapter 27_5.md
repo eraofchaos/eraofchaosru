@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-5 Проницательное знание"
 permalink: /Main Story/Chapter 27_5/
 excerpt: "Глава 27 - 5. Эра хаоса  Основной сюжет - Глава 27_5. 27-5 Проницательное знание"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 27_5.md"
 toc: false

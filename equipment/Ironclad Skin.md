@@ -2,7 +2,7 @@
 title: "Бронированная кожа"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Эра хаоса Бронированная кожа. Бронированная кожа"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Ironclad Skin.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Адъютант Йог"
 permalink: /heroes/Adjutant Yog/
 excerpt: "Эра хаоса  Адъютант Йог"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Adjutant Yog.md"
 QR: adhero_60604

@@ -2,7 +2,7 @@
 title: "Голова дракона из титана"
 permalink: /equipment/Titanium Dragon Head/
 excerpt: "Эра хаоса Голова дракона из титана. Голова дракона из титана"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Titanium Dragon Head.md"
 toc: false

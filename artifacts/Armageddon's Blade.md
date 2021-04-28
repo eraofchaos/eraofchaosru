@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Эра хаоса  Клинок Армагеддона. Клинок Армагеддона Обреченное пламя сжигает души"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Armageddon's Blade.md"
 toc: false

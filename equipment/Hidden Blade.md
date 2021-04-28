@@ -2,7 +2,7 @@
 title: "Скрытый клинок"
 permalink: /equipment/Hidden Blade/
 excerpt: "Эра хаоса Скрытый клинок. Скрытый клинок"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Hidden Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Зубчатые браслеты"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Эра хаоса Зубчатые браслеты. Зубчатые браслеты"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Spiked Bracers.md"
 toc: false

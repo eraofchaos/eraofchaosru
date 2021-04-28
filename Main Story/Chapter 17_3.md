@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-3 Сыть ходячего мертвеца"
 permalink: /Main Story/Chapter 17_3/
 excerpt: "Глава 17 - 3. Эра хаоса  Основной сюжет - Глава 17_3. 17-3 Сыть ходячего мертвеца"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 17_3.md"
 toc: false

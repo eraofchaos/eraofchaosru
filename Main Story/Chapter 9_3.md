@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-3 Засада"
 permalink: /Main Story/Chapter 9_3/
 excerpt: "Глава 9 - 3. Эра хаоса  Основной сюжет - Глава 9_3. 9-3 Засада"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 9_3.md"
 toc: false

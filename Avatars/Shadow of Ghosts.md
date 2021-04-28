@@ -2,7 +2,7 @@
 title: "Аватар - Тень призраков"
 permalink: /Avatars/Shadow of Ghosts/
 excerpt: "Эра хаоса  Тень призраков"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Shadow of Ghosts.md"
 toc: false

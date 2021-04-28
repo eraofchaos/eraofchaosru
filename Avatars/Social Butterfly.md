@@ -2,7 +2,7 @@
 title: "Аватар - Социальная бабочка"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Эра хаоса  Социальная бабочка"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Social Butterfly.md"
 toc: false

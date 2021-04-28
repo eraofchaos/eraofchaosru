@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-10 Воруя добычу у волка"
 permalink: /Main Story/Chapter 17_10/
 excerpt: "Глава 17 - 10. Эра хаоса  Основной сюжет - Глава 17_10. 17-10 Воруя добычу у волка"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 17_10.md"
 toc: false

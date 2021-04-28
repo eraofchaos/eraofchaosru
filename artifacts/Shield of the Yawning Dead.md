@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Щит неупокоенных"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Эра хаоса  Доспех проклятого - Щит неупокоенных. Щит из костей нежити. Компонент доспеха проклятого."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Shield of the Yawning Dead.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Адъютант Джелу"
 permalink: /heroes/Adjutant Gelu/
 excerpt: "Эра хаоса  Адъютант Джелу"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Adjutant Gelu.md"
 QR: adhero_60301

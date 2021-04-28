@@ -2,7 +2,7 @@
 title: "Эксклюзив - Громада (Giant)"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Эра хаоса Громада. Громада. Эра хаоса Эксклюзив Громада. Гигант Эксклюзив."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Giant Громада.md"
 toc: false

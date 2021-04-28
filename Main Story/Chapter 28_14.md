@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-14. Священное убежище"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Глава 28 - 14. Эра хаоса  Основной сюжет - Глава 28_14. 28-14. Священное убежище"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 28_14.md"
 toc: false

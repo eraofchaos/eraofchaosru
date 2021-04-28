@@ -2,7 +2,7 @@
 title: "Аватар - Легендарный воин (14 д.)"
 permalink: /Avatars/Legendary Warrior (14 Days)/
 excerpt: "Эра хаоса  Легендарный воин (14 д.)"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Legendary Warrior (14 Days).md"
 toc: false

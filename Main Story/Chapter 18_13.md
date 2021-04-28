@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-13 Миграция эльфов"
 permalink: /Main Story/Chapter 18_13/
 excerpt: "Глава 18 - 13. Эра хаоса  Основной сюжет - Глава 18_13. 18-13 Миграция эльфов"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 18_13.md"
 toc: false

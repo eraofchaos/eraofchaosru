@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-3 Странствующий маг"
 permalink: /Main Story/Chapter 16_3/
 excerpt: "Глава 16 - 3. Эра хаоса  Основной сюжет - Глава 16_3. 16-3 Странствующий маг"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 16_3.md"
 toc: false

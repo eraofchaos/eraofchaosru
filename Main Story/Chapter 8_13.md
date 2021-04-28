@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-13 Потрясенный"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Глава 8 - 13. Эра хаоса  Основной сюжет - Глава 8_13. 8-13 Потрясенный"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 8_13.md"
 toc: false

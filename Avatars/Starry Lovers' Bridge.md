@@ -2,7 +2,7 @@
 title: "Аватар - Мост мечтательных влюбленных"
 permalink: /Avatars/Starry Lovers' Bridge/
 excerpt: "Эра хаоса  Мост мечтательных влюбленных"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Starry Lovers' Bridge.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Шлем офицера"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Эра хаоса Шлем офицера. Шлем офицера"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Officer's Helmet.md"
 toc: false

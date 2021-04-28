@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-3 Братская могила"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Глава 3 - 3. Эра хаоса  Основной сюжет - Глава 3_3. 3-3 Братская могила"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 3_3.md"
 toc: false

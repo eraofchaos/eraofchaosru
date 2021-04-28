@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-4 Встреча с мудрецом"
 permalink: /Underground/Chapter 3_4/
 excerpt: "Глава 3 - 4. Эра хаоса  Подземелье - Глава 3_4. 3-4 Встреча с мудрецом"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 3_4.md"
 toc: false

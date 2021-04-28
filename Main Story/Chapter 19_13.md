@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-13 Король-волшебник"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Глава 19 - 13. Эра хаоса  Основной сюжет - Глава 19_13. 19-13 Король-волшебник"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 19_13.md"
 toc: false

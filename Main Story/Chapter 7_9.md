@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-9 За дом"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "Глава 7 - 9. Эра хаоса  Основной сюжет - Глава 7_9. 7-9 За дом"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 7_9.md"
 toc: false

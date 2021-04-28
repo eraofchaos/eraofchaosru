@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 - 1-2 Следы зловещих теней"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Глава 1 - 2. Эра хаоса  Подземелье - Глава 1_2. 1-2 Следы зловещих теней"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 1_2.md"
 toc: false

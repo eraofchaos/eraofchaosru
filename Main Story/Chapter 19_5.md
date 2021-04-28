@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-5 Королевство Гэвина"
 permalink: /Main Story/Chapter 19_5/
 excerpt: "Глава 19 - 5. Эра хаоса  Основной сюжет - Глава 19_5. 19-5 Королевство Гэвина"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: ru
 ref: "Chapter 19_5.md"
 toc: false
