@@ -2,7 +2,7 @@
 title: "Артефакт - Фиал с кровью жизни - Кольцо здоровья"
 permalink: /artifacts/Ring of Vitality/
 excerpt: "Эра хаоса  Фиал с кровью жизни - Кольцо здоровья. Кольцо, придающее энергию. Компонент фиала с кровью жизни."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Ring of Vitality.md"
 toc: false

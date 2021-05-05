@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-12 Башня Клыка"
 permalink: /Main Story/Chapter 4_12/
 excerpt: "Глава 4 - 12. Эра хаоса  Основной сюжет - Глава 4_12. 4-12 Башня Клыка"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 4_12.md"
 toc: false

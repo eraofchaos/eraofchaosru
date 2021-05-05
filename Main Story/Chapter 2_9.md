@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-9 Пророк Грааля"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Глава 2 - 9. Эра хаоса  Основной сюжет - Глава 2_9. 2-9 Пророк Грааля"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 2_9.md"
 toc: false

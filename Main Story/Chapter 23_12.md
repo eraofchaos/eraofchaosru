@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-12 Купание в крови дракона"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Глава 23 - 12. Эра хаоса  Основной сюжет - Глава 23_12. 23-12 Купание в крови дракона"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 23_12.md"
 toc: false

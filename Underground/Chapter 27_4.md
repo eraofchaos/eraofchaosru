@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 - 27-4 Безумный поэт"
 permalink: /Underground/Chapter 27_4/
 excerpt: "Глава 27 - 4. Эра хаоса  Подземелье - Глава 27_4. 27-4 Безумный поэт"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 27_4.md"
 toc: false

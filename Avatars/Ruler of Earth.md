@@ -2,7 +2,7 @@
 title: "Аватар - Правитель земли"
 permalink: /Avatars/Ruler of Earth/
 excerpt: "Эра хаоса  Правитель земли"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Ruler of Earth.md"
 toc: false

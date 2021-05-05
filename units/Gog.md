@@ -3,7 +3,7 @@ title: "Гог"
 permalink: /units/Gog/
 excerpt: "Эра хаоса Гог. Гог Отряды. Магог. Эра хаоса Гоги могут показаться довольно хилыми, но в бою эти демоны очень опасны."
 unitID: 502
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Гог"
 toc: true

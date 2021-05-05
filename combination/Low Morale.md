@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Низкий боевой дух"
 permalink: /combination/Low Morale/
 excerpt: "Информация о комбинации - Низкий боевой дух. Units and Heroes Formation."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Низкий боевой дух.md"
 toc: false

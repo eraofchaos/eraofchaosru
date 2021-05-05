@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-3 Плач"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "Глава 8 - 3. Эра хаоса  Основной сюжет - Глава 8_3. 8-3 Плач"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 8_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 Дорога домой"
 permalink: /Underground/Chapter 22/
 excerpt: "Глава 22 Дорога домой. Эра хаоса  Подземелье - Глава 22. Дорога домой"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 22.md"
 toc: false

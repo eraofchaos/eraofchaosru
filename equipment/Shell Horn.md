@@ -2,7 +2,7 @@
 title: "Рожок из ракушки"
 permalink: /equipment/Shell Horn/
 excerpt: "Эра хаоса Рожок из ракушки. Рожок из ракушки"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Shell Horn.md"
 toc: false

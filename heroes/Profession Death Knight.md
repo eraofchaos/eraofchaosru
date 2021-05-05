@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Death Knight -  Heroes"
 permalink: /heroes/Profession Death Knight/
 excerpt: "Эра хаоса Profession Death Knight. Profession Death Knight. List of Profession  in Era of Chaos"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Profession Death Knight"
 toc: false

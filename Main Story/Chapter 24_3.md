@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-3 Дружба смертных"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Глава 24 - 3. Эра хаоса  Основной сюжет - Глава 24_3. 24-3 Дружба смертных"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 24_3.md"
 toc: false

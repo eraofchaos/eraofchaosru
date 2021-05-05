@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-9 Вход в подземелье"
 permalink: /Main Story/Chapter 11_9/
 excerpt: "Глава 11 - 9. Эра хаоса  Основной сюжет - Глава 11_9. 11-9 Вход в подземелье"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 11_9.md"
 toc: false

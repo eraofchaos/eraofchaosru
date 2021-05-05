@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-9 Дерево первого человека"
 permalink: /Main Story/Chapter 3_9/
 excerpt: "Глава 3 - 9. Эра хаоса  Основной сюжет - Глава 3_9. 3-9 Дерево первого человека"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 3_9.md"
 toc: false

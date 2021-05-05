@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-5 Возврата нет"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Глава 24 - 5. Эра хаоса  Подземелье - Глава 24_5. 24-5 Возврата нет"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 24_5.md"
 toc: false

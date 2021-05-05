@@ -2,7 +2,7 @@
 title: "Рожок красного огня"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Эра хаоса Рожок красного огня. Рожок красного огня"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Horn of Red Fire.md"
 toc: false

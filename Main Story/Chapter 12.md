@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 Ледяное море"
 permalink: /Main Story/Chapter 12/
 excerpt: "Глава 12. Эра хаоса  Основной сюжет - Глава 12. Ледяное море"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 12.md"
 toc: false

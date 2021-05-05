@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 18 - 18-4 Сомнения дракона"
 permalink: /Underground/Chapter 18_4/
 excerpt: "Глава 18 - 4. Эра хаоса  Подземелье - Глава 18_4. 18-4 Сомнения дракона"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 18_4.md"
 toc: false

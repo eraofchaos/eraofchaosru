@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Эра хаоса  Гром титана. Гром титана Легендарная священная реликвия, выкованная из сокровищ гиганта. Испускает молнию по любому врагу."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Titan's Thunder.md"
 toc: false

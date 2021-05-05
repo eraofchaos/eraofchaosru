@@ -2,7 +2,7 @@
 title: "Наплечники кошмара"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Эра хаоса Наплечники кошмара. Наплечники кошмара"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Nightmare Pauldrons.md"
 toc: false

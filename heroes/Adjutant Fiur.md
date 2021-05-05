@@ -2,7 +2,7 @@
 title: "Адъютант Фиур"
 permalink: /heroes/Adjutant Fiur/
 excerpt: "Эра хаоса  Адъютант Фиур"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Adjutant Fiur.md"
 QR: adhero_60704

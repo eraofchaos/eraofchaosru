@@ -2,7 +2,7 @@
 title: "Артефакт - Канон мага - Амулет бога грома"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Эра хаоса  Канон мага - Амулет бога грома. Украшение в виде молнии, заключающее в себе силу грозы. Одно из сокровищ, описанных в каноне мага."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Pendant of Negativity.md"
 toc: false

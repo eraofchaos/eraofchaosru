@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-15 Город грехов"
 permalink: /Main Story/Chapter 3_15/
 excerpt: "Глава 3 - 15. Эра хаоса  Основной сюжет - Глава 3_15. 3-15 Город грехов"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 3_15.md"
 toc: false

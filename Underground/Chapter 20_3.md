@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 20 - 20-3 Ученики бога"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Глава 20 - 3. Эра хаоса  Подземелье - Глава 20_3. 20-3 Ученики бога"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 20_3.md"
 toc: false

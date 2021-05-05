@@ -2,7 +2,7 @@
 title: "Шипастый воротник василиска"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Эра хаоса Шипастый воротник василиска. Шипастый воротник василиска"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

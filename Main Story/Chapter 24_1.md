@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-1 Дом феи"
 permalink: /Main Story/Chapter 24_1/
 excerpt: "Глава 24 - 1. Эра хаоса  Основной сюжет - Глава 24_1. 24-1 Дом феи"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 24_1.md"
 toc: false

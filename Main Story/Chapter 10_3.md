@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-3 Воскрешение"
 permalink: /Main Story/Chapter 10_3/
 excerpt: "Глава 10 - 3. Эра хаоса  Основной сюжет - Глава 10_3. 10-3 Воскрешение"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 10_3.md"
 toc: false

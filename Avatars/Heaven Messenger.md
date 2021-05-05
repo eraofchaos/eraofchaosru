@@ -2,7 +2,7 @@
 title: "Аватар - Посыльный небес"
 permalink: /Avatars/Heaven Messenger/
 excerpt: "Эра хаоса  Посыльный небес"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Heaven Messenger.md"
 toc: false

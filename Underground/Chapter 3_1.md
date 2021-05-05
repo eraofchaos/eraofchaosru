@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-1 Опасный путь"
 permalink: /Underground/Chapter 3_1/
 excerpt: "Глава 3 - 1. Эра хаоса  Подземелье - Глава 3_1. 3-1 Опасный путь"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 3_1.md"
 toc: false

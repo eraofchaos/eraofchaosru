@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Эра хаоса Раска. Раска. Раска использует устрашение, чтобы добиться беспрекословного подчинения от своих войск. До сих пор его тактика не знала промашек."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Rashka"
 toc: true

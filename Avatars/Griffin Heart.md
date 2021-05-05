@@ -2,7 +2,7 @@
 title: "Аватар - Сердце грифона"
 permalink: /Avatars/Griffin Heart/
 excerpt: "Эра хаоса  Сердце грифона"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Griffin Heart.md"
 toc: false

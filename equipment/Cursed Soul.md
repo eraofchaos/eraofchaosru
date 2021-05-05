@@ -2,7 +2,7 @@
 title: "Проклятая душа"
 permalink: /equipment/Cursed Soul/
 excerpt: "Эра хаоса Проклятая душа. Проклятая душа"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Cursed Soul.md"
 toc: false

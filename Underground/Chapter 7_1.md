@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 - 7-1 Пустая сокровищница"
 permalink: /Underground/Chapter 7_1/
 excerpt: "Глава 7 - 1. Эра хаоса  Подземелье - Глава 7_1. 7-1 Пустая сокровищница"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 7_1.md"
 toc: false

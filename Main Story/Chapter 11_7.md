@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-7 Крылья ангела"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Глава 11 - 7. Эра хаоса  Основной сюжет - Глава 11_7. 11-7 Крылья ангела"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 11_7.md"
 toc: false

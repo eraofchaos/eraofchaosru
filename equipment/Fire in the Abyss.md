@@ -2,7 +2,7 @@
 title: "Огонь в бездне"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Эра хаоса Огонь в бездне. Огонь в бездне"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Fire in the Abyss.md"
 toc: false

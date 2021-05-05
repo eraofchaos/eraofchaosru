@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-2 Наемник"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Глава 16 - 2. Эра хаоса  Основной сюжет - Глава 16_2. 16-2 Наемник"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Chapter 16_2.md"
 toc: false

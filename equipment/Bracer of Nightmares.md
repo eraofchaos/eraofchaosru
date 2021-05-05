@@ -2,7 +2,7 @@
 title: "Браслеты кошмара"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Эра хаоса Браслеты кошмара. Браслеты кошмара"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Bracer of Nightmares.md"
 toc: false
