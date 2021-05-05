@@ -2,7 +2,7 @@
 title: "Боевое построение Подземелье"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "Боевое построение Подземелье"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "BattleFormationFactionDungeon"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Повышает сопротивление магии всех отрядов Подземелья на 10%** |
   | **8** | **Когда вражеский герой творит заклинание, КРИТ. УРН отрядов Подземелья увеличивается на 12% на 6 сек.** |
   | **9** | **Ускоряет атаку всех отрядов Подземелья на 4%** |
+  | **10** | **Усиливает АТК всех отрядов Подземелья на 15%** |
+  | **11** | **Увеличивает ОЗ всех отрядов Подземелья на 17%** |
+  | **12** | **Сражаясь с кровоточащими отрядами, отряды Подземелья получают +5% к урону отряда** |
 
 ## Боевое построение Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Dungeon - Blaster | Критический удар + **5**  | 160 |  **10** x [Троглодит](/ru/units/Troglodyte) |
   | 17 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Dungeon - Storm Assaulter | АТК + **1** % | 80 |   |
+  
+
+
+## Боевое построение Circle 3:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Dungeon - Damage Amplification | УРН отряда + **0.4** % | 180 |  **10** x [Гарпия](/ru/units/Harpy) |
+  | 2 | Dungeon - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 3 | Dungeon - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 4 | Dungeon - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 5 | Dungeon - A Strike Hit | Удар по цели + **7**  | 180 |  **10** x [Троглодит](/ru/units/Troglodyte) |
+  | 6 | Dungeon - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 7 | Dungeon - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 8 | Dungeon - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 9 | Dungeon - Ingeniousness | Уклонение + **7**  | 180 |  **10** x [Минотавр](/ru/units/Minotaur) |
+  | 10 | Dungeon - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 11 | Dungeon - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 12 | Dungeon - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 13 | Dungeon - Shield Practice | Сокращение УРН отряда + **0.4** % | 180 |  **10** x [Минотавр](/ru/units/Minotaur) |
+  | 14 | Dungeon - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 15 | Dungeon - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 16 | Dungeon - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 17 | Dungeon - Rocklike Skin | Выносливость + **8**  | 180 |  **10** x [Троглодит](/ru/units/Troglodyte) |
+  | 18 | Dungeon - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 19 | Dungeon - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 20 | Dungeon - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 21 | Dungeon - Blaster | Критический удар + **6**  | 180 |  **10** x [Гарпия](/ru/units/Harpy) |
+  | 22 | Dungeon - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 23 | Dungeon - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 24 | Dungeon - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  
+
+
+## Боевое построение Circle 4:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Dungeon - Damage Amplification | УРН отряда + **0.5** % | 190 |  **20** x [Минотавр](/ru/units/Minotaur) |
+  | 2 | Dungeon - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 3 | Dungeon - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 4 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 5 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 6 | Dungeon - A Strike Hit | Удар по цели + **8**  | 190 |  **20** x [Гарпия](/ru/units/Harpy) |
+  | 7 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 8 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 9 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 10 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 11 | Dungeon - Ingeniousness | Уклонение + **8**  | 190 |  **20** x [Гарпия](/ru/units/Harpy) |
+  | 12 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 13 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 14 | Dungeon - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 15 | Dungeon - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 16 | Dungeon - Shield Practice | Сокращение УРН отряда + **0.5** % | 190 |  **20** x [Гарпия](/ru/units/Harpy) |
+  | 17 | Dungeon - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 18 | Dungeon - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 19 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 20 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 21 | Dungeon - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Гарпия](/ru/units/Harpy) |
+  | 22 | Dungeon - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 23 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 24 | Dungeon - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 25 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 26 | Dungeon - Blaster | Критический удар + **7**  | 190 |  **20** x [Минотавр](/ru/units/Minotaur) |
+  | 27 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 28 | Dungeon - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 29 | Dungeon - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 30 | Dungeon - Storm Assaulter | АТК + **1.4** % | 100 |   |
   
 

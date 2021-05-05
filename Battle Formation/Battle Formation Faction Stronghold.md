@@ -2,7 +2,7 @@
 title: "Боевое построение Цитадель"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Боевое построение Цитадель"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Повышает сопротивление магии всех отрядов Цитадели на 10%** |
   | **8** | **Отряды Цитадели получают +50 к критическому удару, если их ОЗ ниже 55%** |
   | **9** | **Ускоряет атаку всех отрядов Цитадели на 4%** |
+  | **10** | **Усиливает АТК всех отрядов Цитадели на 15%** |
+  | **11** | **Увеличивает ОЗ всех отрядов Цитадели на 17%** |
+  | **12** | **Отряды Цитадели получают +12% к КРИТ. УРН, если их ОЗ ниже 70%** |
 
 ## Боевое построение Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Stronghold - Blaster | Критический удар + **5**  | 160 |  **10** x [Орк](/ru/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | АТК + **1** % | 80 |   |
+  
+
+
+## Боевое построение Circle 3:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | УРН отряда + **0.4** % | 180 |  **10** x [Огр](/ru/units/Ogre) |
+  | 2 | Stronghold - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 3 | Stronghold - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 4 | Stronghold - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 5 | Stronghold - A Strike Hit | Удар по цели + **7**  | 180 |  **10** x [Наездник на волке](/ru/units/Wolf Rider) |
+  | 6 | Stronghold - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 7 | Stronghold - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 8 | Stronghold - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 9 | Stronghold - Ingeniousness | Уклонение + **7**  | 180 |  **10** x [Огр](/ru/units/Ogre) |
+  | 10 | Stronghold - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 11 | Stronghold - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 12 | Stronghold - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 13 | Stronghold - Shield Practice | Сокращение УРН отряда + **0.4** % | 180 |  **10** x [Наездник на волке](/ru/units/Wolf Rider) |
+  | 14 | Stronghold - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 15 | Stronghold - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 16 | Stronghold - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 17 | Stronghold - Rocklike Skin | Выносливость + **8**  | 180 |  **10** x [Огр](/ru/units/Ogre) |
+  | 18 | Stronghold - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 19 | Stronghold - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 20 | Stronghold - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 21 | Stronghold - Blaster | Критический удар + **6**  | 180 |  **10** x [Наездник на волке](/ru/units/Wolf Rider) |
+  | 22 | Stronghold - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 23 | Stronghold - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 24 | Stronghold - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  
+
+
+## Боевое построение Circle 4:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | УРН отряда + **0.5** % | 190 |  **20** x [Циклоп](/ru/units/Cyclops) |
+  | 2 | Stronghold - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 3 | Stronghold - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 4 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 5 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 6 | Stronghold - A Strike Hit | Удар по цели + **8**  | 190 |  **20** x [Рух](/ru/units/Roc) |
+  | 7 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 8 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 9 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 10 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 11 | Stronghold - Ingeniousness | Уклонение + **8**  | 190 |  **20** x [Циклоп](/ru/units/Cyclops) |
+  | 12 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 13 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 14 | Stronghold - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 15 | Stronghold - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 16 | Stronghold - Shield Practice | Сокращение УРН отряда + **0.5** % | 190 |  **20** x [Рух](/ru/units/Roc) |
+  | 17 | Stronghold - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 18 | Stronghold - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 19 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 20 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 21 | Stronghold - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Циклоп](/ru/units/Cyclops) |
+  | 22 | Stronghold - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 23 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 24 | Stronghold - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 25 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 26 | Stronghold - Blaster | Критический удар + **7**  | 190 |  **20** x [Рух](/ru/units/Roc) |
+  | 27 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 28 | Stronghold - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 29 | Stronghold - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 30 | Stronghold - Storm Assaulter | АТК + **1.4** % | 100 |   |
   
 

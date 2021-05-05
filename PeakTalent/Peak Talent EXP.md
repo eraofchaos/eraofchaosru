@@ -2,7 +2,7 @@
 title: "Талант вершины EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "Эра хаоса Талант вершины EXP. Талант вершины EXP"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: ru
 ref: "Peak Talent EXP.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Боевое построение Некрополь"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Боевое построение Некрополь"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: ru
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Повышает сопротивление магии всех отрядов Некрополя на 10%** |
   | **8** | **Отряды Некрополя, сражаясь с вражескими отрядами с низким боевым духом, получают +5% к урону отряда** |
   | **9** | **Ускоряет атаку всех отрядов Некрополя на 4%** |
+  | **10** | **Усиливает АТК всех отрядов Некрополя на 15%** |
+  | **11** | **Увеличивает ОЗ всех отрядов Некрополя на 17%** |
+  | **12** | **Когда союзный герой творит заклинание Земли, дает +50 к критическому удару для всех союзных отрядов Некрополя на 6 сек.** |
 
 ## Боевое построение Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Necropolis - Blaster | Критический удар + **5**  | 160 |  **10** x [Ходячий мертвец](/ru/units/Walking Dead) |
   | 17 | Necropolis - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.3** % | 80 |   |
   | 18 | Necropolis - Storm Assaulter | АТК + **1** % | 80 |   |
+  
+
+
+## Боевое построение Circle 3:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Necropolis - Damage Amplification | УРН отряда + **0.4** % | 180 |  **10** x [Скелет](/ru/units/Skeleton) |
+  | 2 | Necropolis - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 3 | Necropolis - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 4 | Necropolis - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 5 | Necropolis - A Strike Hit | Удар по цели + **7**  | 180 |  **10** x [Ходячий мертвец](/ru/units/Walking Dead) |
+  | 6 | Necropolis - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 7 | Necropolis - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 8 | Necropolis - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 9 | Necropolis - Ingeniousness | Уклонение + **7**  | 180 |  **10** x [Призрак](/ru/units/Wight) |
+  | 10 | Necropolis - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 11 | Necropolis - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 12 | Necropolis - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 13 | Necropolis - Shield Practice | Сокращение УРН отряда + **0.4** % | 180 |  **10** x [Вампир](/ru/units/Vampire) |
+  | 14 | Necropolis - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 15 | Necropolis - Physical Trials | ОЗ + **1.2** % | 90 |   |
+  | 16 | Necropolis - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 17 | Necropolis - Rocklike Skin | Выносливость + **8**  | 180 |  **10** x [Ходячий мертвец](/ru/units/Walking Dead) |
+  | 18 | Necropolis - Physical Trials | АТК + **0.4** %, ОЗ + **0.8** % | 90 |   |
+  | 19 | Necropolis - Storm Assaulter | АТК + **0.6** %, ОЗ + **0.6** % | 90 |   |
+  | 20 | Necropolis - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 21 | Necropolis - Blaster | Критический удар + **6**  | 180 |  **10** x [Ходячий мертвец](/ru/units/Walking Dead) |
+  | 22 | Necropolis - Storm Assaulter | АТК + **0.8** %, ОЗ + **0.4** % | 90 |   |
+  | 23 | Necropolis - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  | 24 | Necropolis - Storm Assaulter | АТК + **1.2** % | 90 |   |
+  
+
+
+## Боевое построение Circle 4:
+
+  |  Nr  |  Имя   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Necropolis - Damage Amplification | УРН отряда + **0.5** % | 190 |  **20** x [Призрак](/ru/units/Wight) |
+  | 2 | Necropolis - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 3 | Necropolis - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 4 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 5 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 6 | Necropolis - A Strike Hit | Удар по цели + **8**  | 190 |  **20** x [Вампир](/ru/units/Vampire) |
+  | 7 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 8 | Necropolis - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 9 | Necropolis - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 10 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 11 | Necropolis - Ingeniousness | Уклонение + **8**  | 190 |  **20** x [Призрак](/ru/units/Wight) |
+  | 12 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 13 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 14 | Necropolis - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 15 | Necropolis - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 16 | Necropolis - Shield Practice | Сокращение УРН отряда + **0.5** % | 190 |  **20** x [Вампир](/ru/units/Vampire) |
+  | 17 | Necropolis - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 18 | Necropolis - Physical Trials | ОЗ + **1.4** % | 100 |   |
+  | 19 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 20 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 21 | Necropolis - Rocklike Skin | Выносливость + **10**  | 190 |  **20** x [Призрак](/ru/units/Wight) |
+  | 22 | Necropolis - Physical Trials | АТК + **0.5** %, ОЗ + **0.9** % | 100 |   |
+  | 23 | Necropolis - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 24 | Necropolis - Storm Assaulter | АТК + **0.7** %, ОЗ + **0.7** % | 100 |   |
+  | 25 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 26 | Necropolis - Blaster | Критический удар + **7**  | 190 |  **20** x [Вампир](/ru/units/Vampire) |
+  | 27 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 28 | Necropolis - Storm Assaulter | АТК + **0.9** %, ОЗ + **0.5** % | 100 |   |
+  | 29 | Necropolis - Storm Assaulter | АТК + **1.4** % | 100 |   |
+  | 30 | Necropolis - Storm Assaulter | АТК + **1.4** % | 100 |   |
   
 
