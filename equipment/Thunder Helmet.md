@@ -2,7 +2,7 @@
 title: "Громовой шлем"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Эра хаоса Громовой шлем. Громовой шлем"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Thunder Helmet.md"
 toc: false

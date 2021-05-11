@@ -2,7 +2,7 @@
 title: "Стальное ожерелье"
 permalink: /equipment/Steel Necklet/
 excerpt: "Эра хаоса Стальное ожерелье. Стальное ожерелье"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Steel Necklet.md"
 toc: false

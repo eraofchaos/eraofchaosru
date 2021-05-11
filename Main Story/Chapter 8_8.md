@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-8 Боевая тактика"
 permalink: /Main Story/Chapter 8_8/
 excerpt: "Глава 8 - 8. Эра хаоса  Основной сюжет - Глава 8_8. 8-8 Боевая тактика"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 8_8.md"
 toc: false

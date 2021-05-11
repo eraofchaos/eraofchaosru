@@ -2,7 +2,7 @@
 title: "Аватар - Теплое Рождество"
 permalink: /Avatars/Warm Christmas/
 excerpt: "Эра хаоса  Теплое Рождество"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Warm Christmas.md"
 toc: false

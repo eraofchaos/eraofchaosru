@@ -2,7 +2,7 @@
 title: "Ветрозащитный плащ"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Эра хаоса Ветрозащитный плащ. Ветрозащитный плащ"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Windproof Cloak.md"
 toc: false

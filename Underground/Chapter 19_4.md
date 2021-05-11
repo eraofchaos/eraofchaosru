@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 - 19-4 Магическая истина"
 permalink: /Underground/Chapter 19_4/
 excerpt: "Глава 19 - 4. Эра хаоса  Подземелье - Глава 19_4. 19-4 Магическая истина"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 19_4.md"
 toc: false

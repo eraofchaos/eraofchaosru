@@ -2,7 +2,7 @@
 title: "Источник силы"
 permalink: /equipment/Source of Power/
 excerpt: "Эра хаоса Источник силы. Источник силы"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Source of Power.md"
 toc: false

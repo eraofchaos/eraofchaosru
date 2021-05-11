@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Эра хаоса Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Unit Class Defense"
 toc: false
@@ -34,5 +34,5 @@ classes: wide
   | 20 | ![Черный дракон](/images/u/ti_heilong.jpg) | [Черный дракон](/ru/units/Black Dragon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Король черных драконов  |
   | 21 | ![Дендроид-страж](/images/u/ti_shuyao.jpg) | [Дендроид-страж](/ru/units/Dendroid Guard/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Дендроид-воин  |
   | 22 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Зомби  |
-  | 23 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
+  | 23 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 24 | ![Элементаль Камня](/images/u/ti_shiyuansu.jpg) | [Элементаль Камня](/ru/units/Stone Elemental/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |

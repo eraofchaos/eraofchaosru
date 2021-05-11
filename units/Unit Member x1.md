@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Эра хаоса Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Unit Member x1"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | ![Вершитель](/images/u/ti_shenpanguan.jpg) | [Вершитель](/ru/units/Judicator/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 22 | ![Красный дракон](/images/u/ti_chilong.jpg) | [Красный дракон](/ru/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 23 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Золотой дракон  |
-  | 24 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
+  | 24 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 25 | ![Злая ведьма](/images/u/ti_xiemonv.jpg) | [Злая ведьма](/ru/units/Evil Sorceress/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 26 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 27 | ![Богомол](/images/u/ti_tanglang.jpg) | [Богомол](/ru/units/Mantis/) | Наступление | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |

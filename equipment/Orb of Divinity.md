@@ -2,7 +2,7 @@
 title: "Шар божественности"
 permalink: /equipment/Orb of Divinity/
 excerpt: "Эра хаоса Шар божественности. Шар божественности"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Orb of Divinity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "index.md"
 toc: false
@@ -109,7 +109,7 @@ classes: wide
   | 96 | ![Тайны сфинкса](/images/a/avatarFrame_25.png) | [Тайны сфинкса](/ru/Avatars/Sphinx's Secrets/) | + | Рамка аватара «Тайны сфинкса» |
   | 97 | ![Тактический командующий](/images/a/avatarFrame_20.png) | [Тактический командующий](/ru/Avatars/Tactical Commander/) | + | Рамка аватара «Тактический командующий» |
   | 98 | ![Танец клинков](/images/a/avatarFrame_26.png) | [Танец клинков](/ru/Avatars/Dance of the Blades/) | + | Рамка аватара «Танец клинков» |
-  | 99 | ![Тень зверя](/images/a/avatarFrame_79.png) | [Тень зверя](/ru/Avatars/Shadow of Beast/) | - | Рамка аватара «Тень зверя» |
+  | 99 | ![Тень зверя](/images/a/avatarFrame_79.png) | [Тень зверя](/ru/Avatars/Shadow of Beast/) | + | Рамка аватара «Тень зверя» |
   | 100 | ![Тень призраков](/images/a/avatarFrame_78.png) | [Тень призраков](/ru/Avatars/Shadow of Ghosts/) | - | Рамка аватара «Тень призраков» |
   | 101 | ![Теплое Рождество](/images/a/avatarFrame_47.png) | [Теплое Рождество](/ru/Avatars/Warm Christmas/) | + | Рамка аватара «Теплое Рождество» |
   | 102 | ![Удачливая скотина](/images/a/avatarFrame_55.png) | [Удачливая скотина](/ru/Avatars/Lucky Dog/) | - |  |

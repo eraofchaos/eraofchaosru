@@ -2,7 +2,7 @@
 title: "Кожаные наплечники"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Эра хаоса Кожаные наплечники. Кожаные наплечники"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Leather Pauldrons.md"
 toc: false

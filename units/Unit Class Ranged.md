@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Эра хаоса Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Unit Class Ranged"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 6 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Опытный лучник  |
   | 7 | ![Медуза](/images/u/ti_meidusha.jpg) | [Медуза](/ru/units/Medusa/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Королевская медуза  |
-  | 8 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 8 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 9 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 10 | ![Пегас](/images/u/ti_feima.jpg) | [Пегас](/ru/units/Pegasus/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Серебряный пегас  |
   | 11 | ![Элементаль Шторма](/images/u/ti_leiyuansu2.jpg) | [Элементаль Шторма](/ru/units/Storm Elemental/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Ураган молний  |

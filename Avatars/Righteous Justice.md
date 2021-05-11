@@ -2,7 +2,7 @@
 title: "Аватар - Праведный суд"
 permalink: /Avatars/Righteous Justice/
 excerpt: "Эра хаоса  Праведный суд"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Righteous Justice.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-7 Конокрад"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Глава 2 - 7. Эра хаоса  Основной сюжет - Глава 2_7. 2-7 Конокрад"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 2_7.md"
 toc: false

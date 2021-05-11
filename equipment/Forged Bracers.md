@@ -2,7 +2,7 @@
 title: "Кованые браслеты"
 permalink: /equipment/Forged Bracers/
 excerpt: "Эра хаоса Кованые браслеты. Кованые браслеты"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Forged Bracers.md"
 toc: false

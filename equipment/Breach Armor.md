@@ -2,7 +2,7 @@
 title: "Доспех павшего врага"
 permalink: /equipment/Breach Armor/
 excerpt: "Эра хаоса Доспех павшего врага. Доспех павшего врага"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Breach Armor.md"
 toc: false

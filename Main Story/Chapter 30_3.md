@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-3. Источник пегаса"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Глава 30 - 3. Эра хаоса  Основной сюжет - Глава 30_3. 30-3. Источник пегаса"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 30_3.md"
 toc: false

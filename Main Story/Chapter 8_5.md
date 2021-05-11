@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-5 Спасение"
 permalink: /Main Story/Chapter 8_5/
 excerpt: "Глава 8 - 5. Эра хаоса  Основной сюжет - Глава 8_5. 8-5 Спасение"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 8_5.md"
 toc: false

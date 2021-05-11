@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 - 25-3 Окровавленный клинок"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Глава 25 - 3. Эра хаоса  Подземелье - Глава 25_3. 25-3 Окровавленный клинок"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 25_3.md"
 toc: false

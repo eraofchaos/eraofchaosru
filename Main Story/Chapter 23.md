@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 Ржавый дракон"
 permalink: /Main Story/Chapter 23/
 excerpt: "Глава 23. Эра хаоса  Основной сюжет - Глава 23. Ржавый дракон"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 23.md"
 toc: false

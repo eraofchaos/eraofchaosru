@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-7 Небесный город"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "Глава 3 - 7. Эра хаоса  Основной сюжет - Глава 3_7. 3-7 Небесный город"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 3_7.md"
 toc: false

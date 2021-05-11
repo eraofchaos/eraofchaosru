@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-8 Непонятный выбор"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Глава 24 - 8. Эра хаоса  Основной сюжет - Глава 24_8. 24-8 Непонятный выбор"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 24_8.md"
 toc: false

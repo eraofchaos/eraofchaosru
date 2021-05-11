@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-14 Разбитое сердце"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Глава 7 - 14. Эра хаоса  Основной сюжет - Глава 7_14. 7-14 Разбитое сердце"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 7_14.md"
 toc: false

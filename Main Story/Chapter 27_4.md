@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-4 Темное видение"
 permalink: /Main Story/Chapter 27_4/
 excerpt: "Глава 27 - 4. Эра хаоса  Основной сюжет - Глава 27_4. 27-4 Темное видение"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 27_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Когти распада"
 permalink: /equipment/Claws of Decay/
 excerpt: "Эра хаоса Когти распада. Когти распада"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Claws of Decay.md"
 toc: false

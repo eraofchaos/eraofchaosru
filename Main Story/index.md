@@ -2,7 +2,7 @@
 title: "Основной сюжет"
 permalink: /Main Story/
 excerpt: "Основной сюжет. Эра хаоса  Основной сюжет."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "UnknownEquipment_2094"
 permalink: /equipment/UnknownEquipment_2094/
 excerpt: "Эра хаоса UnknownEquipment_2094. UnknownEquipment_2094"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "UnknownEquipment_2094.md"
 toc: false

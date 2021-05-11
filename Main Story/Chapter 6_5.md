@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-5 Тяжелые потери"
 permalink: /Main Story/Chapter 6_5/
 excerpt: "Глава 6 - 5. Эра хаоса  Основной сюжет - Глава 6_5. 6-5 Тяжелые потери"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 6_5.md"
 toc: false

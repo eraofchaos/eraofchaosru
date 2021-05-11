@@ -2,7 +2,7 @@
 title: "Эмблема святости - Зеленый пророк"
 permalink: /Emblem/Green Prophet/
 excerpt: "Эра хаоса Зеленый пророк. Зеленый пророк. Эра хаоса Эмблема святости Зеленый пророк. Эра хаоса Добро Зеленый пророк"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Green Prophet.md"
 toc: false

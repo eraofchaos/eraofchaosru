@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-12 Тайный отряд"
 permalink: /Main Story/Chapter 18_12/
 excerpt: "Глава 18 - 12. Эра хаоса  Основной сюжет - Глава 18_12. 18-12 Тайный отряд"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 18_12.md"
 toc: false

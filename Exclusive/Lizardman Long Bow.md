@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Ящер Эксклюзив."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Lizardman Длинный лук.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Заряд
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

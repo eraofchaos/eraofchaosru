@@ -2,7 +2,7 @@
 title: "Аватар - Рожденная из пепла"
 permalink: /Avatars/Born from the Ashes/
 excerpt: "Эра хаоса  Рожденная из пепла"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Born from the Ashes.md"
 toc: false

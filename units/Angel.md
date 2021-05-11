@@ -3,7 +3,7 @@ title: "Ангел"
 permalink: /units/Angel/
 excerpt: "Эра хаоса Ангел. Ангел Отряды. Архангел. Эра хаоса Архангелы служат символом силы и света, и их обожает все королевство. В бою они яростны и способны не только крушить своих врагов, но и воскрешать павших союзников."
 unitID: 107
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Ангел"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Ангелы наносят </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ед. урона 3 вражеским отрядам и </span><span style="color: black"><span style="color: #48b946;font-size:20px">оглушают</span><span style="color: black"><span style="color: #645252;font-size:20px"> их на 3 сек.</span><span style="color: black">
 
 ### Обычное умение 1 : Воскрешение
- **Описание:** <span style="color: #645252;font-size:20px">Ангелы воскрешают 1 из своих отрядов и восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ для этого отряда.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Ангелы воскрешают 1 из своих отрядов и восстанавливают </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ОЗ для этого отряда. Немота не блокирует данное умение.</span><span style="color: black">
 
 ### Обычное умение 2 : Сияние
  **Описание:** <span style="color: #645252;font-size:20px">Когда ангелы на поле боя, все союзные отряды получают каждые 2 сек. дополнительное восстановление ОЗ в размере </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от их максимума ОЗ.</span><span style="color: black">

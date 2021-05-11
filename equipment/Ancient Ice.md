@@ -2,7 +2,7 @@
 title: "Первобытный лед"
 permalink: /equipment/Ancient Ice/
 excerpt: "Эра хаоса Первобытный лед. Первобытный лед"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Ancient Ice.md"
 toc: false

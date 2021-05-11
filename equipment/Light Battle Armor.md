@@ -2,7 +2,7 @@
 title: "Легкая боевая броня"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Эра хаоса Легкая боевая броня. Легкая боевая броня"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Light Battle Armor.md"
 toc: false

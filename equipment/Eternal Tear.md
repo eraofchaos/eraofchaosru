@@ -2,7 +2,7 @@
 title: "Вечная слеза"
 permalink: /equipment/Eternal Tear/
 excerpt: "Эра хаоса Вечная слеза. Вечная слеза"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Eternal Tear.md"
 toc: false

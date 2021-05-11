@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-5 Дыхание дракона"
 permalink: /Main Story/Chapter 23_5/
 excerpt: "Глава 23 - 5. Эра хаоса  Основной сюжет - Глава 23_5. 23-5 Дыхание дракона"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 23_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 21 - 21-1 Дар войны"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Глава 21 - 1. Эра хаоса  Подземелье - Глава 21_1. 21-1 Дар войны"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 21_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ум"
 permalink: /Emblem/Witness/
 excerpt: "Эра хаоса Ум. Ум. Эра хаоса Эмблема святости Ум. Эра хаоса Добро Ум"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Witness.md"
 toc: false

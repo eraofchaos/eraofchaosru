@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 - 28-4  Достойная жертва"
 permalink: /Underground/Chapter 28_4/
 excerpt: "Глава 28 - 4. Эра хаоса  Подземелье - Глава 28_4. 28-4  Достойная жертва"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 28_4.md"
 toc: false

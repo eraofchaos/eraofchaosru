@@ -2,7 +2,7 @@
 title: "Наплечники из чистого золота"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Эра хаоса Наплечники из чистого золота. Наплечники из чистого золота"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Pauldrons of Pure Gold.md"
 toc: false

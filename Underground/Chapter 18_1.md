@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 18 - 18-1 Бессмысленный"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Глава 18 - 1. Эра хаоса  Подземелье - Глава 18_1. 18-1 Бессмысленный"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 18_1.md"
 toc: false

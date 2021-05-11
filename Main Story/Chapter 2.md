@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 Возвращение королевы"
 permalink: /Main Story/Chapter 2/
 excerpt: "Глава 2. Эра хаоса  Основной сюжет - Глава 2. Возвращение королевы"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 2.md"
 toc: false

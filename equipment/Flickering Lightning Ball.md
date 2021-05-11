@@ -2,7 +2,7 @@
 title: "Мерцающий шар молнии"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Эра хаоса Мерцающий шар молнии. Мерцающий шар молнии"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Flickering Lightning Ball.md"
 toc: false

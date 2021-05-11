@@ -2,7 +2,7 @@
 title: "Нестабильная форма. Талант вершины - Нестабильная форма"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Эра хаоса Талант вершины Нестабильная форма. Талант вершины Нестабильная форма. Нестабильная форма"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "The Unstable Form.md"
 toc: false

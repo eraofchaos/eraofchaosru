@@ -2,7 +2,7 @@
 title: "Кровожадность. Талант вершины - Кровожадность"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Эра хаоса Талант вершины Кровожадность. Талант вершины Кровожадность. Кровожадность"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Bloodthirsty.md"
 toc: false

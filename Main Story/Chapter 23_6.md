@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-6 Пещера в шахте"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Глава 23 - 6. Эра хаоса  Основной сюжет - Глава 23_6. 23-6 Пещера в шахте"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 23_6.md"
 toc: false

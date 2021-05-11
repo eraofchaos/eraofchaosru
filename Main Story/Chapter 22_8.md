@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-8 Радужный дракон"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "Глава 22 - 8. Эра хаоса  Основной сюжет - Глава 22_8. 22-8 Радужный дракон"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 22_8.md"
 toc: false

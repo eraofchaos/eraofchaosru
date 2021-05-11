@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-12 Захват столицы"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "Глава 6 - 12. Эра хаоса  Основной сюжет - Глава 6_12. 6-12 Захват столицы"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 6_12.md"
 toc: false

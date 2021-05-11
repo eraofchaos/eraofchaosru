@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 2 - 2-1 Возрождение на свету"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Глава 2 - 1. Эра хаоса  Подземелье - Глава 2_1. 2-1 Возрождение на свету"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 2_1.md"
 toc: false

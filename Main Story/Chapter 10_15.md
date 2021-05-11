@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-15 Приглашение на ваши похороны"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "Глава 10 - 15. Эра хаоса  Основной сюжет - Глава 10_15. 10-15 Приглашение на ваши похороны"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 10_15.md"
 toc: false

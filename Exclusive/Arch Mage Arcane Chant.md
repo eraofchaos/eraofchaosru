@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Архимаг Эксклюзив."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Arch Mage Таинственное пение.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 - 19-5 Закон мира"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Глава 19 - 5. Эра хаоса  Подземелье - Глава 19_5. 19-5 Закон мира"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 19_5.md"
 toc: false

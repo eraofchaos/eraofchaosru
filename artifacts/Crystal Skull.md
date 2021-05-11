@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Хрустальный череп"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Эра хаоса  Золотое яблоко - Хрустальный череп. Череп из полированного горного хрусталя, позволяет увидеть человеческие желания."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Crystal Skull.md"
 toc: false

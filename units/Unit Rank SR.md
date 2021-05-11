@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Эра хаоса Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Unit Rank SR"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 24 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 25 | ![Минотавр](/images/u/ti_niutouguai.jpg) | [Минотавр](/ru/units/Minotaur/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Король минотавров  |
   | 26 | ![Магический корабль](/images/u/ti_reqiqiu.jpg) | [Магический корабль](/ru/units/Magic Airship/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 27 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 27 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 28 | ![Всадники](/images/u/ti_qishi.jpg) | [Всадники](/ru/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Рыцари-чемпионы  |
   | 29 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 30 | ![Летучий змей](/images/u/ti_longying.jpg) | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |

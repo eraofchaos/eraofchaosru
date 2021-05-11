@@ -2,7 +2,7 @@
 title: "Шипованная дубина"
 permalink: /equipment/Spiked Club/
 excerpt: "Эра хаоса Шипованная дубина. Шипованная дубина"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Spiked Club.md"
 toc: false

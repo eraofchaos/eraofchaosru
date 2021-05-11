@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-12 Злобная природа"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Глава 17 - 12. Эра хаоса  Основной сюжет - Глава 17_12. 17-12 Злобная природа"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 17_12.md"
 toc: false

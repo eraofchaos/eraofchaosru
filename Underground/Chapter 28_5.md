@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 - 28-5  Грабеж"
 permalink: /Underground/Chapter 28_5/
 excerpt: "Глава 28 - 5. Эра хаоса  Подземелье - Глава 28_5. 28-5  Грабеж"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 28_5.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Ящер"
 permalink: /units/Lizardman/
 excerpt: "Эра хаоса Ящер. Ящер Отряды. null. Эра хаоса Смертоносные ночные охотники. Яд на их стрелах достаточно силен, чтобы прикончить любую цель."
 unitID: 802
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Ящер"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Имя:** [Длинный лук](/ru/Exclusive/Lizardman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон длинного лука](/ItemsRU/con_914/)
 

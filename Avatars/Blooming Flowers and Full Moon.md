@@ -2,7 +2,7 @@
 title: "Аватар - Прекрасный пейзаж"
 permalink: /Avatars/Blooming Flowers and Full Moon/
 excerpt: "Эра хаоса  Прекрасный пейзаж"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Blooming Flowers and Full Moon.md"
 toc: false

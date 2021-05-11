@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-2 Синяя башня"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Глава 12 - 2. Эра хаоса  Основной сюжет - Глава 12_2. 12-2 Синяя башня"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 12_2.md"
 toc: false

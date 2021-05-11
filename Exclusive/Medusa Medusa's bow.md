@@ -2,7 +2,7 @@
 title: "Эксклюзив - Лук медузы (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Эра хаоса Лук медузы. Лук медузы. Эра хаоса Эксклюзив Лук медузы. Медуза Эксклюзив."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Medusa Лук медузы.md"
 toc: false

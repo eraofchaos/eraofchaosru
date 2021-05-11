@@ -2,7 +2,7 @@
 title: "Артефакт - Зоркий ястребиный глаз - Кольцо орлиного глаза"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Эра хаоса  Зоркий ястребиный глаз - Кольцо орлиного глаза. Тайное кольцо с глазами. Компонент зоркого ястребиного глаза"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Ring of Eagle Vision.md"
 toc: false

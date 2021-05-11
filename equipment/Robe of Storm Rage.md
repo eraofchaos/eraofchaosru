@@ -2,7 +2,7 @@
 title: "Мантия гнева шторма"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Эра хаоса Мантия гнева шторма. Мантия гнева шторма"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Robe of Storm Rage.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 - 11-3 В укрытие"
 permalink: /Underground/Chapter 11_3/
 excerpt: "Глава 11 - 3. Эра хаоса  Подземелье - Глава 11_3. 11-3 В укрытие"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 11_3.md"
 toc: false

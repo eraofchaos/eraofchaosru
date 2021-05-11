@@ -2,7 +2,7 @@
 title: "Толстая кожа. Талант вершины - Толстая кожа"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Эра хаоса Талант вершины Толстая кожа. Талант вершины Толстая кожа. Толстая кожа"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Hardened Skin.md"
 toc: false

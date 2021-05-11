@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-9 Обмен магией"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "Глава 20 - 9. Эра хаоса  Основной сюжет - Глава 20_9. 20-9 Обмен магией"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 20_9.md"
 toc: false

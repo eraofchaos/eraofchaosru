@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Эра хаоса Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Star 2"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Мечник](/images/u/ti_shizijun.jpg) | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Крестоносец  |
   | 14 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 15 | ![Минотавр](/images/u/ti_niutouguai.jpg) | [Минотавр](/ru/units/Minotaur/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Король минотавров  |
-  | 16 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 16 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 17 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 18 | ![Летучий змей](/images/u/ti_longying.jpg) | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |
   | 19 | ![Пегас](/images/u/ti_feima.jpg) | [Пегас](/ru/units/Pegasus/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Серебряный пегас  |

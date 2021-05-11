@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 Утесы грифонов"
 permalink: /Main Story/Chapter 4/
 excerpt: "Глава 4. Эра хаоса  Основной сюжет - Глава 4. Утесы грифонов"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Chapter 4.md"
 toc: false

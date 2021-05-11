@@ -2,7 +2,7 @@
 title: "Медаль королевства. Талант вершины - Медаль королевства"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Эра хаоса Талант вершины Медаль королевства. Талант вершины Медаль королевства. Медаль королевства"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: ru
 ref: "Medal of Kingdom.md"
 toc: false
