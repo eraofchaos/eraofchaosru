@@ -2,7 +2,7 @@
 title: "Убийственное намерение. Талант вершины - Убийственное намерение"
 permalink: /PeakTalent/Murder Intent/
 excerpt: "Эра хаоса Талант вершины Убийственное намерение. Талант вершины Убийственное намерение. Убийственное намерение"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Murder Intent.md"
 toc: false

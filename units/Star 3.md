@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Эра хаоса Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Star 3"
 toc: false
@@ -46,7 +46,7 @@ classes: wide
   | 32 | ![Черный дракон](/images/u/ti_heilong.jpg) | [Черный дракон](/ru/units/Black Dragon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Король черных драконов  |
   | 33 | ![Вершитель](/images/u/ti_shenpanguan.jpg) | [Вершитель](/ru/units/Judicator/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 34 | ![Красный дракон](/images/u/ti_chilong.jpg) | [Красный дракон](/ru/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 35 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Золотой дракон  |
+  | 35 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Золотой дракон  |
   | 36 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 37 | ![Злая ведьма](/images/u/ti_xiemonv.jpg) | [Злая ведьма](/ru/units/Evil Sorceress/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Виверна](/images/u/ti_feilong.jpg) | [Виверна](/ru/units/Wyvern/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Виверна-монарх  |

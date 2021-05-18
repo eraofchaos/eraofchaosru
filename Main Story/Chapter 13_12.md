@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-12 Сражение на равнине"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Глава 13 - 12. Эра хаоса  Основной сюжет - Глава 13_12. 13-12 Сражение на равнине"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 13_12.md"
 toc: false

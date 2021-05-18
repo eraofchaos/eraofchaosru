@@ -2,7 +2,7 @@
 title: "Система взлета"
 permalink: /equipment/Lift-off System/
 excerpt: "Эра хаоса Система взлета. Система взлета"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Lift-off System.md"
 toc: false

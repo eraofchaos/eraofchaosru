@@ -3,7 +3,7 @@ title: "Зеленый дракон"
 permalink: /units/Green Dragon/
 excerpt: "Эра хаоса Зеленый дракон. Зеленый дракон Отряды. Золотой дракон. Эра хаоса Зеленые драконы стоят на страже леса. Кислотное дыхание и огромные размеры делают их почти неуязвимыми."
 unitID: 207
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Зеленый дракон"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Имя:** [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон Сияющих крыльев](/ItemsRU/con_976/)
 

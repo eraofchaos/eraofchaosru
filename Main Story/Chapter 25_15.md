@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-15 Страж"
 permalink: /Main Story/Chapter 25_15/
 excerpt: "Глава 25 - 15. Эра хаоса  Основной сюжет - Глава 25_15. 25-15 Страж"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 25_15.md"
 toc: false

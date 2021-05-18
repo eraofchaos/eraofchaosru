@@ -2,7 +2,7 @@
 title: "Адамантовая кожа"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Эра хаоса Адамантовая кожа. Адамантовая кожа"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Adamantine Leather.md"
 toc: false

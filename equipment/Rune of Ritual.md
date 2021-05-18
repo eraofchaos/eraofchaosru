@@ -2,7 +2,7 @@
 title: "Руна ритуала"
 permalink: /equipment/Rune of Ritual/
 excerpt: "Эра хаоса Руна ритуала. Руна ритуала"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Rune of Ritual.md"
 toc: false

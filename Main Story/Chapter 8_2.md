@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-2 Без конца и края"
 permalink: /Main Story/Chapter 8_2/
 excerpt: "Глава 8 - 2. Эра хаоса  Основной сюжет - Глава 8_2. 8-2 Без конца и края"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 8_2.md"
 toc: false

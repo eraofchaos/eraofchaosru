@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-12 Магический продукт"
 permalink: /Main Story/Chapter 19_12/
 excerpt: "Глава 19 - 12. Эра хаоса  Основной сюжет - Глава 19_12. 19-12 Магический продукт"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 19_12.md"
 toc: false

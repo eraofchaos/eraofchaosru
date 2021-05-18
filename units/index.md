@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "index.md"
 toc: false
@@ -54,7 +54,7 @@ classes: wide
   | 32 | ![Единорог](/images/u/ti_dujiaoshou.jpg) | [Единорог](/ru/units/Unicorn/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Боевой единорог  |
   | 33 | ![Жар-птица](/images/u/ti_fenghuang.jpg) | [Жар-птица](/ru/units/Firebird/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Феникс  |
   | 34 | ![Железный голем](/images/u/ti_tieren.jpg) | [Железный голем](/ru/units/Iron Golem/) | Защита | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Золотой голем  |
-  | 35 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Золотой дракон  |
+  | 35 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Золотой дракон  |
   | 36 | ![Злая ведьма](/images/u/ti_xiemonv.jpg) | [Злая ведьма](/ru/units/Evil Sorceress/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 37 | ![Ифрит](/images/u/ti_liehuojingling.jpg) | [Ифрит](/ru/units/Efreeti/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Султан ифритов  |
   | 38 | ![Каменная горгулья](/images/u/ti_shixianggui.jpg) | [Каменная горгулья](/ru/units/Stone Gargoyle/) | Наступление | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |

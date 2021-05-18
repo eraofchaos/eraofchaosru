@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Эра хаоса Эксклюзив Rampart. Эксклюзив Rampart. List of Эксклюзив Rampart in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Exclusive Rampart"
 toc: false
@@ -23,6 +23,6 @@ classes: wide
   | 4  | [Пегас](/ru/units/Pegasus/) | [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) | + | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |
   | 5  | [Дендроид-страж](/ru/units/Dendroid Guard/) | [Славный щит](/ru/Exclusive/Dendroid Guard Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 6  | [Единорог](/ru/units/Unicorn/) | [Копье рыцаря](/ru/Exclusive/Unicorn Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
-  | 7  | [Зеленый дракон](/ru/units/Green Dragon/) | [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Поддержка | [Жетон Сияющих крыльев](/ItemsRU/con_976/) | [Особый облик: Сияющие крылья](/ItemsRU/con_644/) |
+  | 7  | [Зеленый дракон](/ru/units/Green Dragon/) | [Сияющие крылья](/ru/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Поддержка | [Жетон Сияющих крыльев](/ItemsRU/con_976/) | [Особый облик: Сияющие крылья](/ItemsRU/con_644/) |
   | 8  | [Друид](/ru/units/Druid/) | [Расцвет природы](/ru/Exclusive/Druid Staff of Regrowth/) | - | Стрелковый | [Жетон Расцвета природы](/ItemsRU/con_977/) | [Особый облик: Расцвет природы](/ItemsRU/con_645/) |
   | 9  | [Богомол](/ru/units/Mantis/) | - | - | - | none | none |

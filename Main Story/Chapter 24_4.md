@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-4 Сон-видение"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "Глава 24 - 4. Эра хаоса  Основной сюжет - Глава 24_4. 24-4 Сон-видение"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 24_4.md"
 toc: false

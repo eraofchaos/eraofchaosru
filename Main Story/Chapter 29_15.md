@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-15. Обсидиановый барьер"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Глава 29 - 15. Эра хаоса  Основной сюжет - Глава 29_15. 29-15. Обсидиановый барьер"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 29_15.md"
 toc: false

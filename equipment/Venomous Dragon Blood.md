@@ -2,7 +2,7 @@
 title: "Ядовитая кровь дракона"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Эра хаоса Ядовитая кровь дракона. Ядовитая кровь дракона"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Venomous Dragon Blood.md"
 toc: false

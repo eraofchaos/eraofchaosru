@@ -2,7 +2,7 @@
 title: "Изумрудное обручье"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Эра хаоса Изумрудное обручье. Изумрудное обручье"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Emerald Arm Ring.md"
 toc: false

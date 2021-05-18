@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-10 Тень дракона"
 permalink: /Main Story/Chapter 11_10/
 excerpt: "Глава 11 - 10. Эра хаоса  Основной сюжет - Глава 11_10. 11-10 Тень дракона"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 11_10.md"
 toc: false

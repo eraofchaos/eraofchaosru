@@ -2,7 +2,7 @@
 title: "Накидка престижа"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Эра хаоса Накидка престижа. Накидка престижа"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Cap of Prestige.md"
 toc: false

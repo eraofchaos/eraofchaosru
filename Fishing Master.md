@@ -2,7 +2,7 @@
 title: "Мастер рыбалки"
 permalink: /Fishing Master/
 excerpt: "Эра хаоса  Мастер рыбалки - 　　Милорд, мы отправили вам награду за закинутые сети. Не забудьте ее забрать."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "index.md"
 toc: false

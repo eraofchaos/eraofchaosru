@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-13 Грядущий кризис"
 permalink: /Main Story/Chapter 10_13/
 excerpt: "Глава 10 - 13. Эра хаоса  Основной сюжет - Глава 10_13. 10-13 Грядущий кризис"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 10_13.md"
 toc: false

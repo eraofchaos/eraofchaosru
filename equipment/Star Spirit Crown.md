@@ -2,7 +2,7 @@
 title: "Корона духа звезды"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Эра хаоса Корона духа звезды. Корона духа звезды"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Star Spirit Crown.md"
 toc: false

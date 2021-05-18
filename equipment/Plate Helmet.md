@@ -2,7 +2,7 @@
 title: "Латный шлем"
 permalink: /equipment/Plate Helmet/
 excerpt: "Эра хаоса Латный шлем. Латный шлем"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Plate Helmet.md"
 toc: false

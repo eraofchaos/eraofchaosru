@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 21 Грааль"
 permalink: /Underground/Chapter 21/
 excerpt: "Глава 21 Грааль. Эра хаоса  Подземелье - Глава 21. Грааль"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 21.md"
 toc: false

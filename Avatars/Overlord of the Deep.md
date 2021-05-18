@@ -2,7 +2,7 @@
 title: "Аватар - Властитель глубин"
 permalink: /Avatars/Overlord of the Deep/
 excerpt: "Эра хаоса  Властитель глубин"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Overlord of the Deep.md"
 toc: false

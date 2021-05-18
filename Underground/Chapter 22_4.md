@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-4 Уловки богов"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Глава 22 - 4. Эра хаоса  Подземелье - Глава 22_4. 22-4 Уловки богов"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 22_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Адский кнут"
 permalink: /equipment/Hellish Whip/
 excerpt: "Эра хаоса Адский кнут. Адский кнут"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Hellish Whip.md"
 toc: false

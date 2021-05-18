@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-3 Начало войны"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Глава 6 - 3. Эра хаоса  Основной сюжет - Глава 6_3. 6-3 Начало войны"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 6_3.md"
 toc: false

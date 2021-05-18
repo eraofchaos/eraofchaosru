@@ -2,7 +2,7 @@
 title: "Аватар - Воин"
 permalink: /Avatars/Warrior/
 excerpt: "Эра хаоса  Воин"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Warrior.md"
 toc: false

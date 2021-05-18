@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-11 Сражающая драконов стрела"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "Глава 23 - 11. Эра хаоса  Основной сюжет - Глава 23_11. 23-11 Сражающая драконов стрела"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 23_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Эра хаоса Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Unit Class Caster"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Магический корабль](/images/u/ti_reqiqiu.jpg) | [Магический корабль](/ru/units/Magic Airship/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 14 | ![Летучий змей](/images/u/ti_longying.jpg) | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |
   | 15 | ![Вершитель](/images/u/ti_shenpanguan.jpg) | [Вершитель](/ru/units/Judicator/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 16 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Золотой дракон  |
+  | 16 | ![Зеленый дракон](/images/u/ti_lvlong.jpg) | [Зеленый дракон](/ru/units/Green Dragon/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Золотой дракон  |
   | 17 | ![Призрак](/images/u/ti_youling.jpg) | [Призрак](/ru/units/Wight/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Привидение  |
   | 18 | ![Элементаль Льда](/images/u/ti_bingyuansu2.jpg) | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Снежный дух  |
   | 19 | ![Друид](/images/u/ti_deluyi.jpg) | [Друид](/ru/units/Druid/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Великий друид  |

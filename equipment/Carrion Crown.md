@@ -2,7 +2,7 @@
 title: "Корона мертвечины"
 permalink: /equipment/Carrion Crown/
 excerpt: "Эра хаоса Корона мертвечины. Корона мертвечины"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Carrion Crown.md"
 toc: false

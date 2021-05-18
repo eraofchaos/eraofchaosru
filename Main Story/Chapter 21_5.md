@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-5 Керр, король-варвар"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "Глава 21 - 5. Эра хаоса  Основной сюжет - Глава 21_5. 21-5 Керр, король-варвар"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 21_5.md"
 toc: false

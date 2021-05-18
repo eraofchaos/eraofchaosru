@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-6 Бегство за помощью"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "Глава 13 - 6. Эра хаоса  Основной сюжет - Глава 13_6. 13-6 Бегство за помощью"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 13_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-15 Ночь убийств"
 permalink: /Main Story/Chapter 6_15/
 excerpt: "Глава 6 - 15. Эра хаоса  Основной сюжет - Глава 6_15. 6-15 Ночь убийств"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 6_15.md"
 toc: false

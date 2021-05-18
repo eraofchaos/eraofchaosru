@@ -2,7 +2,7 @@
 title: "Посох антимагии"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Эра хаоса Посох антимагии. Посох антимагии"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Spell Breaker's Staff.md"
 toc: false

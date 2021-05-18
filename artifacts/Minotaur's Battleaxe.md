@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Секира минотавра"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Эра хаоса  Меч Холода - Секира минотавра. Секира, передаваемая Таурен из поколения в поколение. Компонент меча Холода."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Minotaur's Battleaxe.md"
 toc: false

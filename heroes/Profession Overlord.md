@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Overlord -  Heroes"
 permalink: /heroes/Profession Overlord/
 excerpt: "Эра хаоса Profession Overlord. Profession Overlord. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Profession Overlord"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 - 30-1  Абсолютная неподвижность"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Глава 30 - 1. Эра хаоса  Подземелье - Глава 30_1. 30-1  Абсолютная неподвижность"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 30_1.md"
 toc: false

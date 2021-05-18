@@ -2,7 +2,7 @@
 title: "Божественный трезубец души океана"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Эра хаоса Божественный трезубец души океана. Божественный трезубец души океана"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

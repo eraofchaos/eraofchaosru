@@ -2,7 +2,7 @@
 title: "Искусство единства. Талант вершины - Искусство единства"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Эра хаоса Талант вершины Искусство единства. Талант вершины Искусство единства. Искусство единства"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "The Art of Unit.md"
 toc: false

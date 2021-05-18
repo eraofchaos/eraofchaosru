@@ -2,7 +2,7 @@
 title: "Прицеливание. Талант вершины - Прицеливание"
 permalink: /PeakTalent/Aiming/
 excerpt: "Эра хаоса Талант вершины Прицеливание. Талант вершины Прицеливание. Прицеливание"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Aiming.md"
 toc: false

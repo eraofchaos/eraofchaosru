@@ -2,7 +2,7 @@
 title: "Эмблема святости - Порядок"
 permalink: /Emblem/Type Order/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Порядок. Эра хаоса Порядок"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "typeПорядок.md"
 toc: false

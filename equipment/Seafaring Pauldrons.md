@@ -2,7 +2,7 @@
 title: "Наплечники морехода"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Эра хаоса Наплечники морехода. Наплечники морехода"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Seafaring Pauldrons.md"
 toc: false

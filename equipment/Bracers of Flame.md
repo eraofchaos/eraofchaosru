@@ -2,7 +2,7 @@
 title: "Браслеты пламени"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Эра хаоса Браслеты пламени. Браслеты пламени"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Bracers of Flame.md"
 toc: false

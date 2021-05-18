@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-4 Авангард оккупантов"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Глава 11 - 4. Эра хаоса  Основной сюжет - Глава 11_4. 11-4 Авангард оккупантов"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 11_4.md"
 toc: false

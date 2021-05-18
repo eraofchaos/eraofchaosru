@@ -2,7 +2,7 @@
 title: "Злая жертва. Талант вершины - Злая жертва"
 permalink: /PeakTalent/Evil Sacrifice/
 excerpt: "Эра хаоса Талант вершины Злая жертва. Талант вершины Злая жертва. Злая жертва"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Evil Sacrifice.md"
 toc: false

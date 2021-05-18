@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 - 27-2 Гном-ремесленник"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Глава 27 - 2. Эра хаоса  Подземелье - Глава 27_2. 27-2 Гном-ремесленник"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Chapter 27_2.md"
 toc: false

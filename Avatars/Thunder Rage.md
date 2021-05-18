@@ -2,7 +2,7 @@
 title: "Аватар - Гнев грома"
 permalink: /Avatars/Thunder Rage/
 excerpt: "Эра хаоса  Гнев грома"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: ru
 ref: "Thunder Rage.md"
 toc: false
