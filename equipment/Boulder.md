@@ -2,7 +2,7 @@
 title: "Валун"
 permalink: /equipment/Boulder/
 excerpt: "Эра хаоса Валун. Валун"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Boulder.md"
 toc: false

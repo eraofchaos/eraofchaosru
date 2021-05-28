@@ -2,7 +2,7 @@
 title: "Адъютант Сиэль"
 permalink: /heroes/Adjutant Ciele/
 excerpt: "Эра хаоса  Адъютант Сиэль"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Adjutant Ciele.md"
 QR: adhero_60705

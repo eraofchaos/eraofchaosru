@@ -2,7 +2,7 @@
 title: "Духовный самоцвет"
 permalink: /equipment/Soul Gem/
 excerpt: "Эра хаоса Духовный самоцвет. Духовный самоцвет"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Soul Gem.md"
 toc: false

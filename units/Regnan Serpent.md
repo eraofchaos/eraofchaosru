@@ -3,7 +3,7 @@ title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
 excerpt: "Эра хаоса Регнанский змей. Регнанский змей Отряды. . Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
 unitID: 9904
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Регнанский змей"
 toc: true

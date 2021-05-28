@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-5 Просветление"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Глава 3 - 5. Эра хаоса  Подземелье - Глава 3_5. 3-5 Просветление"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 3_5.md"
 toc: false

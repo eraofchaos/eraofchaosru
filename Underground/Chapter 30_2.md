@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 - 30-2  Кровавый пир"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Глава 30 - 2. Эра хаоса  Подземелье - Глава 30_2. 30-2  Кровавый пир"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 30_2.md"
 toc: false

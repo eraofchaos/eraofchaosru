@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 Увеличение разрыва"
 permalink: /Main Story/Chapter 26/
 excerpt: "Глава 26. Эра хаоса  Основной сюжет - Глава 26. Увеличение разрыва"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 26.md"
 toc: false

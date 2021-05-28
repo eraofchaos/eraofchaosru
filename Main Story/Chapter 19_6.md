@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-6 Двойной центр"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Глава 19 - 6. Эра хаоса  Основной сюжет - Глава 19_6. 19-6 Двойной центр"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 19_6.md"
 toc: false

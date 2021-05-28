@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-5 Пограничные врата"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Глава 2 - 5. Эра хаоса  Основной сюжет - Глава 2_5. 2-5 Пограничные врата"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 2_5.md"
 toc: false

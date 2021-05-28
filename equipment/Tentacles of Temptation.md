@@ -2,7 +2,7 @@
 title: "Мерзкие щупальца"
 permalink: /equipment/Tentacles of Temptation/
 excerpt: "Эра хаоса Мерзкие щупальца. Мерзкие щупальца"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Tentacles of Temptation.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Артефакт - Канон мага - Плащ антимагии"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "Эра хаоса  Канон мага - Плащ антимагии. Владелец становится менее восприимчив к магическим атакам. Одно из сокровищ, описанных в каноне мага."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Recanter's Cloak.md"
 toc: false

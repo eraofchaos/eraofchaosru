@@ -2,7 +2,7 @@
 title: "VIP - VIP 17"
 permalink: /VIP/VIP 17/
 excerpt: "Эра хаоса  Система VIP. VIP 17"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "VIP 17.md"
 toc: false

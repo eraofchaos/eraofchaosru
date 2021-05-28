@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Эталонный арбалет"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Эра хаоса  Клинок Армагеддона - Эталонный арбалет. Артефакт, который носил герой Джелу до совершеннолетия. Компонент клинка Армагеддона."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Examplar Crossbow.md"
 toc: false

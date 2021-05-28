@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 Эрафия"
 permalink: /Main Story/Chapter 7/
 excerpt: "Глава 7. Эра хаоса  Основной сюжет - Глава 7. Эрафия"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 7.md"
 toc: false

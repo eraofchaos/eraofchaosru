@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Эра хаоса Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Star 3"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | ![Дьявол](/images/u/ti_daemo.jpg) | [Дьявол](/ru/units/Devil/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архидьявол  |
   | 16 | ![Регнанский змей](/images/u/ti_yurenyongshi.jpg) | [Регнанский змей](/ru/units/Regnan Serpent/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 17 | ![Кошмар](/images/u/ti_mengyanshou.jpg) | [Кошмар](/ru/units/Nightmare/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Копыто дьявола  |
-  | 18 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
+  | 18 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
   | 19 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 20 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ru/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 21 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |

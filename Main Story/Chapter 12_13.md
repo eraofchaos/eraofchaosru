@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-13 Спрятанный секрет"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Глава 12 - 13. Эра хаоса  Основной сюжет - Глава 12_13. 12-13 Спрятанный секрет"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 12_13.md"
 toc: false

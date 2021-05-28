@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 21 - 21-3 Рабы войны"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Глава 21 - 3. Эра хаоса  Подземелье - Глава 21_3. 21-3 Рабы войны"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 21_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Странное кристаллическое украшение"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Эра хаоса Странное кристаллическое украшение. Странное кристаллическое украшение"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Strange Crystal Ornament.md"
 toc: false

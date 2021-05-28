@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-15 Обезумевший зверь"
 permalink: /Main Story/Chapter 14_15/
 excerpt: "Глава 14 - 15. Эра хаоса  Основной сюжет - Глава 14_15. 14-15 Обезумевший зверь"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 14_15.md"
 toc: false

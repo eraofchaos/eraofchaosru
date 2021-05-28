@@ -2,7 +2,7 @@
 title: "Старый охотник. Талант вершины - Старый охотник"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Эра хаоса Талант вершины Старый охотник. Талант вершины Старый охотник. Старый охотник"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Old Hunter.md"
 toc: false

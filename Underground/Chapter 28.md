@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 Туннели и троглодиты"
 permalink: /Underground/Chapter 28/
 excerpt: "Глава 28 Туннели и троглодиты. Эра хаоса  Подземелье - Глава 28. Туннели и троглодиты"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 28.md"
 toc: false

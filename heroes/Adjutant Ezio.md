@@ -2,7 +2,7 @@
 title: "Адъютант Эцио"
 permalink: /heroes/Adjutant Ezio/
 excerpt: "Эра хаоса  Адъютант Эцио"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Adjutant Ezio.md"
 QR: adhero_61901

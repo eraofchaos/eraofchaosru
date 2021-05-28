@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-14 Бессмертный король"
 permalink: /Main Story/Chapter 19_14/
 excerpt: "Глава 19 - 14. Эра хаоса  Основной сюжет - Глава 19_14. 19-14 Бессмертный король"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 19_14.md"
 toc: false

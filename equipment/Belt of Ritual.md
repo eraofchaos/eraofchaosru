@@ -2,7 +2,7 @@
 title: "Пояс ритуала"
 permalink: /equipment/Belt of Ritual/
 excerpt: "Эра хаоса Пояс ритуала. Пояс ритуала"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Belt of Ritual.md"
 toc: false

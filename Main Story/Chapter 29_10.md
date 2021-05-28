@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-10. Город удачи"
 permalink: /Main Story/Chapter 29_10/
 excerpt: "Глава 29 - 10. Эра хаоса  Основной сюжет - Глава 29_10. 29-10. Город удачи"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 29_10.md"
 toc: false

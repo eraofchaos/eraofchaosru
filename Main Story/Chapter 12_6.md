@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-6 Восстановление границы"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Глава 12 - 6. Эра хаоса  Основной сюжет - Глава 12_6. 12-6 Восстановление границы"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 12_6.md"
 toc: false

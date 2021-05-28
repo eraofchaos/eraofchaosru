@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "index.md"
 toc: false
@@ -47,7 +47,7 @@ classes: wide
   | 25 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
   | 26 | ![Демон](/images/u/ti_changjiaoemo.jpg) | [Демон](/ru/units/Demon/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Стражник Инферно  |
   | 27 | ![Дендроид-страж](/images/u/ti_shuyao.jpg) | [Дендроид-страж](/ru/units/Dendroid Guard/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Дендроид-воин  |
-  | 28 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
+  | 28 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
   | 29 | ![Драконий голем](/images/u/ti_kuileilong.jpg) | [Драконий голем](/ru/units/Dragon Golem/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 30 | ![Друид](/images/u/ti_deluyi.jpg) | [Друид](/ru/units/Druid/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Великий друид  |
   | 31 | ![Дьявол](/images/u/ti_daemo.jpg) | [Дьявол](/ru/units/Devil/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архидьявол  |
@@ -69,7 +69,7 @@ classes: wide
   | 47 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 48 | ![Летучий змей](/images/u/ti_longying.jpg) | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |
   | 49 | ![Лич](/images/u/ti_wuyao.jpg) | [Лич](/ru/units/Lich/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Могучий лич  |
-  | 50 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Опытный лучник  |
+  | 50 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Опытный лучник  |
   | 51 | ![Магический корабль](/images/u/ti_reqiqiu.jpg) | [Магический корабль](/ru/units/Magic Airship/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 52 | ![Мантикора](/images/u/ti_shixie.jpg) | [Мантикора](/ru/units/Manticore/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Скорпикора  |
   | 53 | ![Медуза](/images/u/ti_meidusha.jpg) | [Медуза](/ru/units/Medusa/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Королевская медуза  |

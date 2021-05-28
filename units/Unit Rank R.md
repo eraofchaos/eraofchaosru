@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Эра хаоса Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Unit Rank R"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Гремлин](/images/u/ti_xiaoyaojing.jpg) | [Гремлин](/ru/units/Gremlin/) | Стрелковый | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 4 | ![Элементаль Моря](/images/u/ti_haiyuansu.jpg) | [Элементаль Моря](/ru/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Элементаль Приливов  |
   | 5 | ![Копейщик](/images/u/ti_jibing.jpg) | [Копейщик](/ru/units/Pikeman/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Алебардщик  |
-  | 6 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Опытный лучник  |
+  | 6 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Опытный лучник  |
   | 7 | ![Троглодит](/images/u/ti_dongxueren.jpg) | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Темный троглодит  |
   | 8 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Капитан кентавров  |
   | 9 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Гнолл-воин  |

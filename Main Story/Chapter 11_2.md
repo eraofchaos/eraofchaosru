@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-2 Одиночное сопротивление"
 permalink: /Main Story/Chapter 11_2/
 excerpt: "Глава 11 - 2. Эра хаоса  Основной сюжет - Глава 11_2. 11-2 Одиночное сопротивление"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 11_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Легкие рукавицы"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Эра хаоса Легкие рукавицы. Легкие рукавицы"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Light Gauntlets.md"
 toc: false

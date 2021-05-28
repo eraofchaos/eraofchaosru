@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Эра хаоса  Гром титана. Гром титана Легендарная священная реликвия, выкованная из сокровищ гиганта. Испускает молнию по любому врагу."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Имя: Гром титана**
 
- **Effect:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> урона Воздухом всем противникам в определенном радиусе.
+ **Effect:** Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
-  | **5** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
-  | **8** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
-  | **11** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
-  | **14** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
+  | **2** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
+  | **5** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
+  | **8** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе. | 
+  | **11** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе и снижает меткость цели на 30%. | 
+  | **14** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом всем противникам в определенном радиусе, а также дополнительный урон в 15% от макс. ОЗ и снижает меткость цели на 30%. | 
   | **17** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом противникам в большой области, а также дополнительный урон в размере 15% от их максимального здоровья. Также снижает их долю попаданий на 30% и накладывает <span style="color: #e07c44;font-size:20px">разряд</span>. | 
   | **20** | Наносит <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> урона Воздухом противникам в большой области, а также дополнительный урон в размере 15% от их максимального здоровья. Также снижает их долю попаданий на 60% и накладывает <span style="color: #e07c44;font-size:20px">разряд</span>. | 

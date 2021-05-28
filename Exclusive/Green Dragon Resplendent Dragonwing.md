@@ -2,7 +2,7 @@
 title: "Эксклюзив - Сияющие крылья (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Эра хаоса Сияющие крылья. Сияющие крылья. Эра хаоса Эксклюзив Сияющие крылья. Зеленый дракон Эксклюзив."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Green Dragon Сияющие крылья.md"
 toc: false

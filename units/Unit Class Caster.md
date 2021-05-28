@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Эра хаоса Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Unit Class Caster"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Ифрит](/images/u/ti_liehuojingling.jpg) | [Ифрит](/ru/units/Efreeti/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Султан ифритов  |
   | 6 | ![Элементаль Моря](/images/u/ti_haiyuansu.jpg) | [Элементаль Моря](/ru/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Элементаль Приливов  |
   | 7 | ![Архимаг](/images/u/ti_dafashi.jpg) | [Архимаг](/ru/units/Arch Mage/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Архимаг  |
-  | 8 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
+  | 8 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
   | 9 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 10 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |
   | 11 | ![Гигант](/images/u/ti_taitan.jpg) | [Гигант](/ru/units/Giant/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Вестник грома  |

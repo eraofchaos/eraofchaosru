@@ -3,7 +3,7 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Джинн. Джинн Отряды. Владыка джиннов. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Джинн"
 toc: true
@@ -186,7 +186,7 @@ toc: true
   ![Владыка джиннов](/images/u/tia_shendeng.jpg)
 
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Владыка джиннов
 

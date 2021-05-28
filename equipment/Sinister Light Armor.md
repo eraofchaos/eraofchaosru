@@ -2,7 +2,7 @@
 title: "Зловещая легкая броня"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Эра хаоса Зловещая легкая броня. Зловещая легкая броня"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Sinister Light Armor.md"
 toc: false

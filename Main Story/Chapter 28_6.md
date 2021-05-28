@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-6. Заброшенный рудник"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "Глава 28 - 6. Эра хаоса  Основной сюжет - Глава 28_6. 28-6. Заброшенный рудник"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 28_6.md"
 toc: false

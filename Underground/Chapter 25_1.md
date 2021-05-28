@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 - 25-1 Магический секрет"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Глава 25 - 1. Эра хаоса  Подземелье - Глава 25_1. 25-1 Магический секрет"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 25_1.md"
 toc: false

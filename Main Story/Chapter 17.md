@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 Освобождение империи"
 permalink: /Main Story/Chapter 17/
 excerpt: "Глава 17. Эра хаоса  Основной сюжет - Глава 17. Освобождение империи"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 17.md"
 toc: false

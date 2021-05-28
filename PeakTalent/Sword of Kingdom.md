@@ -2,7 +2,7 @@
 title: "Меч королевства. Талант вершины - Меч королевства"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Эра хаоса Талант вершины Меч королевства. Талант вершины Меч королевства. Меч королевства"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Sword of Kingdom.md"
 toc: false

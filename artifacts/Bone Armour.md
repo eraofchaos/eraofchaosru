@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Костяной доспех"
 permalink: /artifacts/Bone Armour/
 excerpt: "Эра хаоса  Доспех проклятого - Костяной доспех. Щит из крепких костей. Компонент доспеха проклятого."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Bone Armour.md"
 toc: false

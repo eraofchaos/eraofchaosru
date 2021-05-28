@@ -2,7 +2,7 @@
 title: "Панцирь шипастой черепахи"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Эра хаоса Панцирь шипастой черепахи. Панцирь шипастой черепахи"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Spiked Tortoise Shell.md"
 toc: false

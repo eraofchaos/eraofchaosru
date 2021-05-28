@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-10 Прошлое"
 permalink: /Main Story/Chapter 18_10/
 excerpt: "Глава 18 - 10. Эра хаоса  Основной сюжет - Глава 18_10. 18-10 Прошлое"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 18_10.md"
 toc: false

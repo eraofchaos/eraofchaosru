@@ -2,7 +2,7 @@
 title: "Стальной шлем"
 permalink: /equipment/Steel Cap/
 excerpt: "Эра хаоса Стальной шлем. Стальной шлем"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Steel Cap.md"
 toc: false

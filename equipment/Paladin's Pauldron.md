@@ -2,7 +2,7 @@
 title: "Наплечники паладина"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Эра хаоса Наплечники паладина. Наплечники паладина"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Paladin's Pauldron.md"
 toc: false

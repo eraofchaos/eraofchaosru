@@ -2,7 +2,7 @@
 title: "Мантия мага"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Эра хаоса Мантия мага. Мантия мага"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Mantle of the Magi.md"
 toc: false

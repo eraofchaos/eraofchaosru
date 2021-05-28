@@ -2,7 +2,7 @@
 title: "Адъютант Шива"
 permalink: /heroes/Adjutant Shiva/
 excerpt: "Эра хаоса  Адъютант Шива"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Adjutant Shiva.md"
 QR: adhero_60603

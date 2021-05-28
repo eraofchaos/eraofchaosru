@@ -2,7 +2,7 @@
 title: "Острый коготь Панцирного дракона"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Эра хаоса Острый коготь Панцирного дракона. Острый коготь Панцирного дракона"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

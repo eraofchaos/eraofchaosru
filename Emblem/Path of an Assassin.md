@@ -2,7 +2,7 @@
 title: "Эмблема святости - Путь ассасина"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Эра хаоса Путь ассасина. Путь ассасина. Эра хаоса Эмблема святости Путь ассасина. Эра хаоса Нейтральный Путь ассасина"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Path of an Assassin.md"
 toc: false

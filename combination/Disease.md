@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Болезнь"
 permalink: /combination/Disease/
 excerpt: "Информация о комбинации - Болезнь. Units and Heroes Formation."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Болезнь.md"
 toc: false

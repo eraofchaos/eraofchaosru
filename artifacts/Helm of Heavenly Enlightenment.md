@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз - Шлем небесного просветления"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "Эра хаоса  Ангельский союз - Шлем небесного просветления. Корона, благословленная богами. Компонент Ангельского союза."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Медаль гладиаторов. Талант вершины - Медаль гладиаторов"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Эра хаоса Талант вершины Медаль гладиаторов. Талант вершины Медаль гладиаторов. Медаль гладиаторов"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Medal of Gladiators.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-5 Печаль эльфов"
 permalink: /Main Story/Chapter 9_5/
 excerpt: "Глава 9 - 5. Эра хаоса  Основной сюжет - Глава 9_5. 9-5 Печаль эльфов"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Chapter 9_5.md"
 toc: false

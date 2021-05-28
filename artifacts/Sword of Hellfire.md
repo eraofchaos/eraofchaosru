@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Меч адского пламени"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Эра хаоса  Доспех проклятого - Меч адского пламени. Меч, наполненный темной силой. Компонент доспеха проклятого."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Sword of Hellfire.md"
 toc: false

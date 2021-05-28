@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Эра хаоса  Доспех проклятого. Доспех проклятого Предмет, выкованный из магических реликвий нежити, снижает умения врага."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: ru
 ref: "Armour of the Damned.md"
 toc: false
