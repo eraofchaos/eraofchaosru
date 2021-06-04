@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 17 - 17-5 Кровь и стража"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Глава 17 - 5. Эра хаоса  Подземелье - Глава 17_5. 17-5 Кровь и стража"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 17_5.md"
 toc: false

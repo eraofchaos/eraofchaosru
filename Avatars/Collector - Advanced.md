@@ -2,7 +2,7 @@
 title: "Аватар - Коллекционер II"
 permalink: /Avatars/Collector - Advanced/
 excerpt: "Эра хаоса  Коллекционер II"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Collector - Advanced.md"
 toc: false

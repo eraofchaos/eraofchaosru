@@ -2,7 +2,7 @@
 title: "Артефакт - Рунный камень антимагии - Наследный доспех"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Эра хаоса  Рунный камень антимагии - Наследный доспех. Ожерелье с выгравированным символом инь-ян. Компонент рунного камня антимагии."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Garniture of Interference.md"
 toc: false

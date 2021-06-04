@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Эра хаоса Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Unit Member x4"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | 14 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Мечник](/images/u/ti_shizijun.jpg) | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Крестоносец  |
   | 16 | ![Медуза](/images/u/ti_meidusha.jpg) | [Медуза](/ru/units/Medusa/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Королевская медуза  |
-  | 17 | ![Монах](/images/u/ti_senglv.jpg) | [Монах](/ru/units/Monk/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Жрец  |
+  | 17 | ![Монах](/images/u/ti_senglv.jpg) | [Монах](/ru/units/Monk/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Жрец  |
   | 18 | ![Минотавр](/images/u/ti_niutouguai.jpg) | [Минотавр](/ru/units/Minotaur/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Король минотавров  |
   | 19 | ![Магический корабль](/images/u/ti_reqiqiu.jpg) | [Магический корабль](/ru/units/Magic Airship/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

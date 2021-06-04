@@ -2,7 +2,7 @@
 title: "Полночный пульс. Талант вершины - Полночный пульс"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Эра хаоса Талант вершины Полночный пульс. Талант вершины Полночный пульс. Полночный пульс"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Midnight Pulse.md"
 toc: false

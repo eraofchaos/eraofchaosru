@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-11 Вместе с городом"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Глава 6 - 11. Эра хаоса  Основной сюжет - Глава 6_11. 6-11 Вместе с городом"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 6_11.md"
 toc: false

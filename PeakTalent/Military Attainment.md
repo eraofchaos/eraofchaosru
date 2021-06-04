@@ -2,7 +2,7 @@
 title: "Военное достижение. Талант вершины - Военное достижение"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Эра хаоса Талант вершины Военное достижение. Талант вершины Военное достижение. Военное достижение"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Military Attainment.md"
 toc: false

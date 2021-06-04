@@ -2,7 +2,7 @@
 title: "Артефакт - Доспех проклятого - Щит неупокоенных"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Эра хаоса  Доспех проклятого - Щит неупокоенных. Щит из костей нежити. Компонент доспеха проклятого."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Shield of the Yawning Dead.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Описание:** Щит из костей нежити. Компонент доспеха проклятого.
 
- **Part of Artifact:** ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Сущность артефактов](/ItemsRU/con_905/)
 

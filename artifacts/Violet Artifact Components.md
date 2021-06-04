@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Эра хаоса  List of all Violet Artifact Components . Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Violet Artifact Components.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
  | ![Меч адского пламени](/images/t/artifact_40301.png) [Меч адского пламени](/ru/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Магический урон**: 4+(LEVEL\*1.6) %<br/>**Атака героя**: 6+(LEVEL\*2.4) | Меч, наполненный темной силой. Компонент доспеха проклятого. | 
  | ![Щит неупокоенных](/images/t/artifact_40302.png) [Щит неупокоенных](/ru/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Защита героя**: 6+(LEVEL\*2.4) | Щит из костей нежити. Компонент доспеха проклятого. | 
  | ![Шлем-череп](/images/t/artifact_40303.png) [Шлем-череп](/ru/artifacts/Skull Helmet/){: .btn .btn--era4} | **Магический урон**: 4+(LEVEL\*1.6) %<br/>**Интеллект героя**: 6+(LEVEL\*2.4) | Шлем из Подземелья. Компонент доспеха проклятого. | 
- | ![Костяной доспех](/images/t/artifact_40304.png) [Костяной доспех](/ru/artifacts/Bone Armour/){: .btn .btn--era4} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Знания героя**: 6+(LEVEL\*2.4) | Щит из крепких костей. Компонент доспеха проклятого. | 
+ | ![Костяной доспех](/images/t/artifact_40304.png) [Костяной доспех](/ru/artifacts/Bone Armor/){: .btn .btn--era4} | **Здоровье отряда**: 4+(LEVEL\*1.6) %<br/>**Знания героя**: 6+(LEVEL\*2.4) | Щит из крепких костей. Компонент доспеха проклятого. | 
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/ru/artifacts/Artifacts Upgrade/)

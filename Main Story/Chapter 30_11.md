@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-11. Рогатые демоны"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Глава 30 - 11. Эра хаоса  Основной сюжет - Глава 30_11. 30-11. Рогатые демоны"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 30_11.md"
 toc: false

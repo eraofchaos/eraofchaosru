@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 Кровь Отца драконов"
 permalink: /Main Story/Chapter 27/
 excerpt: "Глава 27. Эра хаоса  Основной сюжет - Глава 27. Кровь Отца драконов"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 27.md"
 toc: false

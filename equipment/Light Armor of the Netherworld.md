@@ -2,7 +2,7 @@
 title: "Легкая броня Преисподней"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Эра хаоса Легкая броня Преисподней. Легкая броня Преисподней"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Light Armor of the Netherworld.md"
 toc: false

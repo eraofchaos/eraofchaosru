@@ -2,7 +2,7 @@
 title: "Ядро магмы"
 permalink: /equipment/Core of Magma/
 excerpt: "Эра хаоса Ядро магмы. Ядро магмы"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Core of Magma.md"
 toc: false

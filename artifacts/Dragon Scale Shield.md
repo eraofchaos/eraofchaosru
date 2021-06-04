@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Щит дракона"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Эра хаоса  Сила Отца драконов - Щит дракона. Щит, благословленный магией короля драконов. Компонент силы Отца драконов."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Dragon Scale Shield.md"
 toc: false

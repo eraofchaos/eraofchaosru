@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-3 Сила молнии"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Глава 24 - 3. Эра хаоса  Подземелье - Глава 24_3. 24-3 Сила молнии"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 24_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-9 Дождь под землей"
 permalink: /Main Story/Chapter 25_9/
 excerpt: "Глава 25 - 9. Эра хаоса  Основной сюжет - Глава 25_9. 25-9 Дождь под землей"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 25_9.md"
 toc: false

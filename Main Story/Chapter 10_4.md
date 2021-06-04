@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-4 К гробнице"
 permalink: /Main Story/Chapter 10_4/
 excerpt: "Глава 10 - 4. Эра хаоса  Основной сюжет - Глава 10_4. 10-4 К гробнице"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 10_4.md"
 toc: false

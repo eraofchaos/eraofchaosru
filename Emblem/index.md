@@ -2,7 +2,7 @@
 title: "Эмблема святости"
 permalink: /Emblem/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эмблема святости значительно усиливает отряд. Возможны разные виды и комбинации эмблем святости. Эмблема святости дает великолепные дополнительные параметры."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "index.md"
 toc: false
@@ -27,28 +27,30 @@ classes: wide
   | 5 | ![Жетон Аксо](/images/r/rune_icon_303.png) | [Жетон Аксо](/ru/Emblem/Aksoe Token/) | Нейтральный | Подходит отрядам, замедляющим врагов | 
   | 6 | ![Гордыня](/images/r/rune_icon_402.png) | [Гордыня](/ru/Emblem/Arrogance/) | Хаос | Больше всего подходит отрядам с УВС | 
   | 7 | ![Святилище Космоса](/images/r/rune_icon_307.png) | [Святилище Космоса](/ru/Emblem/Sanctuary of Kosmos/) | Порядок | Подходит оборонительным отрядам | 
-  | 8 | ![Забытая фамилия](/images/r/rune_icon_501.png) | [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
-  | 9 | ![Вина Тарнума](/images/r/rune_icon_305.png) | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/) | Нейтральный | Подходит для любых отрядов | 
-  | 10 | ![Алчность](/images/r/rune_icon_404.png) | [Алчность](/ru/Emblem/Greed/) | Хаос | Подходит оборонительным отрядам | 
-  | 11 | ![Благословение](/images/r/rune_icon_105.png) | [Благословение](/ru/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
-  | 12 | ![Зеленый пророк](/images/r/rune_icon_204.png) | [Зеленый пророк](/ru/Emblem/Green Prophet/) | Добро | Подходит для любых отрядов | 
-  | 13 | ![Разбитое пророчество](/images/r/rune_icon_503.png) | [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
-  | 14 | ![Наследие Айронфиста](/images/r/rune_icon_103.png) | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
-  | 15 | ![Стена познания](/images/r/rune_icon_202.png) | [Стена познания](/ru/Emblem/Wall of Knowledge/) | Добро | Подходит для любых отрядов | 
-  | 16 | ![Суд отцов](/images/r/rune_icon_301.png) | [Суд отцов](/ru/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
-  | 17 | ![Древний огонь](/images/r/rune_icon_101.png) | [Древний огонь](/ru/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
-  | 18 | ![Путь ассасина](/images/r/rune_icon_107.png) | [Путь ассасина](/ru/Emblem/Path of an Assassin/) | Нейтральный | Больше всего подходит отрядам с УВС | 
-  | 19 | ![Дыхание дракона](/images/r/rune_icon_505.png) | [Дыхание дракона](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
-  | 20 | ![Снаряжение времени](/images/r/rune_icon_205.png) | [Снаряжение времени](/ru/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
-  | 21 | ![Ключ меча и магии](/images/r/rune_icon_302.png) | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) | Нейтральный | Подходит отрядам, выз. у врагов кровотеч. | 
-  | 22 | ![Ревность](/images/r/rune_icon_401.png) | [Ревность](/ru/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
-  | 23 | ![Тайна Неувядающего](/images/r/rune_icon_104.png) | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
-  | 24 | ![Ангел-хранитель](/images/r/rune_icon_203.png) | [Ангел-хранитель](/ru/Emblem/Guardian Angel/) | Добро | Больше всего подходит отрядам с УВС | 
-  | 25 | ![Королевская беда](/images/r/rune_icon_502.png) | [Королевская беда](/ru/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
-  | 26 | ![Ядро мировой сети](/images/r/rune_icon_304.png) | [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) | Нейтральный | Подходит для любых отрядов | 
-  | 27 | ![Гнев](/images/r/rune_icon_403.png) | [Гнев](/ru/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 
-  | 28 | ![Крылья грифона](/images/r/rune_icon_102.png) | [Крылья грифона](/ru/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 
-  | 29 | ![Ум](/images/r/rune_icon_201.png) | [Ум](/ru/Emblem/Witness/) | Добро | Больше всего подходит отрядам с УВС | 
+  | 8 | ![Весна бессмертия](/images/r/rune_icon_206.png) | [Весна бессмертия](/ru/Emblem/Spring of Immortality/) | Добро | null | 
+  | 9 | ![Забытая фамилия](/images/r/rune_icon_501.png) | [Забытая фамилия](/ru/Emblem/Forgotten Autonym/) | Злой | Подходит для любых отрядов | 
+  | 10 | ![Вина Тарнума](/images/r/rune_icon_305.png) | [Вина Тарнума](/ru/Emblem/Tarnum's Culpability/) | Нейтральный | Подходит для любых отрядов | 
+  | 11 | ![Алчность](/images/r/rune_icon_404.png) | [Алчность](/ru/Emblem/Greed/) | Хаос | Подходит оборонительным отрядам | 
+  | 12 | ![Благословение](/images/r/rune_icon_105.png) | [Благословение](/ru/Emblem/Queen's Blessing/) | Порядок | Подходит оборонительным отрядам | 
+  | 13 | ![Зеленый пророк](/images/r/rune_icon_204.png) | [Зеленый пророк](/ru/Emblem/Green Prophet/) | Добро | Подходит для любых отрядов | 
+  | 14 | ![Разбитое пророчество](/images/r/rune_icon_503.png) | [Разбитое пророчество](/ru/Emblem/Broken Prophecy/) | Злой | Больше всего подходит отрядам из 9 существ | 
+  | 15 | ![Наследие Айронфиста](/images/r/rune_icon_103.png) | [Наследие Айронфиста](/ru/Emblem/Ironfist's Legacy/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 16 | ![Стена познания](/images/r/rune_icon_202.png) | [Стена познания](/ru/Emblem/Wall of Knowledge/) | Добро | Подходит для любых отрядов | 
+  | 17 | ![Суд отцов](/images/r/rune_icon_301.png) | [Суд отцов](/ru/Emblem/The Judgment of Fathers/) | Нейтральный | Подходит отрядам, оглушающим врагов | 
+  | 18 | ![Древний огонь](/images/r/rune_icon_101.png) | [Древний огонь](/ru/Emblem/Ancient Fire/) | Порядок | Подходит для любых отрядов | 
+  | 19 | ![Путь ассасина](/images/r/rune_icon_107.png) | [Путь ассасина](/ru/Emblem/Path of an Assassin/) | Нейтральный | Больше всего подходит отрядам с УВС | 
+  | 20 | ![Дыхание дракона](/images/r/rune_icon_505.png) | [Дыхание дракона](/ru/Emblem/Dragon King's Breath/) | Злой | Подходит оборонительным отрядам | 
+  | 21 | ![Цена верности](/images/r/rune_icon_106.png) | [Цена верности](/ru/Emblem/The Price of Loyalty/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 22 | ![Снаряжение времени](/images/r/rune_icon_205.png) | [Снаряжение времени](/ru/Emblem/Gear of Time/) | Добро | Подходит оборонительным отрядам | 
+  | 23 | ![Ключ меча и магии](/images/r/rune_icon_302.png) | [Ключ меча и магии](/ru/Emblem/Stone Key to the Gates/) | Нейтральный | Подходит отрядам, выз. у врагов кровотеч. | 
+  | 24 | ![Ревность](/images/r/rune_icon_401.png) | [Ревность](/ru/Emblem/Jealousy/) | Хаос | Больше всего подходит отрядам с УВС | 
+  | 25 | ![Тайна Неувядающего](/images/r/rune_icon_104.png) | [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) | Порядок | Подходит для любых отрядов | 
+  | 26 | ![Ангел-хранитель](/images/r/rune_icon_203.png) | [Ангел-хранитель](/ru/Emblem/Guardian Angel/) | Добро | Больше всего подходит отрядам с УВС | 
+  | 27 | ![Королевская беда](/images/r/rune_icon_502.png) | [Королевская беда](/ru/Emblem/King's Calamity/) | Злой | Подходит отрядам, заст. врагов гореть | 
+  | 28 | ![Ядро мировой сети](/images/r/rune_icon_304.png) | [Ядро мировой сети](/ru/Emblem/Core of the Global Network/) | Нейтральный | Подходит для любых отрядов | 
+  | 29 | ![Гнев](/images/r/rune_icon_403.png) | [Гнев](/ru/Emblem/Anger/) | Хаос | Подходит для любых отрядов | 
+  | 30 | ![Крылья грифона](/images/r/rune_icon_102.png) | [Крылья грифона](/ru/Emblem/Griffin Wings/) | Порядок | Больше всего подходит отрядам с УВС | 
+  | 31 | ![Ум](/images/r/rune_icon_201.png) | [Ум](/ru/Emblem/Witness/) | Добро | Больше всего подходит отрядам с УВС | 
 
 ## Правила
 

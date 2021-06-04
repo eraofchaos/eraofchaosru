@@ -2,7 +2,7 @@
 title: "Мощь владыки"
 permalink: /equipment/Might of Lords/
 excerpt: "Эра хаоса Мощь владыки. Мощь владыки"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Might of Lords.md"
 toc: false

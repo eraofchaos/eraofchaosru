@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 Сделка с демонами"
 permalink: /Underground/Chapter 29/
 excerpt: "Глава 29 Сделка с демонами. Эра хаоса  Подземелье - Глава 29. Сделка с демонами"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 29.md"
 toc: false

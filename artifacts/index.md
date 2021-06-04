@@ -2,7 +2,7 @@
 title: "Артефакт"
 permalink: /artifacts/
 excerpt: "Эра хаоса  List of all Артефакт. Собирайте артефакты, чтобы улучшить характеристики героев и открыть новые умения."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Источник чародея](/images/t/icon_artifact_21.png) [Источник чародея](/ru/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Магический предмет, созданный для борьбы с демонами. Повышает скорость восстановления очков магии. |
   | 4   | ![Кольцо мага](/images/t/icon_artifact_22.png) [Кольцо мага](/ru/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Магическое кольцо, выкованное из заколдованных предметов. Увеличивает урон от заклинаний. |
   | 5   | ![Рунный камень антимагии](/images/t/icon_artifact_23.png) [Рунный камень антимагии](/ru/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Рунный камень антимагии, выкованный из заколдованных предметов. Противостоит урону от заклинаний. |
-  | 6   | ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | Предмет, выкованный из магических реликвий нежити, снижает умения врага. |
+  | 6   | ![Доспех проклятого](/images/t/icon_artifact_30.png) [Доспех проклятого](/ru/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | Предмет, выкованный из магических реликвий нежити, снижает умения врага. |
   | 7   | ![Топор ярости](/images/t/icon_artifact_31.png) [Топор ярости](/ru/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | Оружие, выкованное из священных реликвий разных рас. Может усиливать умения ближнего боя. |
   | 8   | ![Лук снайпера](/images/t/icon_artifact_10.png) [Лук снайпера](/ru/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Священная реликвия, выкованная эльфами из сокровищ. Повышает силу дальнобойной атаки. |
   | 9   | ![Накидка Мертвого короля](/images/t/icon_artifact_32.png) [Накидка Мертвого короля](/ru/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Священная реликвия, созданная великим королем нежити, чтобы скрывать свое лицо. Призывает армию скелетов. |
@@ -31,6 +31,7 @@ classes: wide
   | 16   | ![Клинок Армагеддона](/images/t/icon_artifact_44.png) [Клинок Армагеддона](/ru/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | 60 | Обреченное пламя сжигает души |
   | 17   | ![Ангельский союз](/images/t/icon_artifact_41.png) [Ангельский союз](/ru/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | 60 | Священная реликвия, выкованная из ценных предметов силой ангелов. Увеличивает силу ваших союзников. |
   | 18   | ![Золотое яблоко](/images/t/icon_artifact_49.png) [Золотое яблоко](/ru/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | 35 | Один из даров Первой Цивилизации, позволяющий по легенде изменять все сущее в мире. |
+  | 19   | [Перо государя](/ru/artifacts/Envoy's Pen/) | 4 | 1 | Символ власти и могущества. Величайший дар победителя. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/ru/artifacts/Artifacts Upgrade/)

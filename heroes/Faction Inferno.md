@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Heroes"
 permalink: /heroes/Faction Inferno/
 excerpt: "Эра хаоса Faction Inferno. Faction Inferno. List of Faction  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Faction Inferno"
 toc: false
@@ -15,4 +15,4 @@ classes: wide
   | 1 | ![Раска](/images/h/h_Rashka.jpg) | [Раска](/ru/heroes/Rashka/) | Инферно | Одержимый | **SR** |  Повелители Огня | R |
   | 2 | ![Ксерон](/images/h/h_Xeron.jpg) | [Ксерон](/ru/heroes/Xeron/) | Инферно | Одержимый | **SSR** |  Архидьявол | SSR |
   | 3 | ![Зидар](/images/h/h_Zydar.jpg) | [Зидар](/ru/heroes/Zydar/) | Инферно | Еретик | **R** |  Призыв Инферно | R |
-  | 4 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  призраки Инферно | R+ |
+  | 4 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  Призрак Инферно | R+ |

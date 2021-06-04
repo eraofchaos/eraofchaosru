@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 Единым фронтом"
 permalink: /Main Story/Chapter 15/
 excerpt: "Глава 15. Эра хаоса  Основной сюжет - Глава 15. Единым фронтом"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 15.md"
 toc: false

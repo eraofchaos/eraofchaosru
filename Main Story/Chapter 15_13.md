@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-13 Боевой алтарь"
 permalink: /Main Story/Chapter 15_13/
 excerpt: "Глава 15 - 13. Эра хаоса  Основной сюжет - Глава 15_13. 15-13 Боевой алтарь"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 15_13.md"
 toc: false

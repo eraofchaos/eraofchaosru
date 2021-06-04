@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-6 Зверская встреча"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Глава 14 - 6. Эра хаоса  Основной сюжет - Глава 14_6. 14-6 Зверская встреча"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 14_6.md"
 toc: false

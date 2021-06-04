@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 - 29-3  Бесстрашный штурм"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Глава 29 - 3. Эра хаоса  Подземелье - Глава 29_3. 29-3  Бесстрашный штурм"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 29_3.md"
 toc: false

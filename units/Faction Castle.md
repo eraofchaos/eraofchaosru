@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Эра хаоса Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Faction Castle"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Опытный лучник  |
   | 3 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
   | 4 | ![Мечник](/images/u/ti_shizijun.jpg) | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Крестоносец  |
-  | 5 | ![Монах](/images/u/ti_senglv.jpg) | [Монах](/ru/units/Monk/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Жрец  |
+  | 5 | ![Монах](/images/u/ti_senglv.jpg) | [Монах](/ru/units/Monk/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Жрец  |
   | 6 | ![Всадники](/images/u/ti_qishi.jpg) | [Всадники](/ru/units/Cavalier/) | Штурм | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Рыцари-чемпионы  |
   | 7 | ![Паладин](/images/u/ti_shengqishi.jpg) | [Паладин](/ru/units/Paladin/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Высший паладин  |
   | 8 | ![Ангел](/images/u/ti_datianshi.jpg) | [Ангел](/ru/units/Angel/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архангел  |

@@ -2,7 +2,7 @@
 title: "Обучение стрельбе. Талант вершины - Обучение стрельбе"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Эра хаоса Талант вершины Обучение стрельбе. Талант вершины Обучение стрельбе. Обучение стрельбе"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Gunnery Training.md"
 toc: false

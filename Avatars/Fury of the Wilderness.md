@@ -2,7 +2,7 @@
 title: "Аватар - Ярость дебрей"
 permalink: /Avatars/Fury of the Wilderness/
 excerpt: "Эра хаоса  Ярость дебрей"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Fury of the Wilderness.md"
 toc: false

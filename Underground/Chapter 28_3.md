@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 - 28-3  Жажда полета"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Глава 28 - 3. Эра хаоса  Подземелье - Глава 28_3. 28-3  Жажда полета"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 28_3.md"
 toc: false

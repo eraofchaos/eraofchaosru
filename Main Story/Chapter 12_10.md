@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-10 Убежище"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "Глава 12 - 10. Эра хаоса  Основной сюжет - Глава 12_10. 12-10 Убежище"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 12_10.md"
 toc: false

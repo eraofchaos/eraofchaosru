@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 - 11-1 Безопасный путь"
 permalink: /Underground/Chapter 11_1/
 excerpt: "Глава 11 - 1. Эра хаоса  Подземелье - Глава 11_1. 11-1 Безопасный путь"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 11_1.md"
 toc: false

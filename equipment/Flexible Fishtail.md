@@ -2,7 +2,7 @@
 title: "Гибкий рыбий хвост"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Эра хаоса Гибкий рыбий хвост. Гибкий рыбий хвост"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Flexible Fishtail.md"
 toc: false

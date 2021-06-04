@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-7 Волшебный девушка"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Глава 20 - 7. Эра хаоса  Основной сюжет - Глава 20_7. 20-7 Волшебный девушка"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 20_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-12. Заброшенное святилище зла"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "Глава 28 - 12. Эра хаоса  Основной сюжет - Глава 28_12. 28-12. Заброшенное святилище зла"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 28_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Венец стужи"
 permalink: /equipment/Frigid Helm/
 excerpt: "Эра хаоса Венец стужи. Венец стужи"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Frigid Helm.md"
 toc: false

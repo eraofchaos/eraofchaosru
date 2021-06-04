@@ -2,7 +2,7 @@
 title: "Подкова пепла"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Эра хаоса Подкова пепла. Подкова пепла"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Ash Horseshoe.md"
 toc: false

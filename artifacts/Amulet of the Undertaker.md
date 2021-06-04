@@ -2,7 +2,7 @@
 title: "Артефакт - Накидка Мертвого короля - Амулет некроманта"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "Эра хаоса  Накидка Мертвого короля - Амулет некроманта. Амулет, который носил лич, чтобы защитить себя. Компонент накидки Мертвого короля."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Amulet of the Undertaker.md"
 toc: false

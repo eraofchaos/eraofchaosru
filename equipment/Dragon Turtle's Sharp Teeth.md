@@ -2,7 +2,7 @@
 title: "Острые зубы Панцирного дракона"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Эра хаоса Острые зубы Панцирного дракона. Острые зубы Панцирного дракона"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-11 Каменная маска"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Глава 16 - 11. Эра хаоса  Основной сюжет - Глава 16_11. 16-11 Каменная маска"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 16_11.md"
 toc: false

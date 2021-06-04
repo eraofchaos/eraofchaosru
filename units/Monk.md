@@ -3,7 +3,7 @@ title: "Монах"
 permalink: /units/Monk/
 excerpt: "Эра хаоса Монах. Монах Отряды. Жрец. Эра хаоса Монахи преданны своей вере. Они прославились благодаря своим благословляющим заклинаниям, которыми защищают братьев по оружию, но и в бой они вступают без тени сомнения."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Монах"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Имя:** [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон таинственного пения](/ItemsRU/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Весна бессмертия](/ru/Emblem/Spring of Immortality/) (Добро)
 
 ## Информация о комбинации
 

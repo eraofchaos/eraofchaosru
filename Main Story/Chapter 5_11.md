@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-11 Нисхождение ангела"
 permalink: /Main Story/Chapter 5_11/
 excerpt: "Глава 5 - 11. Эра хаоса  Основной сюжет - Глава 5_11. 5-11 Нисхождение ангела"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 5_11.md"
 toc: false

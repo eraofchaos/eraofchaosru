@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Элементаль Моря Эксклюзив."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Sea Elemental Таинственное пение.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Заряд
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

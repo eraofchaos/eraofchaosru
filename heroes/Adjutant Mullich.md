@@ -2,7 +2,7 @@
 title: "Адъютант Мюллих"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "Эра хаоса  Адъютант Мюллих"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Adjutant Mullich.md"
 QR: adhero_60101

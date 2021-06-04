@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-10 Грибы"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Глава 25 - 10. Эра хаоса  Основной сюжет - Глава 25_10. 25-10 Грибы"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 25_10.md"
 toc: false

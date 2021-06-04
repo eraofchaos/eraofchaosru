@@ -3,7 +3,7 @@ title: "Вершитель"
 permalink: /units/Judicator/
 excerpt: "Эра хаоса Вершитель. Вершитель Отряды. null. Эра хаоса Вершители из Эрафии поклоняются священному свету. Эти женщины обладают особым даром и посвящают жизнь тому, чтобы нести свет и тепло нуждающимся."
 unitID: 109
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Вершитель"
 toc: true
@@ -89,6 +89,7 @@ toc: true
 
 * [Тайна Неувядающего](/ru/Emblem/Everlasting Secret/) (Порядок)
 * [Гнев](/ru/Emblem/Anger/) (Хаос)
+* [Весна бессмертия](/ru/Emblem/Spring of Immortality/) (Добро)
 
 ## Информация о комбинации
 

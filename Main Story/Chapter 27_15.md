@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-15 Объединение Нигона"
 permalink: /Main Story/Chapter 27_15/
 excerpt: "Глава 27 - 15. Эра хаоса  Основной сюжет - Глава 27_15. 27-15 Объединение Нигона"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 27_15.md"
 toc: false

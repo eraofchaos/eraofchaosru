@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "index.md"
 QR: heroes
@@ -43,7 +43,7 @@ classes: wide
   | 24 | ![Монер](/images/h/h_Monere.jpg) | [Монер](/ru/heroes/Monere/) | Гармония | Путешественник | **SR** |  Элементаль Мысли | R |
   | 25 | ![Мутара](/images/h/h_Mutare.jpg) | [Мутара](/ru/heroes/Mutare/) | Подземелье | Владыка Подземелья | **R** |  Подземелье безумия | R |
   | 26 | ![Мюллих](/images/h/h_Mullich.jpg) | [Мюллих](/ru/heroes/Mullich/) | Замок | Рыцарь | **R** |  Штурмовая атака | R+ |
-  | 27 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  призраки Инферно | R+ |
+  | 27 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  Призрак Инферно | R+ |
   | 28 | ![Питер Ли](/images/h/h_PeterLee.jpg) | [Питер Ли](/ru/heroes/Peter Lee/) | Убежище | Пират | **SR+** |  Поднятый парус | R+ |
   | 29 | ![Раска](/images/h/h_Rashka.jpg) | [Раска](/ru/heroes/Rashka/) | Инферно | Одержимый | **SR** |  Повелители Огня | R |
   | 30 | ![Риланд](/images/h/h_Ryland.jpg) | [Риланд](/ru/heroes/Ryland/) | Бастион | Лесничий | **SR** |  Дендроид-страж | R |

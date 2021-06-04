@@ -2,7 +2,7 @@
 title: "Укрепленный железный нагрудник"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Эра хаоса Укрепленный железный нагрудник. Укрепленный железный нагрудник"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Hardened Iron Chest Armor.md"
 toc: false

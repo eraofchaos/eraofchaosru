@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Наездник на волке Эксклюзив."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Wolf Rider Копье рыцаря.md"
 toc: false

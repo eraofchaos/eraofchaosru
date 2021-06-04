@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-1 Видение бога"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "Глава 13 - 1. Эра хаоса  Основной сюжет - Глава 13_1. 13-1 Видение бога"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 13_1.md"
 toc: false

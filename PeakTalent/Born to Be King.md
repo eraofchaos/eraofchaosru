@@ -2,7 +2,7 @@
 title: "Рожденный быть королем. Талант вершины - Рожденный быть королем"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Эра хаоса Талант вершины Рожденный быть королем. Талант вершины Рожденный быть королем. Рожденный быть королем"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Born to Be King.md"
 toc: false
@@ -30,6 +30,13 @@ sidebar:
   | 1 | ![Меч славы](/images/pt/talent_4201.png) | [Меч славы](/ru/PeakTalent/Sword of Glory/) | Слава принадлежит бойцам и опытным гладиаторам. |
   | 2 | ![Щит славы](/images/pt/talent_4202.png) | [Щит славы](/ru/PeakTalent/Shield of Glory/) | Слава принадлежит гладиаторам, способным выстоять во всех атаках. |
   | 3 | ![Медаль славы](/images/pt/talent_4203.png) | [Медаль славы](/ru/PeakTalent/Medal of Glory/) | Слава принадлежит бесстрашным гладиаторам. |
+
+
+  | Nr | Icon | Имя | Описание |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Меч владык](/images/pt/talent_4301.png) | [Меч владык](/ru/PeakTalent/Sword of Lords/) | Победа принадлежит бойцам и опытным владыкам. |
+  | 2 | ![Щит владык](/images/pt/talent_4302.png) | [Щит владык](/ru/PeakTalent/Shield of Lords/) | Победа принадлежит владыкам, способным выстоять во всех атаках. |
+  | 3 | ![Медаль владык](/images/pt/talent_4303.png) | [Медаль владык](/ru/PeakTalent/Medal of Lords/) | Победа принадлежит бесстрашным владыкам. |
 
 
   | Nr | Icon | Имя | Описание |

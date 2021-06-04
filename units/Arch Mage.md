@@ -3,7 +3,7 @@ title: "Архимаг"
 permalink: /units/Arch Mage/
 excerpt: "Эра хаоса Архимаг. Архимаг Отряды. Архимаг. Эра хаоса Званием мага наделяют только самых могучих заклинателей. Тот, кто заручился их поддержкой на поле боя, получает огромное волшебное преимущество."
 unitID: 604
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Архимаг"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">При обычной атаке маги получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к собственной АТК. Эффект суммируется до 20 раз. Суммирование сохраняется, если цель не меняется. Оно будет сброшено при выборе новой цели.</span><span style="color: black">
 
 ### Обычное умение 1 : Ураган
- **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который подбирает 1 случайный вражеский отряд в заднем ряду, из-за чего тот не может атаковать и использовать умения, и получают +100% к сопротивлению урона. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Маги призывают смерч, который поднимает в воздух 1 случайный вражеский отряд в заднем ряду, в результате чего он не может атаковать и использовать умения, а его сопротивление урону снижается на 20%. Смерч применяет <span style="color: #48b946;font-size:20px">разряд</span><span style="color: black"><span style="color: #645252;font-size:20px"> к выбранному отряду. Смерч и разряд длятся </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> сек. Задним рядом считаются вражеские отряды, стоящие в конце каждой линии.</span><span style="color: black">
 
 ### Обычное умение 2 : Потеря энергии
  **Описание:** <span style="color: #645252;font-size:20px">Когда маги на поле боя, герои получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> от скорости восстановления заклинаний. Если союзный герой использует заклинание Воздуха, маги восстанавливают ему 2 ед. маны.</span><span style="color: black">

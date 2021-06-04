@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Эра хаоса  Меч Холода. Меч Холода Огромный ледник разрушает его родной город"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Sword of Frost.md"
 toc: false

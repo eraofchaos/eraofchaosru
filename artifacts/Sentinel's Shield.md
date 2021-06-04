@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Щит часового"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Эра хаоса  Гром титана - Щит часового. Щит, благословленный святой силой. Компонент грома титана."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Sentinel's Shield.md"
 toc: false

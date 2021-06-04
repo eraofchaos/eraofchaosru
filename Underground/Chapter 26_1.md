@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 26 - 26-1 Гарпия"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Глава 26 - 1. Эра хаоса  Подземелье - Глава 26_1. 26-1 Гарпия"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 26_1.md"
 toc: false

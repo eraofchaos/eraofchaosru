@@ -2,7 +2,7 @@
 title: "Аватар - Правитель пустоты"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Эра хаоса  Правитель пустоты"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Ruler of Void.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Железные наплечники"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Эра хаоса Железные наплечники. Железные наплечники"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Iron Pauldrons.md"
 toc: false

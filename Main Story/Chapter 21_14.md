@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-14 Древний обычай"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Глава 21 - 14. Эра хаоса  Основной сюжет - Глава 21_14. 21-14 Древний обычай"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 21_14.md"
 toc: false

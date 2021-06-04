@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-11 Талант к магии"
 permalink: /Main Story/Chapter 19_11/
 excerpt: "Глава 19 - 11. Эра хаоса  Основной сюжет - Глава 19_11. 19-11 Талант к магии"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 19_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Железный лорд. Талант вершины - Железный лорд"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Эра хаоса Талант вершины Железный лорд. Талант вершины Железный лорд. Железный лорд"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Iron Lord.md"
 toc: false

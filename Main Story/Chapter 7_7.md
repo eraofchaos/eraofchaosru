@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-7 Вставай"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Глава 7 - 7. Эра хаоса  Основной сюжет - Глава 7_7. 7-7 Вставай"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 7_7.md"
 toc: false

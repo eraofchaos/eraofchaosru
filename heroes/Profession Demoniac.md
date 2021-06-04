@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Demoniac -  Heroes"
 permalink: /heroes/Profession Demoniac/
 excerpt: "Эра хаоса Profession Demoniac. Profession Demoniac. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Profession Demoniac"
 toc: false
@@ -14,4 +14,4 @@ classes: wide
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Раска](/images/h/h_Rashka.jpg) | [Раска](/ru/heroes/Rashka/) | Инферно | Одержимый | **SR** |  Повелители Огня | R |
   | 2 | ![Ксерон](/images/h/h_Xeron.jpg) | [Ксерон](/ru/heroes/Xeron/) | Инферно | Одержимый | **SSR** |  Архидьявол | SSR |
-  | 3 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  призраки Инферно | R+ |
+  | 3 | ![Нимусса](/images/h/h_Nymus.jpg) | [Нимусса](/ru/heroes/Nymus/) | Инферно | Одержимый | **SR** |  Призрак Инферно | R+ |

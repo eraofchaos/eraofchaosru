@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-13 Легенды Нигона"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Глава 25 - 13. Эра хаоса  Основной сюжет - Глава 25_13. 25-13 Легенды Нигона"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 25_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-8 Прелюдия к войне"
 permalink: /Main Story/Chapter 15_8/
 excerpt: "Глава 15 - 8. Эра хаоса  Основной сюжет - Глава 15_8. 15-8 Прелюдия к войне"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: ru
 ref: "Chapter 15_8.md"
 toc: false
