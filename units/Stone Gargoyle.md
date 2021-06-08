@@ -3,7 +3,7 @@ title: "Каменная горгулья"
 permalink: /units/Stone Gargoyle/
 excerpt: "Эра хаоса Каменная горгулья. Каменная горгулья Отряды. . Эра хаоса Эти демонические скульптуры охраняют усадьбы магов. В бою они любят дразнить врагов."
 unitID: 602
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Каменная горгулья"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Бес
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 

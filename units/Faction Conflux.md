@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Эра хаоса Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Faction Conflux"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Элементаль Магии  |
+  | 1 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Элементаль Магии  |
   | 2 | ![Жар-птица](/images/u/ti_fenghuang.jpg) | [Жар-птица](/ru/units/Firebird/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Феникс  |
   | 3 | ![Ледяной демон](/images/u/ti_bingmo.jpg) | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 4 | ![Лепрекон](/images/u/ti_conglinyaojing.jpg) | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |

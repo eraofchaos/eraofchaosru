@@ -2,7 +2,7 @@
 title: "Адъютант Мефала"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Эра хаоса  Адъютант Мефала"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Adjutant Mephala.md"
 QR: adhero_60302

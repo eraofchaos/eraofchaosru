@@ -2,7 +2,7 @@
 title: "Аватар - Тайны сфинкса"
 permalink: /Avatars/Sphinx's Secrets/
 excerpt: "Эра хаоса  Тайны сфинкса"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Sphinx's Secrets.md"
 toc: false

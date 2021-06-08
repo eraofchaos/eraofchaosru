@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 Телесное наказание"
 permalink: /Underground/Chapter 12/
 excerpt: "Глава 12 Телесное наказание. Эра хаоса  Подземелье - Глава 12. Телесное наказание"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 12.md"
 toc: false

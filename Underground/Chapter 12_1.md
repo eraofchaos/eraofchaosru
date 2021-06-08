@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 - 12-1 Армии на марше"
 permalink: /Underground/Chapter 12_1/
 excerpt: "Глава 12 - 1. Эра хаоса  Подземелье - Глава 12_1. 12-1 Армии на марше"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 12_1.md"
 toc: false

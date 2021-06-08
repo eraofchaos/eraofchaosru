@@ -2,7 +2,7 @@
 title: "Холодный зубец"
 permalink: /equipment/Bleak Barb/
 excerpt: "Эра хаоса Холодный зубец. Холодный зубец"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Bleak Barb.md"
 toc: false

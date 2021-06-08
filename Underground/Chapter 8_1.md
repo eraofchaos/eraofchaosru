@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 - 8-1 Разработка стратегии"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Глава 8 - 1. Эра хаоса  Подземелье - Глава 8_1. 8-1 Разработка стратегии"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 8_1.md"
 toc: false

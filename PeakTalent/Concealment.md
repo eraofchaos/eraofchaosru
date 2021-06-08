@@ -2,7 +2,7 @@
 title: "Сокрытие. Талант вершины - Сокрытие"
 permalink: /PeakTalent/Concealment/
 excerpt: "Эра хаоса Талант вершины Сокрытие. Талант вершины Сокрытие. Сокрытие"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Concealment.md"
 toc: false

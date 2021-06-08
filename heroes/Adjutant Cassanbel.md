@@ -2,7 +2,7 @@
 title: "Адъютант Кассанбель"
 permalink: /heroes/Adjutant Cassanbel/
 excerpt: "Эра хаоса  Адъютант Кассанбель"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Adjutant Cassanbel.md"
 QR: adhero_61701

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-1 Древняя душа"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "Глава 16 - 1. Эра хаоса  Основной сюжет - Глава 16_1. 16-1 Древняя душа"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 16_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "index.md"
 toc: false
@@ -40,7 +40,7 @@ classes: wide
   | 27 | ![Гнев берсерка](/images/a/avatarFrame_73.png) | [Гнев берсерка](/ru/Avatars/Berserker Rage/) | + | Рамка аватара «Гнев берсерка» |
   | 28 | ![Гнев грома](/images/a/avatarFrame_57.png) | [Гнев грома](/ru/Avatars/Thunder Rage/) | + | Рамка аватара «Гнев грома» |
   | 29 | ![Господство тьмы](/images/a/avatarFrame_34.png) | [Господство тьмы](/ru/Avatars/Darkness Dominance/) | + | Рамка аватара «Господство тьмы» |
-  | 30 |  | [Демоны ада](/ru/Avatars/Inferno Demon/) | - | Рамка аватара «Демоны ада» |
+  | 30 |  | [Демоны ада](/ru/Avatars/Inferno Demon/) | + | Рамка аватара «Демоны ада» |
   | 31 | ![Душа дракона](/images/a/avatarFrame_52.png) | [Душа дракона](/ru/Avatars/Dragon Soul/) | + | Рамка аватара «Душа дракона» |
   | 32 | ![Душа земли](/images/a/avatarFrame_53.png) | [Душа земли](/ru/Avatars/Soul of Earth/) | - | Рамка аватара «Душа земли» |
   | 33 | ![Ежегодное празднование](/images/a/avatarFrame_65.png) | [Ежегодное празднование](/ru/Avatars/Anniversary Celebration/) | + | Рамка аватара в честь празднования годовщины |

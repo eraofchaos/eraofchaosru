@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 16 - 16-3 Плоть и кровь"
 permalink: /Underground/Chapter 16_3/
 excerpt: "Глава 16 - 3. Эра хаоса  Подземелье - Глава 16_3. 16-3 Плоть и кровь"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 16_3.md"
 toc: false

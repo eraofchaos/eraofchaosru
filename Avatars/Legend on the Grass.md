@@ -2,7 +2,7 @@
 title: "Аватар - Легенда на траве"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "Эра хаоса  Легенда на траве"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Legend on the Grass.md"
 toc: false

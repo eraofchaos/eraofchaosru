@@ -2,7 +2,7 @@
 title: "Система VIP"
 permalink: /VIP/
 excerpt: "Эра хаоса  Система VIP - Вы получите несколько постоянных бонусов!"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "index.md"
 toc: false

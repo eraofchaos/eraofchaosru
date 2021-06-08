@@ -2,7 +2,7 @@
 title: "Секира горгоны"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Эра хаоса Секира горгоны. Секира горгоны"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Gorgon Battle Axe.md"
 toc: false

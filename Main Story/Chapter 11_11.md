@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-11 Туманные земли"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Глава 11 - 11. Эра хаоса  Основной сюжет - Глава 11_11. 11-11 Туманные земли"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 11_11.md"
 toc: false

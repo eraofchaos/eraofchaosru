@@ -2,7 +2,7 @@
 title: "Аватар - Демоны ада"
 permalink: /Avatars/Inferno Demon/
 excerpt: "Эра хаоса  Демоны ада"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Inferno Demon.md"
 toc: false
@@ -14,5 +14,5 @@ classes: wide
 
  **Tips:** Выдается за участие в событии 
 
- **Is available:**  - 
+ **Is available:**  + 
 

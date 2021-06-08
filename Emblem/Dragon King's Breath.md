@@ -2,7 +2,7 @@
 title: "Эмблема святости - Дыхание дракона"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Эра хаоса Дыхание дракона. Дыхание дракона. Эра хаоса Эмблема святости Дыхание дракона. Эра хаоса Злой Дыхание дракона"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Dragon King's Breath.md"
 toc: false

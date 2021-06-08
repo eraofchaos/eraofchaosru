@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-11 Красные и черные"
 permalink: /Main Story/Chapter 22_11/
 excerpt: "Глава 22 - 11. Эра хаоса  Основной сюжет - Глава 22_11. 22-11 Красные и черные"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 22_11.md"
 toc: false

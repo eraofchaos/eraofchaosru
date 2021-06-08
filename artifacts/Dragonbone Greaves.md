@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Поножи из кости дракона"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "Эра хаоса  Сила Отца драконов - Поножи из кости дракона. Поножи из берцовых костей короля драконов. Компонент силы Отца драконов."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Dragonbone Greaves.md"
 toc: false

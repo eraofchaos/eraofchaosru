@@ -2,7 +2,7 @@
 title: "Закаленные стальные браслеты"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "Эра хаоса Закаленные стальные браслеты. Закаленные стальные браслеты"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Refined Steel Bracer.md"
 toc: false

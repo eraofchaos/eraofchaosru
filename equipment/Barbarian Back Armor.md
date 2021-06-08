@@ -2,7 +2,7 @@
 title: "Варварская броня для спины"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Эра хаоса Варварская броня для спины. Варварская броня для спины"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Barbarian Back Armor.md"
 toc: false

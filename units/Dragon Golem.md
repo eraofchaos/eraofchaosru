@@ -3,7 +3,7 @@ title: "Драконий голем"
 permalink: /units/Dragon Golem/
 excerpt: "Эра хаоса Драконий голем. Драконий голем Отряды. null. Эра хаоса Одно из главных достижений гномьих технологий. Каждая часть представляет собой совершенную комбинацию технологии и магии, и наполнена неиссякаемой силой."
 unitID: 609
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Драконий голем"
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Дракон
+ **Race:** Бес
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 

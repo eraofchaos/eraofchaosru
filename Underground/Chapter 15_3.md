@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 15 - 15-3 Статуя ангела"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Глава 15 - 3. Эра хаоса  Подземелье - Глава 15_3. 15-3 Статуя ангела"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 15_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Железный голем"
 permalink: /units/Iron Golem/
 excerpt: "Эра хаоса Железный голем. Железный голем Отряды. Золотой голем. Эра хаоса Железных големов создали маги. Эти творения - продукт точной науки и сложной магии, дающих им невероятную защиту от волшебства."
 unitID: 603
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Железный голем"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Бес
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 

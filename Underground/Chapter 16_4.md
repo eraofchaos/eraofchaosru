@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 16 - 16-4 Эхо войны"
 permalink: /Underground/Chapter 16_4/
 excerpt: "Глава 16 - 4. Эра хаоса  Подземелье - Глава 16_4. 16-4 Эхо войны"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 16_4.md"
 toc: false

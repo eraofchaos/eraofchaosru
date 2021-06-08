@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Ice Elemental)"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Элементаль Льда Эксклюзив."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Ice Elemental Таинственное пение.md"
 toc: false

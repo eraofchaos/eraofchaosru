@@ -2,7 +2,7 @@
 title: "Аватар - Жадное сердце"
 permalink: /Avatars/Greedy Heart/
 excerpt: "Эра хаоса  Жадное сердце"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Greedy Heart.md"
 toc: false

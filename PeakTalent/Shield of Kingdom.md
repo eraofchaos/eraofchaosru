@@ -2,7 +2,7 @@
 title: "Щит королевства. Талант вершины - Щит королевства"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Эра хаоса Талант вершины Щит королевства. Талант вершины Щит королевства. Щит королевства"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Shield of Kingdom.md"
 toc: false

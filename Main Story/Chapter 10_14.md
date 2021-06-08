@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-14 Дрожь смерти"
 permalink: /Main Story/Chapter 10_14/
 excerpt: "Глава 10 - 14. Эра хаоса  Основной сюжет - Глава 10_14. 10-14 Дрожь смерти"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 10_14.md"
 toc: false

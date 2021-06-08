@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-12 Убежище банши"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Глава 26 - 12. Эра хаоса  Основной сюжет - Глава 26_12. 26-12 Убежище банши"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 26_12.md"
 toc: false

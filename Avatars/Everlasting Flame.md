@@ -2,7 +2,7 @@
 title: "Аватар - Негасимое пламя"
 permalink: /Avatars/Everlasting Flame/
 excerpt: "Эра хаоса  Негасимое пламя"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Everlasting Flame.md"
 toc: false

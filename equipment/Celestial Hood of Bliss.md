@@ -2,7 +2,7 @@
 title: "Капюшон небесного блаженства"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Эра хаоса Капюшон небесного блаженства. Капюшон небесного блаженства"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Celestial Hood of Bliss.md"
 toc: false

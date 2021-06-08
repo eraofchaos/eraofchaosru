@@ -3,7 +3,7 @@ title: "Спартанец"
 permalink: /units/Spartan Warriors/
 excerpt: "Эра хаоса Спартанец. Спартанец Отряды. null. Эра хаоса Фермопилы - наш последний рубеж! Дадим отпор захватчикам, защитим Спарту!"
 unitID: 9702
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Спартанец"
 toc: true

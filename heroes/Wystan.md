@@ -4,7 +4,7 @@ permalink: /heroes/Wystan/
 excerpt: "Эра хаоса Вестан. Вестан. Вестан - старший зять короля Тралосска и второй претендент на престол. Он давно ждет возможности захватить власть."
 heroID: 61504
 QR: hero_61504
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Wystan"
 toc: true

@@ -2,7 +2,7 @@
 title: "Укрепления. Талант вершины - Укрепления"
 permalink: /PeakTalent/Fortifications/
 excerpt: "Эра хаоса Талант вершины Укрепления. Талант вершины Укрепления. Укрепления"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Fortifications.md"
 toc: false

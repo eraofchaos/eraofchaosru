@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-3 Бард"
 permalink: /Main Story/Chapter 21_3/
 excerpt: "Глава 21 - 3. Эра хаоса  Основной сюжет - Глава 21_3. 21-3 Бард"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 21_3.md"
 toc: false

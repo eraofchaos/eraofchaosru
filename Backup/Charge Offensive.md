@@ -2,7 +2,7 @@
 title: "Backup - Штурмовая атака"
 permalink: /Backup/Charge Offensive/
 excerpt: "Эра хаоса  Штурмовая атака"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Charge Offensive.md"
 toc: false

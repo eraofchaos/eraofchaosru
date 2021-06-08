@@ -2,7 +2,7 @@
 title: "Стрелы из нефрита"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Эра хаоса Стрелы из нефрита. Стрелы из нефрита"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Arrows of Jade.md"
 toc: false

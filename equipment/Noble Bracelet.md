@@ -2,7 +2,7 @@
 title: "Благородный браслет"
 permalink: /equipment/Noble Bracelet/
 excerpt: "Эра хаоса Благородный браслет. Благородный браслет"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Noble Bracelet.md"
 toc: false

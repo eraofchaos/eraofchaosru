@@ -2,7 +2,7 @@
 title: "Штаны распада"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Эра хаоса Штаны распада. Штаны распада"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Trousers of Decay.md"
 toc: false

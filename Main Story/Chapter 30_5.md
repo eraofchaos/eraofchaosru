@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-5. Отдых у огня"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Глава 30 - 5. Эра хаоса  Основной сюжет - Глава 30_5. 30-5. Отдых у огня"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 30_5.md"
 toc: false

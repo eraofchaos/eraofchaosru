@@ -3,7 +3,7 @@ title: "Гремлин"
 permalink: /units/Gremlin/
 excerpt: "Эра хаоса Гремлин. Гремлин Отряды. null. Эра хаоса Гремлины заключили контракт с Башней и теперь обязаны служить этой фракции. Они предпочитают атаковать издалека и использовать свое излюбленное оружие - зачарованные цепы."
 unitID: 601
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Гремлин"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Слуга
 
  **Members:** [x9](/ru/units/Unit Member x9/)
 

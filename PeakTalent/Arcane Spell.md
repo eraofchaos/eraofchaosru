@@ -2,7 +2,7 @@
 title: "Тайное заклинание. Талант вершины - Тайное заклинание"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "Эра хаоса Талант вершины Тайное заклинание. Талант вершины Тайное заклинание. Тайное заклинание"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Arcane Spell.md"
 toc: false

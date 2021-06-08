@@ -2,7 +2,7 @@
 title: "Защита океана"
 permalink: /equipment/Ocean's Protection/
 excerpt: "Эра хаоса Защита океана. Защита океана"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Ocean's Protection.md"
 toc: false

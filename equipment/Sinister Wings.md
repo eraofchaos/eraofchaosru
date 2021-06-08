@@ -2,7 +2,7 @@
 title: "Зловещие крылья"
 permalink: /equipment/Sinister Wings/
 excerpt: "Эра хаоса Зловещие крылья. Зловещие крылья"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Sinister Wings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Конский волос пламени"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Эра хаоса Конский волос пламени. Конский волос пламени"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Horsehair of Fire.md"
 toc: false

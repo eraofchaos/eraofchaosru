@@ -2,7 +2,7 @@
 title: "VIP - VIP 10"
 permalink: /VIP/VIP 10/
 excerpt: "Эра хаоса  Система VIP. VIP 10"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "VIP 10.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
 
  **4** <span style="color: black"><span style="color: #00FF1E;font-size:19px"> Позволяет ускорять производство в каждом из жилищ существ трижды в день. </span><span style="color: black">[pic=vip_newImg.png]</span><span style="color: black">
 
- **5** <span style="color: black"><span style="color: #FFECCD"> Позволяет купить доступ к Ристалищу славы </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #FFECCD"> раз в день.</span><span style="color: black">
+ **5** <span style="color: black"><span style="color: #462800"> Позволяет купить доступ к Ристалищу славы </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #462800"> раз в день.</span><span style="color: black">
 
  **6** <span style="color: black"><span style="color: #462800"> Позволяет вам совершать предсказания до </span><span style="color: black"><span style="color: #00FF1E;font-size:19px"> 30 </span><span style="color: black"><span style="color: #462800">раз в день.</span><span style="color: black">
 

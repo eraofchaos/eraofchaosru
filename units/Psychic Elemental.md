@@ -3,7 +3,7 @@ title: "Элементаль Мысли"
 permalink: /units/Psychic Elemental/
 excerpt: "Эра хаоса Элементаль Мысли. Элементаль Мысли Отряды. Элементаль Магии. Эра хаоса Энергетическое создание, порожденное фантазиями материальных существ. Атакует сознание врагов. Те, кому недостает твердости ума, лишаются разума и впадают в бредовое состояние."
 unitID: 906
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Элементаль Мысли"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
- **Race:** Хозяин зверей
+ **Race:** Бес
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **Имя:** [Колесо вечности](/ru/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон Колеса вечности](/ItemsRU/con_1000/)
 

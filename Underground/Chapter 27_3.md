@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 - 27-3 Восточный пророк"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Глава 27 - 3. Эра хаоса  Подземелье - Глава 27_3. 27-3 Восточный пророк"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 27_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Злой бивень"
 permalink: /equipment/Evil Tusk/
 excerpt: "Эра хаоса Злой бивень. Злой бивень"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Evil Tusk.md"
 toc: false

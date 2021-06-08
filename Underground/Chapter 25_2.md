@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 - 25-2 Железная кукла"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Глава 25 - 2. Эра хаоса  Подземелье - Глава 25_2. 25-2 Железная кукла"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 25_2.md"
 toc: false

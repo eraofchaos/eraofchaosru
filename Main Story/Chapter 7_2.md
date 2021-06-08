@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-2 Возникновение заговора"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "Глава 7 - 2. Эра хаоса  Основной сюжет - Глава 7_2. 7-2 Возникновение заговора"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 7_2.md"
 toc: false

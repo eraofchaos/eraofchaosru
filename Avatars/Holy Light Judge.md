@@ -2,7 +2,7 @@
 title: "Аватар - Судья святого света"
 permalink: /Avatars/Holy Light Judge/
 excerpt: "Эра хаоса  Судья святого света"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Holy Light Judge.md"
 toc: false

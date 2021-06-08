@@ -2,7 +2,7 @@
 title: "Эра хаоса  Features per Level"
 permalink: /Features per Level/
 excerpt: "Эра хаоса Разблокированы новые возможности!. Features per Level."
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Peak Talent EXP.md"
 toc: false

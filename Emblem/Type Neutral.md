@@ -2,7 +2,7 @@
 title: "Эмблема святости - Нейтральный"
 permalink: /Emblem/Type Neutral/
 excerpt: "Эра хаоса Эмблема святости. Эмблема святости. Эра хаоса Эмблема святости Нейтральный. Эра хаоса Нейтральный"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "typeНейтральный.md"
 toc: false

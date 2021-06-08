@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 13 - 13-2 Злобная мощь"
 permalink: /Underground/Chapter 13_2/
 excerpt: "Глава 13 - 2. Эра хаоса  Подземелье - Глава 13_2. 13-2 Злобная мощь"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 13_2.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Джинн"
 permalink: /units/Genie/
 excerpt: "Эра хаоса Джинн. Джинн Отряды. Владыка джиннов. Эра хаоса Волшебные создания, живущие, чтобы исполнять желания смертных. Магия, которой они подчинены, является их домом и тюрьмой."
 unitID: 605
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Джинн"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Чародей
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 

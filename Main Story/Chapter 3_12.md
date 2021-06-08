@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-12 Башня Краснолесья"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Глава 3 - 12. Эра хаоса  Основной сюжет - Глава 3_12. 3-12 Башня Краснолесья"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 3_12.md"
 toc: false

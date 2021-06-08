@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Heroes"
 permalink: /heroes/Faction Fortress/
 excerpt: "Эра хаоса Faction Fortress. Faction Fortress. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Faction Fortress"
 toc: false

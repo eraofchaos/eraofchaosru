@@ -3,7 +3,7 @@ title: "Элементаль Льда"
 permalink: /units/Ice Elemental/
 excerpt: "Эра хаоса Элементаль Льда. Элементаль Льда Отряды. Снежный дух. Эра хаоса Ледяное существо, созданное из элементаля Воды. В случае угрозы замораживает всех врагов, выдыхая леденящий воздух."
 unitID: 903
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Элементаль Льда"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
- **Race:** Хозяин зверей
+ **Race:** Бес
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 

@@ -2,7 +2,7 @@
 title: "Точный удар. Талант вершины - Точный удар"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "Эра хаоса Талант вершины Точный удар. Талант вершины Точный удар. Точный удар"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Precise Strike.md"
 toc: false

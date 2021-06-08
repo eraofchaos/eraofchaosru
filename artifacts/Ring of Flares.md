@@ -2,7 +2,7 @@
 title: "Артефакт - Канон мага - Сияющее кольцо"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Эра хаоса  Канон мага - Сияющее кольцо. Кольцо, омываемое потоками энергии. Одно из сокровищ, описанных в каноне мага."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Ring of Flares.md"
 toc: false

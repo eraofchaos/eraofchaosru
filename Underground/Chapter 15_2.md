@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 15 - 15-2 Подземная лава"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Глава 15 - 2. Эра хаоса  Подземелье - Глава 15_2. 15-2 Подземная лава"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 15_2.md"
 toc: false

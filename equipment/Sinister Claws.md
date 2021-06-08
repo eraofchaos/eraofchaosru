@@ -2,7 +2,7 @@
 title: "Зловещие когти"
 permalink: /equipment/Sinister Claws/
 excerpt: "Эра хаоса Зловещие когти. Зловещие когти"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Sinister Claws.md"
 toc: false

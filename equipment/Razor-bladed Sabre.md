@@ -2,7 +2,7 @@
 title: "Бритвенно острая сабля"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "Эра хаоса Бритвенно острая сабля. Бритвенно острая сабля"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Razor-bladed Sabre.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-4 Древо познания"
 permalink: /Main Story/Chapter 1_4/
 excerpt: "Глава 1 - 4. Эра хаоса  Основной сюжет - Глава 1_4. 1-4 Древо познания"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 1_4.md"
 toc: false

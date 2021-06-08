@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Ящер Эксклюзив."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Lizardman Длинный лук.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Аватар - Король Бездны"
 permalink: /Avatars/King of Abyss/
 excerpt: "Эра хаоса  Король Бездны"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "King of Abyss.md"
 toc: false

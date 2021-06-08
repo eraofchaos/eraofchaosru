@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-13 Назначение крови драконов"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Глава 27 - 13. Эра хаоса  Основной сюжет - Глава 27_13. 27-13 Назначение крови драконов"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 27_13.md"
 toc: false

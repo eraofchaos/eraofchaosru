@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 Волна элементалей"
 permalink: /Underground/Chapter 24/
 excerpt: "Глава 24 Волна элементалей. Эра хаоса  Подземелье - Глава 24. Волна элементалей"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 24.md"
 toc: false

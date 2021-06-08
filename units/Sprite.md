@@ -3,7 +3,7 @@ title: "Фея"
 permalink: /units/Sprite/
 excerpt: "Эра хаоса Фея. Фея Отряды. . Эра хаоса Прекрасная фея, существующая лишь в легендах и сказках. Тот, кто обращается с ней грубо, навлекает на себя гнев читателей и встречает очень неприятный финал."
 unitID: 901
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Фея"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Гармония](/ru/units/Faction Conflux/)
 
- **Race:** Хозяин зверей
+ **Race:** Бес
 
  **Members:** [x4](/ru/units/Unit Member x4/)
 
@@ -175,41 +175,43 @@ toc: true
 
 ## Awaking
 
+  ![](/images/u/tia_mofaxianling.jpg)
+
 ### Awaking Подробности
  **Is it possible right now?** NO
 
  **Awaking Name:** 
 
- **Awaking Описание:** null
+ **Awaking Описание:** Когда вы стоите у окна и любуетесь цветами, притаившиеся в них эльфы смотрят на вас. Как цветы - украшение сада, так эльфы - украшение мира грез.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #876741;font-size:18px">Используйте фей и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы добиться уровня «Мастер» или выше в Утопии драконов один раз. (Набег не учитывается при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #876741;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> монстров в Походе гильдии. </span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ эльфов-заклинателей на уровнях 14-2 и 14-4 в Подземелье. </span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Используйте фей и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Гармонии, чтобы победить в 3 боях кампании. (Набег не учитывается при выполнении этого задания)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): 
+ **Описание:** 
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): 
+ **Описание:** 
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): 
+ **Описание:** 
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): 
+ **Описание:** 
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): 
+ **Описание:** 
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): 
+ **Описание:** 
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Прочная цветущая ветвь"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Эра хаоса Прочная цветущая ветвь. Прочная цветущая ветвь"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Strong Flowering Branch.md"
 toc: false

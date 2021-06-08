@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "index.md"
 toc: false
@@ -108,7 +108,7 @@ classes: wide
   | 86 | ![Элементаль Камня](/images/u/ti_shiyuansu.jpg) | [Элементаль Камня](/ru/units/Stone Elemental/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 87 | ![Элементаль Льда](/images/u/ti_bingyuansu2.jpg) | [Элементаль Льда](/ru/units/Ice Elemental/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Снежный дух  |
   | 88 | ![Элементаль Моря](/images/u/ti_haiyuansu.jpg) | [Элементаль Моря](/ru/units/Sea Elemental/) | Заклинатель | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Элементаль Приливов  |
-  | 89 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Элементаль Магии  |
+  | 89 | ![Элементаль Мысли](/images/u/ti_jingshenyuansu.jpg) | [Элементаль Мысли](/ru/units/Psychic Elemental/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Элементаль Магии  |
   | 90 | ![Элементаль Огня](/images/u/ti_liehuoyuansu.jpg) | [Элементаль Огня](/ru/units/Fire Elemental/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Элементаль Энергии  |
   | 91 | ![Элементаль Шторма](/images/u/ti_leiyuansu2.jpg) | [Элементаль Шторма](/ru/units/Storm Elemental/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Ураган молний  |
   | 92 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

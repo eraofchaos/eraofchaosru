@@ -3,7 +3,7 @@ title: "Нага"
 permalink: /units/Naga/
 excerpt: "Эра хаоса Нага. Нага Отряды. Королева нага. Эра хаоса Эти вооруженные до зубов чудовища обожают воевать. Чем слабее враг, тем сильнее их жажда крови."
 unitID: 606
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Нага"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Чародей
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 

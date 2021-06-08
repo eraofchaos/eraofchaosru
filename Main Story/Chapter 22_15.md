@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-15 Кристальная долина"
 permalink: /Main Story/Chapter 22_15/
 excerpt: "Глава 22 - 15. Эра хаоса  Основной сюжет - Глава 22_15. 22-15 Кристальная долина"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 22_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Щит славы. Талант вершины - Щит славы"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Эра хаоса Талант вершины Щит славы. Талант вершины Щит славы. Щит славы"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Shield of Glory.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Толстая меховая шкура"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Эра хаоса Толстая меховая шкура. Толстая меховая шкура"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Thick Fur Hide.md"
 toc: false

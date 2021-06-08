@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-4 Перерабатывающий завод"
 permalink: /Main Story/Chapter 4_4/
 excerpt: "Глава 4 - 4. Эра хаоса  Основной сюжет - Глава 4_4. 4-4 Перерабатывающий завод"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 4_4.md"
 toc: false

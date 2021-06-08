@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-8 Неожиданное событие"
 permalink: /Main Story/Chapter 9_8/
 excerpt: "Глава 9 - 8. Эра хаоса  Основной сюжет - Глава 9_8. 9-8 Неожиданное событие"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 9_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-11. Гробница храбреца"
 permalink: /Main Story/Chapter 29_11/
 excerpt: "Глава 29 - 11. Эра хаоса  Основной сюжет - Глава 29_11. 29-11. Гробница храбреца"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 29_11.md"
 toc: false

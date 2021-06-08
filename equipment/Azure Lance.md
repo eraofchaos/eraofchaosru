@@ -2,7 +2,7 @@
 title: "Голубое копье"
 permalink: /equipment/Azure Lance/
 excerpt: "Эра хаоса Голубое копье. Голубое копье"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Azure Lance.md"
 toc: false

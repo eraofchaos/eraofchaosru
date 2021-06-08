@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 Независимость"
 permalink: /Underground/Chapter 23/
 excerpt: "Глава 23 Независимость. Эра хаоса  Подземелье - Глава 23. Независимость"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 23.md"
 toc: false

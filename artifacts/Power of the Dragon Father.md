@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Эра хаоса  Сила Отца драконов. Сила Отца драконов Священная реликвия, выкованная из ценных предметов силой короля драконов. Снижает урон от заклинаний."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Power of the Dragon Father.md"
 toc: false

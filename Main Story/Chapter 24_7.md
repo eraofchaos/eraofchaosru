@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-7 Странные сны"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Глава 24 - 7. Эра хаоса  Основной сюжет - Глава 24_7. 24-7 Странные сны"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 24_7.md"
 toc: false

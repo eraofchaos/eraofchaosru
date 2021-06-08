@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-8 Каждый путь"
 permalink: /Main Story/Chapter 21_8/
 excerpt: "Глава 21 - 8. Эра хаоса  Основной сюжет - Глава 21_8. 21-8 Каждый путь"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Chapter 21_8.md"
 toc: false

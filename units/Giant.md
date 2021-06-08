@@ -3,7 +3,7 @@ title: "Гигант"
 permalink: /units/Giant/
 excerpt: "Эра хаоса Гигант. Гигант Отряды. Вестник грома. Эра хаоса Эти закованные в золотые доспехи гиганты живут среди облаков. Легенды гласят, что эти бессмертные существа были созданы древними властителями мира."
 unitID: 607
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: ru
 ref: "Гигант"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Фракция:** [Башня](/ru/units/Faction Tower/)
 
- **Race:** Человек
+ **Race:** Бес
 
  **Members:** [x1](/ru/units/Unit Member x1/)
 
