@@ -69,11 +69,7 @@ docs:
         url: https://eraofchaos.github.io/es/
         img: /images/nav/es.svg
         hreflang: es
-     - title: "魔法门之英雄无敌：战争纪元"
+      - title: "魔法门之英雄无敌：战争纪元"
         url: https://eraofchaos.github.io/cn/
         img: /images/nav/cn.svg
         hreflang: zh_TW
-
-
-
-
