@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-6 Новостей нет"
 permalink: /Main Story/Chapter 26_6/
 excerpt: "Глава 26 - 6. Эра хаоса  Основной сюжет - Глава 26_6. 26-6 Новостей нет"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 26_6.md"
 toc: false

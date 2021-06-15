@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Эра хаоса Эксклюзив Dungeon. Эксклюзив Dungeon. List of Эксклюзив Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Троглодит](/ru/units/Troglodyte/) | [Меч](/ru/Exclusive/Troglodyte Sword/) | - | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
-  | 2  | [Гарпия](/ru/units/Harpy/) | [Копье рыцаря](/ru/Exclusive/Harpy Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
+  | 2  | [Гарпия](/ru/units/Harpy/) | [Копье рыцаря](/ru/Exclusive/Harpy Knight Pike/) | + | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
   | 3  | [Бехолдер](/ru/units/Beholder/) | [Опасный взгляд](/ru/Exclusive/Beholder Dark Gaze/) | - | Стрелковый | [Опасный взгляд](/ItemsRU/con_990/) | [Особый облик: Опасный взгляд](/ItemsRU/con_658/) |
   | 4  | [Медуза](/ru/units/Medusa/) | [Лук медузы](/ru/Exclusive/Medusa Medusa's Bow/) | + | Стрелковый | [Жетон лука медузы](/ItemsRU/con_991/) | [Особый облик: Лук медузы](/ItemsRU/con_659/) |
   | 5  | [Минотавр](/ru/units/Minotaur/) | [Славный щит](/ru/Exclusive/Minotaur Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |

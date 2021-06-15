@@ -2,7 +2,7 @@
 title: "Аватар - Мавр"
 permalink: /Avatars/The Moor/
 excerpt: "Эра хаоса  Мавр"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "The Moor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Heroes"
 permalink: /heroes/Faction Cove/
 excerpt: "Эра хаоса Faction Cove. Faction Cove. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Faction Cove"
 toc: false

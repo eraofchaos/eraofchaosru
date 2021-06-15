@@ -2,7 +2,7 @@
 title: "Аватар - Празднование НФЛ"
 permalink: /Avatars/NFL Honors Commemoration/
 excerpt: "Эра хаоса  Празднование НФЛ"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "NFL Honors Commemoration.md"
 toc: false

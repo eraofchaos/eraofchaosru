@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-9 Смотровая башня"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Глава 4 - 9. Эра хаоса  Основной сюжет - Глава 4_9. 4-9 Смотровая башня"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 4_9.md"
 toc: false

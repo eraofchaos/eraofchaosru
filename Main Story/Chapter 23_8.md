@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-8 Местонахождение разведчика"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Глава 23 - 8. Эра хаоса  Основной сюжет - Глава 23_8. 23-8 Местонахождение разведчика"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 23_8.md"
 toc: false

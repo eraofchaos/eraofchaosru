@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 13 - 13-1 С переменным успехом"
 permalink: /Underground/Chapter 13_1/
 excerpt: "Глава 13 - 1. Эра хаоса  Подземелье - Глава 13_1. 13-1 С переменным успехом"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 13_1.md"
 toc: false

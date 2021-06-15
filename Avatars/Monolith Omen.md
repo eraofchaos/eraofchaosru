@@ -2,7 +2,7 @@
 title: "Аватар - Знамение монолита"
 permalink: /Avatars/Monolith Omen/
 excerpt: "Эра хаоса  Знамение монолита"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Monolith Omen.md"
 toc: false

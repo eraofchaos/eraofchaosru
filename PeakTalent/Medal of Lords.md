@@ -2,7 +2,7 @@
 title: "Медаль владык. Талант вершины - Медаль владык"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Эра хаоса Талант вершины Медаль владык. Талант вершины Медаль владык. Медаль владык"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Medal of Lords.md"
 toc: false

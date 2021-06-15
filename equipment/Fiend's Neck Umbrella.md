@@ -2,7 +2,7 @@
 title: "Шипастый воротник беса"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Эра хаоса Шипастый воротник беса. Шипастый воротник беса"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Fiend's Neck Umbrella.md"
 toc: false

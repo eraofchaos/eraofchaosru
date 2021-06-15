@@ -2,7 +2,7 @@
 title: "Метательный топор"
 permalink: /equipment/Throwing Axe/
 excerpt: "Эра хаоса Метательный топор. Метательный топор"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Throwing Axe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Наручи из черепов"
 permalink: /equipment/Cranial Gauntlets/
 excerpt: "Эра хаоса Наручи из черепов. Наручи из черепов"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Cranial Gauntlets.md"
 toc: false

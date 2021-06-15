@@ -2,7 +2,7 @@
 title: "Эксклюзив - Хвост гадюки (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Эра хаоса Хвост гадюки. Хвост гадюки. Эра хаоса Эксклюзив Хвост гадюки. Виверна Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Wyvern Хвост гадюки.md"
 toc: false

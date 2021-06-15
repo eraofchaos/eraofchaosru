@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-5 Холм гремлина"
 permalink: /Main Story/Chapter 16_5/
 excerpt: "Глава 16 - 5. Эра хаоса  Основной сюжет - Глава 16_5. 16-5 Холм гремлина"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 16_5.md"
 toc: false

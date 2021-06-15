@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости - Щит неистового огра"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Эра хаоса  Топор ярости - Щит неистового огра. Сувенир в память о победе над огром-лейтенантом. Компонент топора ярости."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Targ of the Rampaging Ogre.md"
 toc: false

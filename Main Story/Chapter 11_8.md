@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-8 Быстрый бой"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "Глава 11 - 8. Эра хаоса  Основной сюжет - Глава 11_8. 11-8 Быстрый бой"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 11_8.md"
 toc: false

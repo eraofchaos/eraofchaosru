@@ -2,7 +2,7 @@
 title: "Аватар - Unknown Avatar Frame 1008"
 permalink: /Avatars/Unknown Avatar Frame 1008/
 excerpt: "Эра хаоса  Unknown Avatar Frame 1008"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Unknown Avatar Frame 1008.md"
 toc: false

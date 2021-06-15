@@ -2,7 +2,7 @@
 title: "Ожерелье из кости"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Эра хаоса Ожерелье из кости. Ожерелье из кости"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Necklace of Bone.md"
 toc: false

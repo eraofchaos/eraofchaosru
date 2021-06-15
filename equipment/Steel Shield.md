@@ -2,7 +2,7 @@
 title: "Стальной щит"
 permalink: /equipment/Steel Shield/
 excerpt: "Эра хаоса Стальной щит. Стальной щит"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Steel Shield.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ржавый шлем"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Эра хаоса Ржавый шлем. Ржавый шлем"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Rusted Helmet.md"
 toc: false

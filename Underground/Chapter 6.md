@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 Падение столицы"
 permalink: /Underground/Chapter 6/
 excerpt: "Глава 6 Падение столицы. Эра хаоса  Подземелье - Глава 6. Падение столицы"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 6.md"
 toc: false

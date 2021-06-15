@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 - 3-3 Сомнительное прошлое"
 permalink: /Underground/Chapter 3_3/
 excerpt: "Глава 3 - 3. Эра хаоса  Подземелье - Глава 3_3. 3-3 Сомнительное прошлое"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 3_3.md"
 toc: false

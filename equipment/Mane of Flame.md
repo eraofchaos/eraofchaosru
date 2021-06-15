@@ -2,7 +2,7 @@
 title: "Грива пламени"
 permalink: /equipment/Mane of Flame/
 excerpt: "Эра хаоса Грива пламени. Грива пламени"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Mane of Flame.md"
 toc: false

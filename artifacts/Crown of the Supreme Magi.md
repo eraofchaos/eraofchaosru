@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости - Корона верховного мага"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Эра хаоса  Топор ярости - Корона верховного мага. Корона, полученная в подарок за спасение безумного чародея. Компонент топора ярости."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Crown of the Supreme Magi.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Эра хаоса Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Unit Member x9"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 7 | ![Каменная горгулья](/images/u/ti_shixianggui.jpg) | [Каменная горгулья](/ru/units/Stone Gargoyle/) | Наступление | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Копейщик](/images/u/ti_jibing.jpg) | [Копейщик](/ru/units/Pikeman/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Алебардщик  |
   | 9 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Опытный лучник  |
-  | 10 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Гарпия  |
+  | 10 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Гарпия  |
   | 11 | ![Троглодит](/images/u/ti_dongxueren.jpg) | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Темный троглодит  |
   | 12 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
   | 13 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |

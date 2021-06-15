@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Эра хаоса Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Мантикора](/images/u/ti_shixie.jpg) | [Мантикора](/ru/units/Manticore/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Скорпикора  |
   | 24 | ![Пегас](/images/u/ti_feima.jpg) | [Пегас](/ru/units/Pegasus/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Серебряный пегас  |
   | 25 | ![Василиск](/images/u/ti_xiyi.jpg) | [Василиск](/ru/units/Basilisk/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Эльф-заклинатель  |
   | 27 | ![Регнанский пират](/images/u/ti_haidao.jpg) | [Регнанский пират](/ru/units/Regnan Pirates/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Боцман-пират  |
   | 28 | ![Дендроид-страж](/images/u/ti_shuyao.jpg) | [Дендроид-страж](/ru/units/Dendroid Guard/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Дендроид-воин  |
   | 29 | ![Элементаль Шторма](/images/u/ti_leiyuansu2.jpg) | [Элементаль Шторма](/ru/units/Storm Elemental/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Ураган молний  |

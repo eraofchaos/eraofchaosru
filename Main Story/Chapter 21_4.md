@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-4 Запрет"
 permalink: /Main Story/Chapter 21_4/
 excerpt: "Глава 21 - 4. Эра хаоса  Основной сюжет - Глава 21_4. 21-4 Запрет"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 21_4.md"
 toc: false

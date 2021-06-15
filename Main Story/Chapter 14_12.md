@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-12 Тайна раскрыта"
 permalink: /Main Story/Chapter 14_12/
 excerpt: "Глава 14 - 12. Эра хаоса  Основной сюжет - Глава 14_12. 14-12 Тайна раскрыта"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 14_12.md"
 toc: false

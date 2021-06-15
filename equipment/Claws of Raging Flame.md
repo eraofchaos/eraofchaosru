@@ -2,7 +2,7 @@
 title: "Когти неистового пламени"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Эра хаоса Когти неистового пламени. Когти неистового пламени"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Claws of Raging Flame.md"
 toc: false

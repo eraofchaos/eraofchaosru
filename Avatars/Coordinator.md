@@ -2,7 +2,7 @@
 title: "Аватар - Координатор"
 permalink: /Avatars/Coordinator/
 excerpt: "Эра хаоса  Координатор"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Coordinator.md"
 toc: false

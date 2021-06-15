@@ -2,7 +2,7 @@
 title: "Дикие земли. Талант вершины - Дикие земли"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Эра хаоса Талант вершины Дикие земли. Талант вершины Дикие земли. Дикие земли"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Wild Region.md"
 toc: false

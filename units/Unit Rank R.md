@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Эра хаоса Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Unit Rank R"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Капитан кентавров  |
   | 9 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Гнолл-воин  |
   | 10 | ![Скелет](/images/u/ti_kulouzhanshi.jpg) | [Скелет](/ru/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Скелет-воин  |
-  | 11 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 11 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Эльф-заклинатель  |
   | 12 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Зомби  |
   | 13 | ![Гоблин](/images/u/ti_shourenzhanshi.jpg) | [Гоблин](/ru/units/Goblin/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Хобгоблин  |
   | 14 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ru/units/Wolf Rider/) | Штурм | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Разбойник на волке  |

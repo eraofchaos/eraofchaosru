@@ -2,7 +2,7 @@
 title: "Безумная кара. Талант вершины - Безумная кара"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Эра хаоса Талант вершины Безумная кара. Талант вершины Безумная кара. Безумная кара"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Crazy Smite.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Наплечники легкости"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Эра хаоса Наплечники легкости. Наплечники легкости"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Pauldrons of Lightness.md"
 toc: false

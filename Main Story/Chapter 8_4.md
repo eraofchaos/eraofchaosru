@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-4 Неожиданное спасение"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Глава 8 - 4. Эра хаоса  Основной сюжет - Глава 8_4. 8-4 Неожиданное спасение"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 8_4.md"
 toc: false

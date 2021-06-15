@@ -2,7 +2,7 @@
 title: "Наплечники пламени"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Эра хаоса Наплечники пламени. Наплечники пламени"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Pauldrons of Flame.md"
 toc: false

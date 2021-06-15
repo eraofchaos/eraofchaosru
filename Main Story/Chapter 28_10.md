@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-10. Рог победы"
 permalink: /Main Story/Chapter 28_10/
 excerpt: "Глава 28 - 10. Эра хаоса  Основной сюжет - Глава 28_10. 28-10. Рог победы"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 28_10.md"
 toc: false

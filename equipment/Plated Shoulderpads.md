@@ -2,7 +2,7 @@
 title: "Латные наплечники"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Эра хаоса Латные наплечники. Латные наплечники"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Plated Shoulderpads.md"
 toc: false

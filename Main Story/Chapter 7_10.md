@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-10 Захватчики"
 permalink: /Main Story/Chapter 7_10/
 excerpt: "Глава 7 - 10. Эра хаоса  Основной сюжет - Глава 7_10. 7-10 Захватчики"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 7_10.md"
 toc: false

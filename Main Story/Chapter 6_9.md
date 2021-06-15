@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-9 Осада"
 permalink: /Main Story/Chapter 6_9/
 excerpt: "Глава 6 - 9. Эра хаоса  Основной сюжет - Глава 6_9. 6-9 Осада"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 6_9.md"
 toc: false

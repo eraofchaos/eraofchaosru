@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-9 Эльфийское кольцо"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "Глава 18 - 9. Эра хаоса  Основной сюжет - Глава 18_9. 18-9 Эльфийское кольцо"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 18_9.md"
 toc: false

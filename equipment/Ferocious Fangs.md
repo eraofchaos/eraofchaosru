@@ -2,7 +2,7 @@
 title: "Свирепые клыки"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Эра хаоса Свирепые клыки. Свирепые клыки"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Ferocious Fangs.md"
 toc: false

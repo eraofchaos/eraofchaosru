@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-12 Оборотень"
 permalink: /Main Story/Chapter 16_12/
 excerpt: "Глава 16 - 12. Эра хаоса  Основной сюжет - Глава 16_12. 16-12 Оборотень"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 16_12.md"
 toc: false

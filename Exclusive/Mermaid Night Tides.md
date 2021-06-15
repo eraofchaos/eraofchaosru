@@ -2,7 +2,7 @@
 title: "Эксклюзив - Прилив (Mermaid)"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Эра хаоса Прилив. Прилив. Эра хаоса Эксклюзив Прилив. Русалка Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Mermaid Прилив.md"
 toc: false

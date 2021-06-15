@@ -2,7 +2,7 @@
 title: "Охотничий большой лук"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Эра хаоса Охотничий большой лук. Охотничий большой лук"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Hunting Longbow.md"
 toc: false

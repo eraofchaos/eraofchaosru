@@ -2,7 +2,7 @@
 title: "Боевой рог. Талант вершины - Боевой рог"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Эра хаоса Талант вершины Боевой рог. Талант вершины Боевой рог. Боевой рог"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Battle Horn.md"
 toc: false

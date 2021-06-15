@@ -2,7 +2,7 @@
 title: "Эксклюзив - Вечерняя звезда (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Эра хаоса Вечерняя звезда. Вечерняя звезда. Эра хаоса Эксклюзив Вечерняя звезда. Росянка Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Waspwort Вечерняя звезда.md"
 toc: false

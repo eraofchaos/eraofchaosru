@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-14 Выжившие"
 permalink: /Main Story/Chapter 17_14/
 excerpt: "Глава 17 - 14. Эра хаоса  Основной сюжет - Глава 17_14. 17-14 Выжившие"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 17_14.md"
 toc: false

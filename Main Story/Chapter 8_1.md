@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-1 Темная ночь"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Глава 8 - 1. Эра хаоса  Основной сюжет - Глава 8_1. 8-1 Темная ночь"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 8_1.md"
 toc: false

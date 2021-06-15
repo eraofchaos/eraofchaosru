@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Заморозка"
 permalink: /combination/Freeze/
 excerpt: "Информация о комбинации - Заморозка. Units and Heroes Formation."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Заморозка.md"
 toc: false

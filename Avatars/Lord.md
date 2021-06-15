@@ -2,7 +2,7 @@
 title: "Аватар - Лорд"
 permalink: /Avatars/Lord/
 excerpt: "Эра хаоса  Лорд"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Lord.md"
 toc: false

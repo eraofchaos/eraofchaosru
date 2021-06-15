@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-1. Особняк призраков"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Глава 29 - 1. Эра хаоса  Основной сюжет - Глава 29_1. 29-1. Особняк призраков"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 29_1.md"
 toc: false

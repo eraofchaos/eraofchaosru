@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч нага (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Эра хаоса Меч нага. Меч нага. Эра хаоса Эксклюзив Меч нага. Нага Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Naga Меч нага.md"
 toc: false

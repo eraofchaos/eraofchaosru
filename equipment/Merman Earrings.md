@@ -2,7 +2,7 @@
 title: "Сережки водяного"
 permalink: /equipment/Merman Earrings/
 excerpt: "Эра хаоса Сережки водяного. Сережки водяного"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Merman Earrings.md"
 toc: false

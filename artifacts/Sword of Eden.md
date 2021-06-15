@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Меч Эдема"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Эра хаоса  Золотое яблоко - Меч Эдема. Оружие Первой Цивилизации, поражает противника электрическим током."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Sword of Eden.md"
 toc: false

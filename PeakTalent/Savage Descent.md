@@ -2,7 +2,7 @@
 title: "Жестокое падение. Талант вершины - Жестокое падение"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Эра хаоса Талант вершины Жестокое падение. Талант вершины Жестокое падение. Жестокое падение"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Savage Descent.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-11 Камень учености"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "Глава 3 - 11. Эра хаоса  Основной сюжет - Глава 3_11. 3-11 Камень учености"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 3_11.md"
 toc: false

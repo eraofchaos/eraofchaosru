@@ -2,7 +2,7 @@
 title: "Артефакт - Меч Холода - Посох огра"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Эра хаоса  Меч Холода - Посох огра. Посох, которому поклонялись огры. Компонент меча Холода."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Ogre's Staff.md"
 toc: false

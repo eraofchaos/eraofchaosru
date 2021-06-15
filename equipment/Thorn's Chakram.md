@@ -2,7 +2,7 @@
 title: "Терновый шакрам"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Эра хаоса Терновый шакрам. Терновый шакрам"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Thorn's Chakram.md"
 toc: false

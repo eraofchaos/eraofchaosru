@@ -2,7 +2,7 @@
 title: "Призрачные когти"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Эра хаоса Призрачные когти. Призрачные когти"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Ghostly Claws.md"
 toc: false

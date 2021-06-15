@@ -2,7 +2,7 @@
 title: "Эксклюзив - Многоглавый змей (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Эра хаоса Многоглавый змей. Многоглавый змей. Эра хаоса Эксклюзив Многоглавый змей. Гидра Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Hydra Многоглавый змей.md"
 toc: false

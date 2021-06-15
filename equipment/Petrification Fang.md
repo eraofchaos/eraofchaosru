@@ -2,7 +2,7 @@
 title: "Клык окаменения"
 permalink: /equipment/Petrification Fang/
 excerpt: "Эра хаоса Клык окаменения. Клык окаменения"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Petrification Fang.md"
 toc: false

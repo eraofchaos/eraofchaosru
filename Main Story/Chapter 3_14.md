@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-14 Лаборатория алхимика"
 permalink: /Main Story/Chapter 3_14/
 excerpt: "Глава 3 - 14. Эра хаоса  Основной сюжет - Глава 3_14. 3-14 Лаборатория алхимика"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 3_14.md"
 toc: false

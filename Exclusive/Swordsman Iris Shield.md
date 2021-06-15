@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Мечник Эксклюзив."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Swordsman Славный щит.md"
 toc: false

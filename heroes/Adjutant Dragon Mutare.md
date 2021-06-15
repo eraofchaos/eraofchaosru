@@ -2,7 +2,7 @@
 title: "Адъютант Дракон Мутара"
 permalink: /heroes/Adjutant Dragon Mutare/
 excerpt: "Эра хаоса  Адъютант Дракон Мутара"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Adjutant Dragon Mutare.md"
 QR: adhero_61302

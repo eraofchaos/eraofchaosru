@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-6 Новые убийства"
 permalink: /Main Story/Chapter 9_6/
 excerpt: "Глава 9 - 6. Эра хаоса  Основной сюжет - Глава 9_6. 9-6 Новые убийства"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 9_6.md"
 toc: false

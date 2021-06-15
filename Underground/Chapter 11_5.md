@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 11 - 11-5 Сражение с мертвецами"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Глава 11 - 5. Эра хаоса  Подземелье - Глава 11_5. 11-5 Сражение с мертвецами"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Chapter 11_5.md"
 toc: false

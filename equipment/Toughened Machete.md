@@ -2,7 +2,7 @@
 title: "Упрочненное мачете"
 permalink: /equipment/Toughened Machete/
 excerpt: "Эра хаоса Упрочненное мачете. Упрочненное мачете"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Toughened Machete.md"
 toc: false

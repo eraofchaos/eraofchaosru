@@ -2,7 +2,7 @@
 title: "Дорога терний"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Эра хаоса Дорога терний. Дорога терний"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Spiked Neck Umbrella.md"
 toc: false

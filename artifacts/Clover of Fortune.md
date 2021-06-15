@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова - Клевер Фортуны"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Эра хаоса  Счастливая подкова - Клевер Фортуны. Приносящий удачу клевер. Компонент счастливой подковы."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: ru
 ref: "Clover of Fortune.md"
 toc: false
