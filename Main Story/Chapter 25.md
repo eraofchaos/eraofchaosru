@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 Выживание сильнейших"
 permalink: /Main Story/Chapter 25/
 excerpt: "Глава 25. Эра хаоса  Основной сюжет - Глава 25. Выживание сильнейших"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 25.md"
 toc: false

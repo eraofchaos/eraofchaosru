@@ -2,7 +2,7 @@
 title: "Окровавленное мачете"
 permalink: /equipment/Bloodstained Machete/
 excerpt: "Эра хаоса Окровавленное мачете. Окровавленное мачете"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Bloodstained Machete.md"
 toc: false

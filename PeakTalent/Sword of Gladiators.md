@@ -2,7 +2,7 @@
 title: "Меч гладиаторов. Талант вершины - Меч гладиаторов"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Эра хаоса Талант вершины Меч гладиаторов. Талант вершины Меч гладиаторов. Меч гладиаторов"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Sword of Gladiators.md"
 toc: false

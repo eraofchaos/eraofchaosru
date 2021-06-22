@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Элементаль Шторма Эксклюзив."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Storm Elemental Длинный лук.md"
 toc: false

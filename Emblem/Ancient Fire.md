@@ -2,7 +2,7 @@
 title: "Эмблема святости - Древний огонь"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Эра хаоса Древний огонь. Древний огонь. Эра хаоса Эмблема святости Древний огонь. Эра хаоса Порядок Древний огонь"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Ancient Fire.md"
 toc: false

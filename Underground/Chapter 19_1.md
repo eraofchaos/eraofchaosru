@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 - 19-1 Железо и кровь"
 permalink: /Underground/Chapter 19_1/
 excerpt: "Глава 19 - 1. Эра хаоса  Подземелье - Глава 19_1. 19-1 Железо и кровь"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 19_1.md"
 toc: false

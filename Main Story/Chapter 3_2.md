@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-2 Проклятый храм"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Глава 3 - 2. Эра хаоса  Основной сюжет - Глава 3_2. 3-2 Проклятый храм"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 3_2.md"
 toc: false

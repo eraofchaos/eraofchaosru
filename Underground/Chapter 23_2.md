@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 - 23-2 Сила обороны"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Глава 23 - 2. Эра хаоса  Подземелье - Глава 23_2. 23-2 Сила обороны"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 23_2.md"
 toc: false

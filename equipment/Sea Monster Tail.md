@@ -2,7 +2,7 @@
 title: "Хвост чудовища"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Эра хаоса Хвост чудовища. Хвост чудовища"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Sea Monster Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 5 - 5-4 Восстановительная война"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Глава 5 - 4. Эра хаоса  Подземелье - Глава 5_4. 5-4 Восстановительная война"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 5_4.md"
 toc: false

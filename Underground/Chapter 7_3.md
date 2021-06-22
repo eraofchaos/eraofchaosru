@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 - 7-3 Золотая лихорадка"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Глава 7 - 3. Эра хаоса  Подземелье - Глава 7_3. 7-3 Золотая лихорадка"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 7_3.md"
 toc: false

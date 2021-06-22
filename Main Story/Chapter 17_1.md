@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-1 Эльфийская стража"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Глава 17 - 1. Эра хаоса  Основной сюжет - Глава 17_1. 17-1 Эльфийская стража"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 17_1.md"
 toc: false

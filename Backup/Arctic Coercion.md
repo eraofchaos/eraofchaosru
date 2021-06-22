@@ -2,7 +2,7 @@
 title: "Backup - Понукание морозом"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Эра хаоса  Понукание морозом"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Arctic Coercion.md"
 toc: false

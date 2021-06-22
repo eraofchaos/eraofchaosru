@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-1 Бессмертие"
 permalink: /Main Story/Chapter 20_1/
 excerpt: "Глава 20 - 1. Эра хаоса  Основной сюжет - Глава 20_1. 20-1 Бессмертие"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 20_1.md"
 toc: false

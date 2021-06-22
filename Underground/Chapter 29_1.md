@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 - 29-1  Фейерверк в ночи"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Глава 29 - 1. Эра хаоса  Подземелье - Глава 29_1. 29-1  Фейерверк в ночи"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 29_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Медаль богов. Талант вершины - Медаль богов"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Эра хаоса Талант вершины Медаль богов. Талант вершины Медаль богов. Медаль богов"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Medal of Gods.md"
 toc: false

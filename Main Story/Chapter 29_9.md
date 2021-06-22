@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-9. Охотничий домик"
 permalink: /Main Story/Chapter 29_9/
 excerpt: "Глава 29 - 9. Эра хаоса  Основной сюжет - Глава 29_9. 29-9. Охотничий домик"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 29_9.md"
 toc: false

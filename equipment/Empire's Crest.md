@@ -2,7 +2,7 @@
 title: "Эмблема империи"
 permalink: /equipment/Empire's Crest/
 excerpt: "Эра хаоса Эмблема империи. Эмблема империи"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Empire's Crest.md"
 toc: false

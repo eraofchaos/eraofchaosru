@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-3 Убежище"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Глава 2 - 3. Эра хаоса  Основной сюжет - Глава 2_3. 2-3 Убежище"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 2_3.md"
 toc: false

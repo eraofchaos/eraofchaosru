@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-2 Жестокость империи"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Глава 19 - 2. Эра хаоса  Основной сюжет - Глава 19_2. 19-2 Жестокость империи"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 19_2.md"
 toc: false

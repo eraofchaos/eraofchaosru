@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "index.md"
 toc: false
@@ -79,7 +79,7 @@ classes: wide
   | 57 | ![Мумия](/images/u/ti_munaiyi.jpg) | [Мумия](/ru/units/Mummy/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Король мумий  |
   | 58 | ![Нага](/images/u/ti_shenv.jpg) | [Нага](/ru/units/Naga/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Королева нага  |
   | 59 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ru/units/Wolf Rider/) | Штурм | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Разбойник на волке  |
-  | 60 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ru/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 60 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ru/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 61 | ![Огр](/images/u/ti_shirenmo.jpg) | [Огр](/ru/units/Ogre/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Огр-маг  |
   | 62 | ![Орк](/images/u/ti_shourentoufushou.jpg) | [Орк](/ru/units/Orc/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Главарь орков  |
   | 63 | ![Паладин](/images/u/ti_shengqishi.jpg) | [Паладин](/ru/units/Paladin/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Высший паладин  |
@@ -89,8 +89,8 @@ classes: wide
   | 67 | ![Порождение зла](/images/u/ti_diyulingzhu.jpg) | [Порождение зла](/ru/units/Pit Fiend/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Владыка бездны  |
   | 68 | ![Призрак](/images/u/ti_youling.jpg) | [Призрак](/ru/units/Wight/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Привидение  |
   | 69 | ![Регнанская прорицательница](/images/u/ti_haihou.jpg) | [Регнанская прорицательница](/ru/units/Regnan Seer/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Элементаль Приливов  |
-  | 70 | ![Регнанский змей](/images/u/ti_yurenyongshi.jpg) | [Регнанский змей](/ru/units/Regnan Serpent/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
-  | 71 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 70 | ![Регнанский змей](/images/u/ti_yurenyongshi.jpg) | [Регнанский змей](/ru/units/Regnan Serpent/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Страж Прилива  |
+  | 71 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Мертвоглазый охотник  |
   | 72 | ![Регнанский пират](/images/u/ti_haidao.jpg) | [Регнанский пират](/ru/units/Regnan Pirates/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Боцман-пират  |
   | 73 | ![Росянка](/images/u/ti_dufengcao.jpg) | [Росянка](/ru/units/Waspwort/) | Стрелковый | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 74 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |

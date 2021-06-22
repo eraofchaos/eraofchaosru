@@ -2,7 +2,7 @@
 title: "Система управления"
 permalink: /equipment/Control System/
 excerpt: "Эра хаоса Система управления. Система управления"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Control System.md"
 toc: false

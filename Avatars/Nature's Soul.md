@@ -2,7 +2,7 @@
 title: "Аватар - Природный дух"
 permalink: /Avatars/Nature's Soul/
 excerpt: "Эра хаоса  Природный дух"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Nature's Soul.md"
 toc: false

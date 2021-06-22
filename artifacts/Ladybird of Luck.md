@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова - Птица счастья"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Эра хаоса  Счастливая подкова - Птица счастья. Сияющая фигурка птицы. Компонент счастливой подковы."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Ladybird of Luck.md"
 toc: false

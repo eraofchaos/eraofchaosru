@@ -2,7 +2,7 @@
 title: "Аватар - Господство тьмы"
 permalink: /Avatars/Darkness Dominance/
 excerpt: "Эра хаоса  Господство тьмы"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Darkness Dominance.md"
 toc: false

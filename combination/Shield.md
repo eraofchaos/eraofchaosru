@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Щит"
 permalink: /combination/Shield/
 excerpt: "Информация о комбинации - Щит. Units and Heroes Formation."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Щит.md"
 toc: false

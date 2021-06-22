@@ -2,7 +2,7 @@
 title: "Доспех молнии"
 permalink: /equipment/Lightning's armor/
 excerpt: "Эра хаоса Доспех молнии. Доспех молнии"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Lightning's armor.md"
 toc: false

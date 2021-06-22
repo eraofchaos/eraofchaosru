@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-3 Нейтральная фракция"
 permalink: /Main Story/Chapter 12_3/
 excerpt: "Глава 12 - 3. Эра хаоса  Основной сюжет - Глава 12_3. 12-3 Нейтральная фракция"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 12_3.md"
 toc: false

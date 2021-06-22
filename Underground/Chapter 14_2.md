@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 14 - 14-2 Подземный коридор"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Глава 14 - 2. Эра хаоса  Подземелье - Глава 14_2. 14-2 Подземный коридор"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 14_2.md"
 toc: false

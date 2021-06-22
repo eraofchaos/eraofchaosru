@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 - 30-3  Точно в цель"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Глава 30 - 3. Эра хаоса  Подземелье - Глава 30_3. 30-3  Точно в цель"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 30_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Кожаный пояс"
 permalink: /equipment/Leather Belt/
 excerpt: "Эра хаоса Кожаный пояс. Кожаный пояс"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Leather Belt.md"
 toc: false

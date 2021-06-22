@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-2 Руины замка"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Глава 1 - 2. Эра хаоса  Основной сюжет - Глава 1_2. 1-2 Руины замка"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 1_2.md"
 toc: false

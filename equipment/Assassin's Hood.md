@@ -2,7 +2,7 @@
 title: "Капюшон ассасина"
 permalink: /equipment/Assassin's Hood/
 excerpt: "Эра хаоса Капюшон ассасина. Капюшон ассасина"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Assassin's Hood.md"
 toc: false

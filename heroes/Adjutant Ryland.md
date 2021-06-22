@@ -2,7 +2,7 @@
 title: "Адъютант Риланд"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Эра хаоса  Адъютант Риланд"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Adjutant Ryland.md"
 QR: adhero_60303

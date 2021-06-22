@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-7 Никогда не быть рабом"
 permalink: /Main Story/Chapter 21_7/
 excerpt: "Глава 21 - 7. Эра хаоса  Основной сюжет - Глава 21_7. 21-7 Никогда не быть рабом"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 21_7.md"
 toc: false

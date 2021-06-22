@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 20 - 20-4 Уничтожение элементалей"
 permalink: /Underground/Chapter 20_4/
 excerpt: "Глава 20 - 4. Эра хаоса  Подземелье - Глава 20_4. 20-4 Уничтожение элементалей"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 20_4.md"
 toc: false

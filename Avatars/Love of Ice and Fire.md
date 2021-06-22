@@ -2,7 +2,7 @@
 title: "Аватар - Любовь льда и огня"
 permalink: /Avatars/Love of Ice and Fire/
 excerpt: "Эра хаоса  Любовь льда и огня"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Love of Ice and Fire.md"
 toc: false

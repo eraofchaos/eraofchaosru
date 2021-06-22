@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-2 Хаос войны"
 permalink: /Main Story/Chapter 13_2/
 excerpt: "Глава 13 - 2. Эра хаоса  Основной сюжет - Глава 13_2. 13-2 Хаос войны"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 13_2.md"
 toc: false

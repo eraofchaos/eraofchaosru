@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-1 Гробница воина"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Глава 3 - 1. Эра хаоса  Основной сюжет - Глава 3_1. 3-1 Гробница воина"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 3_1.md"
 toc: false

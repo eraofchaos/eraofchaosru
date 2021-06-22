@@ -1,9 +1,9 @@
 ---
 title: "Регнанский змей"
 permalink: /units/Regnan Serpent/
-excerpt: "Эра хаоса Регнанский змей. Регнанский змей Отряды. . Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
+excerpt: "Эра хаоса Регнанский змей. Регнанский змей Отряды. Страж Прилива. Эра хаоса Верный слуга владыки морей. Силой волн он защищает честь и трон царя глубин."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Регнанский змей"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Страж Прилива](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Страж Прилива
 
- **Awaking Описание:** 
+ **Awaking Описание:** Шторм изгнал на берег все рыбацкие лодки, но для русалок это настоящий праздник! Они носятся по волнам и резвятся в потоках дождя, наслаждаясь своей природной силой. Это похоже на некий ритуал пробуждения.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Используйте регнанских змеев и хотя бы </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> отряда Убежища, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набеги не учитываются при выполнении этого задания)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> элемента снаряжения в Походе гильдии. </span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> душ стражей Прилива на уровнях 15-2 и 15-4 в Подземелье. </span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Победите в Дуэли заступников </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> раз, используя регнанских змеев. </span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Описание:** 
+### 1st Skill (or 2nd): Встряска глубин
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Топот глубин&gt;: </span><span style="color: #645252;font-size:18px">наносит удвоенный урон и снижает урон выбранного отряда на 20% на 5 сек.</span>
 
-### 2nd Skill (or 1st): 
- **Описание:** 
+### 2nd Skill (or 1st): Встряска океана
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Топот глубин&gt;: </span><span style="color: #645252;font-size:18px">наносит удвоенный урон и снижает сопротивление урону у выбранного отряда на 20% на 5 сек.</span>
 
-### 3rd Skill (or 4th): 
- **Описание:** 
+### 3rd Skill (or 4th): Страж Прилива
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Путеводный прилив&gt;: </span><span style="color: #645252;font-size:18px">число суммарных уровней эффекта повышается на 2.</span>
 
-### 4th Skill (or 3rd): 
- **Описание:** 
+### 4th Skill (or 3rd): Путеводный поток
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Путеводный прилив&gt;: </span><span style="color: #645252;font-size:18px">эффект каждого уровня этого умения повышается на 50%.</span>
 
-### 5th Skill (or 6th): 
- **Описание:** 
+### 5th Skill (or 6th): Рог акульего стража
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевой рог&gt;:</span><span style="color: #645252;font-size:18px"> вражеские отряды в большом радиусе вокруг вас теряют 20% защиты и 100 ед. стойкости на 7 сек. Против замедленных отрядов эффект повышается на 50%.</span>
 
-### 6th Skill (or 5th): 
- **Описание:** 
+### 6th Skill (or 5th): Рог русалок
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Боевой рог&gt;:</span><span style="color: #645252;font-size:18px"> вражеские отряды в большом радиусе вокруг вас теряют 20% скорости атаки и 100 ед. крит. удара на 7 сек. Против замедленных отрядов эффект повышается на 50%.</span>
 
 ## Technical info
  **runart:** 1

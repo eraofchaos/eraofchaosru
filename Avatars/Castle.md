@@ -2,7 +2,7 @@
 title: "Аватар - Замок"
 permalink: /Avatars/Castle/
 excerpt: "Эра хаоса  Замок"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Castle.md"
 toc: false

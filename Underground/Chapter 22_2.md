@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-2 Выбор будущего"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Глава 22 - 2. Эра хаоса  Подземелье - Глава 22_2. 22-2 Выбор будущего"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 22_2.md"
 toc: false

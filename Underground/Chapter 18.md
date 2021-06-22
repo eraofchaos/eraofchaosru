@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 18 Сделка с дьяволом"
 permalink: /Underground/Chapter 18/
 excerpt: "Глава 18 Сделка с дьяволом. Эра хаоса  Подземелье - Глава 18. Сделка с дьяволом"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 18.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-4 Непримиримость"
 permalink: /Main Story/Chapter 12_4/
 excerpt: "Глава 12 - 4. Эра хаоса  Основной сюжет - Глава 12_4. 12-4 Непримиримость"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 12_4.md"
 toc: false

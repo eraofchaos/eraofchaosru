@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 Остров Эверморн"
 permalink: /Main Story/Chapter 1/
 excerpt: "Глава 1. Эра хаоса  Основной сюжет - Глава 1. Остров Эверморн"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 1.md"
 toc: false

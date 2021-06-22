@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 - 10-1 Ожидание во тьме"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Глава 10 - 1. Эра хаоса  Подземелье - Глава 10_1. 10-1 Ожидание во тьме"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 10_1.md"
 toc: false

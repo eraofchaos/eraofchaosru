@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-12 Неприятное впечатление"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Глава 21 - 12. Эра хаоса  Основной сюжет - Глава 21_12. 21-12 Неприятное впечатление"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 21_12.md"
 toc: false

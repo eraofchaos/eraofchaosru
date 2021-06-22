@@ -2,7 +2,7 @@
 title: "Меч владык. Талант вершины - Меч владык"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Эра хаоса Талант вершины Меч владык. Талант вершины Меч владык. Меч владык"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Sword of Lords.md"
 toc: false

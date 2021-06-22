@@ -2,7 +2,7 @@
 title: "Ядро Полярной звезды"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Эра хаоса Ядро Полярной звезды. Ядро Полярной звезды"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Core of the Pole Star.md"
 toc: false

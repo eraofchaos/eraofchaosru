@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 15 - 15-5 Врата ада"
 permalink: /Underground/Chapter 15_5/
 excerpt: "Глава 15 - 5. Эра хаоса  Подземелье - Глава 15_5. 15-5 Врата ада"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 15_5.md"
 toc: false

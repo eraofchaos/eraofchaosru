@@ -2,7 +2,7 @@
 title: "Аватар - Мореход"
 permalink: /Avatars/Patroller of the Sea/
 excerpt: "Эра хаоса  Мореход"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Patroller of the Sea.md"
 toc: false

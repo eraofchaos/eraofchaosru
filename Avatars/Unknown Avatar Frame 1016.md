@@ -2,7 +2,7 @@
 title: "Аватар - Unknown Avatar Frame 1016"
 permalink: /Avatars/Unknown Avatar Frame 1016/
 excerpt: "Эра хаоса  Unknown Avatar Frame 1016"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Unknown Avatar Frame 1016.md"
 toc: false

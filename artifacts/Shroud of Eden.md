@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Плащаница Эдема"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Эра хаоса  Золотое яблоко - Плащаница Эдема. Легендарная плащаница Сына Божьего, подлинность установить невозможно."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Shroud of Eden.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Аватар - Всемирная слава"
 permalink: /Avatars/Fame on the High Seas/
 excerpt: "Эра хаоса  Всемирная слава"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Fame on the High Seas.md"
 toc: false

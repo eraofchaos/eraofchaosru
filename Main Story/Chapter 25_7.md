@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-7 Первое семейство"
 permalink: /Main Story/Chapter 25_7/
 excerpt: "Глава 25 - 7. Эра хаоса  Основной сюжет - Глава 25_7. 25-7 Первое семейство"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 25_7.md"
 toc: false

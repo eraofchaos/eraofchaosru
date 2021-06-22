@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Летучий змей Эксклюзив."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Serpent Fly Таинственное пение.md"
 toc: false

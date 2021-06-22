@@ -2,7 +2,7 @@
 title: "Шипастые наплечники"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Эра хаоса Шипастые наплечники. Шипастые наплечники"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Spiked Pauldrons.md"
 toc: false

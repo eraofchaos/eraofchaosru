@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-7. Поклонение богам"
 permalink: /Main Story/Chapter 28_7/
 excerpt: "Глава 28 - 7. Эра хаоса  Основной сюжет - Глава 28_7. 28-7. Поклонение богам"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Chapter 28_7.md"
 toc: false

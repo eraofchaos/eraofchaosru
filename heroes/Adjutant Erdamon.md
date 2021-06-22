@@ -2,7 +2,7 @@
 title: "Адъютант Эрдамон"
 permalink: /heroes/Adjutant Erdamon/
 excerpt: "Эра хаоса  Адъютант Эрдамон"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Adjutant Erdamon.md"
 QR: adhero_60703

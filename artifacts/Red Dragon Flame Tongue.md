@@ -2,7 +2,7 @@
 title: "Артефакт - Сила Отца драконов - Огненный язык красного дракона"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Эра хаоса  Сила Отца драконов - Огненный язык красного дракона. Меч из кристаллов огненного дракона. Компонент силы Отца драконов."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: ru
 ref: "Red Dragon Flame Tongue.md"
 toc: false
