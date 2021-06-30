@@ -2,7 +2,7 @@
 title: "Талисман племени"
 permalink: /equipment/Tribal Talisman/
 excerpt: "Эра хаоса Талисман племени. Талисман племени"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Tribal Talisman.md"
 toc: false

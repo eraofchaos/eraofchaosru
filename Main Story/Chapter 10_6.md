@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-6 В поисках осколков"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Глава 10 - 6. Эра хаоса  Основной сюжет - Глава 10_6. 10-6 В поисках осколков"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 10_6.md"
 toc: false

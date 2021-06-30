@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 Безопасный путь"
 permalink: /Main Story/Chapter 14/
 excerpt: "Глава 14. Эра хаоса  Основной сюжет - Глава 14. Безопасный путь"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 14.md"
 toc: false

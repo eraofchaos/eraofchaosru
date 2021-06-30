@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-9. Камера очистки ртути"
 permalink: /Main Story/Chapter 30_9/
 excerpt: "Глава 30 - 9. Эра хаоса  Основной сюжет - Глава 30_9. 30-9. Камера очистки ртути"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 30_9.md"
 toc: false

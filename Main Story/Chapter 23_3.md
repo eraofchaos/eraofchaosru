@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-3 Ржавый метал"
 permalink: /Main Story/Chapter 23_3/
 excerpt: "Глава 23 - 3. Эра хаоса  Основной сюжет - Глава 23_3. 23-3 Ржавый метал"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 23_3.md"
 toc: false

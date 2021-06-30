@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Призрак Эксклюзив."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Wight Таинственное пение.md"
 toc: false

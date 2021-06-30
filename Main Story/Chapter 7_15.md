@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-15 Конец героя"
 permalink: /Main Story/Chapter 7_15/
 excerpt: "Глава 7 - 15. Эра хаоса  Основной сюжет - Глава 7_15. 7-15 Конец героя"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 7_15.md"
 toc: false

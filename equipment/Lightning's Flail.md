@@ -2,7 +2,7 @@
 title: "Цеп молнии"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Эра хаоса Цеп молнии. Цеп молнии"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Lightning's Flail.md"
 toc: false

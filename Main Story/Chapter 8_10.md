@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-10 Город в озере"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Глава 8 - 10. Эра хаоса  Основной сюжет - Глава 8_10. 8-10 Город в озере"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 8_10.md"
 toc: false

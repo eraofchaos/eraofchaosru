@@ -3,7 +3,7 @@ title: "Гнолл"
 permalink: /units/Gnoll/
 excerpt: "Эра хаоса Гнолл. Гнолл Отряды. Гнолл-воин. Эра хаоса Свирепые хищники, обитающие в болотах. Они предпочитают атаковать группами, окружая одиночную или слабую жертву."
 unitID: 801
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Гнолл"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Имя:** [Меч](/ru/Exclusive/Gnoll Sword/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Повысить ранг :** [Жетон меча](/ItemsRU/con_912/)
 

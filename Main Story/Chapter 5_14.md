@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-14 Доспех дракона"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Глава 5 - 14. Эра хаоса  Основной сюжет - Глава 5_14. 5-14 Доспех дракона"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 5_14.md"
 toc: false

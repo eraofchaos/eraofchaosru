@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Эра хаоса Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Faction Fortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Белый тигр](/images/u/ti_baihu.jpg) | [Белый тигр](/ru/units/White Tiger/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 2 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Гнолл-воин  |
+  | 2 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Гнолл-воин  |
   | 3 | ![Ящер](/images/u/ti_xiyiren.jpg) | [Ящер](/ru/units/Lizardman/) | Стрелковый | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 4 | ![Летучий змей](/images/u/ti_longying.jpg) | [Летучий змей](/ru/units/Serpent Fly/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Ядовитый змей  |
   | 5 | ![Василиск](/images/u/ti_xiyi.jpg) | [Василиск](/ru/units/Basilisk/) | Защита | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

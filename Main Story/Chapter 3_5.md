@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-5 Замок с привидениями"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Глава 3 - 5. Эра хаоса  Основной сюжет - Глава 3_5. 3-5 Замок с привидениями"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 3_5.md"
 toc: false

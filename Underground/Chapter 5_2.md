@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 5 - 5-2 Армия приближается"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Глава 5 - 2. Эра хаоса  Подземелье - Глава 5_2. 5-2 Армия приближается"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 5_2.md"
 toc: false

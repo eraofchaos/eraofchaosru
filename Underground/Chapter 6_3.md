@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 - 6-3 Быстрое продвижение"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Глава 6 - 3. Эра хаоса  Подземелье - Глава 6_3. 6-3 Быстрое продвижение"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 6_3.md"
 toc: false

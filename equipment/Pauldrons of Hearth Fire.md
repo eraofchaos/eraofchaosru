@@ -2,7 +2,7 @@
 title: "Наплечники печного огня"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Эра хаоса Наплечники печного огня. Наплечники печного огня"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

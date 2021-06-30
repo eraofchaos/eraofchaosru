@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Копейщик Эксклюзив."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Pikeman Меч.md"
 toc: false

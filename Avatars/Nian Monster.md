@@ -2,7 +2,7 @@
 title: "Аватар - Монстр Нянь"
 permalink: /Avatars/Nian Monster/
 excerpt: "Эра хаоса  Монстр Нянь"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Nian Monster.md"
 toc: false

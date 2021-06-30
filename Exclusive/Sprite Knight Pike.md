@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Фея Эксклюзив."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Sprite Копье рыцаря.md"
 toc: false

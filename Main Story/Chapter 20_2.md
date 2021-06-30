@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-2 Магия желания"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Глава 20 - 2. Эра хаоса  Основной сюжет - Глава 20_2. 20-2 Магия желания"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 20_2.md"
 toc: false

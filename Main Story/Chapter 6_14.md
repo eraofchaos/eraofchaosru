@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-14 Прорыв"
 permalink: /Main Story/Chapter 6_14/
 excerpt: "Глава 6 - 14. Эра хаоса  Основной сюжет - Глава 6_14. 6-14 Прорыв"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 6_14.md"
 toc: false

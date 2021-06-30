@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR -  Heroes"
 permalink: /heroes/Hero Rank SR/
 excerpt: "Эра хаоса Hero Rank SR. Hero Rank SR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Hero Rank SR"
 toc: false

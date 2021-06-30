@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 Сделка с дьяволом"
 permalink: /Main Story/Chapter 18/
 excerpt: "Глава 18. Эра хаоса  Основной сюжет - Глава 18. Сделка с дьяволом"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 18.md"
 toc: false

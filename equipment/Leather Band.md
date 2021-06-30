@@ -2,7 +2,7 @@
 title: "Кожаная лента"
 permalink: /equipment/Leather Band/
 excerpt: "Эра хаоса Кожаная лента. Кожаная лента"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Leather Band.md"
 toc: false

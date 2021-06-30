@@ -2,7 +2,7 @@
 title: "Наплечники ритуала"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Эра хаоса Наплечники ритуала. Наплечники ритуала"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Pauldrons of Ritual.md"
 toc: false

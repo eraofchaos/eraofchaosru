@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-4 Семья хранителя драконов"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Глава 25 - 4. Эра хаоса  Основной сюжет - Глава 25_4. 25-4 Семья хранителя драконов"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 25_4.md"
 toc: false

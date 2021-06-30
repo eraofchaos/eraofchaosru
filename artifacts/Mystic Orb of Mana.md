@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея - Волшебная сфера маны"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Эра хаоса  Источник чародея - Волшебная сфера маны. Хрустальный шар, обладающий сильной магией. Компонент источника чародея."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Mystic Orb of Mana.md"
 toc: false

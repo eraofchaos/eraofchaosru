@@ -2,7 +2,7 @@
 title: "Аватар - Душа земли"
 permalink: /Avatars/Soul of Earth/
 excerpt: "Эра хаоса  Душа земли"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Soul of Earth.md"
 toc: false

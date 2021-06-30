@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "index.md"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 15 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Гарпия  |
   | 16 | ![Гигант](/images/u/ti_taitan.jpg) | [Гигант](/ru/units/Giant/) | Заклинатель | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Вестник грома  |
   | 17 | ![Гидра](/images/u/ti_duotoulong.jpg) | [Гидра](/ru/units/Hydra/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Гидра хаоса  |
-  | 18 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Гнолл-воин  |
+  | 18 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Гнолл-воин  |
   | 19 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 20 | ![Гоблин](/images/u/ti_shourenzhanshi.jpg) | [Гоблин](/ru/units/Goblin/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Хобгоблин  |
   | 21 | ![Гог](/images/u/ti_touhuoguai.jpg) | [Гог](/ru/units/Gog/) | Заклинатель | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Магог  |

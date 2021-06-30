@@ -2,7 +2,7 @@
 title: "Квадратный щит оборотня"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Эра хаоса Квадратный щит оборотня. Квадратный щит оборотня"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Werewolf's Square Shield.md"
 toc: false

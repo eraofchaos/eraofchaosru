@@ -2,7 +2,7 @@
 title: "Аватар - Воля элементаля"
 permalink: /Avatars/Conflux Will/
 excerpt: "Эра хаоса  Воля элементаля"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Conflux Will.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-5 Армия на марше"
 permalink: /Main Story/Chapter 12_5/
 excerpt: "Глава 12 - 5. Эра хаоса  Основной сюжет - Глава 12_5. 12-5 Армия на марше"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 12_5.md"
 toc: false

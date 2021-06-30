@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-15 Город серы и пламени"
 permalink: /Main Story/Chapter 23_15/
 excerpt: "Глава 23 - 15. Эра хаоса  Основной сюжет - Глава 23_15. 23-15 Город серы и пламени"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 23_15.md"
 toc: false

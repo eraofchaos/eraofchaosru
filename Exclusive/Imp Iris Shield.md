@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Бес Эксклюзив."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Imp Славный щит.md"
 toc: false

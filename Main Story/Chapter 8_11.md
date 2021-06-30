@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-11 Лесной эльф"
 permalink: /Main Story/Chapter 8_11/
 excerpt: "Глава 8 - 11. Эра хаоса  Основной сюжет - Глава 8_11. 8-11 Лесной эльф"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 8_11.md"
 toc: false

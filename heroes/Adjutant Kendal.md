@@ -2,7 +2,7 @@
 title: "Адъютант Кендал"
 permalink: /heroes/Adjutant Kendal/
 excerpt: "Эра хаоса  Адъютант Кендал"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Adjutant Kendal.md"
 QR: adhero_60104

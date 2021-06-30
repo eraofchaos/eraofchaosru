@@ -2,7 +2,7 @@
 title: "Аватар - Крыло дракона"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "Эра хаоса  Крыло дракона"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Foolbatt's Squama.md"
 toc: false

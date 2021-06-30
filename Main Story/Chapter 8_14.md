@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-14 Сухой лес"
 permalink: /Main Story/Chapter 8_14/
 excerpt: "Глава 8 - 14. Эра хаоса  Основной сюжет - Глава 8_14. 8-14 Сухой лес"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 8_14.md"
 toc: false

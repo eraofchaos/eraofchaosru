@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 - 28-1  Праздник топоров"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Глава 28 - 1. Эра хаоса  Подземелье - Глава 28_1. 28-1  Праздник топоров"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 28_1.md"
 toc: false

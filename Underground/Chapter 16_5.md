@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 16 - 16-5 Молитва с небес"
 permalink: /Underground/Chapter 16_5/
 excerpt: "Глава 16 - 5. Эра хаоса  Подземелье - Глава 16_5. 16-5 Молитва с небес"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 16_5.md"
 toc: false

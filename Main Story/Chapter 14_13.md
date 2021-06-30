@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 14 - 14-13 Приближение к цели"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Глава 14 - 13. Эра хаоса  Основной сюжет - Глава 14_13. 14-13 Приближение к цели"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 14_13.md"
 toc: false

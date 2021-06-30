@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Эра хаоса Эксклюзив Fortress. Эксклюзив Fortress. List of Эксклюзив Fortress in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Exclusive Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Гнолл](/ru/units/Gnoll/) | [Меч](/ru/Exclusive/Gnoll Sword/) | - | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
+  | 1  | [Гнолл](/ru/units/Gnoll/) | [Меч](/ru/Exclusive/Gnoll Sword/) | + | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
   | 2  | [Ящер](/ru/units/Lizardman/) | [Длинный лук](/ru/Exclusive/Lizardman Long Bow/) | + | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |
   | 3  | [Летучий змей](/ru/units/Serpent Fly/) | [Таинственное пение](/ru/Exclusive/Serpent Fly Arcane Chant/) | + | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
   | 4  | [Василиск](/ru/units/Basilisk/) | [Энергия огня](/ru/Exclusive/Basilisk Basilisk's Tail/) | - | Стрелковый | [Жетон Энергии огня](/ItemsRU/con_994/) | [Особый облик: Энергия Огня](/ItemsRU/con_662/) |

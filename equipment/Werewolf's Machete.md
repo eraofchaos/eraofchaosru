@@ -2,7 +2,7 @@
 title: "Мачете оборотня"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "Эра хаоса Мачете оборотня. Мачете оборотня"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Werewolf's Machete.md"
 toc: false

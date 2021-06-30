@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-11 Башня Среброкрыла"
 permalink: /Main Story/Chapter 4_11/
 excerpt: "Глава 4 - 11. Эра хаоса  Основной сюжет - Глава 4_11. 4-11 Башня Среброкрыла"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 4_11.md"
 toc: false

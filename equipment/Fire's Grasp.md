@@ -2,7 +2,7 @@
 title: "Огненный захват"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Эра хаоса Огненный захват. Огненный захват"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Fire's Grasp.md"
 toc: false

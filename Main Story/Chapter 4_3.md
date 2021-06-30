@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-3 Вулканический кристалл"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "Глава 4 - 3. Эра хаоса  Основной сюжет - Глава 4_3. 4-3 Вулканический кристалл"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 4_3.md"
 toc: false

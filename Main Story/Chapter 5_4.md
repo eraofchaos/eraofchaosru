@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-4 Поле боя"
 permalink: /Main Story/Chapter 5_4/
 excerpt: "Глава 5 - 4. Эра хаоса  Основной сюжет - Глава 5_4. 5-4 Поле боя"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 5_4.md"
 toc: false

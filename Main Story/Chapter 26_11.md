@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-11 Проводник бехолдера"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Глава 26 - 11. Эра хаоса  Основной сюжет - Глава 26_11. 26-11 Проводник бехолдера"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 26_11.md"
 toc: false

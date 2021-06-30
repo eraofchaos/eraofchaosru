@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-6 Дракон и погода"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "Глава 22 - 6. Эра хаоса  Основной сюжет - Глава 22_6. 22-6 Дракон и погода"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 22_6.md"
 toc: false

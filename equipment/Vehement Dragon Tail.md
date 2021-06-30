@@ -2,7 +2,7 @@
 title: "Неистовый хвост дракона"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Эра хаоса Неистовый хвост дракона. Неистовый хвост дракона"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Vehement Dragon Tail.md"
 toc: false

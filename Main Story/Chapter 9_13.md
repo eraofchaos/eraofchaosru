@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-13 Армия королевства"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Глава 9 - 13. Эра хаоса  Основной сюжет - Глава 9_13. 9-13 Армия королевства"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 9_13.md"
 toc: false

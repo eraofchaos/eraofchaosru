@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-13. Мастерская"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Глава 28 - 13. Эра хаоса  Основной сюжет - Глава 28_13. 28-13. Мастерская"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 28_13.md"
 toc: false

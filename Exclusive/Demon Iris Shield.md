@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Демон Эксклюзив."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Demon Славный щит.md"
 toc: false

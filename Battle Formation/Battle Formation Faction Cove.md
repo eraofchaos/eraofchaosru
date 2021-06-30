@@ -2,7 +2,7 @@
 title: "Боевое построение Убежище"
 permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "Боевое построение Убежище"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "BattleFormationFactionCove"
 toc: false

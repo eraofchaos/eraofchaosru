@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "Эра хаоса Корбак. Корбак. Корбак известен в Эрафии как герой, который спас ученого Вальжана. Как бы то ни было, Корбак подтвердил свои навыки службой Таталии."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Korbac"
 toc: true

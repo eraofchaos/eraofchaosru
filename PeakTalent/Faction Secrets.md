@@ -2,7 +2,7 @@
 title: "Секреты фракции. Талант вершины - Секреты фракции"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Эра хаоса Талант вершины Секреты фракции. Талант вершины Секреты фракции. Секреты фракции"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Faction Secrets.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ядовитый шип"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Эра хаоса Ядовитый шип. Ядовитый шип"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Toxic Thorn.md"
 toc: false

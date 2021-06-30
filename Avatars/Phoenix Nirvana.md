@@ -2,7 +2,7 @@
 title: "Аватар - Нирвана феникса"
 permalink: /Avatars/Phoenix Nirvana/
 excerpt: "Эра хаоса  Нирвана феникса"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Phoenix Nirvana.md"
 toc: false

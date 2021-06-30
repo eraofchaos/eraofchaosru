@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Эра хаоса  Источник чародея. Источник чародея Магический предмет, созданный для борьбы с демонами. Повышает скорость восстановления очков магии."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Wizard's Well.md"
 toc: false

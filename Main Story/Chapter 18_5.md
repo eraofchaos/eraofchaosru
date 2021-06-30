@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-5 Союз разбойников"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "Глава 18 - 5. Эра хаоса  Основной сюжет - Глава 18_5. 18-5 Союз разбойников"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 18_5.md"
 toc: false

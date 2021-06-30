@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-8 Происхождение Подземелья"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Глава 25 - 8. Эра хаоса  Основной сюжет - Глава 25_8. 25-8 Происхождение Подземелья"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 25_8.md"
 toc: false

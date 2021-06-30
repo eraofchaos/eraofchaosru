@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 - 27-1 Макробианцы"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Глава 27 - 1. Эра хаоса  Подземелье - Глава 27_1. 27-1 Макробианцы"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Chapter 27_1.md"
 toc: false

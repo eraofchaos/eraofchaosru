@@ -2,7 +2,7 @@
 title: "Платье реквиема"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Эра хаоса Платье реквиема. Платье реквиема"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Dress of Requiem.md"
 toc: false

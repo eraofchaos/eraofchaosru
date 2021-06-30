@@ -2,7 +2,7 @@
 title: "Аватар - Unknown Avatar Frame 1035"
 permalink: /Avatars/Unknown Avatar Frame 1035/
 excerpt: "Эра хаоса  Unknown Avatar Frame 1035"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Unknown Avatar Frame 1035.md"
 toc: false

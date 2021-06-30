@@ -2,7 +2,7 @@
 title: "Аватар - Снежный дракон"
 permalink: /Avatars/Shadow of Ice Kingdom Dragon/
 excerpt: "Эра хаоса  Снежный дракон"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Shadow of Ice Kingdom Dragon.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Праведная бандана"
 permalink: /equipment/Righteous Headband/
 excerpt: "Эра хаоса Праведная бандана. Праведная бандана"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: ru
 ref: "Righteous Headband.md"
 toc: false
