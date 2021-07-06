@@ -2,7 +2,7 @@
 title: "Артефакт - Зеркало возмездия - Ледяные весы"
 permalink: /artifacts/Ice Scale/
 excerpt: "Эра хаоса  Зеркало возмездия - Ледяные весы. Предмет для управления магией Льда. Один из компонентов зеркала возмездия."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Ice Scale.md"
 toc: false

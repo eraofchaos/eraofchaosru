@@ -2,7 +2,7 @@
 title: "Аватар - Правитель мороза"
 permalink: /Avatars/Ruler of Frost/
 excerpt: "Эра хаоса  Правитель мороза"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Ruler of Frost.md"
 toc: false

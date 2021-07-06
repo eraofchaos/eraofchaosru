@@ -2,7 +2,7 @@
 title: "Наплечники империи"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Эра хаоса Наплечники империи. Наплечники империи"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Empire's Pauldrons.md"
 toc: false

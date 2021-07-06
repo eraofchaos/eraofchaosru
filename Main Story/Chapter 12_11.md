@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-11 Вместе"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Глава 12 - 11. Эра хаоса  Основной сюжет - Глава 12_11. 12-11 Вместе"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 12_11.md"
 toc: false

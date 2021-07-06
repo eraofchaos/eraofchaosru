@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-2 Встреча армий"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Глава 6 - 2. Эра хаоса  Основной сюжет - Глава 6_2. 6-2 Встреча армий"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 6_2.md"
 toc: false

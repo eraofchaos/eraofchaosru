@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-4 Хищники"
 permalink: /Underground/Chapter 24_4/
 excerpt: "Глава 24 - 4. Эра хаоса  Подземелье - Глава 24_4. 24-4 Хищники"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 24_4.md"
 toc: false

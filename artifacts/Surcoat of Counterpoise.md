@@ -2,7 +2,7 @@
 title: "Артефакт - Рунный камень антимагии - Плащ равновесия"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "Эра хаоса  Рунный камень антимагии - Плащ равновесия. Плащ с вышитым символом инь-ян. Компонент рунного камня антимагии."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Surcoat of Counterpoise.md"
 toc: false

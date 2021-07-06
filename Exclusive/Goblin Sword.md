@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Гоблин Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Goblin Меч.md"
 toc: false

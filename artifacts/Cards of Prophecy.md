@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова - Карты пророчества"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Эра хаоса  Счастливая подкова - Карты пророчества. Гадальная карта с сильной магией. Компонент счастливой подковы."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Cards of Prophecy.md"
 toc: false

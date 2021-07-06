@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-7 Погоня"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Глава 13 - 7. Эра хаоса  Основной сюжет - Глава 13_7. 13-7 Погоня"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 13_7.md"
 toc: false

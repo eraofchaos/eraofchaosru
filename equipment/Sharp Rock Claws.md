@@ -2,7 +2,7 @@
 title: "Острые каменные когти"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Эра хаоса Острые каменные когти. Острые каменные когти"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Sharp Rock Claws.md"
 toc: false

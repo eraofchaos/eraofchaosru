@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 21 - 21-5 Судьба разрушения"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Глава 21 - 5. Эра хаоса  Подземелье - Глава 21_5. 21-5 Судьба разрушения"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 21_5.md"
 toc: false

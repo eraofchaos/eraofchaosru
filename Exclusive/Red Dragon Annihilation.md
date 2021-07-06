@@ -2,7 +2,7 @@
 title: "Эксклюзив - Уничтожитель (Red Dragon)"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Эра хаоса Уничтожитель. Уничтожитель. Эра хаоса Эксклюзив Уничтожитель. Красный дракон Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Red Dragon Уничтожитель.md"
 toc: false

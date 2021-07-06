@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 4 - 4-2 Осада"
 permalink: /Underground/Chapter 4_2/
 excerpt: "Глава 4 - 2. Эра хаоса  Подземелье - Глава 4_2. 4-2 Осада"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 4_2.md"
 toc: false

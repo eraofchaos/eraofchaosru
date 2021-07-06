@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-1. В глубинах"
 permalink: /Main Story/Chapter 28_1/
 excerpt: "Глава 28 - 1. Эра хаоса  Основной сюжет - Глава 28_1. 28-1. В глубинах"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 28_1.md"
 toc: false

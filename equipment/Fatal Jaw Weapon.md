@@ -2,7 +2,7 @@
 title: "Смертельная челюсть"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Эра хаоса Смертельная челюсть. Смертельная челюсть"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Fatal Jaw Weapon.md"
 toc: false

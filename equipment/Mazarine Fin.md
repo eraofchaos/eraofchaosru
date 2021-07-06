@@ -2,7 +2,7 @@
 title: "Кобальтово-синий плавник"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Эра хаоса Кобальтово-синий плавник. Кобальтово-синий плавник"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Mazarine Fin.md"
 toc: false

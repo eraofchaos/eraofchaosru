@@ -2,7 +2,7 @@
 title: "Сережки правителя"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Эра хаоса Сережки правителя. Сережки правителя"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Ruler's Earrings.md"
 toc: false

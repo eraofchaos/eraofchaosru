@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 8 - 8-15 Храброе наступление"
 permalink: /Main Story/Chapter 8_15/
 excerpt: "Глава 8 - 15. Эра хаоса  Основной сюжет - Глава 8_15. 8-15 Храброе наступление"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 8_15.md"
 toc: false

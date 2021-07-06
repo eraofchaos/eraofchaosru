@@ -2,7 +2,7 @@
 title: "Артефакт - Топор ярости"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Эра хаоса  Топор ярости. Топор ярости Оружие, выкованное из священных реликвий разных рас. Может усиливать умения ближнего боя."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Axe of Ferocity.md"
 toc: false

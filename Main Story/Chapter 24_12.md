@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-12 Город без драконов"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "Глава 24 - 12. Эра хаоса  Основной сюжет - Глава 24_12. 24-12 Город без драконов"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 24_12.md"
 toc: false

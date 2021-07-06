@@ -2,7 +2,7 @@
 title: "Когтистый убийца"
 permalink: /equipment/Claw Killer/
 excerpt: "Эра хаоса Когтистый убийца. Когтистый убийца"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Claw Killer.md"
 toc: false

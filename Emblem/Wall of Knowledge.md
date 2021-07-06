@@ -2,7 +2,7 @@
 title: "Эмблема святости - Стена познания"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Эра хаоса Стена познания. Стена познания. Эра хаоса Эмблема святости Стена познания. Эра хаоса Добро Стена познания"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Wall of Knowledge.md"
 toc: false

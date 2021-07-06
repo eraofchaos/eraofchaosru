@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 Туннели и троглодиты"
 permalink: /Main Story/Chapter 28/
 excerpt: "Глава 28. Эра хаоса  Основной сюжет - Глава 28. Туннели и троглодиты"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 28.md"
 toc: false

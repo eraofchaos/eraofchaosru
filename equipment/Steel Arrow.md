@@ -2,7 +2,7 @@
 title: "Стальная стрела"
 permalink: /equipment/Steel Arrow/
 excerpt: "Эра хаоса Стальная стрела. Стальная стрела"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Steel Arrow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Огр Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Ogre Славный щит.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Неуязвимость к стихиям. Талант вершины - Неуязвимость к стихиям"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Эра хаоса Талант вершины Неуязвимость к стихиям. Талант вершины Неуязвимость к стихиям. Неуязвимость к стихиям"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Elemental Immunization.md"
 toc: false

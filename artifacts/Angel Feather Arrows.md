@@ -2,7 +2,7 @@
 title: "Артефакт - Лук снайпера - Стрелы с перьями ангела"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Эра хаоса  Лук снайпера - Стрелы с перьями ангела. Эльфийская волшебная стрела. Компонент лука снайпера."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Angel Feather Arrows.md"
 toc: false

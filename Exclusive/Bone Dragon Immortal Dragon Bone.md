@@ -2,7 +2,7 @@
 title: "Эксклюзив - Кость бессмертного дракона (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Эра хаоса Кость бессмертного дракона. Кость бессмертного дракона. Эра хаоса Эксклюзив Кость бессмертного дракона. Костяной дракон Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Bone Dragon Кость бессмертного дракона.md"
 toc: false

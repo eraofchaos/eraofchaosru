@@ -2,7 +2,7 @@
 title: "Рожденный быть королем. Талант вершины - Рожденный быть королем"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Эра хаоса Талант вершины Рожденный быть королем. Талант вершины Рожденный быть королем. Рожденный быть королем"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Born to Be King.md"
 toc: false

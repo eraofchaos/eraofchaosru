@@ -2,7 +2,7 @@
 title: "Эксклюзив - Длинный лук (Wood Elf)"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Лесной эльф Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Wood Elf Длинный лук.md"
 toc: false

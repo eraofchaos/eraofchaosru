@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 13 - 13-5 Правосудие седьмого дня"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Глава 13 - 5. Эра хаоса  Подземелье - Глава 13_5. 13-5 Правосудие седьмого дня"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 13_5.md"
 toc: false

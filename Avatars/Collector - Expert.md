@@ -2,7 +2,7 @@
 title: "Аватар - Коллекционер III"
 permalink: /Avatars/Collector - Expert/
 excerpt: "Эра хаоса  Коллекционер III"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Collector - Expert.md"
 toc: false

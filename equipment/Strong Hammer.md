@@ -2,7 +2,7 @@
 title: "Мощный молот"
 permalink: /equipment/Strong Hammer/
 excerpt: "Эра хаоса Мощный молот. Мощный молот"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Strong Hammer.md"
 toc: false

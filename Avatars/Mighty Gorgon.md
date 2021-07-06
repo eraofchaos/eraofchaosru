@@ -2,7 +2,7 @@
 title: "Аватар - Могучая горгона"
 permalink: /Avatars/Mighty Gorgon/
 excerpt: "Эра хаоса  Могучая горгона"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Mighty Gorgon.md"
 toc: false

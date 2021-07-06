@@ -2,7 +2,7 @@
 title: "Могущественный пояс"
 permalink: /equipment/Mighty Belt/
 excerpt: "Эра хаоса Могущественный пояс. Могущественный пояс"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Mighty Belt.md"
 toc: false

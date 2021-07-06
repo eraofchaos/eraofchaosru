@@ -2,7 +2,7 @@
 title: "Артефакт - Ангельский союз"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Эра хаоса  Ангельский союз. Ангельский союз Священная реликвия, выкованная из ценных предметов силой ангелов. Увеличивает силу ваших союзников."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Angelic Alliance.md"
 toc: false

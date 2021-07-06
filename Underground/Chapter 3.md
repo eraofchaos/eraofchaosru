@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 3 Утесы грифонов"
 permalink: /Underground/Chapter 3/
 excerpt: "Глава 3 Утесы грифонов. Эра хаоса  Подземелье - Глава 3. Утесы грифонов"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 3.md"
 toc: false

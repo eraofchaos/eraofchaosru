@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-4. Мудрый энт"
 permalink: /Main Story/Chapter 30_4/
 excerpt: "Глава 30 - 4. Эра хаоса  Основной сюжет - Глава 30_4. 30-4. Мудрый энт"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 30_4.md"
 toc: false

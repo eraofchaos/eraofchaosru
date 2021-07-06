@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-15 Лазурь"
 permalink: /Main Story/Chapter 19_15/
 excerpt: "Глава 19 - 15. Эра хаоса  Основной сюжет - Глава 19_15. 19-15 Лазурь"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 19_15.md"
 toc: false

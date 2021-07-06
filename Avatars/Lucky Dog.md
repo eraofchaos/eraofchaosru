@@ -2,7 +2,7 @@
 title: "Аватар - Удачливая скотина"
 permalink: /Avatars/Lucky Dog/
 excerpt: "Эра хаоса  Удачливая скотина"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Lucky Dog.md"
 toc: false

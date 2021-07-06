@@ -2,7 +2,7 @@
 title: "Шлем дикой природы"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Эра хаоса Шлем дикой природы. Шлем дикой природы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Helm of the Wild.md"
 toc: false

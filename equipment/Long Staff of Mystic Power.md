@@ -2,7 +2,7 @@
 title: "Длинный посох мистической силы"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Эра хаоса Длинный посох мистической силы. Длинный посох мистической силы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Long Staff of Mystic Power.md"
 toc: false

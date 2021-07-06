@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 Бердс"
 permalink: /Main Story/Chapter 5/
 excerpt: "Глава 5. Эра хаоса  Основной сюжет - Глава 5. Бердс"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 5.md"
 toc: false

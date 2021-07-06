@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 - 7-4 Золотое помешательство"
 permalink: /Underground/Chapter 7_4/
 excerpt: "Глава 7 - 4. Эра хаоса  Подземелье - Глава 7_4. 7-4 Золотое помешательство"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 7_4.md"
 toc: false

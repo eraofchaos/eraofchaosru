@@ -3,7 +3,7 @@ title: "Ассасин"
 permalink: /units/Assassin/
 excerpt: "Эра хаоса Ассасин. Ассасин Отряды. null. Эра хаоса Мы действуем во тьме, но служим свету. Ничто не истинно, все дозволено."
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Ассасин"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [Кожаные сапоги](/ru/equipment/Leather Boots/) | **ОЗ** | **ЗЩТ** | 
 
 ## Эксклюзив
+
+ **Имя:** [Тайная стрела](/ru/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to Повысить ранг :** [Жетон Тайной стрелы](/ru/Items/con_2200/)
+
+ **Облик:** [Особый облик: Тайная стрела](/ru/Items/con_2199/)
 
 
 ## Рекомендуемые эмблемы святости

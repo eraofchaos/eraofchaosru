@@ -2,7 +2,7 @@
 title: "Доспех лозы"
 permalink: /equipment/Vine's Armor/
 excerpt: "Эра хаоса Доспех лозы. Доспех лозы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Vine's Armor.md"
 toc: false

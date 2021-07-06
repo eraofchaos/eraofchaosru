@@ -2,7 +2,7 @@
 title: "Взрыв магмы"
 permalink: /equipment/Exploding Magma/
 excerpt: "Эра хаоса Взрыв магмы. Взрыв магмы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Exploding Magma.md"
 toc: false

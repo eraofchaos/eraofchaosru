@@ -2,7 +2,7 @@
 title: "Ледяное прикосновение"
 permalink: /equipment/Frost Touch/
 excerpt: "Эра хаоса Ледяное прикосновение. Ледяное прикосновение"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Frost Touch.md"
 toc: false

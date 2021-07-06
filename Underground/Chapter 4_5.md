@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 4 - 4-5 Рука бога"
 permalink: /Underground/Chapter 4_5/
 excerpt: "Глава 4 - 5. Эра хаоса  Подземелье - Глава 4_5. 4-5 Рука бога"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 4_5.md"
 toc: false

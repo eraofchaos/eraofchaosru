@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Эра хаоса Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Star 3"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![Берсерк](/images/u/ti_kuangzhanshi.jpg) | [Берсерк](/ru/units/Berserker/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Ревун смерти  |
   | 12 | ![Лепрекон](/images/u/ti_conglinyaojing.jpg) | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 13 | ![Великан Тор](/images/u/ti_suoerjuren.jpg) | [Великан Тор](/ru/units/Troll/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 14 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Мертвоглазый охотник  |
+  | 14 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Мертвоглазый охотник  |
   | 15 | ![Дьявол](/images/u/ti_daemo.jpg) | [Дьявол](/ru/units/Devil/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архидьявол  |
   | 16 | ![Регнанский змей](/images/u/ti_yurenyongshi.jpg) | [Регнанский змей](/ru/units/Regnan Serpent/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Страж Прилива  |
   | 17 | ![Кошмар](/images/u/ti_mengyanshou.jpg) | [Кошмар](/ru/units/Nightmare/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Копыто дьявола  |
@@ -50,7 +50,7 @@ classes: wide
   | 36 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 37 | ![Злая ведьма](/images/u/ti_xiemonv.jpg) | [Злая ведьма](/ru/units/Evil Sorceress/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Виверна](/images/u/ti_feilong.jpg) | [Виверна](/ru/units/Wyvern/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Виверна-монарх  |
-  | 39 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 39 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 40 | ![Друид](/images/u/ti_deluyi.jpg) | [Друид](/ru/units/Druid/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Великий друид  |
   | 41 | ![Богомол](/images/u/ti_tanglang.jpg) | [Богомол](/ru/units/Mantis/) | Наступление | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 42 | ![Черный рыцарь](/images/u/ti_siwangqishi.jpg) | [Черный рыцарь](/ru/units/Black Knight/) | Штурм | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Зловещий рыцарь  |

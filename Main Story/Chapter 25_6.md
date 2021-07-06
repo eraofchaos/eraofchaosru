@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-6 Старейший лорд"
 permalink: /Main Story/Chapter 25_6/
 excerpt: "Глава 25 - 6. Эра хаоса  Основной сюжет - Глава 25_6. 25-6 Старейший лорд"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 25_6.md"
 toc: false

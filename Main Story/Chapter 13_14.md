@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-14 Долгое противостояние"
 permalink: /Main Story/Chapter 13_14/
 excerpt: "Глава 13 - 14. Эра хаоса  Основной сюжет - Глава 13_14. 13-14 Долгое противостояние"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 13_14.md"
 toc: false

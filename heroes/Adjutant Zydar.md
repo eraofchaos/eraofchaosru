@@ -2,7 +2,7 @@
 title: "Адъютант Зидар"
 permalink: /heroes/Adjutant Zydar/
 excerpt: "Эра хаоса  Адъютант Зидар"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Adjutant Zydar.md"
 QR: adhero_60901

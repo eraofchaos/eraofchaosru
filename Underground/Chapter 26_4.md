@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 26 - 26-4 Королева клинков"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Глава 26 - 4. Эра хаоса  Подземелье - Глава 26_4. 26-4 Королева клинков"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 26_4.md"
 toc: false

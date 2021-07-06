@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-10 Нарушение тишины"
 permalink: /Main Story/Chapter 5_10/
 excerpt: "Глава 5 - 10. Эра хаоса  Основной сюжет - Глава 5_10. 5-10 Нарушение тишины"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 5_10.md"
 toc: false

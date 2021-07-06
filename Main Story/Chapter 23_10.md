@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-10 Ядовитые драконьи привычки"
 permalink: /Main Story/Chapter 23_10/
 excerpt: "Глава 23 - 10. Эра хаоса  Основной сюжет - Глава 23_10. 23-10 Ядовитые драконьи привычки"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 23_10.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Русалка"
 permalink: /units/Mermaid/
 excerpt: "Эра хаоса Русалка. Русалка Отряды. null. Эра хаоса Дочь соленых вод находится под защитой морей и исцеляет своих союзников силой океана."
 unitID: 9905
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Русалка"
 toc: true

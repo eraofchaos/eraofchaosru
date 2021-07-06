@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-15 Мир магии"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Глава 24 - 15. Эра хаоса  Основной сюжет - Глава 24_15. 24-15 Мир магии"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 24_15.md"
 toc: false

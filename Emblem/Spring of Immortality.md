@@ -2,7 +2,7 @@
 title: "Эмблема святости - Весна бессмертия"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "Эра хаоса Весна бессмертия. Весна бессмертия. Эра хаоса Эмблема святости Весна бессмертия. Эра хаоса Добро Весна бессмертия"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Spring of Immortality.md"
 toc: false

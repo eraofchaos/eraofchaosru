@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Регнанский пират Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Regnan Pirates Меч.md"
 toc: false

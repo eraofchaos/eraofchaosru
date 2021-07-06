@@ -2,7 +2,7 @@
 title: "Острые спинные шипы"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Эра хаоса Острые спинные шипы. Острые спинные шипы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Sharp Back-spikes.md"
 toc: false

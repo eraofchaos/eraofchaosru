@@ -2,7 +2,7 @@
 title: "Рукавицы дикой природы"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Эра хаоса Рукавицы дикой природы. Рукавицы дикой природы"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Gauntlets of the Wild.md"
 toc: false

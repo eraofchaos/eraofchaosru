@@ -2,7 +2,7 @@
 title: "Адъютант Человек Сандро"
 permalink: /heroes/Adjutant Human Sandro/
 excerpt: "Эра хаоса  Адъютант Человек Сандро"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Adjutant Human Sandro.md"
 QR: adhero_60503

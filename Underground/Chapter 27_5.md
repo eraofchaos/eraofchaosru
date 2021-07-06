@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 - 27-5 Ураганный вихрь"
 permalink: /Underground/Chapter 27_5/
 excerpt: "Глава 27 - 5. Эра хаоса  Подземелье - Глава 27_5. 27-5 Ураганный вихрь"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 27_5.md"
 toc: false

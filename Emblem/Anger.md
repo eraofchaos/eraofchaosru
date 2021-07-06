@@ -2,7 +2,7 @@
 title: "Эмблема святости - Гнев"
 permalink: /Emblem/Anger/
 excerpt: "Эра хаоса Гнев. Гнев. Эра хаоса Эмблема святости Гнев. Эра хаоса Хаос Гнев"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Anger.md"
 toc: false

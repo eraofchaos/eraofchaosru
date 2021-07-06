@@ -2,7 +2,7 @@
 title: "Кожаные сапоги"
 permalink: /equipment/Leather Boots/
 excerpt: "Эра хаоса Кожаные сапоги. Кожаные сапоги"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Leather Boots.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Эра хаоса Эксклюзив Neutral Army. Эксклюзив Neutral Army. List of Эксклюзив Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Ассасин](/ru/units/Assassin/) | - | - | - | none | none |
+  | 1  | [Ассасин](/ru/units/Assassin/) | [Тайная стрела](/ru/Exclusive/Assassin Hidden Blade/) | + | Поддержка | [Жетон Тайной стрелы](/ru/Items/con_2200/) | [Особый облик: Тайная стрела](/ru/Items/con_2199/) |
   | 2  | [Спартанец](/ru/units/Spartan Warriors/) | - | - | - | none | none |

@@ -2,7 +2,7 @@
 title: "Очаровательные наплечники"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Эра хаоса Очаровательные наплечники. Очаровательные наплечники"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Charming Pauldrons.md"
 toc: false

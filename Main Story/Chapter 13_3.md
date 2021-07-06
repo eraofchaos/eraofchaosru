@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-3 Помощь"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Глава 13 - 3. Эра хаоса  Основной сюжет - Глава 13_3. 13-3 Помощь"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 13_3.md"
 toc: false

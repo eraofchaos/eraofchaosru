@@ -2,7 +2,7 @@
 title: "Легкая броня кровожадности"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "Эра хаоса Легкая броня кровожадности. Легкая броня кровожадности"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Light Armor of Bloodthirst.md"
 toc: false

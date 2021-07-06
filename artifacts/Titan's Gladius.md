@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Боевой меч титана"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Эра хаоса  Гром титана - Боевой меч титана. Меч древнего гиганта. Компонент грома титана."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Titan's Gladius.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "Эра хаоса Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Unit Class Charging"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Фея](/images/u/ti_mofaxianling.jpg) | [Фея](/ru/units/Sprite/) | Штурм | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Эльф-заклинатель  |
   | 9 | ![Единорог](/images/u/ti_dujiaoshou.jpg) | [Единорог](/ru/units/Unicorn/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Боевой единорог  |
   | 10 | ![Злая ведьма](/images/u/ti_xiemonv.jpg) | [Злая ведьма](/ru/units/Evil Sorceress/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
-  | 11 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 11 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 12 | ![Вампир](/images/u/ti_xixuegui.jpg) | [Вампир](/ru/units/Vampire/) | Штурм | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Лорд вампиров  |
   | 13 | ![Черный рыцарь](/images/u/ti_siwangqishi.jpg) | [Черный рыцарь](/ru/units/Black Knight/) | Штурм | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Зловещий рыцарь  |
   | 14 | ![Наездник на волке](/images/u/ti_langqibing.jpg) | [Наездник на волке](/ru/units/Wolf Rider/) | Штурм | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Разбойник на волке  |

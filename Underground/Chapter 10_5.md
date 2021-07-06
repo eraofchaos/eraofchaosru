@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 - 10-5 Возрождение короля"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Глава 10 - 5. Эра хаоса  Подземелье - Глава 10_5. 10-5 Возрождение короля"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 10_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 17 - 17-4 Лампа джинна"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Глава 17 - 4. Эра хаоса  Подземелье - Глава 17_4. 17-4 Лампа джинна"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 17_4.md"
 toc: false

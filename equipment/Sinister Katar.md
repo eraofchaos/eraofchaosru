@@ -2,7 +2,7 @@
 title: "Зловещий катар"
 permalink: /equipment/Sinister Katar/
 excerpt: "Эра хаоса Зловещий катар. Зловещий катар"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Sinister Katar.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Меч (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Эра хаоса Меч. Меч. Эра хаоса Эксклюзив Меч. Троглодит Эксклюзив."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Troglodyte Меч.md"
 toc: false

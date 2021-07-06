@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 1 - 1-3 Неожиданная опасность"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Глава 1 - 3. Эра хаоса  Подземелье - Глава 1_3. 1-3 Неожиданная опасность"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 1_3.md"
 toc: false

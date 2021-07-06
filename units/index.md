@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "index.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Ангел](/images/u/ti_datianshi.jpg) | [Ангел](/ru/units/Angel/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Архангел  |
   | 2 | ![Архимаг](/images/u/ti_dafashi.jpg) | [Архимаг](/ru/units/Arch Mage/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Архимаг  |
-  | 3 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 3 | ![Ассасин](/images/u/ti_cishazhe.jpg) | [Ассасин](/ru/units/Assassin/) | Штурм | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 4 | ![Белый тигр](/images/u/ti_baihu.jpg) | [Белый тигр](/ru/units/White Tiger/) | Штурм | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 5 | ![Берсерк](/images/u/ti_kuangzhanshi.jpg) | [Берсерк](/ru/units/Berserker/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Ревун смерти  |
   | 6 | ![Бес](/images/u/ti_xiaoemo.jpg) | [Бес](/ru/units/Imp/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Черти  |
@@ -90,7 +90,7 @@ classes: wide
   | 68 | ![Призрак](/images/u/ti_youling.jpg) | [Призрак](/ru/units/Wight/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Привидение  |
   | 69 | ![Регнанская прорицательница](/images/u/ti_haihou.jpg) | [Регнанская прорицательница](/ru/units/Regnan Seer/) | Заклинатель | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Элементаль Приливов  |
   | 70 | ![Регнанский змей](/images/u/ti_yurenyongshi.jpg) | [Регнанский змей](/ru/units/Regnan Serpent/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Страж Прилива  |
-  | 71 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Мертвоглазый охотник  |
+  | 71 | ![Регнанский лучник](/images/u/ti_ruigenanushou.jpg) | [Регнанский лучник](/ru/units/Regnan Archer/) | Стрелковый | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Мертвоглазый охотник  |
   | 72 | ![Регнанский пират](/images/u/ti_haidao.jpg) | [Регнанский пират](/ru/units/Regnan Pirates/) | Наступление | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Боцман-пират  |
   | 73 | ![Росянка](/images/u/ti_dufengcao.jpg) | [Росянка](/ru/units/Waspwort/) | Стрелковый | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 74 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |

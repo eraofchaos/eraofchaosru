@@ -2,7 +2,7 @@
 title: "Пчела-убийца"
 permalink: /equipment/Killer Bee/
 excerpt: "Эра хаоса Пчела-убийца. Пчела-убийца"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Killer Bee.md"
 toc: false

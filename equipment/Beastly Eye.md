@@ -2,7 +2,7 @@
 title: "Око войны"
 permalink: /equipment/Beastly Eye/
 excerpt: "Эра хаоса Око войны. Око войны"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Beastly Eye.md"
 toc: false

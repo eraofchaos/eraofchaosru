@@ -2,7 +2,7 @@
 title: "Аватар - Владыка небес"
 permalink: /Avatars/Lord of Heaven/
 excerpt: "Эра хаоса  Владыка небес"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Lord of Heaven.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 17 - 17-1 Кристальная пещера"
 permalink: /Underground/Chapter 17_1/
 excerpt: "Глава 17 - 1. Эра хаоса  Подземелье - Глава 17_1. 17-1 Кристальная пещера"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Chapter 17_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Лопатка воина"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Эра хаоса Лопатка воина. Лопатка воина"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: ru
 ref: "Warrior's Scapula.md"
 toc: false
