@@ -2,7 +2,7 @@
 title: "Аватар - Гнев берсерка"
 permalink: /Avatars/Berserker Rage/
 excerpt: "Эра хаоса  Гнев берсерка"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Berserker Rage.md"
 toc: false

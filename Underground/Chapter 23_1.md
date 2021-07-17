@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 23 - 23-1 Меткий стрелок"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Глава 23 - 1. Эра хаоса  Подземелье - Глава 23_1. 23-1 Меткий стрелок"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 23_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 - 30-5 В поисках смерти"
 permalink: /Underground/Chapter 30_5/
 excerpt: "Глава 30 - 5. Эра хаоса  Подземелье - Глава 30_5. 30-5 В поисках смерти"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 30_5.md"
 toc: false

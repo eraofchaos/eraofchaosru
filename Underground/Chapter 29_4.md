@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 29 - 29-4  Барбекю для гурманов"
 permalink: /Underground/Chapter 29_4/
 excerpt: "Глава 29 - 4. Эра хаоса  Подземелье - Глава 29_4. 29-4  Барбекю для гурманов"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 29_4.md"
 toc: false

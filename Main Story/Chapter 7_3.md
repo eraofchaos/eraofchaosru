@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-3 Приграничный конфликт"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "Глава 7 - 3. Эра хаоса  Основной сюжет - Глава 7_3. 7-3 Приграничный конфликт"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 7_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-7 Алтарь судьбы"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Глава 15 - 7. Эра хаоса  Основной сюжет - Глава 15_7. 15-7 Алтарь судьбы"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 15_7.md"
 toc: false

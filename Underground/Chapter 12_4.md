@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 12 - 12-4 Ангелы и священный свет"
 permalink: /Underground/Chapter 12_4/
 excerpt: "Глава 12 - 4. Эра хаоса  Подземелье - Глава 12_4. 12-4 Ангелы и священный свет"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 12_4.md"
 toc: false

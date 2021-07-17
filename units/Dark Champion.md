@@ -3,7 +3,7 @@ title: "Чемпион Тьмы"
 permalink: /units/Dark Champion/
 excerpt: "Эра хаоса Чемпион Тьмы. Чемпион Тьмы Отряды. null. Эра хаоса Он - Бессмертный король, Владыка тьмы. Он безжалостно убивает живые существа и собирает их души."
 unitID: 309
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Чемпион Тьмы"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Отряд получает </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">% к урону. ОЗ, получаемые от Конца судьбы, повышаются еще на 4% за каждый отряд Некрополя на поле боя. ОЗ, получаемые от Конца судьбы, повышаются еще на 1% за каждый отряд, вызываемый Некрополем на поле боя. ОЗ могут увеличены максимум на 25% под действием Конца судьбы. Когда союзный герой применяет заклинание Земли, время перезарядки 1 случайного заклинания сокращается на 4 сек.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя отлично приучены к невзгодам. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">

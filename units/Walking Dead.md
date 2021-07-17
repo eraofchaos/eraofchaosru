@@ -3,7 +3,7 @@ title: "Ходячий мертвец"
 permalink: /units/Walking Dead/
 excerpt: "Эра хаоса Ходячий мертвец. Ходячий мертвец Отряды. Зомби. Эра хаоса Воскрешенные некромантами, эти гниющие трупы бездумно отправятся в бой. Их раздутые, смердящие тела очень хрупки и, взрываясь, смертельно опасны."
 unitID: 302
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Ходячий мертвец"
 toc: true
@@ -125,7 +125,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Ходячие мертвецы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению отряда урону. Если у противника, атакующего ходячих мертвецов, </span><span style="color: black"><span style="color: #48b946;font-size:20px">низкий боевой дух</span><span style="color: black"><span style="color: #645252;font-size:20px">, эффект удваивается.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя отлично приучены к невзгодам. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">

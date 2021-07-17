@@ -2,7 +2,7 @@
 title: "Эксклюзив - Таинственное пение (Efreeti)"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Эра хаоса Таинственное пение. Таинственное пение. Эра хаоса Эксклюзив Таинственное пение. Ифрит Эксклюзив."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Efreeti Таинственное пение.md"
 toc: false

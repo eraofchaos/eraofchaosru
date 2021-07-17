@@ -2,7 +2,7 @@
 title: "Меч славы. Талант вершины - Меч славы"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "Эра хаоса Талант вершины Меч славы. Талант вершины Меч славы. Меч славы"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Sword of Glory.md"
 toc: false

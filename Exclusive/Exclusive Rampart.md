@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Эра хаоса Эксклюзив Rampart. Эксклюзив Rampart. List of Эксклюзив Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Эксклюзив | Open  |    Type   |  Item to Rank UP      |  Облик   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Кентавр](/ru/units/Centaur/) | [Славный щит](/ru/Exclusive/Centaur Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
+  | 1  | [Кентавр](/ru/units/Centaur/) | [Славный щит](/ru/Exclusive/Centaur Iris Shield/) | + | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 2  | [Гном](/ru/units/Dwarf/) | [Славный щит](/ru/Exclusive/Dwarf Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 3  | [Лесной эльф](/ru/units/Wood Elf/) | [Длинный лук](/ru/Exclusive/Wood Elf Long Bow/) | - | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |
   | 4  | [Пегас](/ru/units/Pegasus/) | [Длинный лук](/ru/Exclusive/Pegasus Long Bow/) | + | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |

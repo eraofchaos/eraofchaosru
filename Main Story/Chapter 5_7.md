@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 5 - 5-7 Шанс на жизнь"
 permalink: /Main Story/Chapter 5_7/
 excerpt: "Глава 5 - 7. Эра хаоса  Основной сюжет - Глава 5_7. 5-7 Шанс на жизнь"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 5_7.md"
 toc: false

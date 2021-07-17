@@ -2,7 +2,7 @@
 title: "Пик героев. Талант вершины - Пик героев"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Эра хаоса Талант вершины Пик героев. Талант вершины Пик героев. Пик героев"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Peak of Heroes.md"
 toc: false

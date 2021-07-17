@@ -2,7 +2,7 @@
 title: "Эксклюзив - Бинты мумии (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Эра хаоса Бинты мумии. Бинты мумии. Эра хаоса Эксклюзив Бинты мумии. Мумия Эксклюзив."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Mummy Бинты мумии.md"
 toc: false

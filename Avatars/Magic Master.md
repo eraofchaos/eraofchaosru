@@ -2,7 +2,7 @@
 title: "Аватар - Волшебный мастер"
 permalink: /Avatars/Magic Master/
 excerpt: "Эра хаоса  Волшебный мастер"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Magic Master.md"
 toc: false

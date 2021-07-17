@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Эра хаоса Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Unit Member x9"
 toc: false
@@ -25,9 +25,9 @@ classes: wide
   | 11 | ![Троглодит](/images/u/ti_dongxueren.jpg) | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Темный троглодит  |
   | 12 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
   | 13 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |
-  | 14 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Капитан кентавров  |
+  | 14 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Капитан кентавров  |
   | 15 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Гнолл-воин  |
-  | 16 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 16 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Страж стены  |
   | 17 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 18 | ![Скелет](/images/u/ti_kulouzhanshi.jpg) | [Скелет](/ru/units/Skeleton/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Скелет-воин  |
   | 19 | ![Ходячий мертвец](/images/u/ti_jiangshi.jpg) | [Ходячий мертвец](/ru/units/Walking Dead/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Зомби  |

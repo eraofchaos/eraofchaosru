@@ -2,7 +2,7 @@
 title: "Секира дикой природы"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Эра хаоса Секира дикой природы. Секира дикой природы"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Battleaxe of the Wild.md"
 toc: false

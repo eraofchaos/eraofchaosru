@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 22 - 22-5 Суть жизни"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Глава 22 - 5. Эра хаоса  Подземелье - Глава 22_5. 22-5 Суть жизни"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 22_5.md"
 toc: false

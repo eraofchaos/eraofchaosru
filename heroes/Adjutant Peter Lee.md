@@ -2,7 +2,7 @@
 title: "Адъютант Питер Ли"
 permalink: /heroes/Adjutant Peter Lee/
 excerpt: "Эра хаоса  Адъютант Питер Ли"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Adjutant Peter Lee.md"
 QR: adhero_61801

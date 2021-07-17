@@ -2,7 +2,7 @@
 title: "Артефакт - Перо государя"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Эра хаоса  Перо государя. Перо государя Символ власти и могущества. Величайший дар победителя."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Envoy's Pen.md"
 toc: false

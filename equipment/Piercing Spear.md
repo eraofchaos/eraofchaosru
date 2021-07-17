@@ -2,7 +2,7 @@
 title: "Длинное копье"
 permalink: /equipment/Piercing Spear/
 excerpt: "Эра хаоса Длинное копье. Длинное копье"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Piercing Spear.md"
 toc: false

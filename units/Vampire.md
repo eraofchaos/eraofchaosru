@@ -3,7 +3,7 @@ title: "Вампир"
 permalink: /units/Vampire/
 excerpt: "Эра хаоса Вампир. Вампир Отряды. Лорд вампиров. Эра хаоса Вампиры следуют древним традициям знати. Они могут показаться очаровательными, даже рыцарственными, но когда обнажат клыки, вы почувствуете лишь холодное дыхание смерти."
 unitID: 304
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Вампир"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">В бою против с цели с меньшим процентом ОЗ, чем у вас, вампиры получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к АТК и </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к скорости атаки.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя отлично приучены к невзгодам. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">

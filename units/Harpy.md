@@ -3,7 +3,7 @@ title: "Гарпия"
 permalink: /units/Harpy/
 excerpt: "Эра хаоса Гарпия. Гарпия Отряды. Гарпия. Эра хаоса Наполовину человек, а наполовину - птица. Их пронзительный визг просто невыносим."
 unitID: 702
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Гарпия"
 toc: true

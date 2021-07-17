@@ -2,7 +2,7 @@
 title: "Аватар - Танец клинков"
 permalink: /Avatars/Dance of the Blades/
 excerpt: "Эра хаоса  Танец клинков"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Dance of the Blades.md"
 toc: false

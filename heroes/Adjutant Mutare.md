@@ -2,7 +2,7 @@
 title: "Адъютант Мутара"
 permalink: /heroes/Adjutant Mutare/
 excerpt: "Эра хаоса  Адъютант Мутара"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Adjutant Mutare.md"
 QR: adhero_61301

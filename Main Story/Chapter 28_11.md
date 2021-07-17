@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 28 - 28-11. Старые могилы"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "Глава 28 - 11. Эра хаоса  Основной сюжет - Глава 28_11. 28-11. Старые могилы"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 28_11.md"
 toc: false

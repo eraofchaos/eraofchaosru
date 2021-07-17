@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Units"
 permalink: /units/Faction Rampart/
 excerpt: "Эра хаоса Faction Rampart. Faction Rampart. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Faction Rampart"
 toc: false
@@ -14,8 +14,8 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Капитан кентавров  |
-  | 2 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 1 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Капитан кентавров  |
+  | 2 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Страж стены  |
   | 3 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |
   | 4 | ![Пегас](/images/u/ti_feima.jpg) | [Пегас](/ru/units/Pegasus/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Серебряный пегас  |
   | 5 | ![Дендроид-страж](/images/u/ti_shuyao.jpg) | [Дендроид-страж](/ru/units/Dendroid Guard/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Дендроид-воин  |

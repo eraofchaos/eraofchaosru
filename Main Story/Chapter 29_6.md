@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-6. Дом эльфов"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Глава 29 - 6. Эра хаоса  Основной сюжет - Глава 29_6. 29-6. Дом эльфов"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 29_6.md"
 toc: false

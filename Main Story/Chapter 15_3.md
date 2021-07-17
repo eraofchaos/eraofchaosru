@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-3 В поисках мира"
 permalink: /Main Story/Chapter 15_3/
 excerpt: "Глава 15 - 3. Эра хаоса  Основной сюжет - Глава 15_3. 15-3 В поисках мира"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 15_3.md"
 toc: false

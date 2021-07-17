@@ -2,7 +2,7 @@
 title: "Адъютант Сефинрот"
 permalink: /heroes/Adjutant Sephinroth/
 excerpt: "Эра хаоса  Адъютант Сефинрот"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Adjutant Sephinroth.md"
 QR: adhero_61402

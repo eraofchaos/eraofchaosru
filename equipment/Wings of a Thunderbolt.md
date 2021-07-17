@@ -2,7 +2,7 @@
 title: "Крылья разряда молнии"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Эра хаоса Крылья разряда молнии. Крылья разряда молнии"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Wings of a Thunderbolt.md"
 toc: false

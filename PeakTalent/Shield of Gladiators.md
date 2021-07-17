@@ -2,7 +2,7 @@
 title: "Щит гладиаторов. Талант вершины - Щит гладиаторов"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Эра хаоса Талант вершины Щит гладиаторов. Талант вершины Щит гладиаторов. Щит гладиаторов"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Shield of Gladiators.md"
 toc: false

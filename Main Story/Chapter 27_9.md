@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-9 Шахты Нигона"
 permalink: /Main Story/Chapter 27_9/
 excerpt: "Глава 27 - 9. Эра хаоса  Основной сюжет - Глава 27_9. 27-9 Шахты Нигона"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 27_9.md"
 toc: false

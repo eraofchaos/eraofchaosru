@@ -2,7 +2,7 @@
 title: "Одежда русалки"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Эра хаоса Одежда русалки. Одежда русалки"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Cloth of the Mermaid.md"
 toc: false

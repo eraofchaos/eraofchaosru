@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-3 Озеро тьмы"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Глава 26 - 3. Эра хаоса  Основной сюжет - Глава 26_3. 26-3 Озеро тьмы"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 26_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Лич"
 permalink: /units/Lich/
 excerpt: "Эра хаоса Лич. Лич Отряды. Могучий лич. Эра хаоса Личи обладают иссохшими, уродливыми, истлевшими телами. Эти создания ненавидят все живое и мечтают лишь сеять болезни и разрушения."
 unitID: 305
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Лич"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">Когда личи на поле боя, скелеты и костяные драконы получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к ОЗ и АТК.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя отлично приучены к невзгодам. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">

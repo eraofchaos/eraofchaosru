@@ -1,9 +1,9 @@
 ---
 title: "Гном"
 permalink: /units/Dwarf/
-excerpt: "Эра хаоса Гном. Гном Отряды. null. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
+excerpt: "Эра хаоса Гном. Гном Отряды. Страж стены. Эра хаоса Гномы от рождения умеют защищаться, останавливая врагов своей стальной волей. Они вспыльчивы, и звон их молотов вселит ужас в сердце каждого, кто осмелится выступить против них."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Гном"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Страж стены](/images/u/unknown.png)
+
 ### Awaking Подробности
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Страж стены
 
- **Awaking Описание:** null
+ **Awaking Описание:** Раньше меня называли боевым гномом. Мне 333 года, живу в Авлии, неженат. Каждый день я вкалываю в Сокровищнице гномов до потери пульса, а потом в пять утра иду домой, отдохну минутку — и обратно.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Используйте копейщиков и не менее </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> отрядов Замка, чтобы убить </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> гномов в Сокровищнице гномов за одну атаку. (Набег не учитывается при выполнении этого задания).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Используйте гномов и хотя бы 3 отряда Бастиона, чтобы добиться уровня «Безжалостный» или выше в Утопии драконов один раз. (Набеги не учитываются при выполнении этого задания)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Убейте </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> монстров в Походе гильдии. </span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Соберите 5 ресурсов в Походе гильдии.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Соберите </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> душ алебардщиков на уровнях 14-2 и 14-4 Подземелья.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Соберите 100 душ стражей стены на уровнях 15-2 и 15-4 в Подземелье.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Победите в Дуэли заступников 1 раз, используя гномов.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Лес копий: зачистка
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: целью становятся более крупные отряды врага.</span>
+### 1st Skill (or 2nd): Победный клич
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Победный клич&gt;</span><span style="color: #645252;font-size:18px">: «Гномий вой» разносится по всему полю боя, повышая у союзников урон отряда на 10%</span>
 
-### 2nd Skill (or 1st): Внезапный лес копий
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лес копий&gt;</span><span style="color: #645252;font-size:18px">: урон повышается до 150%, оглушение продлевается до 4,5 сек.</span>
+### 2nd Skill (or 1st): Защитный клич
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Защитный клич&gt;</span><span style="color: #645252;font-size:18px">: «Гномий вой» дополнительно защищает союзников в пределах действия умения щитом на 15% от макс. ОЗ на 20 сек.</span>
 
-### 3rd Skill (or 4th): Плотный строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление отряда урону в бою повышается на 30%. Эффект длится 10 сек.</span>
+### 3rd Skill (or 4th): Терновый взрыв
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Терновый взрыв&gt;</span><span style="color: #645252;font-size:18px">: при применении умения дополнительно снижает у цели сопротивление урону отряда на 20% на 5 сек.</span>
 
-### 4th Skill (or 3rd): Лукавый строй
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Лидерство&gt;</span><span style="color: #645252;font-size:18px">: при высоком боевом духе сопротивление магии в бою повышается на 30% на 10 сек.</span>
+### 4th Skill (or 3rd): Мигрень
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Мигрень&gt;</span><span style="color: #645252;font-size:18px">: действие оглушения от умения продлевается до 4 секунд. Если цель находится в состоянии кровотечения, дополнительно снижает ее урон отряда на 10% на 8 сек.</span>
 
-### 5th Skill (or 6th): Стратегия проникновения
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ цель получает сдерживание. Сдерживание: снижает критический удар цели на 300</span>
+### 5th Skill (or 6th): Несгибаемый строй
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Несгибаемый строй&gt;</span><span style="color: #645252;font-size:18px">: дополнительно повышает стойкость союзных отрядов внутри защитного поля на 300 ед.</span>
 
-### 6th Skill (or 5th): Атака усталостью
- **Описание:** <span style="color: #48b946;font-size:18px">&lt;Убийство драконов&gt;</span><span style="color: #645252;font-size:18px">: в бою с отрядом из 1 или 4 существ уклонение цели понижается на 300</span>
+### 6th Skill (or 5th): Крепкая стена
+ **Описание:** <span style="color: #48b946;font-size:18px">&lt;Крепкая стена&gt;</span><span style="color: #645252;font-size:18px">: дополнительно повышает у союзных отрядов внутри защитного поля сопротивление критическому урону на 20%.</span>
 
 ## Technical info
  **runart:** 1

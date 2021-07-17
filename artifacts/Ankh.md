@@ -2,7 +2,7 @@
 title: "Артефакт - Золотое яблоко - Анкх Эдема"
 permalink: /artifacts/Ankh/
 excerpt: "Эра хаоса  Золотое яблоко - Анкх Эдема. Дарует бессмертие своему владельцу. Куда подевался предыдущий владелец, неизвестно."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Ankh.md"
 toc: false

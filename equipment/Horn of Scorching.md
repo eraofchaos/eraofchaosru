@@ -2,7 +2,7 @@
 title: "Рожок опаления"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Эра хаоса Рожок опаления. Рожок опаления"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Horn of Scorching.md"
 toc: false

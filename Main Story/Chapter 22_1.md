@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-1 Кристальное создание"
 permalink: /Main Story/Chapter 22_1/
 excerpt: "Глава 22 - 1. Эра хаоса  Основной сюжет - Глава 22_1. 22-1 Кристальное создание"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 22_1.md"
 toc: false

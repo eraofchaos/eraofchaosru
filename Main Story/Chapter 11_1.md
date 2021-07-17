@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-1 Война за восстановление"
 permalink: /Main Story/Chapter 11_1/
 excerpt: "Глава 11 - 1. Эра хаоса  Основной сюжет - Глава 11_1. 11-1 Война за восстановление"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 11_1.md"
 toc: false

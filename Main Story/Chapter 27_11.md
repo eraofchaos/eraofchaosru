@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-11 Неувядающий"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Глава 27 - 11. Эра хаоса  Основной сюжет - Глава 27_11. 27-11 Неувядающий"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 27_11.md"
 toc: false

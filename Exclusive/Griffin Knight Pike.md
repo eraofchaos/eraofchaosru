@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря (Griffin)"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Грифон Эксклюзив."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Griffin Копье рыцаря.md"
 toc: false

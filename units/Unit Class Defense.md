@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Эра хаоса Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Unit Class Defense"
 toc: false
@@ -24,8 +24,8 @@ classes: wide
   | 10 | ![Огненный демон](/images/u/ti_yanmo.jpg) | [Огненный демон](/ru/units/Venom Spawn/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![Мечник](/images/u/ti_shizijun.jpg) | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Крестоносец  |
   | 12 | ![Панцирный дракон](/images/u/ti_longgui.jpg) | [Панцирный дракон](/ru/units/Dragon Turtle/) | Защита | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Древний панцирный дракон  |
-  | 13 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Капитан кентавров  |
-  | 14 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 13 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Капитан кентавров  |
+  | 14 | ![Гном](/images/u/ti_airen.jpg) | [Гном](/ru/units/Dwarf/) | Защита | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Страж стены  |
   | 15 | ![Минотавр](/images/u/ti_niutouguai.jpg) | [Минотавр](/ru/units/Minotaur/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Король минотавров  |
   | 16 | ![Драконий голем](/images/u/ti_kuileilong.jpg) | [Драконий голем](/ru/units/Dragon Golem/) | Защита | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 17 | ![Паладин](/images/u/ti_shengqishi.jpg) | [Паладин](/ru/units/Paladin/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Высший паладин  |

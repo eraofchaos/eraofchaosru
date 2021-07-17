@@ -2,7 +2,7 @@
 title: "Когти русалки"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Эра хаоса Когти русалки. Когти русалки"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Mermaid Claws.md"
 toc: false

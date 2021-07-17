@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 7 - 7-13 Достижение цели"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Глава 7 - 13. Эра хаоса  Основной сюжет - Глава 7_13. 7-13 Достижение цели"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 7_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 - 8-5 Армия мертвецов"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Глава 8 - 5. Эра хаоса  Подземелье - Глава 8_5. 8-5 Армия мертвецов"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 8_5.md"
 toc: false

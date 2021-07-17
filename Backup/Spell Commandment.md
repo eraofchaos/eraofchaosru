@@ -2,7 +2,7 @@
 title: "Backup - Заповедное заклятие"
 permalink: /Backup/Spell Commandment/
 excerpt: "Эра хаоса  Заповедное заклятие"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Spell Commandment.md"
 toc: false

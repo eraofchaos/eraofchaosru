@@ -3,7 +3,7 @@ title: "Скелет"
 permalink: /units/Skeleton/
 excerpt: "Эра хаоса Скелет. Скелет Отряды. Скелет-воин. Эра хаоса Пусть эти кости и кажутся хрупкими, они быстро лишают врагов желания продолжать бой."
 unitID: 301
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Скелет"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Описание:** <span style="color: #645252;font-size:20px">У скелетов иммунитет к </span><span style="color: black"><span style="color: #48b946;font-size:20px">кровотечению</span><span style="color: black"><span style="color: #645252;font-size:20px"> и </span><span style="color: black"><span style="color: #48b946;font-size:20px">-<span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> от урона от стрелковых отрядов.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции I : Мрачная защита
- **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя хорошо знают, что такое мрачные внешние условия. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к урону, если сражаются с низким боевым духом.</span><span style="color: black">
+ **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя отлично приучены к невзгодам. Они получают </span><span style="color: black"><span style="color: #48b946;font-size:20px">+<span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению урону, если сражаются с низким боевым духом.</span><span style="color: black">
 
 ### Эксклюзивное умение фракции II : Гармония заклинаний
  **Описание:** <span style="color: #645252;font-size:20px">Отряды Некрополя мастерски умеют подавлять заклинания. Когда они на поле боя, все вражеские отряды получают -</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> к сопротивлению магии.</span><span style="color: black">

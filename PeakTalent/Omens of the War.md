@@ -2,7 +2,7 @@
 title: "Предчувствие эпидемии. Талант вершины - Предчувствие эпидемии"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Эра хаоса Талант вершины Предчувствие эпидемии. Талант вершины Предчувствие эпидемии. Предчувствие эпидемии"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Omens of the War.md"
 toc: false

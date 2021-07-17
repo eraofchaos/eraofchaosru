@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 30 Спасение короля"
 permalink: /Underground/Chapter 30/
 excerpt: "Глава 30 Спасение короля. Эра хаоса  Подземелье - Глава 30. Спасение короля"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Chapter 30.md"
 toc: false

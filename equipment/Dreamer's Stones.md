@@ -2,7 +2,7 @@
 title: "Камни мечтателя"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Эра хаоса Камни мечтателя. Камни мечтателя"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Dreamer's Stones.md"
 toc: false

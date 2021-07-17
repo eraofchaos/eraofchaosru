@@ -2,7 +2,7 @@
 title: "Артефакт - Перо государя - Медаль политика"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Эра хаоса  Перо государя - Медаль политика. Подчеркивает славу своего владельца. Один из компонентов Пера государя."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Statesman's Medal.md"
 toc: false

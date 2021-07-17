@@ -2,7 +2,7 @@
 title: "Таинственное сердце"
 permalink: /equipment/Arcane Heart/
 excerpt: "Эра хаоса Таинственное сердце. Таинственное сердце"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Arcane Heart.md"
 toc: false

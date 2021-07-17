@@ -2,7 +2,7 @@
 title: "Талант вершины"
 permalink: /PeakTalent/
 excerpt: "Эра хаоса Талант вершины. Талант вершины. Таланты вершины будут доступны на 110 уровне."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "index.md"
 toc: false

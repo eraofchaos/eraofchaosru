@@ -2,7 +2,7 @@
 title: "Агрессор. Талант вершины - Агрессор"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Эра хаоса Талант вершины Агрессор. Талант вершины Агрессор. Агрессор"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-14
 locale: ru
 ref: "Aggressor.md"
 toc: false
