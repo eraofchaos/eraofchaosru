@@ -2,7 +2,7 @@
 title: "Щит владык. Талант вершины - Щит владык"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Эра хаоса Талант вершины Щит владык. Талант вершины Щит владык. Щит владык"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Shield of Lords.md"
 toc: false

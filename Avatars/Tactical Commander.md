@@ -2,7 +2,7 @@
 title: "Аватар - Тактический командующий"
 permalink: /Avatars/Tactical Commander/
 excerpt: "Эра хаоса  Тактический командующий"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Tactical Commander.md"
 toc: false

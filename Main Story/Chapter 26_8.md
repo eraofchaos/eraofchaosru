@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-8 Намерения противника"
 permalink: /Main Story/Chapter 26_8/
 excerpt: "Глава 26 - 8. Эра хаоса  Основной сюжет - Глава 26_8. 26-8 Намерения противника"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 26_8.md"
 toc: false

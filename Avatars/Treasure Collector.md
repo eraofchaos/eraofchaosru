@@ -2,7 +2,7 @@
 title: "Аватар - Коллекционер сокровищ"
 permalink: /Avatars/Treasure Collector/
 excerpt: "Эра хаоса  Коллекционер сокровищ"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Treasure Collector.md"
 toc: false

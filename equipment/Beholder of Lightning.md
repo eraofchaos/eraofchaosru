@@ -2,7 +2,7 @@
 title: "Око молнии"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Эра хаоса Око молнии. Око молнии"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Beholder of Lightning.md"
 toc: false

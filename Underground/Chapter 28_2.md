@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 28 - 28-2  Созидание"
 permalink: /Underground/Chapter 28_2/
 excerpt: "Глава 28 - 2. Эра хаоса  Подземелье - Глава 28_2. 28-2  Созидание"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 28_2.md"
 toc: false

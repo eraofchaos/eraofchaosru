@@ -2,7 +2,7 @@
 title: "Древние крылья"
 permalink: /equipment/Ancient Wings/
 excerpt: "Эра хаоса Древние крылья. Древние крылья"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Ancient Wings.md"
 toc: false

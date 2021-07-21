@@ -2,7 +2,7 @@
 title: "Одинокий волк. Талант вершины - Одинокий волк"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Эра хаоса Талант вершины Одинокий волк. Талант вершины Одинокий волк. Одинокий волк"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Lone Wolf.md"
 toc: false

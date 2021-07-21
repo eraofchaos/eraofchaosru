@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Немота"
 permalink: /combination/Silence/
 excerpt: "Информация о комбинации - Немота. Units and Heroes Formation."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Немота.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Зачарованный капюшон"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Эра хаоса Зачарованный капюшон. Зачарованный капюшон"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Enchanted Hood.md"
 toc: false

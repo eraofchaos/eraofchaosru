@@ -2,7 +2,7 @@
 title: "Медаль славы. Талант вершины - Медаль славы"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Эра хаоса Талант вершины Медаль славы. Талант вершины Медаль славы. Медаль славы"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Medal of Glory.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Эра хаоса Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Faction Conflux"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Боевое построение](/ru/Battle Formation/Battle Formation Faction Conflux)
 
- [Гармония](/ru/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--info} [Замок](/ru/units/Faction Castle/){: .btn .btn--primary} [Башня](/ru/units/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/ru/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
+ [Нейтралы](/ru/units/Faction Neutral/){: .btn .btn--primary} [Гармония](/ru/units/Faction Conflux/){: .btn .btn--success} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--warning} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--danger} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--info} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--primary} [Замок](/ru/units/Faction Castle/){: .btn .btn--success} [Башня](/ru/units/Faction Tower/){: .btn .btn--warning} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--danger} [Убежище](/ru/units/Faction Cove/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr | I |         Name        |   Type   | Awake | Ранг |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|

@@ -2,7 +2,7 @@
 title: "Артефакт - Накидка Мертвого короля"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Эра хаоса  Накидка Мертвого короля. Накидка Мертвого короля Священная реликвия, созданная великим королем нежити, чтобы скрывать свое лицо. Призывает армию скелетов."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Cloak of the Undead King.md"
 toc: false

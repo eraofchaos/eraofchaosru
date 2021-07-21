@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-11 Люди Дейя"
 permalink: /Main Story/Chapter 17_11/
 excerpt: "Глава 17 - 11. Эра хаоса  Основной сюжет - Глава 17_11. 17-11 Люди Дейя"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 17_11.md"
 toc: false

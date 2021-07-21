@@ -2,7 +2,7 @@
 title: "Морской орган"
 permalink: /equipment/Sea Organ/
 excerpt: "Эра хаоса Морской орган. Морской орган"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Sea Organ.md"
 toc: false

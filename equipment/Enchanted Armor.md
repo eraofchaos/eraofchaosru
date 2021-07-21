@@ -2,7 +2,7 @@
 title: "Зачарованная броня"
 permalink: /equipment/Enchanted Armor/
 excerpt: "Эра хаоса Зачарованная броня. Зачарованная броня"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Enchanted Armor.md"
 toc: false

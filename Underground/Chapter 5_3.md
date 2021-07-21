@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 5 - 5-3 Да здравствует королева!"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Глава 5 - 3. Эра хаоса  Подземелье - Глава 5_3. 5-3 Да здравствует королева!"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 5_3.md"
 toc: false

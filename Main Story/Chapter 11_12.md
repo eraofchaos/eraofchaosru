@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 11 - 11-12 Птица счастья"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Глава 11 - 12. Эра хаоса  Основной сюжет - Глава 11_12. 11-12 Птица счастья"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 11_12.md"
 toc: false

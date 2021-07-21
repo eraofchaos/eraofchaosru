@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 24 - 24-2 Неожиданная информация"
 permalink: /Main Story/Chapter 24_2/
 excerpt: "Глава 24 - 2. Эра хаоса  Основной сюжет - Глава 24_2. 24-2 Неожиданная информация"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 24_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-2 Подземный мир"
 permalink: /Main Story/Chapter 25_2/
 excerpt: "Глава 25 - 2. Эра хаоса  Основной сюжет - Глава 25_2. 25-2 Подземный мир"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 25_2.md"
 toc: false

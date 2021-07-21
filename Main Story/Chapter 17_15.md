@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-15 Вторжение зла"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Глава 17 - 15. Эра хаоса  Основной сюжет - Глава 17_15. 17-15 Вторжение зла"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 17_15.md"
 toc: false

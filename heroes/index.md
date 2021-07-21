@@ -2,14 +2,14 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  by Фракция: [Гармония](/ru/heroes/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/heroes/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/heroes/Faction Dungeon/){: .btn .btn--warning} [Бастион](/ru/heroes/Faction Rampart/){: .btn .btn--danger} [Крепость](/ru/heroes/Faction Fortress/){: .btn .btn--info} [Замок](/ru/heroes/Faction Castle/){: .btn .btn--primary} [Башня](/ru/heroes/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/heroes/Faction Stronghold/){: .btn .btn--warning} [Нейтральная армия](/ru/heroes/Faction Neutral Army/){: .btn .btn--danger} [Убежище](/ru/heroes/Faction Cove/){: .btn .btn--info} [Некрополь](/ru/heroes/Faction Necropolis/){: .btn .btn--primary} 
+  by Фракция: [Нейтралы](/ru/heroes/Faction Neutral/){: .btn .btn--primary} [Гармония](/ru/heroes/Faction Conflux/){: .btn .btn--success} [Инферно](/ru/heroes/Faction Inferno/){: .btn .btn--warning} [Подземелье](/ru/heroes/Faction Dungeon/){: .btn .btn--danger} [Бастион](/ru/heroes/Faction Rampart/){: .btn .btn--info} [Крепость](/ru/heroes/Faction Fortress/){: .btn .btn--primary} [Замок](/ru/heroes/Faction Castle/){: .btn .btn--success} [Башня](/ru/heroes/Faction Tower/){: .btn .btn--warning} [Цитадель](/ru/heroes/Faction Stronghold/){: .btn .btn--danger} [Убежище](/ru/heroes/Faction Cove/){: .btn .btn--info} [Некрополь](/ru/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   by Класс: [Дитя океана](/ru/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [Лесничий](/ru/heroes/Profession Ranger/){: .btn .btn--success} [Рыцарь Смерти](/ru/heroes/Profession Death Knight/){: .btn .btn--warning} [Владыка Подземелья](/ru/heroes/Profession Overlord/){: .btn .btn--danger} [Еретик](/ru/heroes/Profession Heretic/){: .btn .btn--info} [Алхимик](/ru/heroes/Profession Warlock/){: .btn .btn--primary} [Друид](/ru/heroes/Profession Druid/){: .btn .btn--success} [Варвар](/ru/heroes/Profession Barbarian/){: .btn .btn--warning} [Священник](/ru/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/ru/heroes/Profession Unknown/){: .btn .btn--info} [Одержимый](/ru/heroes/Profession Demoniac/){: .btn .btn--primary} [Путешественник](/ru/heroes/Profession Planeswalker/){: .btn .btn--success} [Рыцарь](/ru/heroes/Profession Knight/){: .btn .btn--warning} [Хозяин зверей](/ru/heroes/Profession Beast Master/){: .btn .btn--danger} [Пират](/ru/heroes/Profession Pirate/){: .btn .btn--info} [Элементалист](/ru/heroes/Profession Elementalist/){: .btn .btn--primary} [Некромант](/ru/heroes/Profession Necromancer/){: .btn .btn--success} [Боевой маг](/ru/heroes/Profession Wizard/){: .btn .btn--warning} 
 
@@ -29,7 +29,7 @@ classes: wide
   | 10 | ![Зидар](/images/h/h_Zydar.jpg) | [Зидар](/ru/heroes/Zydar/) | Инферно | Еретик | **R** |  Призыв Инферно | R |
   | 11 | ![Йог](/images/h/h_Yog.jpg) | [Йог](/ru/heroes/Yog/) | Цитадель | Варвар | **SR** |  Разъяренные циклопы | SR |
   | 12 | ![Кассанбель](/images/h/h_Cassanbel.jpg) | [Кассанбель](/ru/heroes/Cassanbel/) | Убежище | Дитя океана | **SSR** |  Песнь океана | SSR |
-  | 13 | ![Кассандра](/images/h/h_kashandela.jpg) | [Кассандра](/ru/heroes/Kassandra/) | Нейтральная армия |  | **SSR-** |  Армия спартанцев | R |
+  | 13 | ![Кассандра](/images/h/h_kashandela.jpg) | [Кассандра](/ru/heroes/Kassandra/) | Нейтралы |  | **SSR-** |  Армия спартанцев | R |
   | 14 | ![Катерина](/images/h/h_Catherine.jpg) | [Катерина](/ru/heroes/Catherine/) | Замок | Рыцарь | **R** |  Железные крестоносцы | R |
   | 15 | ![Кендал](/images/h/h_Kendel.jpg) | [Кендал](/ru/heroes/Kendal/) | Замок | Рыцарь | **SR** |  Мастер тактики | R |
   | 16 | ![Килгор](/images/h/h_Kilgor.jpg) | [Килгор](/ru/heroes/Kilgor/) | Цитадель | Варвар | **SSR** |  Боевое чудище | SSR |
@@ -57,5 +57,5 @@ classes: wide
   | 38 | ![Человек Сандро](/images/h/h_HumanSandro.jpg) | [Человек Сандро](/ru/heroes/Human Sandro/) | Некрополь | Некромант | **SR+** |  Бессмертная душа | SR |
   | 39 | ![Шива](/images/h/h_Shiwa.jpg) | [Шива](/ru/heroes/Shiva/) | Цитадель | Варвар | **R** |  Вестники бури | R |
   | 40 | ![Эрдамон](/images/h/h_Erdamon.jpg) | [Эрдамон](/ru/heroes/Erdamon/) | Гармония | Путешественник | **R** |  Король камней | R |
-  | 41 | ![Эцио](/images/h/h_Ezio.jpg) | [Эцио](/ru/heroes/Ezio/) | Нейтральная армия |  | **SSR** |  Братство | R+ |
+  | 41 | ![Эцио](/images/h/h_Ezio.jpg) | [Эцио](/ru/heroes/Ezio/) | Нейтралы |  | **SSR** |  Братство | R+ |
   | 42 | ![Янова](/images/h/h_Ylthin.jpg) | [Янова](/ru/heroes/Jenova/) | Бастион | Лесничий | **R** |  Дева единорога | R |

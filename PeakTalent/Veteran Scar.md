@@ -2,7 +2,7 @@
 title: "Шрам ветерана. Талант вершины - Шрам ветерана"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Эра хаоса Талант вершины Шрам ветерана. Талант вершины Шрам ветерана. Шрам ветерана"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Veteran Scar.md"
 toc: false

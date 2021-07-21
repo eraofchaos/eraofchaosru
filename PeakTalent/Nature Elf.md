@@ -2,7 +2,7 @@
 title: "Истинный эльф. Талант вершины - Истинный эльф"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Эра хаоса Талант вершины Истинный эльф. Талант вершины Истинный эльф. Истинный эльф"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Nature Elf.md"
 toc: false

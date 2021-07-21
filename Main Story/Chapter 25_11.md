@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-11 Помощь мудреца"
 permalink: /Main Story/Chapter 25_11/
 excerpt: "Глава 25 - 11. Эра хаоса  Основной сюжет - Глава 25_11. 25-11 Помощь мудреца"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 25_11.md"
 toc: false

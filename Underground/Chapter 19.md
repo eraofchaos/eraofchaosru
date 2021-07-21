@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 19 Нейтральная территория"
 permalink: /Underground/Chapter 19/
 excerpt: "Глава 19 Нейтральная территория. Эра хаоса  Подземелье - Глава 19. Нейтральная территория"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 19.md"
 toc: false

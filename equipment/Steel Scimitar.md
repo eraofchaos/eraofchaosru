@@ -2,7 +2,7 @@
 title: "Стальная сабля"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Эра хаоса Стальная сабля. Стальная сабля"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Steel Scimitar.md"
 toc: false

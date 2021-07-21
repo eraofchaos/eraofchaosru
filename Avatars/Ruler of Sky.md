@@ -2,7 +2,7 @@
 title: "Аватар - Правитель неба"
 permalink: /Avatars/Ruler of Sky/
 excerpt: "Эра хаоса  Правитель неба"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Ruler of Sky.md"
 toc: false

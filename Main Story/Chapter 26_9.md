@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-9 Песнь заклинательницы"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Глава 26 - 9. Эра хаоса  Основной сюжет - Глава 26_9. 26-9 Песнь заклинательницы"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 26_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Хвост чумного дракона"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Эра хаоса Хвост чумного дракона. Хвост чумного дракона"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Plague Dragon Tail.md"
 toc: false

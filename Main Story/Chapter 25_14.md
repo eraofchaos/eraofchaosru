@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 25 - 25-14 Значение дракона"
 permalink: /Main Story/Chapter 25_14/
 excerpt: "Глава 25 - 14. Эра хаоса  Основной сюжет - Глава 25_14. 25-14 Значение дракона"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 25_14.md"
 toc: false

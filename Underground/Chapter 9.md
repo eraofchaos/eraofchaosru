@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 9 Алчность"
 permalink: /Underground/Chapter 9/
 excerpt: "Глава 9 Алчность. Эра хаоса  Подземелье - Глава 9. Алчность"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 9.md"
 toc: false

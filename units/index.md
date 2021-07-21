@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Фракция: [Гармония](/ru/units/Faction Conflux/){: .btn .btn--primary} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--success} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--warning} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--danger} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--info} [Замок](/ru/units/Faction Castle/){: .btn .btn--primary} [Башня](/ru/units/Faction Tower/){: .btn .btn--success} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--warning} [Убежище](/ru/units/Faction Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/units/Faction Neutral Army/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Фракция: [Нейтралы](/ru/units/Faction Neutral/){: .btn .btn--primary} [Гармония](/ru/units/Faction Conflux/){: .btn .btn--success} [Инферно](/ru/units/Faction Inferno/){: .btn .btn--warning} [Подземелье](/ru/units/Faction Dungeon/){: .btn .btn--danger} [Крепость](/ru/units/Faction Fortress/){: .btn .btn--info} [Бастион](/ru/units/Faction Rampart/){: .btn .btn--primary} [Замок](/ru/units/Faction Castle/){: .btn .btn--success} [Башня](/ru/units/Faction Tower/){: .btn .btn--warning} [Цитадель](/ru/units/Faction Stronghold/){: .btn .btn--danger} [Убежище](/ru/units/Faction Cove/){: .btn .btn--info} [Некрополь](/ru/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Класс: [Стрелковый](/ru/units/Unit Class Ranged/){: .btn .btn--primary} [Штурм](/ru/units/Unit Class Charging/){: .btn .btn--success} [Заклинатель](/ru/units/Unit Class Caster/){: .btn .btn--warning} [Наступление](/ru/units/Unit Class Offense/){: .btn .btn--danger} [Защита](/ru/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -63,7 +63,7 @@ classes: wide
   | 41 | ![Костяной дракон](/images/u/ti_gulong.jpg) | [Костяной дракон](/ru/units/Bone Dragon/) | Наступление | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Призрачный дракон  |
   | 42 | ![Кошмар](/images/u/ti_mengyanshou.jpg) | [Кошмар](/ru/units/Nightmare/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Копыто дьявола  |
   | 43 | ![Красный дракон](/images/u/ti_chilong.jpg) | [Красный дракон](/ru/units/Red Dragon/) | Наступление | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 44 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Демон бездны  |
+  | 44 | ![Левиафан](/images/u/ti_haiguai.jpg) | [Левиафан](/ru/units/Revyaratan/) | Наступление | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Демон бездны  |
   | 45 | ![Ледяной демон](/images/u/ti_bingmo.jpg) | [Ледяной демон](/ru/units/Ice Demon/) | Стрелковый | - | Командующий | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 46 | ![Лепрекон](/images/u/ti_conglinyaojing.jpg) | [Лепрекон](/ru/units/Leprechaun/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Хранитель древа  |
   | 47 | ![Лесной эльф](/images/u/ti_mujingling.jpg) | [Лесной эльф](/ru/units/Wood Elf/) | Стрелковый | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Высокий эльф  |

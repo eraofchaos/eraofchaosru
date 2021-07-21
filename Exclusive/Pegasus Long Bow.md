@@ -2,13 +2,13 @@
 title: "Эксклюзив - Длинный лук (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Эра хаоса Длинный лук. Длинный лук. Эра хаоса Эксклюзив Длинный лук. Пегас Эксклюзив."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Pegasus Длинный лук.md"
 toc: false
 classes: wide
 ---
- [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--success} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Нейтральная армия](/ru/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Нейтралы](/ru/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Гармония](/ru/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Инферно](/ru/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Подземелье](/ru/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Крепость](/ru/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Бастион](/ru/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Замок](/ru/Exclusive/Exclusive Castle/){: .btn .btn--success} [Башня](/ru/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Цитадель](/ru/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Убежище](/ru/Exclusive/Exclusive Cove/){: .btn .btn--info} [Некрополь](/ru/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Подробности
  **Имя: Длинный лук** 

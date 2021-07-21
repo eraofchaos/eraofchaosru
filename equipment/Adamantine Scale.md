@@ -2,7 +2,7 @@
 title: "Адамантовая чешуя"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Эра хаоса Адамантовая чешуя. Адамантовая чешуя"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Adamantine Scale.md"
 toc: false

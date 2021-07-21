@@ -2,7 +2,7 @@
 title: "Базовая легкая броня"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Эра хаоса Базовая легкая броня. Базовая легкая броня"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Basic Light Armor.md"
 toc: false

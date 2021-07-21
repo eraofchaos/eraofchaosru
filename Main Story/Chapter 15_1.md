@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-1 Последние слова демона"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Глава 15 - 1. Эра хаоса  Основной сюжет - Глава 15_1. 15-1 Последние слова демона"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Chapter 15_1.md"
 toc: false

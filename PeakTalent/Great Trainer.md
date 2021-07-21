@@ -2,7 +2,7 @@
 title: "Великий наставник. Талант вершины - Великий наставник"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Эра хаоса Талант вершины Великий наставник. Талант вершины Великий наставник. Великий наставник"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Great Trainer.md"
 toc: false

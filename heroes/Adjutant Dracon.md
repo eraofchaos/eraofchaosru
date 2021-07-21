@@ -2,7 +2,7 @@
 title: "Адъютант Дракон"
 permalink: /heroes/Adjutant Dracon/
 excerpt: "Эра хаоса  Адъютант Дракон"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Adjutant Dracon.md"
 QR: adhero_61202

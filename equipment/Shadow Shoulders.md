@@ -2,7 +2,7 @@
 title: "Плечи тени"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Эра хаоса Плечи тени. Плечи тени"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: ru
 ref: "Shadow Shoulders.md"
 toc: false
