@@ -2,7 +2,7 @@
 title: "Эмблема святости - Цена верности"
 permalink: /Emblem/The Price of Loyalty/
 excerpt: "Эра хаоса Цена верности. Цена верности. Эра хаоса Эмблема святости Цена верности. Эра хаоса Порядок Цена верности"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "The Price of Loyalty.md"
 toc: false

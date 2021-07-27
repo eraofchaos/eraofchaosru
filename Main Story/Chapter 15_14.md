@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-14 Появление демона"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Глава 15 - 14. Эра хаоса  Основной сюжет - Глава 15_14. 15-14 Появление демона"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 15_14.md"
 toc: false

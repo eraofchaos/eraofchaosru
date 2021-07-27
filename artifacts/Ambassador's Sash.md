@@ -2,7 +2,7 @@
 title: "Артефакт - Перо государя - Лента посла"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Эра хаоса  Перо государя - Лента посла. Вы помогли послу починить повозку. Он вручил вам медаль и сказал: «Она поможет вам убедить других. Это один из компонентов Пера государя»."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Ambassador's Sash.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Метка океана"
 permalink: /equipment/Mark of the Ocean/
 excerpt: "Эра хаоса Метка океана. Метка океана"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Mark of the Ocean.md"
 toc: false

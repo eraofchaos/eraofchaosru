@@ -2,7 +2,7 @@
 title: "Мистическая броня"
 permalink: /equipment/Mystic Armor/
 excerpt: "Эра хаоса Мистическая броня. Мистическая броня"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Mystic Armor.md"
 toc: false

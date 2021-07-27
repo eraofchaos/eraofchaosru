@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-2 Побег из Врат дракона"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Глава 17 - 2. Эра хаоса  Основной сюжет - Глава 17_2. 17-2 Побег из Врат дракона"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 17_2.md"
 toc: false

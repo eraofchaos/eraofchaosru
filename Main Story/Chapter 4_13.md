@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 4 - 4-13 Гильдия наемников"
 permalink: /Main Story/Chapter 4_13/
 excerpt: "Глава 4 - 13. Эра хаоса  Основной сюжет - Глава 4_13. 4-13 Гильдия наемников"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 4_13.md"
 toc: false

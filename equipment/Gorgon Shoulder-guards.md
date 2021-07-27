@@ -2,7 +2,7 @@
 title: "Наплечники горгоны"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Эра хаоса Наплечники горгоны. Наплечники горгоны"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Gorgon Shoulder-guards.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Костяной шип"
 permalink: /equipment/Bone Spike/
 excerpt: "Эра хаоса Костяной шип. Костяной шип"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Bone Spike.md"
 toc: false

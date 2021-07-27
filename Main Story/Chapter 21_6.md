@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-6 Убийца короля"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Глава 21 - 6. Эра хаоса  Основной сюжет - Глава 21_6. 21-6 Убийца короля"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 21_6.md"
 toc: false

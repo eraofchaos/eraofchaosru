@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-14 Использование мудрости"
 permalink: /Main Story/Chapter 22_14/
 excerpt: "Глава 22 - 14. Эра хаоса  Основной сюжет - Глава 22_14. 22-14 Использование мудрости"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 22_14.md"
 toc: false

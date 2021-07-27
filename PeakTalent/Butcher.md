@@ -2,7 +2,7 @@
 title: "Мясник. Талант вершины - Мясник"
 permalink: /PeakTalent/Butcher/
 excerpt: "Эра хаоса Талант вершины Мясник. Талант вершины Мясник. Мясник"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Butcher.md"
 toc: false

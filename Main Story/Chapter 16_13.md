@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-13 Ловушка на зверя"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Глава 16 - 13. Эра хаоса  Основной сюжет - Глава 16_13. 16-13 Ловушка на зверя"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 16_13.md"
 toc: false

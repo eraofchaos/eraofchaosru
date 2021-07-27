@@ -2,7 +2,7 @@
 title: "Нагрудник молнии"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Эра хаоса Нагрудник молнии. Нагрудник молнии"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Breastplate of Lightning.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 17 - 17-5 Злобный приказ"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Глава 17 - 5. Эра хаоса  Основной сюжет - Глава 17_5. 17-5 Злобный приказ"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 17_5.md"
 toc: false

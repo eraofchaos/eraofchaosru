@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Эра хаоса Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Unit Rank SR"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
   | 16 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Гарпия  |
   | 17 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |
   | 18 | ![Русалка](/images/u/ti_meirenyu.jpg) | [Русалка](/ru/units/Mermaid/) | Заклинатель | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 19 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
+  | 19 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Священный грифон  |
   | 20 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |
   | 21 | ![Мечник](/images/u/ti_shizijun.jpg) | [Мечник](/ru/units/Swordsman/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Крестоносец  |
   | 22 | ![Медуза](/images/u/ti_meidusha.jpg) | [Медуза](/ru/units/Medusa/) | Стрелковый | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Королевская медуза  |

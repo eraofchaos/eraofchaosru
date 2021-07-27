@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-9 Ржавая болезнь"
 permalink: /Main Story/Chapter 23_9/
 excerpt: "Глава 23 - 9. Эра хаоса  Основной сюжет - Глава 23_9. 23-9 Ржавая болезнь"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 23_9.md"
 toc: false

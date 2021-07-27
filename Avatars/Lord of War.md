@@ -2,7 +2,7 @@
 title: "Аватар - Владыка войны"
 permalink: /Avatars/Lord of War/
 excerpt: "Эра хаоса  Владыка войны"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Lord of War.md"
 toc: false

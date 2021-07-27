@@ -3,7 +3,7 @@ title: "Богомол"
 permalink: /units/Mantis/
 excerpt: "Эра хаоса Богомол. Богомол Отряды. null. Эра хаоса Блестящие клинки - гордость этого чудесного создания. Эльфы Вори наделили его удивительной живучестью."
 unitID: 209
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Богомол"
 toc: true

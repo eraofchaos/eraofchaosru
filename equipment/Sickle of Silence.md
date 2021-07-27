@@ -2,7 +2,7 @@
 title: "Серп тишины"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Эра хаоса Серп тишины. Серп тишины"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Sickle of Silence.md"
 toc: false

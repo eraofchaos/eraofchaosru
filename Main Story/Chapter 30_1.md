@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 30 - 30-1. Волшебный источник"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Глава 30 - 1. Эра хаоса  Основной сюжет - Глава 30_1. 30-1. Волшебный источник"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 30_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-14 Репродуктивная изоляция"
 permalink: /Main Story/Chapter 26_14/
 excerpt: "Глава 26 - 14. Эра хаоса  Основной сюжет - Глава 26_14. 26-14 Репродуктивная изоляция"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 26_14.md"
 toc: false

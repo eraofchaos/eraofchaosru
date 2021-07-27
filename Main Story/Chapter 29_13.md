@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-13. Лагерь наемников"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "Глава 29 - 13. Эра хаоса  Основной сюжет - Глава 29_13. 29-13. Лагерь наемников"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 29_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Хвост Панцирного дракона"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Эра хаоса Хвост Панцирного дракона. Хвост Панцирного дракона"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Dragon Turtle's Tail.md"
 toc: false

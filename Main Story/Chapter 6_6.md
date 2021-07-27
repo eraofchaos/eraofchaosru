@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-6 Уничтожение"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Глава 6 - 6. Эра хаоса  Основной сюжет - Глава 6_6. 6-6 Уничтожение"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 6_6.md"
 toc: false

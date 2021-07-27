@@ -2,7 +2,7 @@
 title: "Камень сумерек"
 permalink: /equipment/Twilight Stone/
 excerpt: "Эра хаоса Камень сумерек. Камень сумерек"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Twilight Stone.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Разряд молнии"
 permalink: /equipment/Thunderbolt/
 excerpt: "Эра хаоса Разряд молнии. Разряд молнии"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Thunderbolt.md"
 toc: false

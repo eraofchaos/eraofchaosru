@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-4 Пой слова"
 permalink: /Main Story/Chapter 19_4/
 excerpt: "Глава 19 - 4. Эра хаоса  Основной сюжет - Глава 19_4. 19-4 Пой слова"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 19_4.md"
 toc: false

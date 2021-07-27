@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 10 - 10-1 Земля нежити"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "Глава 10 - 1. Эра хаоса  Основной сюжет - Глава 10_1. 10-1 Земля нежити"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 10_1.md"
 toc: false

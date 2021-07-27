@@ -2,7 +2,7 @@
 title: "Адъютант Кассандра"
 permalink: /heroes/Adjutant Kassandra/
 excerpt: "Эра хаоса  Адъютант Кассандра"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Adjutant Kassandra.md"
 QR: adhero_62001

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Эра хаоса Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Unit Member x9"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | ![Лучник](/images/u/ti_nushou.jpg) | [Лучник](/ru/units/Marksman/) | Стрелковый | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Опытный лучник  |
   | 10 | ![Гарпия](/images/u/ti_yingshenren.jpg) | [Гарпия](/ru/units/Harpy/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Гарпия  |
   | 11 | ![Троглодит](/images/u/ti_dongxueren.jpg) | [Троглодит](/ru/units/Troglodyte/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Темный троглодит  |
-  | 12 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
+  | 12 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Священный грифон  |
   | 13 | ![Бехолдер](/images/u/ti_xieyan.jpg) | [Бехолдер](/ru/units/Beholder/) | Заклинатель | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Злобоглаз  |
   | 14 | ![Кентавр](/images/u/ti_banrenma.jpg) | [Кентавр](/ru/units/Centaur/) | Защита | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Капитан кентавров  |
   | 15 | ![Гнолл](/images/u/ti_langren.jpg) | [Гнолл](/ru/units/Gnoll/) | Наступление | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Гнолл-воин  |

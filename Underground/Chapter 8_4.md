@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 - 8-4 Поднятие мертвых"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Глава 8 - 4. Эра хаоса  Подземелье - Глава 8_4. 8-4 Поднятие мертвых"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 8_4.md"
 toc: false

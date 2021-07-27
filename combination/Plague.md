@@ -2,7 +2,7 @@
 title: "Информация о комбинации for Чума"
 permalink: /combination/Plague/
 excerpt: "Информация о комбинации - Чума. Units and Heroes Formation."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Чума.md"
 toc: false

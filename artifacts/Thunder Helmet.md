@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Громовой шлем"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Эра хаоса  Гром титана - Громовой шлем. Шлем бога грома. Компонент грома титана."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Thunder Helmet.md"
 toc: false

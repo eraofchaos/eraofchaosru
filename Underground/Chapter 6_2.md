@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 - 6-2 Новая цель"
 permalink: /Underground/Chapter 6_2/
 excerpt: "Глава 6 - 2. Эра хаоса  Подземелье - Глава 6_2. 6-2 Новая цель"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 6_2.md"
 toc: false

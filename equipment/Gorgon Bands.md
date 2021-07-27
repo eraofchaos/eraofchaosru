@@ -2,7 +2,7 @@
 title: "Ленты горгоны"
 permalink: /equipment/Gorgon Bands/
 excerpt: "Эра хаоса Ленты горгоны. Ленты горгоны"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Gorgon Bands.md"
 toc: false

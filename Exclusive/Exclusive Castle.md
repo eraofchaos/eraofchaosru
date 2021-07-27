@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Эра хаоса Эксклюзив Castle. Эксклюзив Castle. List of Эксклюзив Castle in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Exclusive Castle"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Копейщик](/ru/units/Pikeman/) | [Меч](/ru/Exclusive/Pikeman Sword/) | - | Заряд | [Жетон меча](/ItemsRU/con_912/) | - |
   | 2  | [Лучник](/ru/units/Marksman/) | [Длинный лук](/ru/Exclusive/Marksman Long Bow/) | + | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |
-  | 3  | [Грифон](/ru/units/Griffin/) | [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) | - | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
+  | 3  | [Грифон](/ru/units/Griffin/) | [Копье рыцаря](/ru/Exclusive/Griffin Knight Pike/) | + | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |
   | 4  | [Мечник](/ru/units/Swordsman/) | [Славный щит](/ru/Exclusive/Swordsman Iris Shield/) | - | Заряд | [Жетон славного щита](/ItemsRU/con_913/) | - |
   | 5  | [Монах](/ru/units/Monk/) | [Таинственное пение](/ru/Exclusive/Monk Arcane Chant/) | + | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
   | 6  | [Всадники](/ru/units/Cavalier/) | [Копье рыцаря](/ru/Exclusive/Cavalier Knight Pike/) | + | Заряд | [Жетон Копья рыцаря](/ItemsRU/con_916/) | - |

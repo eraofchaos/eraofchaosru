@@ -2,7 +2,7 @@
 title: "Волнистый поток"
 permalink: /equipment/Wavy Flow/
 excerpt: "Эра хаоса Волнистый поток. Волнистый поток"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Wavy Flow.md"
 toc: false

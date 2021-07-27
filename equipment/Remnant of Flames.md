@@ -2,7 +2,7 @@
 title: "Остатки огня"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Эра хаоса Остатки огня. Остатки огня"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Remnant of Flames.md"
 toc: false

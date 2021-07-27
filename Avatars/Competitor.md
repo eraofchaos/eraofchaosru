@@ -2,7 +2,7 @@
 title: "Аватар - Соперник"
 permalink: /Avatars/Competitor/
 excerpt: "Эра хаоса  Соперник"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Competitor.md"
 toc: false

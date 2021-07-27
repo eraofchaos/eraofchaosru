@@ -2,7 +2,7 @@
 title: "Ржавые наплечники"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Эра хаоса Ржавые наплечники. Ржавые наплечники"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Rusted Pauldrons.md"
 toc: false

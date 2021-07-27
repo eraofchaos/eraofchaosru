@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-7 Вытеснение врага"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Глава 12 - 7. Эра хаоса  Основной сюжет - Глава 12_7. 12-7 Вытеснение врага"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 12_7.md"
 toc: false

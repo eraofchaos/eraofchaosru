@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 13 - 13-15 Победа или смерть"
 permalink: /Main Story/Chapter 13_15/
 excerpt: "Глава 13 - 15. Эра хаоса  Основной сюжет - Глава 13_15. 13-15 Победа или смерть"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 13_15.md"
 toc: false

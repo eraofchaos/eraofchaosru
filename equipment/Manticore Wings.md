@@ -2,7 +2,7 @@
 title: "Крылья мантикоры"
 permalink: /equipment/Manticore Wings/
 excerpt: "Эра хаоса Крылья мантикоры. Крылья мантикоры"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Manticore Wings.md"
 toc: false

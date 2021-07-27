@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 29 - 29-4. Кровавый алтарь"
 permalink: /Main Story/Chapter 29_4/
 excerpt: "Глава 29 - 4. Эра хаоса  Основной сюжет - Глава 29_4. 29-4. Кровавый алтарь"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 29_4.md"
 toc: false

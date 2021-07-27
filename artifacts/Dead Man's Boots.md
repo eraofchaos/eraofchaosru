@@ -2,7 +2,7 @@
 title: "Артефакт - Накидка Мертвого короля - Башмаки мертвеца"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Эра хаоса  Накидка Мертвого короля - Башмаки мертвеца. Сапоги, дарящие носителю скорость ветра. Компонент накидки Мертвого короля."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Dead Man's Boots.md"
 toc: false

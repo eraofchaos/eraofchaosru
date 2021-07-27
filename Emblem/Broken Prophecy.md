@@ -2,7 +2,7 @@
 title: "Эмблема святости - Разбитое пророчество"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Эра хаоса Разбитое пророчество. Разбитое пророчество. Эра хаоса Эмблема святости Разбитое пророчество. Эра хаоса Злой Разбитое пророчество"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Broken Prophecy.md"
 toc: false

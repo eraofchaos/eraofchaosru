@@ -2,7 +2,7 @@
 title: "Эмблема святости - Ревность"
 permalink: /Emblem/Jealousy/
 excerpt: "Эра хаоса Ревность. Ревность. Эра хаоса Эмблема святости Ревность. Эра хаоса Хаос Ревность"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Jealousy.md"
 toc: false

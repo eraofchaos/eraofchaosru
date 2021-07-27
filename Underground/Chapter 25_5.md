@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 - 25-5 Метеоритный дождь"
 permalink: /Underground/Chapter 25_5/
 excerpt: "Глава 25 - 5. Эра хаоса  Подземелье - Глава 25_5. 25-5 Метеоритный дождь"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 25_5.md"
 toc: false

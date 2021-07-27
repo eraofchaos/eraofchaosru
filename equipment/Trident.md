@@ -2,7 +2,7 @@
 title: "Трезубец"
 permalink: /equipment/Trident/
 excerpt: "Эра хаоса Трезубец. Трезубец"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Trident.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Отряды"
 permalink: /units/
 excerpt: "Эра хаоса Отряды. List of ALL Отряды in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 22 | ![Гончая ада](/images/u/ti_santouquan.jpg) | [Гончая ада](/ru/units/Hell Hound/) | Штурм | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 23 | ![Горгона](/images/u/ti_manniu.jpg) | [Горгона](/ru/units/Gorgon/) | Защита | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Могучая горгона  |
   | 24 | ![Гремлин](/images/u/ti_xiaoyaojing.jpg) | [Гремлин](/ru/units/Gremlin/) | Стрелковый | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 25 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Священный грифон  |
+  | 25 | ![Грифон](/images/u/ti_shijiu.jpg) | [Грифон](/ru/units/Griffin/) | Штурм | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Священный грифон  |
   | 26 | ![Демон](/images/u/ti_changjiaoemo.jpg) | [Демон](/ru/units/Demon/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Стражник Инферно  |
   | 27 | ![Дендроид-страж](/images/u/ti_shuyao.jpg) | [Дендроид-страж](/ru/units/Dendroid Guard/) | Защита | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Дендроид-воин  |
   | 28 | ![Джинн](/images/u/ti_shenguai.jpg) | [Джинн](/ru/units/Genie/) | Заклинатель | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Владыка джиннов  |

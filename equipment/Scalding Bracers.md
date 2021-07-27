@@ -2,7 +2,7 @@
 title: "Ошпаривающие браслеты"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Эра хаоса Ошпаривающие браслеты. Ошпаривающие браслеты"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Scalding Bracers.md"
 toc: false

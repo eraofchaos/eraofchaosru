@@ -2,7 +2,7 @@
 title: "Дивный доспех"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Эра хаоса Дивный доспех. Дивный доспех"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Armor of Wonder.md"
 toc: false

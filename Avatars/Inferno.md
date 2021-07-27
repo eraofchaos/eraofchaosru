@@ -2,7 +2,7 @@
 title: "Аватар - Инферно"
 permalink: /Avatars/Inferno/
 excerpt: "Эра хаоса  Инферно"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Inferno.md"
 toc: false

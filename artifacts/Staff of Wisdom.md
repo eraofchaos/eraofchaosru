@@ -2,7 +2,7 @@
 title: "Артефакт - Клинок Армагеддона - Посох мудрости"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Эра хаоса  Клинок Армагеддона - Посох мудрости. Реликвия, охраняющая щит Льда. Компонент клинка Армагеддона."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Staff of Wisdom.md"
 toc: false

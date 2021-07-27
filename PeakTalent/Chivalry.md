@@ -2,7 +2,7 @@
 title: "Благородство. Талант вершины - Благородство"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Эра хаоса Талант вершины Благородство. Талант вершины Благородство. Благородство"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chivalry.md"
 toc: false

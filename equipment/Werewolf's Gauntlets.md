@@ -2,7 +2,7 @@
 title: "Рукавицы оборотня"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Эра хаоса Рукавицы оборотня. Рукавицы оборотня"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Werewolf's Gauntlets.md"
 toc: false

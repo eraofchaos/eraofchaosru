@@ -2,7 +2,7 @@
 title: "Шляпа мистика"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Эра хаоса Шляпа мистика. Шляпа мистика"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Mystic's Cap.md"
 toc: false

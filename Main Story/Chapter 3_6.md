@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 3 - 3-6 Лагерь разбойников"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Глава 3 - 6. Эра хаоса  Основной сюжет - Глава 3_6. 3-6 Лагерь разбойников"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 3_6.md"
 toc: false

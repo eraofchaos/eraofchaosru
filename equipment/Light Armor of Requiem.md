@@ -2,7 +2,7 @@
 title: "Легкая броня реквиема"
 permalink: /equipment/Light Armor of Requiem/
 excerpt: "Эра хаоса Легкая броня реквиема. Легкая броня реквиема"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Light Armor of Requiem.md"
 toc: false

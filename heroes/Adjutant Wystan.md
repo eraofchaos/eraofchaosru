@@ -2,7 +2,7 @@
 title: "Адъютант Вестан"
 permalink: /heroes/Adjutant Wystan/
 excerpt: "Эра хаоса  Адъютант Вестан"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Adjutant Wystan.md"
 QR: adhero_61504

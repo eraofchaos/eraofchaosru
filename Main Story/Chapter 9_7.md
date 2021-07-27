@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-7 Поза победителя"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Глава 9 - 7. Эра хаоса  Основной сюжет - Глава 9_7. 9-7 Поза победителя"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 9_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Мастер войны. Талант вершины - Мастер войны"
 permalink: /PeakTalent/War Master/
 excerpt: "Эра хаоса Талант вершины Мастер войны. Талант вершины Мастер войны. Мастер войны"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "War Master.md"
 toc: false

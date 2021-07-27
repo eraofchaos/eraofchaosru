@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Гончая ада Эксклюзив."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Hell Hound Копье рыцаря.md"
 toc: false

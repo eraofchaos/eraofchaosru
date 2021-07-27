@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 6 - 6-13 Ради справедливости"
 permalink: /Main Story/Chapter 6_13/
 excerpt: "Глава 6 - 13. Эра хаоса  Основной сюжет - Глава 6_13. 6-13 Ради справедливости"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: ru
 ref: "Chapter 6_13.md"
 toc: false
