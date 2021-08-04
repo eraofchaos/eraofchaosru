@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 Грифонхарт"
 permalink: /Underground/Chapter 10/
 excerpt: "Глава 10 Грифонхарт. Эра хаоса  Подземелье - Глава 10. Грифонхарт"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 10.md"
 toc: false

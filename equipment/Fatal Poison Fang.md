@@ -2,7 +2,7 @@
 title: "Клык со смертельным ядом"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Эра хаоса Клык со смертельным ядом. Клык со смертельным ядом"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Fatal Poison Fang.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Аватар - Некрополь"
 permalink: /Avatars/Necropolis/
 excerpt: "Эра хаоса  Некрополь"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Necropolis.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Эксклюзив - Копье рыцаря (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Эра хаоса Копье рыцаря. Копье рыцаря. Эра хаоса Эксклюзив Копье рыцаря. Гарпия Эксклюзив."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Harpy Копье рыцаря.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 21 - 21-2 Элементаль Огня"
 permalink: /Underground/Chapter 21_2/
 excerpt: "Глава 21 - 2. Эра хаоса  Подземелье - Глава 21_2. 21-2 Элементаль Огня"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 21_2.md"
 toc: false

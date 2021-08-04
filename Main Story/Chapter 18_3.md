@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-3 Орки на мосту"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Глава 18 - 3. Эра хаоса  Основной сюжет - Глава 18_3. 18-3 Орки на мосту"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 18_3.md"
 toc: false

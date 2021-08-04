@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 25 - 25-4 Восстановление"
 permalink: /Underground/Chapter 25_4/
 excerpt: "Глава 25 - 4. Эра хаоса  Подземелье - Глава 25_4. 25-4 Восстановление"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 25_4.md"
 toc: false

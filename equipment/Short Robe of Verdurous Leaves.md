@@ -2,7 +2,7 @@
 title: "Короткая мантия из древесных листьев"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Эра хаоса Короткая мантия из древесных листьев. Короткая мантия из древесных листьев"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

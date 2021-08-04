@@ -2,7 +2,7 @@
 title: "Железные рукавицы"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Эра хаоса Железные рукавицы. Железные рукавицы"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Iron Gauntlets.md"
 toc: false

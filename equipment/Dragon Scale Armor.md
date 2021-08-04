@@ -2,7 +2,7 @@
 title: "Доспех черного дракона"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Эра хаоса Доспех черного дракона. Доспех черного дракона"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Dragon Scale Armor.md"
 toc: false

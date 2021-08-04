@@ -2,7 +2,7 @@
 title: "Защита жизни"
 permalink: /equipment/Life Guardian/
 excerpt: "Эра хаоса Защита жизни. Защита жизни"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Life Guardian.md"
 toc: false

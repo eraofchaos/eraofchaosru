@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 23 - 23-1 Захват замка"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Глава 23 - 1. Эра хаоса  Основной сюжет - Глава 23_1. 23-1 Захват замка"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 23_1.md"
 toc: false

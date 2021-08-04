@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 1 - 1-3 Фонтан молодости"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Глава 1 - 3. Эра хаоса  Основной сюжет - Глава 1_3. 1-3 Фонтан молодости"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 1_3.md"
 toc: false

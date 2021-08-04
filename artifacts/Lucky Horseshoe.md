@@ -2,7 +2,7 @@
 title: "Артефакт - Счастливая подкова"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Эра хаоса  Счастливая подкова. Счастливая подкова Священная реликвия, наполненная силой. Повышает атаку всей армии."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Lucky Horseshoe.md"
 toc: false

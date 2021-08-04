@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 19 - 19-7 Магическая сеть"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "Глава 19 - 7. Эра хаоса  Основной сюжет - Глава 19_7. 19-7 Магическая сеть"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 19_7.md"
 toc: false

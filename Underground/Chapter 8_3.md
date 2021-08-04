@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 8 - 8-3 Визит к некроманту"
 permalink: /Underground/Chapter 8_3/
 excerpt: "Глава 8 - 3. Эра хаоса  Подземелье - Глава 8_3. 8-3 Визит к некроманту"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 8_3.md"
 toc: false

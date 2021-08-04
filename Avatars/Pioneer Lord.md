@@ -2,7 +2,7 @@
 title: "Аватар - Первопроходец"
 permalink: /Avatars/Pioneer Lord/
 excerpt: "Эра хаоса  Первопроходец"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Pioneer Lord.md"
 toc: false

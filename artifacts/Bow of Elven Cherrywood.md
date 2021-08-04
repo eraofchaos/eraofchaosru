@@ -2,7 +2,7 @@
 title: "Артефакт - Лук снайпера - Эльфийский лук из вишневого дерева"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Эра хаоса  Лук снайпера - Эльфийский лук из вишневого дерева. Длинный лук, вырезанный эльфами из дерева. Компонент лука снайпера."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Bow of Elven Cherrywood.md"
 toc: false

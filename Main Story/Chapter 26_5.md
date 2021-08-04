@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 26 - 26-5 Мрачный лабиринт"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Глава 26 - 5. Эра хаоса  Основной сюжет - Глава 26_5. 26-5 Мрачный лабиринт"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 26_5.md"
 toc: false

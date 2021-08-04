@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-1 Сокровища Нигона"
 permalink: /Main Story/Chapter 27_1/
 excerpt: "Глава 27 - 1. Эра хаоса  Основной сюжет - Глава 27_1. 27-1 Сокровища Нигона"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 27_1.md"
 toc: false

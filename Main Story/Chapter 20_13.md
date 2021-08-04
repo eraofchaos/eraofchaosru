@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-13 Квантовая магия"
 permalink: /Main Story/Chapter 20_13/
 excerpt: "Глава 20 - 13. Эра хаоса  Основной сюжет - Глава 20_13. 20-13 Квантовая магия"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 20_13.md"
 toc: false

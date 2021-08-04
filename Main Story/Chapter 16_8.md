@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 16 - 16-8 Ловушка кентавра"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Глава 16 - 8. Эра хаоса  Основной сюжет - Глава 16_8. 16-8 Ловушка кентавра"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 16_8.md"
 toc: false

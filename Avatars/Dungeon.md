@@ -2,7 +2,7 @@
 title: "Аватар - Подземелье"
 permalink: /Avatars/Dungeon/
 excerpt: "Эра хаоса  Подземелье"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Dungeon.md"
 toc: false

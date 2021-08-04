@@ -2,7 +2,7 @@
 title: "Коготь чумного дракона"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Эра хаоса Коготь чумного дракона. Коготь чумного дракона"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Plague Dragon Claw.md"
 toc: false

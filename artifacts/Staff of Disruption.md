@@ -2,7 +2,7 @@
 title: "Артефакт - Канон мага - Посох разложения"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Эра хаоса  Канон мага - Посох разложения. Внутри этого посоха заключена огромная сила. Одно из сокровищ, описанных в каноне мага."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Staff of Disruption.md"
 toc: false

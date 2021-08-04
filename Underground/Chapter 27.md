@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 27 Путь паломника"
 permalink: /Underground/Chapter 27/
 excerpt: "Глава 27 Путь паломника. Эра хаоса  Подземелье - Глава 27. Путь паломника"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 27.md"
 toc: false

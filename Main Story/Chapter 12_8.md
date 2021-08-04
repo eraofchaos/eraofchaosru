@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 12 - 12-8 Молниеносная битва"
 permalink: /Main Story/Chapter 12_8/
 excerpt: "Глава 12 - 8. Эра хаоса  Основной сюжет - Глава 12_8. 12-8 Молниеносная битва"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 12_8.md"
 toc: false

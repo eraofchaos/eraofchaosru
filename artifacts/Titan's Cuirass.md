@@ -2,7 +2,7 @@
 title: "Артефакт - Гром титана - Кираса титана"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Эра хаоса  Гром титана - Кираса титана. Доспех из метеора. Компонент грома титана."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Titan's Cuirass.md"
 toc: false

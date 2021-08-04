@@ -2,7 +2,7 @@
 title: "Рогатый шлем"
 permalink: /equipment/Horned Helmet/
 excerpt: "Эра хаоса Рогатый шлем. Рогатый шлем"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Horned Helmet.md"
 toc: false

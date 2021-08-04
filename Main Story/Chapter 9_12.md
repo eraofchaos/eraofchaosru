@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 9 - 9-12 Триумфальное наступление"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Глава 9 - 12. Эра хаоса  Основной сюжет - Глава 9_12. 9-12 Триумфальное наступление"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 9_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Драконьи лодки"
 permalink: /Dragon Boat Festival/
 excerpt: "Эра хаоса  Драконьи лодки - Экспедиция на драконьих лодках"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 20 - 20-3 Магическое создание"
 permalink: /Main Story/Chapter 20_3/
 excerpt: "Глава 20 - 3. Эра хаоса  Основной сюжет - Глава 20_3. 20-3 Магическое создание"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 20_3.md"
 toc: false

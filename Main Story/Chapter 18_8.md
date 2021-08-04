@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-8 Волшебный пояс"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Глава 18 - 8. Эра хаоса  Основной сюжет - Глава 18_8. 18-8 Волшебный пояс"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 18_8.md"
 toc: false

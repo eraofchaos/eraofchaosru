@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 22 - 22-9 Королева золотых драконов"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Глава 22 - 9. Эра хаоса  Основной сюжет - Глава 22_9. 22-9 Королева золотых драконов"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 22_9.md"
 toc: false

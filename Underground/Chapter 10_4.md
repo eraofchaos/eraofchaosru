@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 10 - 10-4 Тело объединяется с душой"
 permalink: /Underground/Chapter 10_4/
 excerpt: "Глава 10 - 4. Эра хаоса  Подземелье - Глава 10_4. 10-4 Тело объединяется с душой"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 10_4.md"
 toc: false

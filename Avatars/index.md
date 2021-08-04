@@ -2,7 +2,7 @@
 title: "Рамка аватара и аватар"
 permalink: /Avatars/
 excerpt: "Эра хаоса  Рамка аватара и аватар. Рамка аватара и аватар"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "index.md"
 toc: false
@@ -100,20 +100,21 @@ classes: wide
   | 87 | ![Путь к развитию](/images/a/avatarFrame_68.png) | [Путь к развитию](/ru/Avatars/Path to Growth/) | - | Рамка аватара «Путь к развитию» |
   | 88 | ![Рожденная из пепла](/images/a/avatarFrame_76.png) | [Рожденная из пепла](/ru/Avatars/Born from the Ashes/) | + | Рамка аватара «Рожденная из пепла» |
   | 89 | ![Роскошное постоянство](/images/a/avatarFrame_80.png) | [Роскошное постоянство](/ru/Avatars/Luxury Permanence/) | + | Рамка аватара «Роскошное постоянство» |
-  | 90 | ![Сердце грифона](/images/a/avatarFrame_6.png) | [Сердце грифона](/ru/Avatars/Griffin Heart/) | + | Рамка аватара «Сердце грифона» |
-  | 91 | ![Сердце постоянства](/images/a/avatarFrame_54.png) | [Сердце постоянства](/ru/Avatars/Heart of Permanence/) | - | Рамка аватара «Сердце постоянства» |
-  | 92 | ![Смертельный командующий](/images/a/avatarFrame_21.png) | [Смертельный командующий](/ru/Avatars/Deadly Commander/) | + | Рамка аватара «Смертельный командующий» |
-  | 93 |  | [Снежный дракон](/ru/Avatars/Shadow of Ice Kingdom Dragon/) | - | Рамка аватара «Снежный дракон» |
-  | 94 | ![Соперник](/images/a/avatarFrame_2.png) | [Соперник](/ru/Avatars/Competitor/) | + | Рамка аватара «Высокоуровневый соперник» |
-  | 95 | ![Социальная бабочка](/images/a/avatarFrame_31.png) | [Социальная бабочка](/ru/Avatars/Social Butterfly/) | - |  |
-  | 96 | ![Судья святого света](/images/a/avatarFrame_51.png) | [Судья святого света](/ru/Avatars/Holy Light Judge/) | + | Рамка аватара «Судья священного света» |
-  | 97 | ![Тайны сфинкса](/images/a/avatarFrame_25.png) | [Тайны сфинкса](/ru/Avatars/Sphinx's Secrets/) | + | Рамка аватара «Тайны сфинкса» |
-  | 98 | ![Тактический командующий](/images/a/avatarFrame_20.png) | [Тактический командующий](/ru/Avatars/Tactical Commander/) | + | Рамка аватара «Тактический командующий» |
-  | 99 | ![Танец клинков](/images/a/avatarFrame_26.png) | [Танец клинков](/ru/Avatars/Dance of the Blades/) | + | Рамка аватара «Танец клинков» |
-  | 100 | ![Тень зверя](/images/a/avatarFrame_79.png) | [Тень зверя](/ru/Avatars/Shadow of Beast/) | + | Рамка аватара «Тень зверя» |
-  | 101 | ![Тень призраков](/images/a/avatarFrame_78.png) | [Тень призраков](/ru/Avatars/Shadow of Ghosts/) | - | Рамка аватара «Тень призраков» |
-  | 102 | ![Теплое Рождество](/images/a/avatarFrame_47.png) | [Теплое Рождество](/ru/Avatars/Warm Christmas/) | + | Рамка аватара «Теплое Рождество» |
-  | 103 | ![Удачливая скотина](/images/a/avatarFrame_55.png) | [Удачливая скотина](/ru/Avatars/Lucky Dog/) | - |  |
-  | 104 | ![Цитадель](/images/a/avatarFrame_4.png) | [Цитадель](/ru/Avatars/Stronghold/) | - | Рамка аватара «Цитадель» |
-  | 105 | ![Ярость дебрей](/images/a/avatarFrame_29.png) | [Ярость дебрей](/ru/Avatars/Fury of the Wilderness/) | + | Рамка аватара «Ярость дебрей» |
-  | 106 | ![магии](/images/a/avatarFrame_49.png) | [магии](/ru/Avatars/Heroes/) | + | Рамка аватара «Король-герой» |
+  | 90 |  | [Северная буря](/ru/Avatars/Raging Northern Wind/) | + | Рамка аватара «Северная буря» |
+  | 91 | ![Сердце грифона](/images/a/avatarFrame_6.png) | [Сердце грифона](/ru/Avatars/Griffin Heart/) | + | Рамка аватара «Сердце грифона» |
+  | 92 | ![Сердце постоянства](/images/a/avatarFrame_54.png) | [Сердце постоянства](/ru/Avatars/Heart of Permanence/) | - | Рамка аватара «Сердце постоянства» |
+  | 93 | ![Смертельный командующий](/images/a/avatarFrame_21.png) | [Смертельный командующий](/ru/Avatars/Deadly Commander/) | + | Рамка аватара «Смертельный командующий» |
+  | 94 |  | [Снежный дракон](/ru/Avatars/Shadow of Ice Kingdom Dragon/) | - | Рамка аватара «Снежный дракон» |
+  | 95 | ![Соперник](/images/a/avatarFrame_2.png) | [Соперник](/ru/Avatars/Competitor/) | + | Рамка аватара «Высокоуровневый соперник» |
+  | 96 | ![Социальная бабочка](/images/a/avatarFrame_31.png) | [Социальная бабочка](/ru/Avatars/Social Butterfly/) | - |  |
+  | 97 | ![Судья святого света](/images/a/avatarFrame_51.png) | [Судья святого света](/ru/Avatars/Holy Light Judge/) | + | Рамка аватара «Судья священного света» |
+  | 98 | ![Тайны сфинкса](/images/a/avatarFrame_25.png) | [Тайны сфинкса](/ru/Avatars/Sphinx's Secrets/) | + | Рамка аватара «Тайны сфинкса» |
+  | 99 | ![Тактический командующий](/images/a/avatarFrame_20.png) | [Тактический командующий](/ru/Avatars/Tactical Commander/) | + | Рамка аватара «Тактический командующий» |
+  | 100 | ![Танец клинков](/images/a/avatarFrame_26.png) | [Танец клинков](/ru/Avatars/Dance of the Blades/) | + | Рамка аватара «Танец клинков» |
+  | 101 | ![Тень зверя](/images/a/avatarFrame_79.png) | [Тень зверя](/ru/Avatars/Shadow of Beast/) | + | Рамка аватара «Тень зверя» |
+  | 102 | ![Тень призраков](/images/a/avatarFrame_78.png) | [Тень призраков](/ru/Avatars/Shadow of Ghosts/) | - | Рамка аватара «Тень призраков» |
+  | 103 | ![Теплое Рождество](/images/a/avatarFrame_47.png) | [Теплое Рождество](/ru/Avatars/Warm Christmas/) | + | Рамка аватара «Теплое Рождество» |
+  | 104 | ![Удачливая скотина](/images/a/avatarFrame_55.png) | [Удачливая скотина](/ru/Avatars/Lucky Dog/) | - |  |
+  | 105 | ![Цитадель](/images/a/avatarFrame_4.png) | [Цитадель](/ru/Avatars/Stronghold/) | - | Рамка аватара «Цитадель» |
+  | 106 | ![Ярость дебрей](/images/a/avatarFrame_29.png) | [Ярость дебрей](/ru/Avatars/Fury of the Wilderness/) | + | Рамка аватара «Ярость дебрей» |
+  | 107 | ![магии](/images/a/avatarFrame_49.png) | [магии](/ru/Avatars/Heroes/) | + | Рамка аватара «Король-герой» |

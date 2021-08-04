@@ -2,7 +2,7 @@
 title: "Корона безмятежности"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Эра хаоса Корона безмятежности. Корона безмятежности"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Crown of Tranquility.md"
 toc: false

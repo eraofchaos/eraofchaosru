@@ -2,7 +2,7 @@
 title: "Артефакт - Источник чародея - Волшебный амулет"
 permalink: /artifacts/Magic Charm/
 excerpt: "Эра хаоса  Источник чародея - Волшебный амулет. Амулет, обладающий магической силой. Компонент источника чародея."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Magic Charm.md"
 toc: false

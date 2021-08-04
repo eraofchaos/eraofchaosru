@@ -2,7 +2,7 @@
 title: "Эксклюзив - Тайная стрела (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Эра хаоса Тайная стрела. Тайная стрела. Эра хаоса Эксклюзив Тайная стрела. Ассасин Эксклюзив."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Assassin Тайная стрела.md"
 toc: false

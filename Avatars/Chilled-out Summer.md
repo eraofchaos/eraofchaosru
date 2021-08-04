@@ -2,7 +2,7 @@
 title: "Аватар - Прохладное лето"
 permalink: /Avatars/Chilled-out Summer/
 excerpt: "Эра хаоса  Прохладное лето"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chilled-out Summer.md"
 toc: false

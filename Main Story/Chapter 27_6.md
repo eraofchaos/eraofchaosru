@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 27 - 27-6 Грибная плантация"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "Глава 27 - 6. Эра хаоса  Основной сюжет - Глава 27_6. 27-6 Грибная плантация"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 27_6.md"
 toc: false

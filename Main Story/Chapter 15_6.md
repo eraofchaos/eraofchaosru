@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 15 - 15-6 Алтарь демона"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Глава 15 - 6. Эра хаоса  Основной сюжет - Глава 15_6. 15-6 Алтарь демона"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 15_6.md"
 toc: false

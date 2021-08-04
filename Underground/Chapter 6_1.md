@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 6 - 6-1 Нападение демонов"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Глава 6 - 1. Эра хаоса  Подземелье - Глава 6_1. 6-1 Нападение демонов"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 6_1.md"
 toc: false

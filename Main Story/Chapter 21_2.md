@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 21 - 21-2 Ускользающая слава"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Глава 21 - 2. Эра хаоса  Основной сюжет - Глава 21_2. 21-2 Ускользающая слава"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 21_2.md"
 toc: false

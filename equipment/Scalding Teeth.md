@@ -2,7 +2,7 @@
 title: "Ошпаривающие зубы"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Эра хаоса Ошпаривающие зубы. Ошпаривающие зубы"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Scalding Teeth.md"
 toc: false

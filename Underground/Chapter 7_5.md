@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 7 - 7-5 Задание выполнено"
 permalink: /Underground/Chapter 7_5/
 excerpt: "Глава 7 - 5. Эра хаоса  Подземелье - Глава 7_5. 7-5 Задание выполнено"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 7_5.md"
 toc: false

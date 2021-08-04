@@ -2,7 +2,7 @@
 title: "Era of Chaos - Эксклюзив Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Эра хаоса Эксклюзив Stronghold. Эксклюзив Stronghold. List of Эксклюзив Stronghold in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Exclusive Stronghold"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Рух](/ru/units/Roc/) | [Таинственное пение](/ru/Exclusive/Roc Arcane Chant/) | - | Заряд | [Жетон таинственного пения](/ItemsRU/con_915/) | - |
   | 6  | [Циклоп](/ru/units/Cyclops/) | [Длинный лук](/ru/Exclusive/Cyclops Long Bow/) | + | Заряд | [Жетон длинного лука](/ItemsRU/con_914/) | - |
   | 7  | [Чудище](/ru/units/Behemoth/) | [Кровожадный дух](/ru/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Поддержка | [Жетон Кровожадного духа](/ItemsRU/con_982/) | [Особый облик: Кровожадный дух](/ItemsRU/con_650/) |
-  | 8  | [Берсерк](/ru/units/Berserker/) | [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) | - | Поддержка | [Безумный убийца](/ItemsRU/con_983/) | [Особый облик: Безумный убийца](/ItemsRU/con_651/) |
+  | 8  | [Берсерк](/ru/units/Berserker/) | [Безумный убийца](/ru/Exclusive/Berserker Berserker's Axe/) | + | Поддержка | [Безумный убийца](/ItemsRU/con_983/) | [Особый облик: Безумный убийца](/ItemsRU/con_651/) |
   | 9  | [Великан Тор](/ru/units/Troll/) | - | - | - | none | none |

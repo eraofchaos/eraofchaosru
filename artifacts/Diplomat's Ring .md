@@ -2,7 +2,7 @@
 title: "Артефакт - Перо государя - Кольцо дипломата"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Эра хаоса  Перо государя - Кольцо дипломата. Блестящее кольцо свидетельствует о благородном происхождении своего владельца. Один из компонентов Пера государя."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Diplomat's Ring .md"
 toc: false

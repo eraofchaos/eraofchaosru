@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-2 Хижина ведьмы"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "Глава 2 - 2. Эра хаоса  Основной сюжет - Глава 2_2. 2-2 Хижина ведьмы"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 2_2.md"
 toc: false

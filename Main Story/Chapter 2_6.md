@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 2 - 2-6 Речь королевы"
 permalink: /Main Story/Chapter 2_6/
 excerpt: "Глава 2 - 6. Эра хаоса  Основной сюжет - Глава 2_6. 2-6 Речь королевы"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 2_6.md"
 toc: false

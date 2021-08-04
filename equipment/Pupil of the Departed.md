@@ -2,7 +2,7 @@
 title: "Ученик покойного"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Эра хаоса Ученик покойного. Ученик покойного"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Pupil of the Departed.md"
 toc: false

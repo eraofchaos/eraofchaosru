@@ -2,7 +2,7 @@
 title: "Эксклюзив - Славный щит (Minotaur)"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Эра хаоса Славный щит. Славный щит. Эра хаоса Эксклюзив Славный щит. Минотавр Эксклюзив."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Minotaur Славный щит.md"
 toc: false

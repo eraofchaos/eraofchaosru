@@ -2,7 +2,7 @@
 title: "Драконий череп"
 permalink: /equipment/Draconic Skull/
 excerpt: "Эра хаоса Драконий череп. Драконий череп"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Draconic Skull.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Подземелье - Глава 24 - 24-1 Замерзшая земля"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Глава 24 - 1. Эра хаоса  Подземелье - Глава 24_1. 24-1 Замерзшая земля"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 24_1.md"
 toc: false

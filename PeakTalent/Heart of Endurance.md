@@ -2,7 +2,7 @@
 title: "Сердце стойкости. Талант вершины - Сердце стойкости"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Эра хаоса Талант вершины Сердце стойкости. Талант вершины Сердце стойкости. Сердце стойкости"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Heart of Endurance.md"
 toc: false

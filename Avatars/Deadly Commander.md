@@ -2,7 +2,7 @@
 title: "Аватар - Смертельный командующий"
 permalink: /Avatars/Deadly Commander/
 excerpt: "Эра хаоса  Смертельный командующий"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Deadly Commander.md"
 toc: false

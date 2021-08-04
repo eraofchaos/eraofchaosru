@@ -2,7 +2,7 @@
 title: "Основной сюжет - Глава 18 - 18-6 Камень монстра"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Глава 18 - 6. Эра хаоса  Основной сюжет - Глава 18_6. 18-6 Камень монстра"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Chapter 18_6.md"
 toc: false

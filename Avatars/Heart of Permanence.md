@@ -2,7 +2,7 @@
 title: "Аватар - Сердце постоянства"
 permalink: /Avatars/Heart of Permanence/
 excerpt: "Эра хаоса  Сердце постоянства"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: ru
 ref: "Heart of Permanence.md"
 toc: false
